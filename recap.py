@@ -29,7 +29,7 @@ _fonts = {}
 
 def font(size):
     if size not in _fonts:
-        _fonts[size] = ImageFont.truetype(FONT, size)
+        _fonts[size] = ImageFont.truetype(FONT, max(8, size))
     return _fonts[size]
 
 
@@ -195,6 +195,41 @@ def formation(side):
     return base
 
 
+def initials(name):
+    words = [w for w in name.replace("-", " ").split() if w[0].isalpha()]
+    if len(words) >= 2:
+        return (words[0][0] + words[1][0] + (words[2][0] if len(words) > 2 else "")).upper()
+    return name[:3].upper()
+
+
+def shield(d, cx, cy, size, color, name):
+    """Original shield badge in the team's colours with its initials (not the real club crest)."""
+    w, h = size, size * 1.18
+    pts = [(cx - w / 2, cy - h / 2), (cx + w / 2, cy - h / 2), (cx + w / 2, cy), (cx, cy + h / 2), (cx - w / 2, cy)]
+    d.polygon([(x + 6, y + 8) for x, y in pts], fill=(0, 0, 0))
+    d.polygon(pts, fill=color, outline=(255, 255, 255), width=max(4, int(size / 18)))
+    stripe = text_on(color)
+    d.line([(cx - w / 2 + 10, cy - h / 2 + size * 0.28), (cx + w / 2 - 10, cy - h / 2 + size * 0.28)], fill=stripe, width=max(3, int(size / 30)))
+    d.text((cx, cy - size * 0.02), initials(name), font=font(int(size * 0.34)), fill=stripe, anchor="mm")
+
+
+def player_card(d, cx, cy, color, name, minute, tag):
+    """Cartoon scorer card: an original cartoon footballer in the team's shirt, with the name."""
+    d.rounded_rectangle([cx - 420, cy - 120, cx + 420, cy + 120], 34, fill=(12, 30, 18), outline=GREEN, width=5)
+    ax, ay = cx - 300, cy - 5
+    d.chord([ax - 85, ay + 25, ax + 85, ay + 200], 180, 360, fill=color)                      # shoulders / shirt
+    d.ellipse([ax - 58, ay - 95, ax + 58, ay + 25], fill=(224, 172, 128))              # head
+    d.chord([ax - 60, ay - 100, ax + 60, ay - 20], 180, 360, fill=(45, 30, 20))         # hair
+    for ex in (-20, 20):
+        d.ellipse([ax + ex - 8, ay - 45, ax + ex + 8, ay - 29], fill="white")
+        d.ellipse([ax + ex - 4, ay - 40, ax + ex + 4, ay - 32], fill="black")
+    d.arc([ax - 24, ay - 20, ax + 24, ay + 8], 0, 180, fill=(120, 40, 40), width=5)    # big smile
+    d.text((ax, ay + 80), "9", font=font(40), fill=text_on(color), anchor="mm")
+    size = 52 if len(name) < 16 else 40 if len(name) < 22 else 32
+    d.text((cx - 180, cy - 40), name, font=font(size), fill="white", anchor="lm")
+    d.text((cx - 180, cy + 40), f"GOAL {minute}{tag}", font=font(40), fill=(255, 220, 80), anchor="lm")
+
+
 def pos(fx, fy):
     x0, y0, x1, y1 = PITCH
     return x0 + (x1 - x0) * fx, y0 + (y1 - y0) * fy
@@ -290,22 +325,27 @@ def make_recap(m, idx):
         # overlays
         if s[0] == "intro":
             a = min(1, p * 3)
-            outlined(d, (W / 2, 1000), "MATCH RECAP", int(80 + 30 * a), (255, 255, 255))
-            outlined(d, (W / 2, 1110), f"{home}  vs  {away}", 54, (255, 220, 80))
+            shield(d, W / 2 - 250, 880, 60 + 170 * a, colors[0], home)
+            shield(d, W / 2 + 250, 880, 60 + 170 * a, colors[1], away)
+            outlined(d, (W / 2, 880), "VS", 80, (255, 255, 255))
+            outlined(d, (W / 2, 1090), "MATCH RECAP", int(70 + 25 * a), (255, 255, 255))
+            outlined(d, (W / 2, 1190), f"{home}  vs  {away}", 50, (255, 220, 80))
         elif s[0] == "goal" and p > 0.55:
             bounce = 1 + 0.25 * max(0, math.sin((p - 0.55) * 18)) * (1 - (p - 0.55))
             outlined(d, (W / 2, 900), "GOAL!", int(170 * bounce), (255, 220, 60))
             g = s[2]
             tag = " (pen)" if g["pen"] else " (OG)" if g["og"] else ""
-            d.rounded_rectangle([110, 1010, W - 110, 1110], 26, fill=(12, 30, 18), outline=GREEN, width=4)
-            d.text((W / 2, 1060), f"{g['scorer']}{tag}  {g['minute']}", font=font(46 if len(g['scorer']) < 18 else 36), fill="white", anchor="mm")
+            scol = colors[0 if g["side"] == "home" else 1]
+            player_card(d, W / 2, 1110, scol, g["scorer"], g["minute"], tag)
             for cx, cy, r, c in confetti:
                 yy = (cy + (now - st) * 700) % (H + 400) - 200
                 d.ellipse([cx - r, yy - r, cx + r, yy + r], fill=c)
         elif s[0] == "full":
             d.rounded_rectangle([90, 760, W - 90, 1240], 40, fill=(12, 30, 18), outline=GREEN, width=6)
             outlined(d, (W / 2, 830), "FULL TIME", 84, GREEN)
-            outlined(d, (W / 2, 960), f"{home} {h_end} - {a_end} {away}", 60 if len(home + away) < 20 else 46, (255, 255, 255))
+            shield(d, 200, 960, 110, colors[0], home)
+            shield(d, W - 200, 960, 110, colors[1], away)
+            outlined(d, (W / 2, 960), f"{h_end} - {a_end}", 110, (255, 255, 255))
             d.text((W / 2, 1080), "Who was man of the match?", font=font(44), fill=(255, 220, 80), anchor="mm")
             d.text((W / 2, 1160), "Comment below!", font=font(44), fill=(255, 255, 255), anchor="mm")
         d.rounded_rectangle([0, H - 120, W, H], 0, fill=(12, 30, 18))
