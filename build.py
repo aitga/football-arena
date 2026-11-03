@@ -15,7 +15,6 @@ NEWS_FEEDS = [
     ("BBC Sport", "https://feeds.bbci.co.uk/sport/football/rss.xml"),
     ("The Guardian", "https://www.theguardian.com/football/rss"),
     ("ESPN", "https://www.espn.com/espn/rss/soccer/news"),
-    ("Sky Sports", "https://www.skysports.com/rss/12040"),
 ]
 # official league / competition YouTube channels (by @handle)
 HIGHLIGHT_CHANNELS = [
@@ -168,7 +167,7 @@ footer a{color:var(--acc)}
 <header><div class="wrap">
 <div class="brand"><img src="logo.png" alt="Football Arena"><div><h1>FOOTBALL <span>ARENA</span></h1>
 <div class="tag">Highlights & news from the world's biggest leagues · updated every hour</div></div></div>
-<nav><a class="on" href="#highlights">🎬 Highlights</a><a href="#news">📰 Latest News</a><a href="https://www.facebook.com/" id="fb">👍 Facebook</a></nav>
+<nav><a class="on" href="#highlights">🎬 Highlights</a><a href="#news">📰 Latest News</a><a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener" id="fb">👍 Facebook</a></nav>
 </div></header>
 <main class="wrap">
 <section id="highlights"><h2>Latest Highlights</h2><div class="grid">
@@ -179,7 +178,7 @@ footer a{color:var(--acc)}
 </div></section>
 </main>
 <footer>Updated {{UPDATED}} · Videos play on the official YouTube channels of each league. News headlines link to the original
-publishers (BBC Sport, The Guardian, ESPN, Sky Sports). All rights belong to their owners.<br>
+publishers (BBC Sport, The Guardian, ESPN). All rights belong to their owners.<br>
 <a href="privacy.html">Privacy</a></footer>
 </body></html>"""
 
