@@ -13,38 +13,61 @@ SITE = "https://aitga.github.io/football-arena/"
 GRAPH = "https://graph.facebook.com/v21.0"
 
 
+def plan():
+    try:
+        return json.load(open("post_plan.json"))
+    except Exception:
+        return {"news_roundup": True, "highlights": 2}
+
+
 def prepare():
+    cfg = plan()
     news, vids = build.news(), build.highlights()
-    top = news[:4]
-    lines = ["⚽ FOOTBALL ARENA – today's top football stories", ""]
-    lines += [f"{i}. {n['title']} ({n['source']})" for i, n in enumerate(top, 1)]
-    if vids:
-        lines += ["", f"🎬 Today's must-watch highlight: {vids[0]['title']}"]
-    lines += ["", f"👉 All the latest highlights & news, updated every hour: {SITE}", "",
-              "What do you think? Share your view in the comments 👇", "",
-              "#football #soccer #footballnews #highlights #PremierLeague #ChampionsLeague #LaLiga"]
-    post = {"message": "\n".join(lines), "link": SITE}
-    json.dump(post, open("post.json", "w"), ensure_ascii=False, indent=1)
+    posts = []
+    if cfg.get("news_roundup", True) and news:
+        lines = ["⚽ FOOTBALL ARENA – today's top football stories", ""]
+        lines += [f"{i}. {n['title']} ({n['source']})" for i, n in enumerate(news[:4], 1)]
+        lines += ["", f"👉 All the latest highlights & news, updated every hour: {SITE}", "",
+                  "What do you think? Share your view in the comments 👇", "",
+                  "#football #soccer #footballnews #highlights #PremierLeague #ChampionsLeague #LaLiga"]
+        posts.append({"message": "\n".join(lines), "link": SITE})
+    # official highlight videos, shared as YouTube links (no re-uploading)
+    for v in [v for v in vids if build.re.search(r"highlight|resumen|sintesi|goals?\b", v["title"], build.re.I)][:int(cfg.get("highlights", 2))]:
+        posts.append({"message": f"🎬 HIGHLIGHTS | {v['title']}\n\nOfficial video from {v['channel']}.\n"
+                                 f"More highlights every day 👉 {SITE}\n\n"
+                                 "Who was the best player? Tell us below 👇\n\n#football #highlights #goals #soccer",
+                      "link": f"https://www.youtube.com/watch?v={v['id']}"})
+    json.dump({"posts": posts}, open("post.json", "w"), ensure_ascii=False, indent=1)
     summary = os.environ.get("GITHUB_STEP_SUMMARY")
     if summary:
         with open(summary, "a") as f:
-            f.write("## 📝 Today's Football Arena post (preview)\n\n```\n" + post["message"] + "\n```\n\n"
-                    "Link card: " + SITE + "\n\nIf it looks good: **Review deployments → approval → Approve and deploy**.\n")
-    print(post["message"])
+            f.write(f"## 📝 Today's Football Arena posts (preview) – {len(posts)} posts\n\n")
+            for i, p in enumerate(posts, 1):
+                f.write(f"### Post {i}\n```\n{p['message']}\n```\nLink: {p['link']}\n\n")
+            f.write("If they look good: **Review deployments → approval → Approve and deploy**.\n")
+    for p in posts:
+        print(p["message"], "\n->", p["link"], "\n")
 
 
 def publish():
-    post = json.load(open("post.json"))
+    data = json.load(open("post.json"))
+    posts = data.get("posts") or [data]
     page, token = os.environ["FB_PAGE_ID"].strip(), os.environ["FB_PAGE_TOKEN"].strip()
-    r = requests.post(f"{GRAPH}/{page}/feed", data={"message": post["message"], "link": post["link"],
-                                                     "access_token": token}, timeout=60)
-    out = r.json()
+    results, ok = [], True
+    for p in posts:
+        r = requests.post(f"{GRAPH}/{page}/feed", data={"message": p["message"], "link": p["link"],
+                                                         "access_token": token}, timeout=60)
+        out = r.json()
+        if "id" in out:
+            results.append(f"✅ Posted: https://facebook.com/{out['id']}")
+        else:
+            ok = False
+            results.append(f"❌ Facebook said: {out}")
     summary = os.environ.get("GITHUB_STEP_SUMMARY")
-    result = f"✅ Posted: https://facebook.com/{out['id']}" if "id" in out else f"❌ Facebook said: {out}"
     if summary:
-        open(summary, "a").write("## Posting result\n\n" + result + "\n")
-    print(result)
-    if "id" not in out:
+        open(summary, "a").write("## Posting results\n\n" + "\n\n".join(results) + "\n")
+    print("\n".join(results))
+    if not ok:
         sys.exit(1)
 
 
