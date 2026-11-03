@@ -1,0 +1,43 @@
+name: Daily cartoon recaps
+
+on:
+  schedule:
+    - cron: "5 2 * * *"   # every day at 02:05 UTC (09:05 in UTC+7)
+  workflow_dispatch:
+
+jobs:
+  make:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core
+      - run: pip install requests pillow edge-tts gtts
+      - run: python recap.py make
+      - id: up
+        uses: actions/upload-artifact@v4
+        with:
+          name: recaps
+          path: out/
+      - run: echo "[Watch the recap videos here](${{ steps.up.outputs.artifact-url }}) (zip). If they look good, click Review deployments → approval → Approve and deploy." >> "$GITHUB_STEP_SUMMARY"
+
+  publish:
+    needs: make
+    runs-on: ubuntu-latest
+    environment: approval
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pillow
+      - uses: actions/download-artifact@v4
+        with:
+          name: recaps
+          path: out/
+      - run: python recap.py publish
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
