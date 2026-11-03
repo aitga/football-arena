@@ -1,0 +1,39 @@
+name: Daily Facebook post
+
+on:
+  schedule:
+    - cron: "47 1 * * *"   # every day at 01:47 UTC (08:47 in UTC+7)
+  workflow_dispatch:
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python daily_post.py prepare
+      - uses: actions/upload-artifact@v4
+        with:
+          name: post
+          path: post.json
+
+  publish:
+    needs: prepare
+    runs-on: ubuntu-latest
+    environment: approval
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - uses: actions/download-artifact@v4
+        with:
+          name: post
+      - run: python daily_post.py publish
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
