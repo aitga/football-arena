@@ -21,7 +21,7 @@ def prepare():
     if vids:
         lines += ["", f"🎬 Today's must-watch highlight: {vids[0]['title']}"]
     lines += ["", f"👉 All the latest highlights & news, updated every hour: {SITE}", "",
-              "Which story surprised you the most? Tell us in the comments! 👇", "",
+              "What do you think? Share your view in the comments 👇", "",
               "#football #soccer #footballnews #highlights #PremierLeague #ChampionsLeague #LaLiga"]
     post = {"message": "\n".join(lines), "link": SITE}
     json.dump(post, open("post.json", "w"), ensure_ascii=False, indent=1)
