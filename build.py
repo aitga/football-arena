@@ -111,7 +111,7 @@ def highlights():
         if key:
             try:
                 for v in channel_videos_api(handle, key):
-                    if "#shorts" not in v["title"].lower():
+                    if "shorts" not in v["title"].lower():
                         vids.append({"channel": name, "id": v["id"], "title": clean(v["title"], 120),
                                      "date": parse_date(v["date"])})
                 continue
@@ -125,7 +125,7 @@ def highlights():
             continue
         for en in root.findall("atom:entry", NS)[:8]:
             title = en.findtext("atom:title", "", NS)
-            if "#shorts" in title.lower():
+            if "shorts" in title.lower():
                 continue
             vids.append({"channel": name, "id": en.findtext("yt:videoId", "", NS), "title": clean(title, 120),
                          "date": parse_date(en.findtext("atom:published", "", NS))})
