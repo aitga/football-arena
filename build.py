@@ -152,7 +152,15 @@ def render(news_items, vids):
         + f'<div><div class="nt">{e(n["title"])}</div><p>{e(n["summary"])}</p>'
           f'<div class="meta">{e(n["source"])} · {ago(n["date"])}</div></div></a>'
         for n in news_items) or '<p class="empty">News is loading – check back soon.</p>'
-    return TEMPLATE.replace("{{VIDEOS}}", vcards).replace("{{NEWS}}", ncards).replace("{{UPDATED}}", now)
+    try:
+        from articles_src import ARTICLES
+        arts = sorted(ARTICLES, key=lambda a: a["date"], reverse=True)[:6]
+    except Exception:
+        arts = []
+    acards = "\n".join(
+        f'<a class="news" href="articles/{e(a["slug"])}.html"><div><div class="nt">{e(a["title"])}</div>'
+        f'<p>{e(a["summary"])}</p><div class="meta">{e(a["tag"])} · Football Arena</div></div></a>' for a in arts)
+    return TEMPLATE.replace("{{ARTICLES}}", acards).replace("{{VIDEOS}}", vcards).replace("{{NEWS}}", ncards).replace("{{UPDATED}}", now)
 
 
 TEMPLATE = """<!doctype html>
@@ -191,7 +199,7 @@ footer a{color:var(--acc)}
 <header><div class="wrap">
 <div class="brand"><img src="logo.png" alt="Football Arena"><div><h1>FOOTBALL <span>ARENA</span></h1>
 <div class="tag">Highlights & news from the world's biggest leagues · updated every hour</div></div></div>
-<nav><a class="on" href="#highlights">🎬 Highlights</a><a href="#news">📰 Latest News</a><a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener" id="fb">👍 Facebook</a></nav>
+<nav><a class="on" href="#highlights">🎬 Highlights</a><a href="#news">📰 Latest News</a><a href="articles/index.html">📝 Articles</a><a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener" id="fb">👍 Facebook</a></nav>
 </div></header>
 <main class="wrap">
 <section id="highlights"><h2>Latest Highlights</h2><div class="grid">
@@ -200,10 +208,13 @@ footer a{color:var(--acc)}
 <section id="news"><h2>Latest Football News</h2><div class="grid">
 {{NEWS}}
 </div></section>
+<section id="articles"><h2>Football Articles</h2><div class="grid">
+{{ARTICLES}}
+</div><p><a href="articles/index.html" style="color:var(--acc)">See all articles →</a></p></section>
 </main>
 <footer>Updated {{UPDATED}} · Videos play on the official YouTube channels of each league. News headlines link to the original
 publishers (BBC Sport, The Guardian, ESPN). All rights belong to their owners.<br>
-<a href="privacy.html">Privacy</a></footer>
+<a href="about.html">About</a> · <a href="contact.html">Contact</a> · <a href="privacy.html">Privacy</a></footer>
 </body></html>"""
 
 
