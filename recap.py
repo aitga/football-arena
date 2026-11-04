@@ -58,7 +58,7 @@ def fetch_matches(day):
                 if side:
                     goals.append({"side": side, "minute": (d.get("clock") or {}).get("displayValue", ""),
                                   "scorer": who[0], "pen": bool(d.get("penaltyKick")), "og": bool(d.get("ownGoal"))})
-            matches.append({"league": name, "goals": goals,
+            matches.append({"id": ev["id"], "kickoff": ev.get("date", ""), "league": name, "goals": goals,
                             "home": {"name": teams["home"]["team"]["shortDisplayName"],
                                      "color": teams["home"]["team"].get("color") or "1f6feb",
                                      "alt": teams["home"]["team"].get("alternateColor") or "ffffff",
@@ -386,14 +386,45 @@ def caption(m):
             "Follow Football Arena for daily recaps!\n\n#football #soccer #matchrecap #footballarena")
 
 
-def make():
-    day = datetime.datetime.now(datetime.timezone.utc).date() - datetime.timedelta(days=1)
-    cfg = {}
+DONE_FILE = "recapped.json"  # matches that already have a recap (so none is made twice)
+FAST_WINDOW_H = 8            # "just finished" = kicked off in the last 8 hours
+
+
+def done_ids():
     try:
-        cfg = json.load(open("post_plan.json"))
+        return set(json.load(open(DONE_FILE)))
     except Exception:
-        pass
-    picked = pick_matches(fetch_matches(day), int(cfg.get("recaps", 2)))
+        return set()
+
+
+def new_matches():
+    """Big-league matches that finished recently, have goals and have no recap yet."""
+    now = datetime.datetime.now(datetime.timezone.utc)
+    done, out, seen = done_ids(), [], set()
+    for day in (now.date() - datetime.timedelta(days=1), now.date()):
+        for m in pick_matches(fetch_matches(day), 99):
+            try:
+                ko = datetime.datetime.fromisoformat(m["kickoff"].replace("Z", "+00:00"))
+            except Exception:
+                continue
+            if m["id"] in done or m["id"] in seen or now - ko > datetime.timedelta(hours=FAST_WINDOW_H):
+                continue
+            seen.add(m["id"])
+            out.append(m)
+    return out[:6]  # at most 6 videos per run
+
+
+def check():
+    n = len(new_matches())
+    print(n, "new finished matches")
+    if os.environ.get("GITHUB_OUTPUT"):
+        open(os.environ["GITHUB_OUTPUT"], "a").write(f"count={n}\n")
+
+
+def make():
+    picked = new_matches()
+    done = done_ids() | {m["id"] for m in picked}
+    json.dump(sorted(done)[-800:], open(DONE_FILE, "w"))
     os.makedirs(OUT, exist_ok=True)
     made = []
     for i, m in enumerate(picked):
@@ -407,7 +438,7 @@ def make():
             for r in made:
                 f.write("```\n" + r["caption"] + "\n```\n\n")
             if not made:
-                f.write("No finished big-league matches with goals yesterday.\n")
+                f.write("No newly finished big-league matches with goals.\n")
 
 
 def publish():
@@ -448,4 +479,4 @@ def publish():
 
 
 if __name__ == "__main__":
-    {"make": make, "publish": publish}[sys.argv[1]]()
+    {"check": check, "make": make, "publish": publish}[sys.argv[1]]()
