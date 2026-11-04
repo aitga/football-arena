@@ -78,7 +78,7 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
    "summary": "Andorra goalkeeper Jesus Owono \"would never intentionally hurt anyone\" and is \"deeply affected\" by the death of Tenerife forward Jesus de Miguel, his team-mate said on Wednesday.",
    "date": "2026-11-04T11:40:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4710/live/c7840d60-d866-11f1-b441-2b33b063138f.jpg"
   }
  ],
  "news_all": [
@@ -160,7 +160,7 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
    "summary": "Andorra goalkeeper Jesus Owono \"would never intentionally hurt anyone\" and is \"deeply affected\" by the death of Tenerife forward Jesus de Miguel, his team-mate said on Wednesday.",
    "date": "2026-11-04T11:40:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4710/live/c7840d60-d866-11f1-b441-2b33b063138f.jpg"
   },
   {
    "source": "BBC Sport",
@@ -683,6 +683,1148 @@
    "id": "xlZZY84LSGo",
    "title": "Man United\u2019s INCREDIBLE comeback against Roma!",
    "date": "2026-11-04T13:30:04+00:00"
+  }
+ ],
+ "fixtures": [
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-04T15:30Z",
+   "home": "Stade Rennais",
+   "away": "Olympiacos",
+   "hs": "0",
+   "as": "0",
+   "live": true,
+   "clock": "21'",
+   "venue": "Roazhon Park",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T17:45Z",
+   "home": "AEK Athens",
+   "away": "Real Madrid",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "OPAP Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T17:45Z",
+   "home": "Fenerbahce",
+   "away": "Liverpool",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "\u015e\u00fckr\u00fc Saraco\u011flu Stadium",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "Borussia Dortmund",
+   "away": "Real Betis",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Signal Iduna Park",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "FC Porto",
+   "away": "Napoli",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Est\u00e1dio do Drag\u00e3o",
+   "usa": [
+    "CBSSN",
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "Lens",
+   "away": "Como",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stade Bollaert-Delelis",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "PSV Eindhoven",
+   "away": "Club Brugge",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Philips Stadion",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "RB Leipzig",
+   "away": "Manchester City",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Red Bull Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "Slavia Prague",
+   "away": "Arsenal",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Fortuna Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "Viking FK",
+   "away": "Sabah FK",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Viking Stadion",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "AC Milan",
+   "away": "Ferencvaros",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "San Siro",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "Anderlecht",
+   "away": "RB Salzburg",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Lotto Park",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "Crystal Palace",
+   "away": "TSG Hoffenheim",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Selhurst Park",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "Levski Sofia",
+   "away": "Jagiellonia Bialystok",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Vasil Levski National Stadium",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "Lillestrom",
+   "away": "Viktoria Plzen",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Arasen Stadion",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "NEC Nijmegen",
+   "away": "Omonia Nicosia",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Goffertstadion",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "Real Sociedad",
+   "away": "Lyon",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Reale Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "Sparta Prague",
+   "away": "AFC Bournemouth",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Generali Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "AZ Alkmaar",
+   "away": "Juventus",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "AFAS Stadion",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "Bayer Leverkusen",
+   "away": "Marseille",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "BayArena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "Benfica",
+   "away": "Lech Poznan",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Est\u00e1dio da Luz",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "Celta Vigo",
+   "away": "Union St.-Gilloise",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Balaidos",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "Celtic",
+   "away": "Besiktas",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Celtic Park",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "Hapoel Be'er",
+   "away": "OFI Crete",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Giulesti Stadium",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "SK Sturm Graz",
+   "away": "NK Celje",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Merkur Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "Sunderland",
+   "away": "Dinamo Zagreb",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stadium of Light",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "Torreense",
+   "away": "Ararat-Armenia",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Est\u00e1dio Dr. Magalhaes Pessoa",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-06T19:30Z",
+   "home": "Hamburg SV",
+   "away": "Borussia M\u00f6nchengladbach",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Volksparkstadion",
+   "usa": [
+    "Fandango"
+   ]
+  },
+  {
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-06T19:45Z",
+   "home": "Venezia",
+   "away": "Udinese",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stadio Pier Luigi Penzo",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-06T19:45Z",
+   "home": "Toulouse",
+   "away": "Strasbourg",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stadium Municipal de Toulouse",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  {
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-06T20:00Z",
+   "home": "Everton",
+   "away": "Coventry City",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Hill Dickinson Stadium",
+   "usa": [
+    "USA Net",
+    "Universo"
+   ]
+  },
+  {
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-06T20:00Z",
+   "home": "Sevilla",
+   "away": "Alav\u00e9s",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Ram\u00f3n S\u00e1nchez Pizju\u00e1n Stadium",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ]
+  },
+  {
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-07T12:30Z",
+   "home": "Leeds United",
+   "away": "Tottenham Hotspur",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Elland Road",
+   "usa": [
+    "USA Net",
+    "Universo"
+   ]
+  },
+  {
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-07T13:00Z",
+   "home": "M\u00e1laga",
+   "away": "Racing Santander",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "La Rosaleda",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ]
+  },
+  {
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-07T14:00Z",
+   "home": "Cagliari",
+   "away": "Frosinone",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Unipol Domus",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-07T14:00Z",
+   "home": "Torino",
+   "away": "Lecce",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stadio Olimpico Grande Torino",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-07T14:30Z",
+   "home": "Borussia Dortmund",
+   "away": "SV Elversberg",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Signal Iduna Park",
+   "usa": [
+    "Fandango"
+   ]
+  },
+  {
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-07T14:30Z",
+   "home": "Mainz",
+   "away": "Bayern Munich",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "MEWA ARENA",
+   "usa": [
+    "Fandango",
+    "Hulu"
+   ]
+  },
+  {
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-07T14:30Z",
+   "home": "RB Leipzig",
+   "away": "FC Augsburg",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Red Bull Arena",
+   "usa": [
+    "Fandango"
+   ]
+  },
+  {
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-07T14:30Z",
+   "home": "SC Paderborn 07",
+   "away": "Eintracht Frankfurt",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Home Deluxe Arena",
+   "usa": [
+    "Fandango"
+   ]
+  },
+  {
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-07T15:00Z",
+   "home": "Arsenal",
+   "away": "Hull City",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Emirates Stadium",
+   "usa": [
+    "Peacock",
+    "Universo"
+   ]
+  },
+  {
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-07T15:00Z",
+   "home": "Fulham",
+   "away": "Newcastle United",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Craven Cottage",
+   "usa": [
+    "Peacock",
+    "USA Net"
+   ]
+  },
+  {
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-07T15:15Z",
+   "home": "Espanyol",
+   "away": "Deportivo",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "RCDE Stadium",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ]
+  },
+  {
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-07T17:00Z",
+   "home": "Parma",
+   "away": "Bologna",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Ennio Tardini",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-07T17:30Z",
+   "home": "Nottingham Forest",
+   "away": "Manchester City",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "The City Ground",
+   "usa": [
+    "NBC",
+    "Tele"
+   ]
+  },
+  {
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-07T17:30Z",
+   "home": "Osasuna",
+   "away": "Athletic Club",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "El Sadar",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ]
+  },
+  {
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-07T17:30Z",
+   "home": "VfB Stuttgart",
+   "away": "Werder Bremen",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "MHPArena",
+   "usa": [
+    "USA Net"
+   ]
+  },
+  {
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-07T18:00Z",
+   "home": "AJ Auxerre",
+   "away": "Paris FC",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stade de l'Abb\u00e9-Deschamps",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  {
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-07T19:45Z",
+   "home": "AS Roma",
+   "away": "Sassuolo",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Olimpico",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-07T20:00Z",
+   "home": "Valencia",
+   "away": "Real Madrid",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Mestalla Stadium",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ]
+  },
+  {
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-07T20:05Z",
+   "home": "Paris Saint-Germain",
+   "away": "Troyes",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Parc des Princes",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  {
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-08T11:30Z",
+   "home": "Napoli",
+   "away": "Lazio",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stadio Diego Armando Maradona",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-08T13:00Z",
+   "home": "Elche",
+   "away": "Real Betis",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Estadio Mart\u00ednez Valero",
+   "usa": [
+    "ESPN+"
+   ]
+  },
+  {
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T14:00Z",
+   "home": "Brighton & Hove Albion",
+   "away": "Brentford",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "American Express Stadium",
+   "usa": [
+    "Peacock"
+   ]
+  },
+  {
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T14:00Z",
+   "home": "Crystal Palace",
+   "away": "Liverpool",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Selhurst Park",
+   "usa": [
+    "Peacock"
+   ]
+  },
+  {
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T14:00Z",
+   "home": "Ipswich Town",
+   "away": "AFC Bournemouth",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Portman Road",
+   "usa": [
+    "Peacock"
+   ]
+  },
+  {
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T14:00Z",
+   "home": "Sunderland",
+   "away": "Chelsea",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stadium of Light",
+   "usa": [
+    "Tele",
+    "USA Net"
+   ]
+  },
+  {
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-08T14:00Z",
+   "home": "Genoa",
+   "away": "AC Milan",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stadio Luigi Ferraris",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-08T14:00Z",
+   "home": "Monza",
+   "away": "Atalanta",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "U-Power Stadium",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-08T14:00Z",
+   "home": "Stade Rennais",
+   "away": "Lille",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Roazhon Park",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  {
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-08T14:30Z",
+   "home": "FC Cologne",
+   "away": "Bayer Leverkusen",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "RheinEnergieStadion",
+   "usa": [
+    "Fandango"
+   ]
+  },
+  {
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-08T15:15Z",
+   "home": "Real Sociedad",
+   "away": "Rayo Vallecano",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Reale Arena",
+   "usa": [
+    "ESPN+"
+   ]
+  },
+  {
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-08T16:15Z",
+   "home": "Angers",
+   "away": "Nice",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stade Raymond Kopa",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  {
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-08T16:15Z",
+   "home": "Brest",
+   "away": "Lyon",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stade Francis-Le Bl\u00e9",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  {
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-08T16:15Z",
+   "home": "Le Havre AC",
+   "away": "Lorient",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stade Oc\u00e9ane",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  {
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-08T16:15Z",
+   "home": "Le Mans",
+   "away": "AS Monaco",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stade Marie-Marvingt",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  {
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T16:30Z",
+   "home": "Manchester United",
+   "away": "Aston Villa",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Old Trafford",
+   "usa": [
+    "Tele",
+    "USA Net"
+   ]
+  },
+  {
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-08T16:30Z",
+   "home": "SC Freiburg",
+   "away": "1. FC Union Berlin",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Europa-Park Stadion",
+   "usa": [
+    "Fandango"
+   ]
+  },
+  {
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-08T17:00Z",
+   "home": "Internazionale",
+   "away": "Como",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "San Siro",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-08T17:30Z",
+   "home": "Celta Vigo",
+   "away": "Levante",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Balaidos",
+   "usa": [
+    "ESPN+"
+   ]
+  },
+  {
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-08T17:30Z",
+   "home": "Villarreal",
+   "away": "Getafe",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Estadio de la Cer\u00e1mica",
+   "usa": [
+    "ESPN+"
+   ]
+  },
+  {
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-08T18:30Z",
+   "home": "TSG Hoffenheim",
+   "away": "Schalke 04",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "PreZero Arena",
+   "usa": [
+    "Fandango"
+   ]
+  },
+  {
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-08T19:45Z",
+   "home": "Fiorentina",
+   "away": "Juventus",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stadio Artemio Franchi",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-08T19:45Z",
+   "home": "Lens",
+   "away": "Marseille",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Stade Bollaert-Delelis",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  {
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-08T20:00Z",
+   "home": "Atl\u00e9tico Madrid",
+   "away": "Barcelona",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "clock": "0'",
+   "venue": "Riyadh Air Metropolitano",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ]
   }
  ]
 }
