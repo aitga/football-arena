@@ -5,8 +5,8 @@
    "title": "Fenerbahce v Liverpool: Champions League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live",
    "summary": "Minute-by-minute updates on the early kick-off in TurkeyLiverpool fizzle out against Arsenal | Email SimonThe players are on the pitch! And while the tournament anthem rings out, the Fenerbahce midfielder Yuksek gives\u2026",
-   "date": "2026-11-04T17:57:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/3f4aa260a5015473ee20f98035111c5dbc3f3eee/130_0_2651_2120/master/2651.jpg?width=140&quality=85&auto=format&fit=max&s=8d4ce5b4b267e1c9ea4c189283911c29"
+   "date": "2026-11-04T18:09:23+00:00",
+   "image": "https://i.guim.co.uk/img/media/1051d8a9777e867e8c9dfba03f45f8008022556c/122_0_1935_1548/master/1935.jpg?width=140&quality=85&auto=format&fit=max&s=0836e2b00caa9b7778c1ad1be4169665"
   },
   {
    "source": "BBC Sport",
@@ -87,8 +87,8 @@
    "title": "Fenerbahce v Liverpool: Champions League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live",
    "summary": "Minute-by-minute updates on the early kick-off in TurkeyLiverpool fizzle out against Arsenal | Email SimonThe players are on the pitch! And while the tournament anthem rings out, the Fenerbahce midfielder Yuksek gives\u2026",
-   "date": "2026-11-04T17:57:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/3f4aa260a5015473ee20f98035111c5dbc3f3eee/130_0_2651_2120/master/2651.jpg?width=140&quality=85&auto=format&fit=max&s=8d4ce5b4b267e1c9ea4c189283911c29"
+   "date": "2026-11-04T18:09:23+00:00",
+   "image": "https://i.guim.co.uk/img/media/1051d8a9777e867e8c9dfba03f45f8008022556c/122_0_1935_1548/master/1935.jpg?width=140&quality=85&auto=format&fit=max&s=0836e2b00caa9b7778c1ad1be4169665"
   },
   {
    "source": "BBC Sport",
@@ -302,7 +302,7 @@
    "source": "The Guardian",
    "title": "Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
    "link": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax",
-   "summary": "John Aloisi\u2019s side need a point on the final day to seal their maiden title \u2013 but their form has dropped off a cliffWith four games of the Chinese Super League to go, Chengdu Rongcheng needed just a point to clinch\u2026",
+   "summary": "John Aloisi\u2019s players need a point on the final day to seal their maiden title \u2013 but their form has dropped off a cliffWith four games of the Chinese Super League to go, Chengdu Rongcheng needed just a point to clinch\u2026",
    "date": "2026-11-04T08:00:29+00:00",
    "image": "https://i.guim.co.uk/img/media/948390b71d4e67e3c067f79af9b6a7b1730782fa/396_105_3202_2562/master/3202.jpg?width=140&quality=85&auto=format&fit=max&s=fc39238a6707ac80db70b377668785f0"
   },
@@ -655,12 +655,6 @@
    "date": "2026-11-04T18:00:37+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "oXMVjw1lYUs",
-   "title": "LIVE NOW | Argentina v Algeria | Group Stage | FIFA World Cup 2026\u2122",
-   "date": "2026-11-04T17:00:35+00:00"
-  },
-  {
    "channel": "LaLiga",
    "id": "-fMOZnqlio8",
    "title": "Los 3 jugadores con m\u00e1s apoyos ofrecidos son...",
@@ -683,6 +677,12 @@
    "id": "j3h11PxN3Do",
    "title": "Rating 100 IQ Football Moments \ud83e\udde0\ud83d\ude2e\u200d\ud83d\udca8",
    "date": "2026-11-04T16:01:10+00:00"
+  },
+  {
+   "channel": "Premier League",
+   "id": "M3zShNizlFw",
+   "title": "Why Do Footballers Wear Specific Numbers? | Football 101",
+   "date": "2026-11-04T15:05:10+00:00"
   }
  ],
  "fixtures": [
@@ -697,7 +697,7 @@
    "hs": "1",
    "as": "0",
    "live": true,
-   "clock": "15'",
+   "clock": "28'",
    "venue": "OPAP Arena",
    "usa": [
     "Paramount+"
@@ -712,9 +712,9 @@
    "home": "Fenerbahce",
    "away": "Liverpool",
    "hs": "0",
-   "as": "0",
+   "as": "1",
    "live": true,
-   "clock": "14'",
+   "clock": "27'",
    "venue": "\u015e\u00fckr\u00fc Saraco\u011flu Stadium",
    "usa": [
     "Paramount+"
@@ -1959,5 +1959,3938 @@
     "ESPN+"
    ]
   }
- ]
+ ],
+ "tables": {
+  "leagues": [
+   {
+    "key": "eng",
+    "code": "eng.1",
+    "name": "Premier League",
+    "flag": "gb-eng",
+    "rows": [
+     {
+      "group": "",
+      "rank": "1",
+      "team": "Arsenal",
+      "short": "Arsenal",
+      "p": "9",
+      "w": "8",
+      "d": "0",
+      "l": "1",
+      "gd": "+9",
+      "pts": "24",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "2",
+      "team": "Manchester City",
+      "short": "Man City",
+      "p": "9",
+      "w": "7",
+      "d": "0",
+      "l": "2",
+      "gd": "+10",
+      "pts": "21",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "3",
+      "team": "Brighton & Hove Albion",
+      "short": "Brighton",
+      "p": "9",
+      "w": "6",
+      "d": "1",
+      "l": "2",
+      "gd": "+17",
+      "pts": "19",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "4",
+      "team": "Chelsea",
+      "short": "Chelsea",
+      "p": "9",
+      "w": "5",
+      "d": "1",
+      "l": "3",
+      "gd": "+4",
+      "pts": "16",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "5",
+      "team": "Liverpool",
+      "short": "Liverpool",
+      "p": "9",
+      "w": "4",
+      "d": "3",
+      "l": "2",
+      "gd": "+2",
+      "pts": "15",
+      "zone": "##B5E7CE",
+      "zone_name": "Europa League"
+     },
+     {
+      "group": "",
+      "rank": "6",
+      "team": "Brentford",
+      "short": "Brentford",
+      "p": "9",
+      "w": "3",
+      "d": "5",
+      "l": "1",
+      "gd": "+7",
+      "pts": "14",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "7",
+      "team": "Everton",
+      "short": "Everton",
+      "p": "9",
+      "w": "3",
+      "d": "4",
+      "l": "2",
+      "gd": "0",
+      "pts": "13",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "8",
+      "team": "AFC Bournemouth",
+      "short": "Bournemouth",
+      "p": "9",
+      "w": "3",
+      "d": "3",
+      "l": "3",
+      "gd": "+1",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "9",
+      "team": "Tottenham Hotspur",
+      "short": "Spurs",
+      "p": "9",
+      "w": "3",
+      "d": "3",
+      "l": "3",
+      "gd": "0",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "10",
+      "team": "Aston Villa",
+      "short": "Aston Villa",
+      "p": "9",
+      "w": "3",
+      "d": "3",
+      "l": "3",
+      "gd": "-3",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "11",
+      "team": "Hull City",
+      "short": "Hull",
+      "p": "9",
+      "w": "2",
+      "d": "5",
+      "l": "2",
+      "gd": "+1",
+      "pts": "11",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "12",
+      "team": "Leeds United",
+      "short": "Leeds",
+      "p": "9",
+      "w": "2",
+      "d": "5",
+      "l": "2",
+      "gd": "+1",
+      "pts": "11",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "13",
+      "team": "Newcastle United",
+      "short": "Newcastle",
+      "p": "9",
+      "w": "3",
+      "d": "2",
+      "l": "4",
+      "gd": "-3",
+      "pts": "11",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "14",
+      "team": "Ipswich Town",
+      "short": "Ipswich",
+      "p": "9",
+      "w": "3",
+      "d": "2",
+      "l": "4",
+      "gd": "-4",
+      "pts": "11",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "15",
+      "team": "Fulham",
+      "short": "Fulham",
+      "p": "9",
+      "w": "2",
+      "d": "3",
+      "l": "4",
+      "gd": "-2",
+      "pts": "9",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "16",
+      "team": "Coventry City",
+      "short": "Coventry",
+      "p": "9",
+      "w": "3",
+      "d": "0",
+      "l": "6",
+      "gd": "-7",
+      "pts": "9",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "17",
+      "team": "Manchester United",
+      "short": "Man Utd",
+      "p": "9",
+      "w": "1",
+      "d": "4",
+      "l": "4",
+      "gd": "-5",
+      "pts": "7",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "18",
+      "team": "Crystal Palace",
+      "short": "C Palace",
+      "p": "9",
+      "w": "2",
+      "d": "1",
+      "l": "6",
+      "gd": "-12",
+      "pts": "7",
+      "zone": "#FF7F84",
+      "zone_name": "Relegation"
+     },
+     {
+      "group": "",
+      "rank": "19",
+      "team": "Nottingham Forest",
+      "short": "Nottm Forest",
+      "p": "9",
+      "w": "1",
+      "d": "3",
+      "l": "5",
+      "gd": "-6",
+      "pts": "6",
+      "zone": "#FF7F84",
+      "zone_name": "Relegation"
+     },
+     {
+      "group": "",
+      "rank": "20",
+      "team": "Sunderland",
+      "short": "Sunderland",
+      "p": "9",
+      "w": "1",
+      "d": "2",
+      "l": "6",
+      "gd": "-10",
+      "pts": "5",
+      "zone": "#FF7F84",
+      "zone_name": "Relegation"
+     }
+    ],
+    "scorers": [
+     {
+      "player": "Erling Haaland",
+      "team": "Manchester City",
+      "value": 9,
+      "matches": "9"
+     },
+     {
+      "player": "Alexander Isak",
+      "team": "Liverpool",
+      "value": 6,
+      "matches": "8"
+     },
+     {
+      "player": "Morgan Rogers",
+      "team": "Chelsea",
+      "value": 5,
+      "matches": "9"
+     },
+     {
+      "player": "Marcus Tavernier",
+      "team": "AFC Bournemouth",
+      "value": 5,
+      "matches": "9"
+     },
+     {
+      "player": "Nicolas Jackson",
+      "team": "Aston Villa",
+      "value": 5,
+      "matches": "8"
+     },
+     {
+      "player": "Jo\u00e3o Pedro",
+      "team": "Chelsea",
+      "value": 5,
+      "matches": "6"
+     },
+     {
+      "player": "Bryan Mbeumo",
+      "team": "Manchester United",
+      "value": 4,
+      "matches": "9"
+     },
+     {
+      "player": "Thierno Barry",
+      "team": "Everton",
+      "value": 4,
+      "matches": "9"
+     },
+     {
+      "player": "Evanilson",
+      "team": "AFC Bournemouth",
+      "value": 4,
+      "matches": "9"
+     },
+     {
+      "player": "Rayan Cherki",
+      "team": "Manchester City",
+      "value": 4,
+      "matches": "8"
+     }
+    ],
+    "assists": [
+     {
+      "player": "Declan Rice",
+      "team": "Arsenal",
+      "value": 5,
+      "matches": "9"
+     },
+     {
+      "player": "Pascal Gross",
+      "team": "Brighton & Hove Albion",
+      "value": 4,
+      "matches": "9"
+     },
+     {
+      "player": "Evanilson",
+      "team": "AFC Bournemouth",
+      "value": 4,
+      "matches": "9"
+     },
+     {
+      "player": "Daichi Kamada",
+      "team": "Crystal Palace",
+      "value": 3,
+      "matches": "9"
+     },
+     {
+      "player": "Cole Palmer",
+      "team": "Chelsea",
+      "value": 3,
+      "matches": "9"
+     }
+    ],
+    "season": "2026-27 English Premier League"
+   },
+   {
+    "key": "esp",
+    "code": "esp.1",
+    "name": "LaLiga",
+    "flag": "es",
+    "rows": [
+     {
+      "group": "",
+      "rank": "1",
+      "team": "Barcelona",
+      "short": "Barcelona",
+      "p": "11",
+      "w": "10",
+      "d": "0",
+      "l": "1",
+      "gd": "+34",
+      "pts": "30",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "2",
+      "team": "Atl\u00e9tico Madrid",
+      "short": "Atl\u00e9tico",
+      "p": "11",
+      "w": "9",
+      "d": "1",
+      "l": "1",
+      "gd": "+14",
+      "pts": "28",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "3",
+      "team": "Real Madrid",
+      "short": "Real Madrid",
+      "p": "11",
+      "w": "9",
+      "d": "0",
+      "l": "2",
+      "gd": "+18",
+      "pts": "27",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "4",
+      "team": "Real Betis",
+      "short": "Betis",
+      "p": "11",
+      "w": "7",
+      "d": "2",
+      "l": "2",
+      "gd": "+3",
+      "pts": "23",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "5",
+      "team": "Real Sociedad",
+      "short": "Real Sociedad",
+      "p": "11",
+      "w": "6",
+      "d": "1",
+      "l": "4",
+      "gd": "0",
+      "pts": "19",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "6",
+      "team": "Sevilla",
+      "short": "Sevilla",
+      "p": "11",
+      "w": "5",
+      "d": "2",
+      "l": "4",
+      "gd": "-2",
+      "pts": "17",
+      "zone": "#c6d1e0",
+      "zone_name": "Europa League"
+     },
+     {
+      "group": "",
+      "rank": "7",
+      "team": "Athletic Club",
+      "short": "Athletic",
+      "p": "10",
+      "w": "4",
+      "d": "3",
+      "l": "3",
+      "gd": "+4",
+      "pts": "15",
+      "zone": "#B2BFD0",
+      "zone_name": "Conference League qualifying"
+     },
+     {
+      "group": "",
+      "rank": "8",
+      "team": "Deportivo",
+      "short": "Deportivo",
+      "p": "11",
+      "w": "3",
+      "d": "5",
+      "l": "3",
+      "gd": "+1",
+      "pts": "14",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "9",
+      "team": "Villarreal",
+      "short": "Villarreal",
+      "p": "11",
+      "w": "3",
+      "d": "3",
+      "l": "5",
+      "gd": "0",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "10",
+      "team": "Celta Vigo",
+      "short": "Celta Vigo",
+      "p": "11",
+      "w": "2",
+      "d": "6",
+      "l": "3",
+      "gd": "0",
+      "pts": "12",
+      "zone": "##c6d1e0",
+      "zone_name": "Europa League"
+     },
+     {
+      "group": "",
+      "rank": "11",
+      "team": "Alav\u00e9s",
+      "short": "Alav\u00e9s",
+      "p": "11",
+      "w": "3",
+      "d": "3",
+      "l": "5",
+      "gd": "-2",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "12",
+      "team": "Rayo Vallecano",
+      "short": "Rayo",
+      "p": "10",
+      "w": "3",
+      "d": "3",
+      "l": "4",
+      "gd": "-5",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "13",
+      "team": "Getafe",
+      "short": "Getafe",
+      "p": "11",
+      "w": "3",
+      "d": "3",
+      "l": "5",
+      "gd": "-8",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "14",
+      "team": "Espanyol",
+      "short": "Espanyol",
+      "p": "11",
+      "w": "3",
+      "d": "2",
+      "l": "6",
+      "gd": "-1",
+      "pts": "11",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "15",
+      "team": "Osasuna",
+      "short": "Osasuna",
+      "p": "11",
+      "w": "3",
+      "d": "2",
+      "l": "6",
+      "gd": "-11",
+      "pts": "11",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "16",
+      "team": "Racing Santander",
+      "short": "Racing",
+      "p": "11",
+      "w": "3",
+      "d": "2",
+      "l": "6",
+      "gd": "-14",
+      "pts": "11",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "17",
+      "team": "Elche",
+      "short": "Elche",
+      "p": "11",
+      "w": "2",
+      "d": "4",
+      "l": "5",
+      "gd": "-4",
+      "pts": "10",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "18",
+      "team": "Levante",
+      "short": "Levante",
+      "p": "11",
+      "w": "2",
+      "d": "4",
+      "l": "5",
+      "gd": "-5",
+      "pts": "10",
+      "zone": "#FF7F84",
+      "zone_name": "Relegation"
+     },
+     {
+      "group": "",
+      "rank": "19",
+      "team": "Valencia",
+      "short": "Valencia",
+      "p": "11",
+      "w": "2",
+      "d": "3",
+      "l": "6",
+      "gd": "-9",
+      "pts": "9",
+      "zone": "#FF7F84",
+      "zone_name": "Relegation"
+     },
+     {
+      "group": "",
+      "rank": "20",
+      "team": "M\u00e1laga",
+      "short": "M\u00e1laga",
+      "p": "11",
+      "w": "0",
+      "d": "5",
+      "l": "6",
+      "gd": "-13",
+      "pts": "5",
+      "zone": "#FF7F84",
+      "zone_name": "Relegation"
+     }
+    ],
+    "scorers": [
+     {
+      "player": "Raphinha",
+      "team": "Barcelona",
+      "value": 15,
+      "matches": "10"
+     },
+     {
+      "player": "Kylian Mbapp\u00e9",
+      "team": "Real Madrid",
+      "value": 12,
+      "matches": "11"
+     },
+     {
+      "player": "Lamine Yamal",
+      "team": "Barcelona",
+      "value": 10,
+      "matches": "11"
+     },
+     {
+      "player": "Ante Budimir",
+      "team": "Osasuna",
+      "value": 8,
+      "matches": "11"
+     },
+     {
+      "player": "Yassir Zabiri",
+      "team": "Racing Santander",
+      "value": 8,
+      "matches": "11"
+     },
+     {
+      "player": "Sergio Camello",
+      "team": "Rayo Vallecano",
+      "value": 7,
+      "matches": "11"
+     },
+     {
+      "player": "Roberto Fern\u00e1ndez",
+      "team": "Espanyol",
+      "value": 6,
+      "matches": "11"
+     },
+     {
+      "player": "Fer Ni\u00f1o",
+      "team": "Elche",
+      "value": 6,
+      "matches": "11"
+     },
+     {
+      "player": "\u00c1lex Baena",
+      "team": "Atl\u00e9tico Madrid",
+      "value": 5,
+      "matches": "11"
+     },
+     {
+      "player": "Roger Brugu\u00e9",
+      "team": "Levante",
+      "value": 5,
+      "matches": "10"
+     }
+    ],
+    "assists": [
+     {
+      "player": "Lamine Yamal",
+      "team": "Barcelona",
+      "value": 7,
+      "matches": "11"
+     },
+     {
+      "player": "Javi Hernandez",
+      "team": "Espanyol",
+      "value": 6,
+      "matches": "11"
+     },
+     {
+      "player": "Ferm\u00edn L\u00f3pez",
+      "team": "Barcelona",
+      "value": 5,
+      "matches": "10"
+     },
+     {
+      "player": "Alberto Moleiro",
+      "team": "Villarreal",
+      "value": 4,
+      "matches": "11"
+     },
+     {
+      "player": "\u00c1lex Berenguer",
+      "team": "Athletic Club",
+      "value": 4,
+      "matches": "11"
+     }
+    ],
+    "season": "2026-27 Spanish LALIGA"
+   },
+   {
+    "key": "ita",
+    "code": "ita.1",
+    "name": "Serie A",
+    "flag": "it",
+    "rows": [
+     {
+      "group": "",
+      "rank": "1",
+      "team": "Lazio",
+      "short": "Lazio",
+      "p": "10",
+      "w": "9",
+      "d": "1",
+      "l": "0",
+      "gd": "+16",
+      "pts": "28",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "2",
+      "team": "Internazionale",
+      "short": "Inter Milan",
+      "p": "10",
+      "w": "8",
+      "d": "1",
+      "l": "1",
+      "gd": "+13",
+      "pts": "25",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "3",
+      "team": "AS Roma",
+      "short": "AS Roma",
+      "p": "10",
+      "w": "7",
+      "d": "3",
+      "l": "0",
+      "gd": "+18",
+      "pts": "24",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "4",
+      "team": "Como",
+      "short": "Como",
+      "p": "10",
+      "w": "7",
+      "d": "2",
+      "l": "1",
+      "gd": "+10",
+      "pts": "23",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "5",
+      "team": "AC Milan",
+      "short": "Milan",
+      "p": "10",
+      "w": "6",
+      "d": "3",
+      "l": "1",
+      "gd": "+9",
+      "pts": "21",
+      "zone": "#B2BFD0",
+      "zone_name": "Europa League"
+     },
+     {
+      "group": "",
+      "rank": "6",
+      "team": "Frosinone",
+      "short": "Frosinone",
+      "p": "10",
+      "w": "6",
+      "d": "2",
+      "l": "2",
+      "gd": "+10",
+      "pts": "20",
+      "zone": "#B2BFD0",
+      "zone_name": "Europa League"
+     },
+     {
+      "group": "",
+      "rank": "7",
+      "team": "Juventus",
+      "short": "Juventus",
+      "p": "10",
+      "w": "5",
+      "d": "2",
+      "l": "3",
+      "gd": "+3",
+      "pts": "17",
+      "zone": "#B2BFD0",
+      "zone_name": "Conference League qualifying"
+     },
+     {
+      "group": "",
+      "rank": "8",
+      "team": "Napoli",
+      "short": "Napoli",
+      "p": "10",
+      "w": "4",
+      "d": "2",
+      "l": "4",
+      "gd": "+4",
+      "pts": "14",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "9",
+      "team": "Bologna",
+      "short": "Bologna",
+      "p": "10",
+      "w": "4",
+      "d": "2",
+      "l": "4",
+      "gd": "+1",
+      "pts": "14",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "10",
+      "team": "Torino",
+      "short": "Torino",
+      "p": "10",
+      "w": "4",
+      "d": "1",
+      "l": "5",
+      "gd": "-2",
+      "pts": "13",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "11",
+      "team": "Genoa",
+      "short": "Genoa",
+      "p": "10",
+      "w": "4",
+      "d": "1",
+      "l": "5",
+      "gd": "-4",
+      "pts": "13",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "12",
+      "team": "Cagliari",
+      "short": "Cagliari",
+      "p": "10",
+      "w": "4",
+      "d": "1",
+      "l": "5",
+      "gd": "-6",
+      "pts": "13",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "13",
+      "team": "Atalanta",
+      "short": "Atalanta",
+      "p": "10",
+      "w": "3",
+      "d": "2",
+      "l": "5",
+      "gd": "-4",
+      "pts": "11",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "14",
+      "team": "Lecce",
+      "short": "Lecce",
+      "p": "10",
+      "w": "3",
+      "d": "0",
+      "l": "7",
+      "gd": "-10",
+      "pts": "9",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "15",
+      "team": "Parma",
+      "short": "Parma",
+      "p": "10",
+      "w": "2",
+      "d": "2",
+      "l": "6",
+      "gd": "-7",
+      "pts": "8",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "16",
+      "team": "Fiorentina",
+      "short": "Fiorentina",
+      "p": "10",
+      "w": "2",
+      "d": "2",
+      "l": "6",
+      "gd": "-8",
+      "pts": "8",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "17",
+      "team": "Sassuolo",
+      "short": "Sassuolo",
+      "p": "10",
+      "w": "2",
+      "d": "2",
+      "l": "6",
+      "gd": "-10",
+      "pts": "8",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "18",
+      "team": "Monza",
+      "short": "Monza",
+      "p": "10",
+      "w": "2",
+      "d": "1",
+      "l": "7",
+      "gd": "-7",
+      "pts": "7",
+      "zone": "#FF7F84",
+      "zone_name": "Relegated"
+     },
+     {
+      "group": "",
+      "rank": "19",
+      "team": "Udinese",
+      "short": "Udinese",
+      "p": "10",
+      "w": "1",
+      "d": "2",
+      "l": "7",
+      "gd": "-12",
+      "pts": "5",
+      "zone": "#FF7F84",
+      "zone_name": "Relegated"
+     },
+     {
+      "group": "",
+      "rank": "20",
+      "team": "Venezia",
+      "short": "Venezia",
+      "p": "10",
+      "w": "1",
+      "d": "0",
+      "l": "9",
+      "gd": "-14",
+      "pts": "3",
+      "zone": "#FF7F84",
+      "zone_name": "Relegated"
+     }
+    ],
+    "scorers": [
+     {
+      "player": "Gustavo Varela",
+      "team": "Monza",
+      "value": 9,
+      "matches": "9"
+     },
+     {
+      "player": "Antonio Raimondo",
+      "team": "Frosinone",
+      "value": 8,
+      "matches": "10"
+     },
+     {
+      "player": "Donyell Malen",
+      "team": "AS Roma",
+      "value": 8,
+      "matches": "9"
+     },
+     {
+      "player": "Nikola Krstovic",
+      "team": "Atalanta",
+      "value": 6,
+      "matches": "10"
+     },
+     {
+      "player": "Giacomo Calo",
+      "team": "Frosinone",
+      "value": 5,
+      "matches": "10"
+     },
+     {
+      "player": "Anastasios Douvikas",
+      "team": "Como",
+      "value": 5,
+      "matches": "10"
+     },
+     {
+      "player": "Daniel Maldini",
+      "team": "Cagliari",
+      "value": 5,
+      "matches": "10"
+     },
+     {
+      "player": "Marcus Thuram",
+      "team": "Internazionale",
+      "value": 5,
+      "matches": "9"
+     },
+     {
+      "player": "Adrien Rabiot",
+      "team": "AC Milan",
+      "value": 5,
+      "matches": "8"
+     },
+     {
+      "player": "Franco Mastantuono",
+      "team": "Fiorentina",
+      "value": 4,
+      "matches": "10"
+     }
+    ],
+    "assists": [
+     {
+      "player": "Mattia Zaccagni",
+      "team": "Lazio",
+      "value": 5,
+      "matches": "10"
+     },
+     {
+      "player": "Juan Miranda",
+      "team": "Bologna",
+      "value": 5,
+      "matches": "9"
+     },
+     {
+      "player": "Giorgi Kvernadze",
+      "team": "Frosinone",
+      "value": 4,
+      "matches": "10"
+     },
+     {
+      "player": "Romano Schmid",
+      "team": "Frosinone",
+      "value": 4,
+      "matches": "10"
+     },
+     {
+      "player": "Andy Diouf",
+      "team": "Internazionale",
+      "value": 4,
+      "matches": "9"
+     }
+    ],
+    "season": "2026-27 Italian Serie A"
+   },
+   {
+    "key": "ger",
+    "code": "ger.1",
+    "name": "Bundesliga",
+    "flag": "de",
+    "rows": [
+     {
+      "group": "",
+      "rank": "1",
+      "team": "Bayern Munich",
+      "short": "Bayern",
+      "p": "8",
+      "w": "5",
+      "d": "3",
+      "l": "0",
+      "gd": "+19",
+      "pts": "18",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "2",
+      "team": "Borussia Dortmund",
+      "short": "Dortmund",
+      "p": "8",
+      "w": "5",
+      "d": "3",
+      "l": "0",
+      "gd": "+8",
+      "pts": "18",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "3",
+      "team": "SC Freiburg",
+      "short": "Freiburg",
+      "p": "8",
+      "w": "5",
+      "d": "1",
+      "l": "2",
+      "gd": "+8",
+      "pts": "16",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "4",
+      "team": "RB Leipzig",
+      "short": "RB Leipzig",
+      "p": "8",
+      "w": "5",
+      "d": "0",
+      "l": "3",
+      "gd": "+11",
+      "pts": "15",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "5",
+      "team": "Werder Bremen",
+      "short": "Bremen",
+      "p": "8",
+      "w": "4",
+      "d": "3",
+      "l": "1",
+      "gd": "+3",
+      "pts": "15",
+      "zone": "#B2BFD0",
+      "zone_name": "Europa League"
+     },
+     {
+      "group": "",
+      "rank": "6",
+      "team": "Bayer Leverkusen",
+      "short": "Leverkusen",
+      "p": "8",
+      "w": "4",
+      "d": "1",
+      "l": "3",
+      "gd": "+2",
+      "pts": "13",
+      "zone": "#B2BFD0",
+      "zone_name": "Europa League"
+     },
+     {
+      "group": "",
+      "rank": "7",
+      "team": "SV Elversberg",
+      "short": "Elversberg",
+      "p": "8",
+      "w": "4",
+      "d": "1",
+      "l": "3",
+      "gd": "0",
+      "pts": "13",
+      "zone": "#B2BFD0",
+      "zone_name": "Conference League qualifying"
+     },
+     {
+      "group": "",
+      "rank": "8",
+      "team": "Eintracht Frankfurt",
+      "short": "Frankfurt",
+      "p": "8",
+      "w": "3",
+      "d": "2",
+      "l": "3",
+      "gd": "-5",
+      "pts": "11",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "9",
+      "team": "Mainz",
+      "short": "Mainz",
+      "p": "8",
+      "w": "3",
+      "d": "1",
+      "l": "4",
+      "gd": "0",
+      "pts": "10",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "10",
+      "team": "FC Augsburg",
+      "short": "Augsburg",
+      "p": "8",
+      "w": "2",
+      "d": "3",
+      "l": "3",
+      "gd": "+3",
+      "pts": "9",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "11",
+      "team": "VfB Stuttgart",
+      "short": "Stuttgart",
+      "p": "8",
+      "w": "3",
+      "d": "0",
+      "l": "5",
+      "gd": "-1",
+      "pts": "9",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "12",
+      "team": "TSG Hoffenheim",
+      "short": "Hoffenheim",
+      "p": "8",
+      "w": "3",
+      "d": "0",
+      "l": "5",
+      "gd": "-2",
+      "pts": "9",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "13",
+      "team": "FC Cologne",
+      "short": "Cologne",
+      "p": "8",
+      "w": "2",
+      "d": "3",
+      "l": "3",
+      "gd": "-3",
+      "pts": "9",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "14",
+      "team": "SC Paderborn 07",
+      "short": "Paderborn",
+      "p": "8",
+      "w": "2",
+      "d": "3",
+      "l": "3",
+      "gd": "-3",
+      "pts": "9",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "15",
+      "team": "Hamburg SV",
+      "short": "Hamburg",
+      "p": "8",
+      "w": "3",
+      "d": "0",
+      "l": "5",
+      "gd": "-12",
+      "pts": "9",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "16",
+      "team": "1. FC Union Berlin",
+      "short": "Union Berlin",
+      "p": "8",
+      "w": "1",
+      "d": "4",
+      "l": "3",
+      "gd": "-12",
+      "pts": "7",
+      "zone": "#FEB4B5",
+      "zone_name": "Relegation playoff"
+     },
+     {
+      "group": "",
+      "rank": "17",
+      "team": "Schalke 04",
+      "short": "Schalke",
+      "p": "8",
+      "w": "1",
+      "d": "3",
+      "l": "4",
+      "gd": "-5",
+      "pts": "6",
+      "zone": "#FF7F84",
+      "zone_name": "Relegation"
+     },
+     {
+      "group": "",
+      "rank": "18",
+      "team": "Borussia M\u00f6nchengladbach",
+      "short": "Gladbach",
+      "p": "8",
+      "w": "1",
+      "d": "1",
+      "l": "6",
+      "gd": "-11",
+      "pts": "4",
+      "zone": "#FF7F84",
+      "zone_name": "Relegation"
+     }
+    ],
+    "scorers": [
+     {
+      "player": "Niclas F\u00fcllkrug",
+      "team": "Werder Bremen",
+      "value": 9,
+      "matches": "8"
+     },
+     {
+      "player": "Patrik Schick",
+      "team": "Bayer Leverkusen",
+      "value": 7,
+      "matches": "8"
+     },
+     {
+      "player": "Michael Olise",
+      "team": "Bayern Munich",
+      "value": 6,
+      "matches": "8"
+     },
+     {
+      "player": "Younes Ebnoutalib",
+      "team": "Eintracht Frankfurt",
+      "value": 6,
+      "matches": "8"
+     },
+     {
+      "player": "Phillip Tietz",
+      "team": "Mainz",
+      "value": 5,
+      "matches": "8"
+     },
+     {
+      "player": "Ermedin Demirovic",
+      "team": "VfB Stuttgart",
+      "value": 5,
+      "matches": "8"
+     },
+     {
+      "player": "Michael Gregoritsch",
+      "team": "FC Augsburg",
+      "value": 5,
+      "matches": "8"
+     },
+     {
+      "player": "Antonio Nusa",
+      "team": "RB Leipzig",
+      "value": 4,
+      "matches": "8"
+     },
+     {
+      "player": "Harry Kane",
+      "team": "Bayern Munich",
+      "value": 4,
+      "matches": "8"
+     },
+     {
+      "player": "Igor Matanovic",
+      "team": "SC Freiburg",
+      "value": 4,
+      "matches": "8"
+     }
+    ],
+    "assists": [
+     {
+      "player": "Marco Gr\u00fcll",
+      "team": "Werder Bremen",
+      "value": 6,
+      "matches": "8"
+     },
+     {
+      "player": "Antonio Nusa",
+      "team": "RB Leipzig",
+      "value": 6,
+      "matches": "8"
+     },
+     {
+      "player": "Harry Kane",
+      "team": "Bayern Munich",
+      "value": 6,
+      "matches": "8"
+     },
+     {
+      "player": "Fabian Rieder",
+      "team": "FC Augsburg",
+      "value": 4,
+      "matches": "8"
+     },
+     {
+      "player": "Miguel Guti\u00e9rrez",
+      "team": "Bayer Leverkusen",
+      "value": 4,
+      "matches": "8"
+     }
+    ],
+    "season": "2026-27 German Bundesliga"
+   },
+   {
+    "key": "fra",
+    "code": "fra.1",
+    "name": "Ligue 1",
+    "flag": "fr",
+    "rows": [
+     {
+      "group": "",
+      "rank": "1",
+      "team": "Paris Saint-Germain",
+      "short": "PSG",
+      "p": "9",
+      "w": "6",
+      "d": "2",
+      "l": "1",
+      "gd": "+11",
+      "pts": "20",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "2",
+      "team": "Lille",
+      "short": "Lille",
+      "p": "9",
+      "w": "5",
+      "d": "3",
+      "l": "1",
+      "gd": "+6",
+      "pts": "18",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "3",
+      "team": "Lyon",
+      "short": "Lyon",
+      "p": "9",
+      "w": "5",
+      "d": "2",
+      "l": "2",
+      "gd": "+8",
+      "pts": "17",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "4",
+      "team": "Paris FC",
+      "short": "Paris FC",
+      "p": "9",
+      "w": "5",
+      "d": "2",
+      "l": "2",
+      "gd": "+6",
+      "pts": "17",
+      "zone": "#B5E7CE",
+      "zone_name": "Champions League qualifying"
+     },
+     {
+      "group": "",
+      "rank": "5",
+      "team": "Stade Rennais",
+      "short": "Rennes",
+      "p": "9",
+      "w": "5",
+      "d": "1",
+      "l": "3",
+      "gd": "+1",
+      "pts": "16",
+      "zone": "#B2BFD0",
+      "zone_name": "Europa League"
+     },
+     {
+      "group": "",
+      "rank": "6",
+      "team": "Marseille",
+      "short": "Marseille",
+      "p": "9",
+      "w": "5",
+      "d": "0",
+      "l": "4",
+      "gd": "+7",
+      "pts": "15",
+      "zone": "#B2BFD0",
+      "zone_name": "Europa League"
+     },
+     {
+      "group": "",
+      "rank": "7",
+      "team": "AS Monaco",
+      "short": "Monaco",
+      "p": "9",
+      "w": "4",
+      "d": "3",
+      "l": "2",
+      "gd": "+2",
+      "pts": "15",
+      "zone": "#B2BFD0",
+      "zone_name": "Conference League qualifying"
+     },
+     {
+      "group": "",
+      "rank": "8",
+      "team": "Nice",
+      "short": "Nice",
+      "p": "9",
+      "w": "4",
+      "d": "2",
+      "l": "3",
+      "gd": "+1",
+      "pts": "14",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "9",
+      "team": "Lens",
+      "short": "Lens",
+      "p": "9",
+      "w": "4",
+      "d": "1",
+      "l": "4",
+      "gd": "+3",
+      "pts": "13",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "10",
+      "team": "Brest",
+      "short": "Brest",
+      "p": "9",
+      "w": "3",
+      "d": "3",
+      "l": "3",
+      "gd": "+4",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "11",
+      "team": "Lorient",
+      "short": "Lorient",
+      "p": "9",
+      "w": "3",
+      "d": "3",
+      "l": "3",
+      "gd": "-1",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "12",
+      "team": "Toulouse",
+      "short": "Toulouse",
+      "p": "9",
+      "w": "2",
+      "d": "4",
+      "l": "3",
+      "gd": "-1",
+      "pts": "10",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "13",
+      "team": "Strasbourg",
+      "short": "Strasbourg",
+      "p": "9",
+      "w": "3",
+      "d": "1",
+      "l": "5",
+      "gd": "-2",
+      "pts": "10",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "14",
+      "team": "AJ Auxerre",
+      "short": "Auxerre",
+      "p": "9",
+      "w": "3",
+      "d": "1",
+      "l": "5",
+      "gd": "-10",
+      "pts": "10",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "15",
+      "team": "Angers",
+      "short": "Angers",
+      "p": "9",
+      "w": "2",
+      "d": "2",
+      "l": "5",
+      "gd": "-8",
+      "pts": "8",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "16",
+      "team": "Troyes",
+      "short": "Troyes",
+      "p": "9",
+      "w": "2",
+      "d": "2",
+      "l": "5",
+      "gd": "-9",
+      "pts": "8",
+      "zone": "#FEB4B5",
+      "zone_name": "Relegation playoff"
+     },
+     {
+      "group": "",
+      "rank": "17",
+      "team": "Le Mans",
+      "short": "Le Mans",
+      "p": "9",
+      "w": "1",
+      "d": "4",
+      "l": "4",
+      "gd": "-7",
+      "pts": "7",
+      "zone": "#FF7F84",
+      "zone_name": "Relegation"
+     },
+     {
+      "group": "",
+      "rank": "18",
+      "team": "Le Havre AC",
+      "short": "Le Havre AC",
+      "p": "9",
+      "w": "0",
+      "d": "2",
+      "l": "7",
+      "gd": "-11",
+      "pts": "2",
+      "zone": "#FF7F84",
+      "zone_name": "Relegation"
+     }
+    ],
+    "scorers": [
+     {
+      "player": "Lassine Sinayoko",
+      "team": "Paris FC",
+      "value": 8,
+      "matches": "9"
+     },
+     {
+      "player": "Esteban Lepaul",
+      "team": "Stade Rennais",
+      "value": 7,
+      "matches": "7"
+     },
+     {
+      "player": "Amine Gouiri",
+      "team": "Marseille",
+      "value": 6,
+      "matches": "9"
+     },
+     {
+      "player": "Elye Wahi",
+      "team": "Nice",
+      "value": 6,
+      "matches": "8"
+     },
+     {
+      "player": "Cameron Archer",
+      "team": "AJ Auxerre",
+      "value": 6,
+      "matches": "7"
+     },
+     {
+      "player": "Casper Tengstedt",
+      "team": "Toulouse",
+      "value": 5,
+      "matches": "7"
+     },
+     {
+      "player": "Ludovic Ajorque",
+      "team": "Brest",
+      "value": 4,
+      "matches": "9"
+     },
+     {
+      "player": "Florian Thauvin",
+      "team": "Lens",
+      "value": 4,
+      "matches": "9"
+     },
+     {
+      "player": "Gessime Yassine",
+      "team": "Strasbourg",
+      "value": 4,
+      "matches": "9"
+     },
+     {
+      "player": "Louis Mafouta",
+      "team": "Le Mans",
+      "value": 4,
+      "matches": "9"
+     }
+    ],
+    "assists": [
+     {
+      "player": "Florian Thauvin",
+      "team": "Lens",
+      "value": 7,
+      "matches": "9"
+     },
+     {
+      "player": "Cristian C\u00e1sseres Jr.",
+      "team": "Toulouse",
+      "value": 5,
+      "matches": "9"
+     },
+     {
+      "player": "Lassine Sinayoko",
+      "team": "Paris FC",
+      "value": 5,
+      "matches": "9"
+     },
+     {
+      "player": "Zachary Athekame",
+      "team": "Lyon",
+      "value": 3,
+      "matches": "9"
+     },
+     {
+      "player": "Aleksandr Golovin",
+      "team": "AS Monaco",
+      "value": 3,
+      "matches": "9"
+     }
+    ],
+    "season": "2026-27 French Ligue 1"
+   },
+   {
+    "key": "eur",
+    "code": "uefa.champions",
+    "name": "Champions League",
+    "flag": "eu",
+    "rows": [
+     {
+      "group": "",
+      "rank": "1",
+      "team": "Paris Saint-Germain",
+      "short": "PSG",
+      "p": "4",
+      "w": "4",
+      "d": "0",
+      "l": "0",
+      "gd": "+15",
+      "pts": "12",
+      "zone": "#81D6AC",
+      "zone_name": "Qualifies for round of 16"
+     },
+     {
+      "group": "",
+      "rank": "2",
+      "team": "Barcelona",
+      "short": "Barcelona",
+      "p": "4",
+      "w": "3",
+      "d": "0",
+      "l": "1",
+      "gd": "+8",
+      "pts": "9",
+      "zone": "#81D6AC",
+      "zone_name": "Qualifies for round of 16"
+     },
+     {
+      "group": "",
+      "rank": "3",
+      "team": "Aston Villa",
+      "short": "Aston Villa",
+      "p": "4",
+      "w": "3",
+      "d": "0",
+      "l": "1",
+      "gd": "+6",
+      "pts": "9",
+      "zone": "#81D6AC",
+      "zone_name": "Qualifies for round of 16"
+     },
+     {
+      "group": "",
+      "rank": "4",
+      "team": "Liverpool",
+      "short": "Liverpool",
+      "p": "3",
+      "w": "3",
+      "d": "0",
+      "l": "0",
+      "gd": "+5",
+      "pts": "9",
+      "zone": "#81D6AC",
+      "zone_name": "Qualifies for round of 16"
+     },
+     {
+      "group": "",
+      "rank": "5",
+      "team": "Real Madrid",
+      "short": "Real Madrid",
+      "p": "3",
+      "w": "3",
+      "d": "0",
+      "l": "0",
+      "gd": "+5",
+      "pts": "9",
+      "zone": "#81D6AC",
+      "zone_name": "Qualifies for round of 16"
+     },
+     {
+      "group": "",
+      "rank": "6",
+      "team": "Sporting CP",
+      "short": "Sporting",
+      "p": "4",
+      "w": "3",
+      "d": "0",
+      "l": "1",
+      "gd": "+4",
+      "pts": "9",
+      "zone": "#81D6AC",
+      "zone_name": "Qualifies for round of 16"
+     },
+     {
+      "group": "",
+      "rank": "7",
+      "team": "Real Betis",
+      "short": "Betis",
+      "p": "3",
+      "w": "3",
+      "d": "0",
+      "l": "0",
+      "gd": "+3",
+      "pts": "9",
+      "zone": "#81D6AC",
+      "zone_name": "Qualifies for round of 16"
+     },
+     {
+      "group": "",
+      "rank": "8",
+      "team": "Bayern Munich",
+      "short": "Bayern",
+      "p": "4",
+      "w": "2",
+      "d": "2",
+      "l": "0",
+      "gd": "+7",
+      "pts": "8",
+      "zone": "#81D6AC",
+      "zone_name": "Qualifies for round of 16"
+     },
+     {
+      "group": "",
+      "rank": "9",
+      "team": "Arsenal",
+      "short": "Arsenal",
+      "p": "3",
+      "w": "2",
+      "d": "1",
+      "l": "0",
+      "gd": "+4",
+      "pts": "7",
+      "zone": "#B5E7CE",
+      "zone_name": "Knockout phase playoffs - seeded"
+     },
+     {
+      "group": "",
+      "rank": "10",
+      "team": "VfB Stuttgart",
+      "short": "Stuttgart",
+      "p": "4",
+      "w": "2",
+      "d": "1",
+      "l": "1",
+      "gd": "+3",
+      "pts": "7",
+      "zone": "#B5E7CE",
+      "zone_name": "Knockout phase playoffs - seeded"
+     },
+     {
+      "group": "",
+      "rank": "11",
+      "team": "Como",
+      "short": "Como",
+      "p": "3",
+      "w": "2",
+      "d": "0",
+      "l": "1",
+      "gd": "+5",
+      "pts": "6",
+      "zone": "#B5E7CE",
+      "zone_name": "Knockout phase playoffs - seeded"
+     },
+     {
+      "group": "",
+      "rank": "12",
+      "team": "Manchester City",
+      "short": "Man City",
+      "p": "3",
+      "w": "2",
+      "d": "0",
+      "l": "1",
+      "gd": "+4",
+      "pts": "6",
+      "zone": "#B5E7CE",
+      "zone_name": "Knockout phase playoffs - seeded"
+     },
+     {
+      "group": "",
+      "rank": "13",
+      "team": "Club Brugge",
+      "short": "Club Brugge",
+      "p": "3",
+      "w": "2",
+      "d": "0",
+      "l": "1",
+      "gd": "+3",
+      "pts": "6",
+      "zone": "#B5E7CE",
+      "zone_name": "Knockout phase playoffs - seeded"
+     },
+     {
+      "group": "",
+      "rank": "14",
+      "team": "Internazionale",
+      "short": "Inter Milan",
+      "p": "4",
+      "w": "2",
+      "d": "0",
+      "l": "2",
+      "gd": "+2",
+      "pts": "6",
+      "zone": "#B5E7CE",
+      "zone_name": "Knockout phase playoffs - seeded"
+     },
+     {
+      "group": "",
+      "rank": "15",
+      "team": "LASK Linz",
+      "short": "LASK Linz",
+      "p": "4",
+      "w": "2",
+      "d": "0",
+      "l": "2",
+      "gd": "+1",
+      "pts": "6",
+      "zone": "#B5E7CE",
+      "zone_name": "Knockout phase playoffs - seeded"
+     },
+     {
+      "group": "",
+      "rank": "16",
+      "team": "Borussia Dortmund",
+      "short": "Dortmund",
+      "p": "3",
+      "w": "2",
+      "d": "0",
+      "l": "1",
+      "gd": "+1",
+      "pts": "6",
+      "zone": "#B5E7CE",
+      "zone_name": "Knockout phase playoffs - seeded"
+     },
+     {
+      "group": "",
+      "rank": "17",
+      "team": "Manchester United",
+      "short": "Man Utd",
+      "p": "4",
+      "w": "2",
+      "d": "0",
+      "l": "2",
+      "gd": "0",
+      "pts": "6",
+      "zone": "#B2BFD0",
+      "zone_name": "Knockout phase playoffs - unseeded"
+     },
+     {
+      "group": "",
+      "rank": "18",
+      "team": "Galatasaray",
+      "short": "Galatasaray",
+      "p": "4",
+      "w": "2",
+      "d": "0",
+      "l": "2",
+      "gd": "-1",
+      "pts": "6",
+      "zone": "#B2BFD0",
+      "zone_name": "Knockout phase playoffs - unseeded"
+     },
+     {
+      "group": "",
+      "rank": "19",
+      "team": "AS Roma",
+      "short": "AS Roma",
+      "p": "4",
+      "w": "1",
+      "d": "1",
+      "l": "2",
+      "gd": "+2",
+      "pts": "4",
+      "zone": "#B2BFD0",
+      "zone_name": "Knockout phase playoffs - unseeded"
+     },
+     {
+      "group": "",
+      "rank": "20",
+      "team": "Shakhtar Donetsk",
+      "short": "Shakhtar",
+      "p": "4",
+      "w": "1",
+      "d": "1",
+      "l": "2",
+      "gd": "0",
+      "pts": "4",
+      "zone": "#B2BFD0",
+      "zone_name": "Knockout phase playoffs - unseeded"
+     },
+     {
+      "group": "",
+      "rank": "21",
+      "team": "PSV Eindhoven",
+      "short": "PSV",
+      "p": "3",
+      "w": "1",
+      "d": "1",
+      "l": "1",
+      "gd": "0",
+      "pts": "4",
+      "zone": "#B2BFD0",
+      "zone_name": "Knockout phase playoffs - unseeded"
+     },
+     {
+      "group": "",
+      "rank": "22",
+      "team": "Atl\u00e9tico Madrid",
+      "short": "Atl\u00e9tico",
+      "p": "4",
+      "w": "1",
+      "d": "1",
+      "l": "2",
+      "gd": "-1",
+      "pts": "4",
+      "zone": "#B2BFD0",
+      "zone_name": "Knockout phase playoffs - unseeded"
+     },
+     {
+      "group": "",
+      "rank": "23",
+      "team": "Bodo/Glimt",
+      "short": "Bodo/Glimt",
+      "p": "4",
+      "w": "1",
+      "d": "1",
+      "l": "2",
+      "gd": "-5",
+      "pts": "4",
+      "zone": "#B2BFD0",
+      "zone_name": "Knockout phase playoffs - unseeded"
+     },
+     {
+      "group": "",
+      "rank": "24",
+      "team": "Napoli",
+      "short": "Napoli",
+      "p": "3",
+      "w": "1",
+      "d": "0",
+      "l": "2",
+      "gd": "-2",
+      "pts": "3",
+      "zone": "#B2BFD0",
+      "zone_name": "Knockout phase playoffs - unseeded"
+     },
+     {
+      "group": "",
+      "rank": "25",
+      "team": "Sabah FK",
+      "short": "Sabah",
+      "p": "3",
+      "w": "1",
+      "d": "0",
+      "l": "2",
+      "gd": "-3",
+      "pts": "3",
+      "zone": "#FF7F84",
+      "zone_name": "Eliminated"
+     },
+     {
+      "group": "",
+      "rank": "26",
+      "team": "Lens",
+      "short": "Lens",
+      "p": "3",
+      "w": "1",
+      "d": "0",
+      "l": "2",
+      "gd": "-4",
+      "pts": "3",
+      "zone": "#FF7F84",
+      "zone_name": "Eliminated"
+     },
+     {
+      "group": "",
+      "rank": "27",
+      "team": "AEK Athens",
+      "short": "AEK Athens",
+      "p": "3",
+      "w": "1",
+      "d": "0",
+      "l": "2",
+      "gd": "-5",
+      "pts": "3",
+      "zone": "#FF7F84",
+      "zone_name": "Eliminated"
+     },
+     {
+      "group": "",
+      "rank": "28",
+      "team": "RB Leipzig",
+      "short": "RB Leipzig",
+      "p": "3",
+      "w": "1",
+      "d": "0",
+      "l": "2",
+      "gd": "-5",
+      "pts": "3",
+      "zone": "#FF7F84",
+      "zone_name": "Eliminated"
+     },
+     {
+      "group": "",
+      "rank": "29",
+      "team": "Villarreal",
+      "short": "Villarreal",
+      "p": "4",
+      "w": "1",
+      "d": "0",
+      "l": "3",
+      "gd": "-6",
+      "pts": "3",
+      "zone": "#FF7F84",
+      "zone_name": "Eliminated"
+     },
+     {
+      "group": "",
+      "rank": "30",
+      "team": "Feyenoord Rotterdam",
+      "short": "Feyenoord",
+      "p": "4",
+      "w": "1",
+      "d": "0",
+      "l": "3",
+      "gd": "-7",
+      "pts": "3",
+      "zone": "#FF7F84",
+      "zone_name": "Eliminated"
+     },
+     {
+      "group": "",
+      "rank": "31",
+      "team": "Fenerbahce",
+      "short": "Fenerbahce",
+      "p": "3",
+      "w": "0",
+      "d": "2",
+      "l": "1",
+      "gd": "-6",
+      "pts": "2",
+      "zone": "#FF7F84",
+      "zone_name": "Eliminated"
+     },
+     {
+      "group": "",
+      "rank": "32",
+      "team": "Slavia Prague",
+      "short": "Slavia Prague",
+      "p": "3",
+      "w": "0",
+      "d": "1",
+      "l": "2",
+      "gd": "-3",
+      "pts": "1",
+      "zone": "#FF7F84",
+      "zone_name": "Eliminated"
+     },
+     {
+      "group": "",
+      "rank": "33",
+      "team": "Viking FK",
+      "short": "Viking FK",
+      "p": "3",
+      "w": "0",
+      "d": "1",
+      "l": "2",
+      "gd": "-4",
+      "pts": "1",
+      "zone": "#FF7F84",
+      "zone_name": "Eliminated"
+     },
+     {
+      "group": "",
+      "rank": "34",
+      "team": "Lille",
+      "short": "Lille",
+      "p": "4",
+      "w": "0",
+      "d": "1",
+      "l": "3",
+      "gd": "-6",
+      "pts": "1",
+      "zone": "#FF7F84",
+      "zone_name": "Eliminated"
+     },
+     {
+      "group": "",
+      "rank": "35",
+      "team": "FC Porto",
+      "short": "FC Porto",
+      "p": "3",
+      "w": "0",
+      "d": "0",
+      "l": "3",
+      "gd": "-4",
+      "pts": "0",
+      "zone": "#FF7F84",
+      "zone_name": "Eliminated"
+     },
+     {
+      "group": "",
+      "rank": "36",
+      "team": "Slovan Bratislava",
+      "short": "S Bratislava",
+      "p": "4",
+      "w": "0",
+      "d": "0",
+      "l": "4",
+      "gd": "-16",
+      "pts": "0",
+      "zone": "#FF7F84",
+      "zone_name": "Eliminated"
+     }
+    ],
+    "scorers": [
+     {
+      "player": "Harry Kane",
+      "team": "Bayern Munich",
+      "value": 4,
+      "matches": "4"
+     },
+     {
+      "player": "Fabi\u00e1n Ruiz",
+      "team": "Paris Saint-Germain",
+      "value": 4,
+      "matches": "4"
+     },
+     {
+      "player": "Luis Su\u00e1rez",
+      "team": "Sporting CP",
+      "value": 4,
+      "matches": "4"
+     },
+     {
+      "player": "Donyell Malen",
+      "team": "AS Roma",
+      "value": 4,
+      "matches": "4"
+     },
+     {
+      "player": "Alexey Batrakov",
+      "team": "Galatasaray",
+      "value": 4,
+      "matches": "4"
+     },
+     {
+      "player": "Ermedin Demirovic",
+      "team": "VfB Stuttgart",
+      "value": 4,
+      "matches": "4"
+     },
+     {
+      "player": "Nicolo Tresoldi",
+      "team": "Club Brugge",
+      "value": 4,
+      "matches": "3"
+     },
+     {
+      "player": "Serhou Guirassy",
+      "team": "Borussia Dortmund",
+      "value": 4,
+      "matches": "3"
+     },
+     {
+      "player": "Raphinha",
+      "team": "Barcelona",
+      "value": 4,
+      "matches": "3"
+     },
+     {
+      "player": "Erling Haaland",
+      "team": "Manchester City",
+      "value": 4,
+      "matches": "2"
+     }
+    ],
+    "assists": [
+     {
+      "player": "Lamine Yamal",
+      "team": "Barcelona",
+      "value": 4,
+      "matches": "4"
+     },
+     {
+      "player": "Harry Kane",
+      "team": "Bayern Munich",
+      "value": 3,
+      "matches": "4"
+     },
+     {
+      "player": "Maghnes Akliouche",
+      "team": "Paris Saint-Germain",
+      "value": 3,
+      "matches": "4"
+     },
+     {
+      "player": "Yvan Dibango",
+      "team": "LASK Linz",
+      "value": 3,
+      "matches": "3"
+     },
+     {
+      "player": "Nico Paz",
+      "team": "Como",
+      "value": 3,
+      "matches": "3"
+     }
+    ],
+    "season": "2026-27 UEFA Champions League"
+   },
+   {
+    "key": "ksa",
+    "code": "ksa.1",
+    "name": "Saudi Pro League",
+    "flag": "sa",
+    "rows": [
+     {
+      "group": "",
+      "rank": "1",
+      "team": "Al Hilal",
+      "short": "Al Hilal",
+      "p": "11",
+      "w": "10",
+      "d": "0",
+      "l": "1",
+      "gd": "+23",
+      "pts": "30",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "2",
+      "team": "Al Qadsiah",
+      "short": "Al Qadsiah",
+      "p": "12",
+      "w": "9",
+      "d": "1",
+      "l": "2",
+      "gd": "+20",
+      "pts": "28",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "3",
+      "team": "Al Nassr",
+      "short": "Al Nassr",
+      "p": "11",
+      "w": "9",
+      "d": "1",
+      "l": "1",
+      "gd": "+17",
+      "pts": "28",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "4",
+      "team": "Al Ittihad",
+      "short": "Al Ittihad",
+      "p": "11",
+      "w": "7",
+      "d": "3",
+      "l": "1",
+      "gd": "+10",
+      "pts": "24",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "5",
+      "team": "Neom SC",
+      "short": "Neom SC",
+      "p": "12",
+      "w": "7",
+      "d": "1",
+      "l": "4",
+      "gd": "+8",
+      "pts": "22",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "6",
+      "team": "Al Ahli",
+      "short": "Al Ahli",
+      "p": "11",
+      "w": "7",
+      "d": "0",
+      "l": "4",
+      "gd": "+9",
+      "pts": "21",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "7",
+      "team": "Al Ettifaq",
+      "short": "Al Ettifaq",
+      "p": "12",
+      "w": "5",
+      "d": "4",
+      "l": "3",
+      "gd": "+1",
+      "pts": "19",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "8",
+      "team": "Al Diriyah",
+      "short": "Al Diriyah",
+      "p": "12",
+      "w": "4",
+      "d": "3",
+      "l": "5",
+      "gd": "-3",
+      "pts": "15",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "9",
+      "team": "Al Khaleej",
+      "short": "Al Khaleej",
+      "p": "12",
+      "w": "3",
+      "d": "6",
+      "l": "3",
+      "gd": "-5",
+      "pts": "15",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "10",
+      "team": "Al Shabab",
+      "short": "Al Shabab",
+      "p": "11",
+      "w": "3",
+      "d": "5",
+      "l": "3",
+      "gd": "+5",
+      "pts": "14",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "11",
+      "team": "Al Kholood",
+      "short": "Al Kholood",
+      "p": "11",
+      "w": "3",
+      "d": "3",
+      "l": "5",
+      "gd": "-9",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "12",
+      "team": "Al Riyadh",
+      "short": "Al Riyadh",
+      "p": "11",
+      "w": "3",
+      "d": "3",
+      "l": "5",
+      "gd": "-14",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "13",
+      "team": "Al Fayha",
+      "short": "Al Fayha",
+      "p": "12",
+      "w": "2",
+      "d": "5",
+      "l": "5",
+      "gd": "-4",
+      "pts": "11",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "14",
+      "team": "Al Hazem",
+      "short": "Al Hazem",
+      "p": "12",
+      "w": "2",
+      "d": "4",
+      "l": "6",
+      "gd": "-6",
+      "pts": "10",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "15",
+      "team": "Al Faisaly",
+      "short": "Al Faisaly",
+      "p": "12",
+      "w": "2",
+      "d": "4",
+      "l": "6",
+      "gd": "-11",
+      "pts": "10",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "16",
+      "team": "Al Fateh",
+      "short": "Al Fateh",
+      "p": "12",
+      "w": "1",
+      "d": "3",
+      "l": "8",
+      "gd": "-15",
+      "pts": "6",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "17",
+      "team": "Al Taawoun",
+      "short": "Al Taawoun",
+      "p": "12",
+      "w": "0",
+      "d": "5",
+      "l": "7",
+      "gd": "-14",
+      "pts": "5",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "18",
+      "team": "Abha",
+      "short": "Abha",
+      "p": "11",
+      "w": "0",
+      "d": "3",
+      "l": "8",
+      "gd": "-12",
+      "pts": "3",
+      "zone": "",
+      "zone_name": ""
+     }
+    ],
+    "scorers": [
+     {
+      "player": "Ivan Toney",
+      "team": "Al Ahli",
+      "value": 13,
+      "matches": "9"
+     },
+     {
+      "player": "Tijjani Reijnders",
+      "team": "Al Qadsiah",
+      "value": 8,
+      "matches": "10"
+     },
+     {
+      "player": "Alexandre Lacazette",
+      "team": "Neom SC",
+      "value": 7,
+      "matches": "11"
+     },
+     {
+      "player": "Mateo Retegui",
+      "team": "Al Qadsiah",
+      "value": 7,
+      "matches": "11"
+     },
+     {
+      "player": "Cristiano Ronaldo",
+      "team": "Al Nassr",
+      "value": 7,
+      "matches": "10"
+     },
+     {
+      "player": "Youssef En-Nesyri",
+      "team": "Al Ittihad",
+      "value": 7,
+      "matches": "10"
+     },
+     {
+      "player": "Francisco Trinc\u00e3o",
+      "team": "Al Ahli",
+      "value": 6,
+      "matches": "11"
+     },
+     {
+      "player": "Juli\u00e1n Qui\u00f1ones",
+      "team": "Al Qadsiah",
+      "value": 6,
+      "matches": "11"
+     },
+     {
+      "player": "Julien Domingues",
+      "team": "Al Kholood",
+      "value": 6,
+      "matches": "11"
+     },
+     {
+      "player": "Yannick Carrasco",
+      "team": "Al Shabab",
+      "value": 6,
+      "matches": "9"
+     }
+    ],
+    "assists": [
+     {
+      "player": "Jo\u00e3o F\u00e9lix",
+      "team": "Al Nassr",
+      "value": 6,
+      "matches": "10"
+     },
+     {
+      "player": "Musab Al-Juwayr",
+      "team": "Al Qadsiah",
+      "value": 5,
+      "matches": "12"
+     },
+     {
+      "player": "Juli\u00e1n Qui\u00f1ones",
+      "team": "Al Qadsiah",
+      "value": 5,
+      "matches": "11"
+     },
+     {
+      "player": "Ollie Watkins",
+      "team": "Al Hilal",
+      "value": 5,
+      "matches": "8"
+     },
+     {
+      "player": "Sadio Man\u00e9",
+      "team": "Al Nassr",
+      "value": 4,
+      "matches": "11"
+     }
+    ],
+    "season": "2026-27 Saudi Pro League"
+   }
+  ],
+  "teams": [
+   {
+    "l": "eng",
+    "name": "Arsenal",
+    "short": "Arsenal",
+    "keys": [
+     "arsenal"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Manchester City",
+    "short": "Man City",
+    "keys": [
+     "man city",
+     "manchester city"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Brighton & Hove Albion",
+    "short": "Brighton",
+    "keys": [
+     "brighton",
+     "brighton & hove albion"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Chelsea",
+    "short": "Chelsea",
+    "keys": [
+     "chelsea"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Liverpool",
+    "short": "Liverpool",
+    "keys": [
+     "liverpool"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Brentford",
+    "short": "Brentford",
+    "keys": [
+     "brentford"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Everton",
+    "short": "Everton",
+    "keys": [
+     "everton"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "AFC Bournemouth",
+    "short": "Bournemouth",
+    "keys": [
+     "afc bournemouth",
+     "bournemouth"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Tottenham Hotspur",
+    "short": "Spurs",
+    "keys": [
+     "spurs",
+     "tottenham",
+     "tottenham hotspur"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Aston Villa",
+    "short": "Aston Villa",
+    "keys": [
+     "aston villa"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Hull City",
+    "short": "Hull",
+    "keys": [
+     "hull",
+     "hull city"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Leeds United",
+    "short": "Leeds",
+    "keys": [
+     "leeds",
+     "leeds united"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Newcastle United",
+    "short": "Newcastle",
+    "keys": [
+     "newcastle",
+     "newcastle united"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Ipswich Town",
+    "short": "Ipswich",
+    "keys": [
+     "ipswich",
+     "ipswich town"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Fulham",
+    "short": "Fulham",
+    "keys": [
+     "fulham"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Coventry City",
+    "short": "Coventry",
+    "keys": [
+     "coventry",
+     "coventry city"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Manchester United",
+    "short": "Man Utd",
+    "keys": [
+     "man united",
+     "man utd",
+     "manchester united",
+     "manchester utd"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Crystal Palace",
+    "short": "C Palace",
+    "keys": [
+     "c palace",
+     "crystal palace"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Nottingham Forest",
+    "short": "Nottm Forest",
+    "keys": [
+     "forest",
+     "nottingham forest",
+     "nottm forest"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Sunderland",
+    "short": "Sunderland",
+    "keys": [
+     "sunderland"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Barcelona",
+    "short": "Barcelona",
+    "keys": [
+     "barca",
+     "barcelona",
+     "fc barcelona"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Atl\u00e9tico Madrid",
+    "short": "Atl\u00e9tico",
+    "keys": [
+     "atleti",
+     "atletico",
+     "atletico madrid"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Real Madrid",
+    "short": "Real Madrid",
+    "keys": [
+     "real madrid"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Real Betis",
+    "short": "Betis",
+    "keys": [
+     "betis",
+     "real betis"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Real Sociedad",
+    "short": "Real Sociedad",
+    "keys": [
+     "real sociedad"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Sevilla",
+    "short": "Sevilla",
+    "keys": [
+     "sevilla"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Athletic Club",
+    "short": "Athletic",
+    "keys": [
+     "athletic",
+     "athletic club"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Deportivo",
+    "short": "Deportivo",
+    "keys": [
+     "deportivo"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Villarreal",
+    "short": "Villarreal",
+    "keys": [
+     "villarreal"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Celta Vigo",
+    "short": "Celta Vigo",
+    "keys": [
+     "celta",
+     "celta vigo"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Alav\u00e9s",
+    "short": "Alav\u00e9s",
+    "keys": [
+     "alaves"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Rayo Vallecano",
+    "short": "Rayo",
+    "keys": [
+     "rayo",
+     "rayo vallecano"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Getafe",
+    "short": "Getafe",
+    "keys": [
+     "getafe"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Espanyol",
+    "short": "Espanyol",
+    "keys": [
+     "espanyol"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Osasuna",
+    "short": "Osasuna",
+    "keys": [
+     "osasuna"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Racing Santander",
+    "short": "Racing",
+    "keys": [
+     "racing",
+     "racing santander"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Elche",
+    "short": "Elche",
+    "keys": [
+     "elche"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Levante",
+    "short": "Levante",
+    "keys": [
+     "levante"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Valencia",
+    "short": "Valencia",
+    "keys": [
+     "valencia"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "M\u00e1laga",
+    "short": "M\u00e1laga",
+    "keys": [
+     "malaga"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Lazio",
+    "short": "Lazio",
+    "keys": [
+     "lazio"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Internazionale",
+    "short": "Inter Milan",
+    "keys": [
+     "inter",
+     "inter milan",
+     "internazionale"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "AS Roma",
+    "short": "AS Roma",
+    "keys": [
+     "as roma"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Como",
+    "short": "Como",
+    "keys": [
+     "como"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "AC Milan",
+    "short": "Milan",
+    "keys": [
+     "ac milan",
+     "milan"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Frosinone",
+    "short": "Frosinone",
+    "keys": [
+     "frosinone"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Juventus",
+    "short": "Juventus",
+    "keys": [
+     "juve",
+     "juventus"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Napoli",
+    "short": "Napoli",
+    "keys": [
+     "napoli"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Bologna",
+    "short": "Bologna",
+    "keys": [
+     "bologna"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Torino",
+    "short": "Torino",
+    "keys": [
+     "torino"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Genoa",
+    "short": "Genoa",
+    "keys": [
+     "genoa"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Cagliari",
+    "short": "Cagliari",
+    "keys": [
+     "cagliari"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Atalanta",
+    "short": "Atalanta",
+    "keys": [
+     "atalanta"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Lecce",
+    "short": "Lecce",
+    "keys": [
+     "lecce"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Parma",
+    "short": "Parma",
+    "keys": [
+     "parma"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Fiorentina",
+    "short": "Fiorentina",
+    "keys": [
+     "fiorentina"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Sassuolo",
+    "short": "Sassuolo",
+    "keys": [
+     "sassuolo"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Monza",
+    "short": "Monza",
+    "keys": [
+     "monza"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Udinese",
+    "short": "Udinese",
+    "keys": [
+     "udinese"
+    ]
+   },
+   {
+    "l": "ita",
+    "name": "Venezia",
+    "short": "Venezia",
+    "keys": [
+     "venezia"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "Bayern Munich",
+    "short": "Bayern",
+    "keys": [
+     "bayern",
+     "bayern munich",
+     "fc bayern"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "Borussia Dortmund",
+    "short": "Dortmund",
+    "keys": [
+     "borussia dortmund",
+     "bvb",
+     "dortmund"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "SC Freiburg",
+    "short": "Freiburg",
+    "keys": [
+     "freiburg",
+     "sc freiburg"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "RB Leipzig",
+    "short": "RB Leipzig",
+    "keys": [
+     "leipzig",
+     "rb leipzig"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "Werder Bremen",
+    "short": "Bremen",
+    "keys": [
+     "bremen",
+     "werder bremen"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "Bayer Leverkusen",
+    "short": "Leverkusen",
+    "keys": [
+     "bayer",
+     "bayer leverkusen",
+     "leverkusen"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "SV Elversberg",
+    "short": "Elversberg",
+    "keys": [
+     "elversberg",
+     "sv elversberg"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "Eintracht Frankfurt",
+    "short": "Frankfurt",
+    "keys": [
+     "eintracht",
+     "eintracht frankfurt",
+     "frankfurt"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "Mainz",
+    "short": "Mainz",
+    "keys": [
+     "mainz"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "FC Augsburg",
+    "short": "Augsburg",
+    "keys": [
+     "augsburg",
+     "fc augsburg"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "VfB Stuttgart",
+    "short": "Stuttgart",
+    "keys": [
+     "stuttgart",
+     "vfb stuttgart"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "TSG Hoffenheim",
+    "short": "Hoffenheim",
+    "keys": [
+     "hoffenheim",
+     "tsg hoffenheim"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "FC Cologne",
+    "short": "Cologne",
+    "keys": [
+     "cologne",
+     "fc cologne"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "SC Paderborn 07",
+    "short": "Paderborn",
+    "keys": [
+     "paderborn",
+     "sc paderborn 07"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "Hamburg SV",
+    "short": "Hamburg",
+    "keys": [
+     "hamburg",
+     "hamburg sv"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "1. FC Union Berlin",
+    "short": "Union Berlin",
+    "keys": [
+     "1. fc union berlin",
+     "union berlin"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "Schalke 04",
+    "short": "Schalke",
+    "keys": [
+     "schalke",
+     "schalke 04"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "Borussia M\u00f6nchengladbach",
+    "short": "Gladbach",
+    "keys": [
+     "borussia monchengladbach",
+     "gladbach"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Paris Saint-Germain",
+    "short": "PSG",
+    "keys": [
+     "paris",
+     "paris saint-germain",
+     "paris sg",
+     "psg"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Lille",
+    "short": "Lille",
+    "keys": [
+     "lille"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Lyon",
+    "short": "Lyon",
+    "keys": [
+     "lyon"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Paris FC",
+    "short": "Paris FC",
+    "keys": [
+     "paris",
+     "paris fc"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Stade Rennais",
+    "short": "Rennes",
+    "keys": [
+     "rennes",
+     "stade rennais"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Marseille",
+    "short": "Marseille",
+    "keys": [
+     "marseille",
+     "om marseille"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "AS Monaco",
+    "short": "Monaco",
+    "keys": [
+     "as monaco",
+     "monaco"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Nice",
+    "short": "Nice",
+    "keys": [
+     "nice"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Lens",
+    "short": "Lens",
+    "keys": [
+     "lens"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Brest",
+    "short": "Brest",
+    "keys": [
+     "brest"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Lorient",
+    "short": "Lorient",
+    "keys": [
+     "lorient"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Toulouse",
+    "short": "Toulouse",
+    "keys": [
+     "toulouse"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Strasbourg",
+    "short": "Strasbourg",
+    "keys": [
+     "strasbourg"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "AJ Auxerre",
+    "short": "Auxerre",
+    "keys": [
+     "aj auxerre",
+     "auxerre"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Angers",
+    "short": "Angers",
+    "keys": [
+     "angers"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Troyes",
+    "short": "Troyes",
+    "keys": [
+     "troyes"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Le Mans",
+    "short": "Le Mans",
+    "keys": [
+     "le mans"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "Le Havre AC",
+    "short": "Le Havre AC",
+    "keys": [
+     "le havre ac"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "Sporting CP",
+    "short": "Sporting",
+    "keys": [
+     "sporting",
+     "sporting cp"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "Club Brugge",
+    "short": "Club Brugge",
+    "keys": [
+     "club brugge"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "LASK Linz",
+    "short": "LASK Linz",
+    "keys": [
+     "lask linz"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "Galatasaray",
+    "short": "Galatasaray",
+    "keys": [
+     "galatasaray"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "Shakhtar Donetsk",
+    "short": "Shakhtar",
+    "keys": [
+     "shakhtar",
+     "shakhtar donetsk"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "PSV Eindhoven",
+    "short": "PSV",
+    "keys": [
+     "psv",
+     "psv eindhoven"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "Bodo/Glimt",
+    "short": "Bodo/Glimt",
+    "keys": [
+     "bodo/glimt"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "Sabah FK",
+    "short": "Sabah",
+    "keys": [
+     "sabah",
+     "sabah fk"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "AEK Athens",
+    "short": "AEK Athens",
+    "keys": [
+     "aek athens"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "Feyenoord Rotterdam",
+    "short": "Feyenoord",
+    "keys": [
+     "feyenoord",
+     "feyenoord rotterdam"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "Fenerbahce",
+    "short": "Fenerbahce",
+    "keys": [
+     "fenerbahce"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "Slavia Prague",
+    "short": "Slavia Prague",
+    "keys": [
+     "slavia",
+     "slavia prague"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "Viking FK",
+    "short": "Viking FK",
+    "keys": [
+     "viking",
+     "viking fk"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "FC Porto",
+    "short": "FC Porto",
+    "keys": [
+     "fc porto"
+    ]
+   },
+   {
+    "l": "eur",
+    "name": "Slovan Bratislava",
+    "short": "S Bratislava",
+    "keys": [
+     "s bratislava",
+     "slovan",
+     "slovan bratislava"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Hilal",
+    "short": "Al Hilal",
+    "keys": [
+     "al hilal",
+     "al-hilal",
+     "hilal"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Qadsiah",
+    "short": "Al Qadsiah",
+    "keys": [
+     "al qadsiah"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Nassr",
+    "short": "Al Nassr",
+    "keys": [
+     "al nassr",
+     "al-nassr",
+     "nassr"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Ittihad",
+    "short": "Al Ittihad",
+    "keys": [
+     "al ittihad",
+     "al-ittihad",
+     "ittihad"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Neom SC",
+    "short": "Neom SC",
+    "keys": [
+     "neom sc"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Ahli",
+    "short": "Al Ahli",
+    "keys": [
+     "al ahli",
+     "al-ahli"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Ettifaq",
+    "short": "Al Ettifaq",
+    "keys": [
+     "al ettifaq"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Diriyah",
+    "short": "Al Diriyah",
+    "keys": [
+     "al diriyah"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Khaleej",
+    "short": "Al Khaleej",
+    "keys": [
+     "al khaleej"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Shabab",
+    "short": "Al Shabab",
+    "keys": [
+     "al shabab"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Kholood",
+    "short": "Al Kholood",
+    "keys": [
+     "al kholood"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Riyadh",
+    "short": "Al Riyadh",
+    "keys": [
+     "al riyadh"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Fayha",
+    "short": "Al Fayha",
+    "keys": [
+     "al fayha"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Hazem",
+    "short": "Al Hazem",
+    "keys": [
+     "al hazem"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Faisaly",
+    "short": "Al Faisaly",
+    "keys": [
+     "al faisaly"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Fateh",
+    "short": "Al Fateh",
+    "keys": [
+     "al fateh"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Al Taawoun",
+    "short": "Al Taawoun",
+    "keys": [
+     "al taawoun"
+    ]
+   },
+   {
+    "l": "ksa",
+    "name": "Abha",
+    "short": "Abha",
+    "keys": [
+     "abha"
+    ]
+   }
+  ]
+ }
 }
