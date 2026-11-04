@@ -12,10 +12,15 @@ main{max-width:760px;margin:0 auto;padding:26px 16px 50px}h1{line-height:1.25;fo
 h2{font-size:22px;margin-top:30px}.meta{color:var(--mut);font-size:14px}.pill{display:inline-block;background:var(--card);border:1px solid var(--line);border-radius:20px;padding:2px 12px;font-size:13px;color:var(--acc)}
 .list a.card{display:block;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:14px 0;text-decoration:none;color:var(--txt)}
 .list a.card:hover{border-color:var(--acc)}.card h3{margin:6px 0 4px;font-size:20px}.card p{margin:0;color:var(--mut);font-size:15px}
-footer{border-top:1px solid var(--line);color:var(--mut);font-size:13px;padding:18px 16px;text-align:center}footer a{margin:0 6px}</style></head><body>
+footer{border-top:1px solid var(--line);color:var(--mut);font-size:13px;padding:18px 16px;text-align:center}footer a{margin:0 6px}
+.top nav{align-items:center;flex-wrap:wrap}.langpick{background:#10251a;color:#eef6f0;border:1px solid #1f3d2b;border-radius:10px;padding:6px 8px;font:600 14px system-ui,sans-serif}
+.note{background:#10251a;border:1px solid #1f3d2b;border-radius:10px;padding:10px 14px;color:#ffc83d;font-size:15px}
+[dir=rtl] .top nav{margin-left:0;margin-right:auto}
+:lang(ar) body{font-family:"Segoe UI",Tahoma,"Noto Sans Arabic",system-ui,sans-serif}</style></head><body>
 <header><div class="top"><a href="../index.html"><img src="../logo.png" alt="Football Arena"></a><b>FOOTBALL <span>ARENA</span></b>
-<nav><a href="../index.html#highlights">Highlights</a><a href="../index.html#news">News</a><a href="../articles/index.html">Articles</a><a href="../quiz.html" style="color:#ffc83d">Quiz</a><a href="../about.html">About</a></nav></div></header>
-<main><span class="pill">Tactics</span><h1>Football Formations Explained: 4-4-2, 4-3-3 and 3-5-2</h1><div class="meta">By Football Arena · 04 November 2026</div>
+<nav><a href="../index.html#highlights" data-i18n="nav_hl">Highlights</a><a href="../index.html#news" data-i18n="nav_news">News</a><a href="../articles/index.html" data-i18n="nav_art">Articles</a><a href="../quiz.html" style="color:#ffc83d" data-i18n="nav_quiz">Quiz</a><a href="../about.html" data-i18n="nav_about">About</a>
+<select class="langpick" aria-label="Language"></select></nav></div></header>
+<main><p class="note" data-i18n-note style="display:none"></p><span class="pill">Tactics</span><h1>Football Formations Explained: 4-4-2, 4-3-3 and 3-5-2</h1><div class="meta">By Football Arena · 04 November 2026</div>
 <p>When commentators say a team is playing "4-3-3", they are describing how the ten outfield players are arranged. The numbers always go from the back to the front, and the goalkeeper is never counted.</p>
 <h2>4-4-2: the classic</h2>
 <p>Four defenders, four midfielders and two strikers. It is simple, balanced and easy for players to understand. Each player has a clear partner, and the two strikers can help each other up front. Its weakness is that the middle of the pitch can be outnumbered by teams with three central midfielders.</p>
@@ -31,5 +36,6 @@ footer{border-top:1px solid var(--line);color:var(--mut);font-size:13px;padding:
 <p>There is no perfect formation. The best one is the shape that fits the players a coach has. A team with fast wingers might love 4-3-3, while a team with strong defenders might prefer three centre-backs.</p>
 <p><strong>Question for you:</strong> which formation does your favourite team play, and do you agree with it?</p>
 <h2>More articles</h2><ul><li><a href="offside-rule-explained.html">The Offside Rule Explained Simply</a></li><li><a href="short-history-of-the-world-cup.html">A Short History of the FIFA World Cup</a></li><li><a href="morocco-2022-world-cup-run.html">Morocco&#x27;s Historic 2022 World Cup Run</a></li><li><a href="what-is-var.html">What Is VAR and How Does It Work?</a></li></ul><p><a href="index.html">← All articles</a></p></main>
-<footer>© 2026 Football Arena ·<a href="../about.html">About</a>·<a href="../contact.html">Contact</a>·<a href="../privacy.html">Privacy</a>·<a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener">Facebook</a></footer>
+<footer>© 2026 Football Arena ·<a href="../about.html" data-i18n="about">About</a>·<a href="../contact.html" data-i18n="contact">Contact</a>·<a href="../privacy.html" data-i18n="privacy">Privacy</a>·<a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener" data-i18n="nav_fb">Facebook</a></footer>
+<script src="../i18n.js"></script>
 </body></html>
