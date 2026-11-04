@@ -266,7 +266,7 @@ def fixture_cards(fx):
             tv = '<div>📺 <span data-i18n="tv_check">Check your local TV listings</span></div>'
         comp = f'<span data-i18n="lg_{f["l"]}">{e(f["comp"])}</span>' if f["l"] != "eur" else e(f["comp"])
         rows.append(
-            f'<div class="card fix" data-l="{f["l"]}"><div class="ftop">{flag(f["l"])} {comp}{badge}</div>'
+            f'<div class="card fix" data-l="{f["l"]}" data-s="{e(plain(f["home"] + " " + f["away"]))}"><div class="ftop">{flag(f["l"])} {comp}{badge}</div>'
             f'<div class="ftime" data-k="{int(d.timestamp())}">{d.strftime("%a %d %b · %H:%M UTC")}</div>'
             f'<div class="teams"><span>{e(f["home"])}</span>{mid}<span>{e(f["away"])}</span></div>'
             f'<div class="tv">{tv}</div>' + (f'<div class="venue">🏟️ {e(f["venue"])}</div>' if f["venue"] else "")
@@ -275,29 +275,35 @@ def fixture_cards(fx):
     return "\n".join(rows) or '<p class="empty" data-i18n="no_fix">No matches scheduled in the next few days.</p>'
 
 
+def plain(t):
+    import unicodedata
+    return "".join(ch for ch in unicodedata.normalize("NFD", (t or "").lower()) if unicodedata.category(ch) != "Mn")
+
+
 def ago_span(d):
     return f'<span class="ago" data-t="{int(d.timestamp())}">{ago(d)}</span>'
 
 
-def render(news_items, vids, fx=()):
+def render(news_items, vids, fx=(), teams=()):
     e = html.escape
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%d %b %Y, %H:%M UTC")
     names = {k: f"{country} · {league}" for k, _c, country, league, _kw in LEAGUES}
     vcards = "\n".join(
-        f'<a class="vid card" data-l="{lg}" href="https://www.youtube.com/watch?v={e(v["id"])}" target="_blank" rel="noopener">'
+        f'<a class="vid card" data-l="{lg}" data-s="{e(plain(v["title"]))}" href="https://www.youtube.com/watch?v={e(v["id"])}" target="_blank" rel="noopener">'
         f'<div class="thumb"><img src="https://i.ytimg.com/vi/{e(v["id"])}/hqdefault.jpg" alt="" loading="lazy"><span class="play">▶</span></div>'
         f'<div class="vt">{e(nice_title(v["title"]))}</div>'
         f'<div class="meta">{flag(lg)} <span data-i18n="lg_{lg}">{e(names[lg].split(" · ")[1])}</span> · {ago_span(v["date"])}</div></a>'
         for v in vids for lg in [CHANNEL_LEAGUE.get(v["channel"], "wld")]) \
         or '<p class="empty">Highlights are loading – check back soon.</p>'
     ncards = "\n".join(
-        f'<a class="news card" data-l="{lg}" href="{e(n["link"])}" target="_blank" rel="noopener">'
+        f'<a class="news card" data-l="{lg}" data-s="{e(plain(n["title"] + " " + n["summary"]))}" href="{e(n["link"])}" target="_blank" rel="noopener">'
         + (f'<img class="nimg" src="{e(n["image"])}" alt="" loading="lazy">' if n["image"] else "")
         + f'<div><div class="nt">{e(n["title"])}</div><p>{e(n["summary"])}</p>'
           f'<div class="meta">{flag(lg)} {e(n["source"])} · {ago_span(n["date"])}</div></div></a>'
         for n in news_items for lg in [league_of_news(n)]) \
         or '<p class="empty">News is loading – check back soon.</p>'
-    chips = '<button class="chip on" data-f="all">⚽ <span data-i18n="all">All</span></button>' + "".join(
+    chips = ('<button class="chip on" data-f="all">⚽ <span data-i18n="all">All</span></button>'
+             '<button class="chip mychip" data-f="my">⭐ <span data-i18n="my_teams">My Teams</span></button>') + "".join(
         f'<button class="chip" data-f="{k}">{flag(k)} <span data-i18n="c_{k}">{e(country)}</span><small data-i18n="lg_{k}">{e(league)}</small></button>'
         for k, _c, country, league, _kw in LEAGUES)
     try:
@@ -309,7 +315,8 @@ def render(news_items, vids, fx=()):
         f'<a class="news card" href="articles/{e(a["slug"])}.html"><div><div class="nt">{e(a["title"])}</div>'
         f'<p>{e(a["summary"])}</p><div class="meta">📝 {e(a["tag"])} · Football Arena</div></div></a>' for a in arts)
     return (TEMPLATE.replace("{{FIXTURES}}", fixture_cards(fx)).replace("{{CHIPS}}", chips).replace("{{ARTICLES}}", acards).replace("{{VIDEOS}}", vcards)
-            .replace("{{NEWS}}", ncards).replace("{{UPDATED}}", now))
+            .replace("{{NEWS}}", ncards).replace("{{UPDATED}}", now)
+            .replace("{{TEAMS}}", json.dumps(list(teams), ensure_ascii=False).replace("</", "<\\/")))
 
 
 TEMPLATE = """<!doctype html>
@@ -362,6 +369,21 @@ section{margin-bottom:38px}.empty{color:var(--mut)}
 .quizban a{margin-left:auto;background:var(--gold);color:#2a1d00;font-weight:800;border-radius:22px;padding:10px 22px}
 footer{border-top:1px solid var(--line);color:var(--mut);font-size:13px;padding:18px 16px;text-align:center}
 footer a{color:var(--acc)}
+.chip.mychip{border-color:#ffc83d}.chip.mychip.on{background:#ffc83d;border-color:#ffc83d;color:#2a1d00}
+.modal{position:fixed;inset:0;z-index:50;background:rgba(0,0,0,.72);display:grid;place-items:center;padding:16px}.modal[hidden]{display:none}
+.mbox{background:var(--card);border:1px solid var(--line);border-radius:18px;width:min(640px,100%);max-height:88vh;display:flex;flex-direction:column;overflow:hidden}
+.mbox.wide{width:min(980px,100%)}.mhead{display:flex;align-items:center;gap:10px;padding:14px 16px;border-bottom:1px solid var(--line)}
+.mhead b{flex:1;font-size:17px;line-height:1.3}.x{background:none;border:0;color:var(--txt);font-size:22px;cursor:pointer}
+.ptabs{display:flex;gap:6px;overflow-x:auto;padding:12px 16px 4px;scrollbar-width:none}
+.ptab{flex:none;background:var(--bg);color:var(--mut);border:1px solid var(--line);border-radius:18px;padding:6px 12px;font:600 13px system-ui,sans-serif;cursor:pointer}
+.ptab.on{background:var(--acc);color:#04210f;border-color:var(--acc)}
+.pteams{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:8px;padding:12px 16px;overflow:auto}
+.pteam{text-align:start;background:var(--bg);color:var(--txt);border:1px solid var(--line);border-radius:12px;padding:10px 12px;font:600 14px system-ui,sans-serif;cursor:pointer}
+.pteam.on{border-color:#ffc83d;background:#2a2a0c}
+.mfoot{display:flex;align-items:center;justify-content:space-between;padding:12px 16px;border-top:1px solid var(--line)}
+.done{background:var(--acc);color:#04210f;border:0;border-radius:20px;padding:9px 24px;font:800 15px system-ui,sans-serif;cursor:pointer}
+.vwrap{position:relative;aspect-ratio:16/9;background:#000}.vwrap iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.yt{margin:0;padding:10px 16px;font-size:14px}.yt a{color:var(--acc)}
 .fix{padding:12px 14px}.ftop{display:flex;align-items:center;gap:6px;color:var(--mut);font-size:13px;font-weight:600}
 .ftime{color:var(--gold);font-weight:700;font-size:14px;margin:6px 0 4px}
 .teams{display:grid;grid-template-columns:1fr auto 1fr;gap:8px;align-items:center;font-weight:700;font-size:16px;line-height:1.25;margin:6px 0 10px}
@@ -379,7 +401,7 @@ nav a.livelink{color:#ff6b6b}.fnote{color:var(--mut);font-size:13px;margin:-6px 
 <div class="tag" data-i18n="tagline">Highlights & news from the world's biggest leagues · updated every hour</div></div>
 <select class="langpick" aria-label="Language"></select></div></header>
 <div class="bar"><div class="wrap">
-<nav><a href="#highlights">🎬 <span data-i18n="nav_hl">Highlights</span></a><a class="livelink" href="live.html">🔴 <span data-i18n="nav_live">Live</span></a><a href="#matches">📅 <span data-i18n="nav_fix">Matches</span></a><a href="#news">📰 <span data-i18n="nav_news">News</span></a><a href="articles/index.html">📝 <span data-i18n="nav_art">Articles</span></a><a class="quiz" href="quiz.html">🧠 <span data-i18n="nav_quiz">Quiz</span></a><a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener">👍 <span data-i18n="nav_fb">Facebook</span></a></nav>
+<nav><a href="#highlights">🎬 <span data-i18n="nav_hl">Highlights</span></a><a class="livelink" href="live.html">🔴 <span data-i18n="nav_live">Live</span></a><a href="#matches">📅 <span data-i18n="nav_fix">Matches</span></a><a href="tables.html">📊 <span data-i18n="nav_tables">Tables</span></a><a href="#news">📰 <span data-i18n="nav_news">News</span></a><a href="articles/index.html">📝 <span data-i18n="nav_art">Articles</span></a><a class="quiz" href="quiz.html">🧠 <span data-i18n="nav_quiz">Quiz</span></a><a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener">👍 <span data-i18n="nav_fb">Facebook</span></a></nav>
 <div class="chips">{{CHIPS}}</div>
 </div></div>
 <main class="wrap">
@@ -403,15 +425,32 @@ nav a.livelink{color:#ff6b6b}.fnote{color:var(--mut);font-size:13px;margin:-6px 
 <footer><span data-i18n="updated">Updated</span> {{UPDATED}} · <span data-i18n="foot">Videos play on the official YouTube channels of each league. News headlines link to the original
 publishers (BBC Sport, The Guardian, ESPN). All rights belong to their owners.</span><br>
 <a href="about.html" data-i18n="about">About</a> · <a href="contact.html" data-i18n="contact">Contact</a> · <a href="privacy.html" data-i18n="privacy">Privacy</a></footer>
+<div class="modal" id="picker" hidden><div class="mbox"><div class="mhead"><b data-i18n="pick_teams">Pick your favourite teams</b>
+<button class="x" data-close aria-label="Close">✕</button></div><div class="ptabs" id="ptabs"></div><div class="pteams" id="pteams"></div>
+<div class="mfoot"><span class="meta" id="pcount"></span><button class="done" id="pdone" data-i18n="done">Done</button></div></div></div>
+<div class="modal" id="player" hidden><div class="mbox wide"><div class="mhead"><b id="ptitle"></b><button class="x" data-close aria-label="Close">✕</button></div>
+<div class="vwrap" id="vwrap"></div><p class="yt"><a id="ytlink" href="#" target="_blank" rel="noopener" data-i18n="yt_fallback">Video not playing? Watch it on YouTube</a></p></div></div>
+<script id="teams-data" type="application/json">{{TEAMS}}</script>
 <script src="i18n.js"></script>
 <script>
 (function(){
   var filter = "all";
+  var TEAMS = []; try { TEAMS = JSON.parse(document.getElementById("teams-data").textContent); } catch(e) {}
+  function getMine(){ try { return JSON.parse(localStorage.getItem("fa_teams") || "[]"); } catch(e) { return []; } }
+  function setMine(a){ try { localStorage.setItem("fa_teams", JSON.stringify(a)); } catch(e) {} }
+  function esc(x){ return x.replace(/[^a-z0-9 &'-]/g, ""); }
+  var mineRe = null;
+  function buildRe(){
+    var keys = [];
+    getMine().forEach(function(n){ TEAMS.forEach(function(t){ if (t.name === n) keys = keys.concat(t.keys); }); });
+    mineRe = keys.length ? new RegExp("(^|[^a-z0-9])(" + keys.map(esc).join("|") + ")($|[^a-z0-9])") : null;
+  }
+  buildRe();
   function apply(){
     document.querySelectorAll(".grid[data-show]").forEach(function(g){
       var lim = +g.dataset.limit || +g.dataset.show, total = 0;
       g.querySelectorAll(".card").forEach(function(c){
-        var ok = filter === "all" || c.dataset.l === filter;
+        var ok = filter === "all" || (filter === "my" ? !!(mineRe && mineRe.test(c.dataset.s || "")) : c.dataset.l === filter);
         if (!ok) { c.classList.add("hide"); return; }
         total++;
         c.classList.toggle("hide", total > lim);
@@ -421,12 +460,14 @@ publishers (BBC Sport, The Guardian, ESPN). All rights belong to their owners.</
       sec.querySelector(".more").style.display = shown < total ? "" : "none";
       sec.querySelector(".count").textContent = total ? "(" + total + ")" : "";
       var em = g.querySelector(".none");
-      if (!total && !em){ em = document.createElement("p"); em.className = "empty none"; em.setAttribute("data-i18n", "none"); em.textContent = window.FA ? FA.t("none") : "Nothing for this league right now – check back soon."; g.appendChild(em); }
+      if (!total && !em){ em = document.createElement("p"); em.className = "empty none"; g.appendChild(em); }
+      if (em){ var k = filter === "my" ? "no_my" : "none"; em.setAttribute("data-i18n", k); em.textContent = window.FA ? FA.t(k) : ""; }
       if (em) em.style.display = total ? "none" : "";
     });
   }
   document.querySelectorAll(".chip").forEach(function(b){
     b.onclick = function(){
+      if (b.dataset.f === "my" && (!getMine().length || filter === "my")) { openPicker(); return; }
       document.querySelectorAll(".chip").forEach(function(x){ x.classList.toggle("on", x === b); });
       filter = b.dataset.f;
       document.querySelectorAll(".grid[data-show]").forEach(function(g){ g.dataset.limit = ""; });
@@ -436,6 +477,45 @@ publishers (BBC Sport, The Guardian, ESPN). All rights belong to their owners.</
   });
   document.querySelectorAll(".more").forEach(function(m){
     m.onclick = function(){ var g = m.previousElementSibling; g.dataset.limit = (+g.dataset.limit || +g.dataset.show) + 12; apply(); };
+  });
+  // ---- My Teams picker
+  var picker = document.getElementById("picker"), ptabs = document.getElementById("ptabs"), pteams = document.getElementById("pteams");
+  var LG = [["eng","Premier League"],["esp","LaLiga"],["ita","Serie A"],["ger","Bundesliga"],["fra","Ligue 1"],["ksa","Saudi Pro League"],["eur","Europe"]];
+  var cur = "eng";
+  function drawPicker(){
+    var mine = getMine();
+    ptabs.innerHTML = LG.filter(function(l){ return TEAMS.some(function(t){ return t.l === l[0]; }); }).map(function(l){
+      return '<button class="ptab' + (l[0] === cur ? ' on' : '') + '" data-l="' + l[0] + '">' + l[1] + '</button>'; }).join("");
+    pteams.innerHTML = TEAMS.filter(function(t){ return t.l === cur; }).map(function(t){
+      var on = mine.indexOf(t.name) >= 0;
+      return '<button class="pteam' + (on ? ' on' : '') + '" data-n="' + t.name.replace(/"/g, "&quot;") + '">' + (on ? "⭐ " : "☆ ") + t.name + '</button>'; }).join("")
+      || '<p class="meta">⏳</p>';
+    document.getElementById("pcount").textContent = mine.length ? "⭐ " + mine.length : "";
+    ptabs.querySelectorAll(".ptab").forEach(function(b){ b.onclick = function(){ cur = b.dataset.l; drawPicker(); }; });
+    pteams.querySelectorAll(".pteam").forEach(function(b){ b.onclick = function(){
+      var m = getMine(), i = m.indexOf(b.dataset.n); if (i >= 0) m.splice(i, 1); else m.push(b.dataset.n); setMine(m); drawPicker(); }; });
+  }
+  function openPicker(){ drawPicker(); picker.hidden = false; }
+  document.getElementById("pdone").onclick = function(){
+    picker.hidden = true; buildRe();
+    var my = document.querySelector('.chip[data-f="my"]');
+    if (getMine().length) { filter = ""; my.onclick(); } else { document.querySelector('.chip[data-f="all"]').onclick(); }
+  };
+  // ---- highlights play on this page
+  var player = document.getElementById("player"), vwrap = document.getElementById("vwrap");
+  function closeAll(){ picker.hidden = true; player.hidden = true; vwrap.innerHTML = ""; }
+  document.querySelectorAll("[data-close]").forEach(function(b){ b.onclick = closeAll; });
+  [picker, player].forEach(function(m){ m.addEventListener("click", function(ev){ if (ev.target === m) closeAll(); }); });
+  document.addEventListener("keydown", function(ev){ if (ev.key === "Escape") closeAll(); });
+  document.querySelectorAll("a.vid").forEach(function(a){
+    a.addEventListener("click", function(ev){
+      var m = a.href.match(/[?&]v=([A-Za-z0-9_-]{6,})/); if (!m) return;
+      ev.preventDefault();
+      document.getElementById("ptitle").textContent = a.querySelector(".vt").textContent;
+      document.getElementById("ytlink").href = a.href;
+      vwrap.innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/' + m[1] + '?autoplay=1&rel=0" title="Highlights" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>';
+      player.hidden = false;
+    });
   });
   var h = location.hash.slice(1), pre = document.querySelector('.chip[data-f="' + h + '"]');
   if (pre) pre.click(); else apply();
@@ -461,9 +541,18 @@ if __name__ == "__main__":
         n = [dict(x, date=datetime.datetime.fromisoformat(x["date"])) for x in old["news_all"]]
     if not fx and old.get("fixtures"):
         fx = old["fixtures"]
-    print(f"{len(n)} news, {len(v)} videos, {len(fx)} fixtures")
-    open("index.html", "w").write(render(n, v, fx))
+    import tables
+    try:
+        tb = tables.fetch(get)
+    except Exception as ex:
+        print("Tables failed:", ex)
+        tb = {"leagues": [], "teams": []}
+    if not any(lg["rows"] for lg in tb["leagues"]) and old.get("tables"):
+        tb = old["tables"]
+    tables.render(tb)
+    print(f"{len(n)} news, {len(v)} videos, {len(fx)} fixtures, {len(tb['teams'])} teams")
+    open("index.html", "w").write(render(n, v, fx, tb["teams"]))
     json.dump({"news": [dict(x, date=x["date"].isoformat()) for x in n[:10]],
                "news_all": [dict(x, date=x["date"].isoformat()) for x in n],
                "videos": [dict(x, date=x["date"].isoformat()) for x in v],
-               "fixtures": fx}, open("latest.json", "w"), indent=1)
+               "fixtures": fx, "tables": tb}, open("latest.json", "w"), indent=1)
