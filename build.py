@@ -209,11 +209,75 @@ def flag(key):
     return ""
 
 
+
+# ---------- upcoming matches (ESPN public scoreboard) ----------
+FIX_LEAGUES = [("eng", "eng.1"), ("esp", "esp.1"), ("ita", "ita.1"), ("ger", "ger.1"), ("fra", "fra.1"),
+               ("eur", "uefa.champions"), ("eur", "uefa.europa")]
+# who shows each league in the Arab world / North Africa (checked Nov 2026; update if rights change)
+MENA_TV = {"eng": "beIN SPORTS", "esp": "beIN SPORTS", "ger": "beIN SPORTS", "fra": "beIN SPORTS", "eur": "beIN SPORTS"}
+
+
+def fixtures(days=7):
+    out, seen = [], set()
+    today = datetime.datetime.now(datetime.timezone.utc)
+    for key, code in FIX_LEAGUES:
+        for k in range(days):
+            day = (today + datetime.timedelta(days=k)).strftime("%Y%m%d")
+            try:
+                data = json.loads(get(f"https://site.api.espn.com/apis/site/v2/sports/soccer/{code}/scoreboard?dates={day}"))
+            except Exception as ex:
+                print("Fixtures failed:", code, day, ex)
+                continue
+            for ev in data.get("events", []):
+                st = ev.get("status", {}).get("type", {}).get("state")
+                if st not in ("pre", "in") or ev["id"] in seen:
+                    continue
+                seen.add(ev["id"])
+                c = ev["competitions"][0]
+                teams = {t.get("homeAway"): t for t in c.get("competitors", [])}
+                h, a = teams.get("home", {}), teams.get("away", {})
+                tv = []
+                for b in c.get("broadcasts", []) or []:
+                    tv += b.get("names", [])
+                out.append({"l": key, "comp": data.get("leagues", [{}])[0].get("name", ""), "date": ev["date"],
+                            "home": h.get("team", {}).get("displayName", "?"), "away": a.get("team", {}).get("displayName", "?"),
+                            "hs": h.get("score", ""), "as": a.get("score", ""), "live": st == "in",
+                            "clock": ev.get("status", {}).get("displayClock", ""),
+                            "venue": (c.get("venue") or {}).get("fullName", ""), "usa": sorted(set(tv))})
+    out.sort(key=lambda f: f["date"])
+    return out[:80]
+
+
+def fixture_cards(fx):
+    e = html.escape
+    rows = []
+    for f in fx:
+        d = parse_date(f["date"])
+        if not f["live"] and d < datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=3):
+            continue
+        mid = (f'<span class="sc"><b>{e(str(f["hs"]))}</b><b>–</b><b>{e(str(f["as"]))}</b></span>' if f["live"] else '<span class="vs">vs</span>')
+        badge = f'<span class="live">● <span data-i18n="live">LIVE</span> {e(f["clock"])}</span>' if f["live"] else ""
+        tv = ""
+        if MENA_TV.get(f["l"]):
+            tv += f'<div>📺 <span data-i18n="tv_mena">Arab world & North Africa</span>: <b>{e(MENA_TV[f["l"]])}</b></div>'
+        if f["usa"]:
+            tv += f'<div>📺 <span data-i18n="tv_usa">USA</span>: <b>{e(", ".join(f["usa"]))}</b></div>'
+        if not tv:
+            tv = '<div>📺 <span data-i18n="tv_check">Check your local TV listings</span></div>'
+        comp = f'<span data-i18n="lg_{f["l"]}">{e(f["comp"])}</span>' if f["l"] != "eur" else e(f["comp"])
+        rows.append(
+            f'<div class="card fix" data-l="{f["l"]}"><div class="ftop">{flag(f["l"])} {comp}{badge}</div>'
+            f'<div class="ftime" data-k="{int(d.timestamp())}">{d.strftime("%a %d %b · %H:%M UTC")}</div>'
+            f'<div class="teams"><span>{e(f["home"])}</span>{mid}<span>{e(f["away"])}</span></div>'
+            f'<div class="tv">{tv}</div>' + (f'<div class="venue">🏟️ {e(f["venue"])}</div>' if f["venue"] else "") + '</div>')
+    return "\n".join(rows) or '<p class="empty" data-i18n="no_fix">No matches scheduled in the next few days.</p>'
+
+
 def ago_span(d):
     return f'<span class="ago" data-t="{int(d.timestamp())}">{ago(d)}</span>'
 
 
-def render(news_items, vids):
+def render(news_items, vids, fx=()):
     e = html.escape
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%d %b %Y, %H:%M UTC")
     names = {k: f"{country} · {league}" for k, _c, country, league, _kw in LEAGUES}
@@ -242,7 +306,7 @@ def render(news_items, vids):
     acards = "\n".join(
         f'<a class="news card" href="articles/{e(a["slug"])}.html"><div><div class="nt">{e(a["title"])}</div>'
         f'<p>{e(a["summary"])}</p><div class="meta">📝 {e(a["tag"])} · Football Arena</div></div></a>' for a in arts)
-    return (TEMPLATE.replace("{{CHIPS}}", chips).replace("{{ARTICLES}}", acards).replace("{{VIDEOS}}", vcards)
+    return (TEMPLATE.replace("{{FIXTURES}}", fixture_cards(fx)).replace("{{CHIPS}}", chips).replace("{{ARTICLES}}", acards).replace("{{VIDEOS}}", vcards)
             .replace("{{NEWS}}", ncards).replace("{{UPDATED}}", now))
 
 
@@ -296,6 +360,13 @@ section{margin-bottom:38px}.empty{color:var(--mut)}
 .quizban a{margin-left:auto;background:var(--gold);color:#2a1d00;font-weight:800;border-radius:22px;padding:10px 22px}
 footer{border-top:1px solid var(--line);color:var(--mut);font-size:13px;padding:18px 16px;text-align:center}
 footer a{color:var(--acc)}
+.fix{padding:12px 14px}.ftop{display:flex;align-items:center;gap:6px;color:var(--mut);font-size:13px;font-weight:600}
+.ftime{color:var(--gold);font-weight:700;font-size:14px;margin:6px 0 4px}
+.teams{display:grid;grid-template-columns:1fr auto 1fr;gap:8px;align-items:center;font-weight:700;font-size:16px;line-height:1.25;margin:6px 0 10px}
+.teams span:last-child{text-align:end}.vs{color:var(--mut);font-size:13px}.sc{display:inline-flex;gap:5px;background:var(--acc);color:#04210f;border-radius:8px;padding:2px 8px}
+.live{margin-inline-start:auto;color:#ff5b5b;font-weight:800;font-size:12px}
+.tv{font-size:13px;color:var(--mut);border-top:1px solid var(--line);padding-top:8px}.tv b{color:var(--txt)}
+.venue{font-size:12px;color:var(--mut);margin-top:6px}.fnote{color:var(--mut);font-size:13px;margin:-6px 0 12px}
 .langpick{margin-inline-start:auto;background:var(--card);color:var(--txt);border:1px solid var(--line);border-radius:10px;padding:7px 10px;font:600 14px system-ui,sans-serif}
 [dir=rtl] .quizban a{margin-left:0;margin-right:auto}
 :lang(ar) body,:lang(ar) .chip,:lang(ar) .more{font-family:"Segoe UI",Tahoma,"Noto Sans Arabic",system-ui,sans-serif}
@@ -304,13 +375,18 @@ footer a{color:var(--acc)}
 <div class="tag" data-i18n="tagline">Highlights & news from the world's biggest leagues · updated every hour</div></div>
 <select class="langpick" aria-label="Language"></select></div></header>
 <div class="bar"><div class="wrap">
-<nav><a href="#highlights">🎬 <span data-i18n="nav_hl">Highlights</span></a><a href="#news">📰 <span data-i18n="nav_news">News</span></a><a href="articles/index.html">📝 <span data-i18n="nav_art">Articles</span></a><a class="quiz" href="quiz.html">🧠 <span data-i18n="nav_quiz">Quiz</span></a><a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener">👍 <span data-i18n="nav_fb">Facebook</span></a></nav>
+<nav><a href="#highlights">🎬 <span data-i18n="nav_hl">Highlights</span></a><a href="#matches">📅 <span data-i18n="nav_fix">Matches</span></a><a href="#news">📰 <span data-i18n="nav_news">News</span></a><a href="articles/index.html">📝 <span data-i18n="nav_art">Articles</span></a><a class="quiz" href="quiz.html">🧠 <span data-i18n="nav_quiz">Quiz</span></a><a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener">👍 <span data-i18n="nav_fb">Facebook</span></a></nav>
 <div class="chips">{{CHIPS}}</div>
 </div></div>
 <main class="wrap">
 <section id="highlights"><h2><span data-i18n="h_hl">Latest Highlights</span> <span class="count"></span></h2><div class="grid" data-show="8">
 {{VIDEOS}}
 </div><button class="more" data-i18n="more_hl">Show more highlights</button></section>
+<section id="matches"><h2><span data-i18n="h_fix">Upcoming Matches & TV Channels</span> <span class="count"></span></h2>
+<p class="fnote" data-i18n="fix_note">Times are shown in your local time. TV channels can change – please check your local listings.</p>
+<div class="grid" data-show="9">
+{{FIXTURES}}
+</div><button class="more" data-i18n="more_fix">Show more matches</button></section>
 <section><div class="quizban"><span style="font-size:38px">🧠</span><div><b data-i18n="qb_t">How well do you know football?</b>
 <p data-i18n="qb_p">Play our quiz by country and league – learn a fun fact with every answer.</p></div><a href="quiz.html" data-i18n="qb_btn">Play the quiz</a></div></section>
 <section id="news"><h2><span data-i18n="h_news">Latest Football News</span> <span class="count"></span></h2><div class="grid" data-show="9">
@@ -367,6 +443,11 @@ publishers (BBC Sport, The Guardian, ESPN). All rights belong to their owners.</
 if __name__ == "__main__":
     n, v = news(), highlights()
     try:
+        fx = fixtures()
+    except Exception as ex:
+        print("Fixtures failed:", ex)
+        fx = []
+    try:
         old = json.load(open("latest.json"))
     except Exception:
         old = {}
@@ -374,8 +455,11 @@ if __name__ == "__main__":
         v = [dict(x, date=datetime.datetime.fromisoformat(x["date"])) for x in old["videos"]]
     if not n and old.get("news_all"):
         n = [dict(x, date=datetime.datetime.fromisoformat(x["date"])) for x in old["news_all"]]
-    print(f"{len(n)} news, {len(v)} videos")
-    open("index.html", "w").write(render(n, v))
+    if not fx and old.get("fixtures"):
+        fx = old["fixtures"]
+    print(f"{len(n)} news, {len(v)} videos, {len(fx)} fixtures")
+    open("index.html", "w").write(render(n, v, fx))
     json.dump({"news": [dict(x, date=x["date"].isoformat()) for x in n[:10]],
                "news_all": [dict(x, date=x["date"].isoformat()) for x in n],
-               "videos": [dict(x, date=x["date"].isoformat()) for x in v]}, open("latest.json", "w"), indent=1)
+               "videos": [dict(x, date=x["date"].isoformat()) for x in v],
+               "fixtures": fx}, open("latest.json", "w"), indent=1)

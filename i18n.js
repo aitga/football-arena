@@ -2,7 +2,8 @@
 (function () {
 var LANGS = [["en", "English"], ["ar", "العربية"], ["fr", "Français"], ["es", "Español"], ["pt", "Português"], ["de", "Deutsch"], ["it", "Italiano"]];
 var T = {
-en: {nav_hl: "Highlights", nav_news: "News", nav_art: "Articles", nav_quiz: "Quiz", nav_fb: "Facebook", nav_about: "About",
+en: {live: "LIVE", nav_fix: "Matches", h_fix: "Upcoming Matches & TV Channels", fix_note: "Times are shown in your local time. TV channels can change – please check your local listings.", more_fix: "Show more matches", tv_mena: "Arab world & North Africa", tv_usa: "USA", tv_check: "Check your local TV listings", no_fix: "No matches scheduled in the next few days.",
+ nav_hl: "Highlights", nav_news: "News", nav_art: "Articles", nav_quiz: "Quiz", nav_fb: "Facebook", nav_about: "About",
  tagline: "Highlights & news from the world's biggest leagues · updated every hour",
  all: "All", c_eng: "England", c_esp: "Spain", c_ita: "Italy", c_ger: "Germany", c_fra: "France", c_eur: "Europe", c_wld: "World",
  lg_eng: "Premier League", lg_esp: "LaLiga", lg_ita: "Serie A", lg_ger: "Bundesliga", lg_fra: "Ligue 1", lg_eur: "Champions League & UEFA", lg_wld: "FIFA & International",
@@ -16,7 +17,8 @@ en: {nav_hl: "Highlights", nav_news: "News", nav_art: "Articles", nav_quiz: "Qui
  qz_your: "Your score", qz_m1: "Perfect! You are a football genius 🏆", qz_m2: "Great job – you really know your football! ⚽", qz_m3: "Not bad! Play again to learn more 💪",
  qz_m4: "Keep watching and reading – you'll get there! 📚", qz_again: "Play again", qz_share: "Share on Facebook",
  qz_more: "Want to learn more? Read our <a href='articles/index.html'>football articles</a> or watch the <a href='index.html#highlights'>latest highlights</a>."},
-ar: {nav_hl: "الملخصات", nav_news: "الأخبار", nav_art: "مقالات", nav_quiz: "اختبار", nav_fb: "فيسبوك", nav_about: "من نحن",
+ar: {live: "مباشر", nav_fix: "المباريات", h_fix: "المباريات القادمة والقنوات الناقلة", fix_note: "المواعيد معروضة حسب توقيتك المحلي. قد تتغير القنوات الناقلة – يرجى التحقق من الدليل المحلي.", more_fix: "عرض المزيد من المباريات", tv_mena: "العالم العربي وشمال أفريقيا", tv_usa: "الولايات المتحدة", tv_check: "تحقق من دليل القنوات المحلي", no_fix: "لا توجد مباريات مقررة في الأيام القليلة القادمة.",
+ nav_hl: "الملخصات", nav_news: "الأخبار", nav_art: "مقالات", nav_quiz: "اختبار", nav_fb: "فيسبوك", nav_about: "من نحن",
  tagline: "ملخصات وأخبار أكبر الدوريات في العالم · تحديث كل ساعة",
  all: "الكل", c_eng: "إنجلترا", c_esp: "إسبانيا", c_ita: "إيطاليا", c_ger: "ألمانيا", c_fra: "فرنسا", c_eur: "أوروبا", c_wld: "العالم",
  lg_eng: "الدوري الإنجليزي الممتاز", lg_esp: "الدوري الإسباني", lg_ita: "الدوري الإيطالي", lg_ger: "الدوري الألماني", lg_fra: "الدوري الفرنسي", lg_eur: "دوري الأبطال والاتحاد الأوروبي", lg_wld: "فيفا والمنتخبات",
@@ -30,7 +32,8 @@ ar: {nav_hl: "الملخصات", nav_news: "الأخبار", nav_art: "مقال�
  qz_your: "نتيجتك", qz_m1: "ممتاز! أنت عبقري كرة القدم 🏆", qz_m2: "عمل رائع – أنت تعرف كرة القدم جيدًا! ⚽", qz_m3: "ليس سيئًا! العب مجددًا لتتعلم المزيد 💪",
  qz_m4: "واصل المشاهدة والقراءة – ستنجح! 📚", qz_again: "العب مجددًا", qz_share: "شارك على فيسبوك",
  qz_more: "هل تريد معرفة المزيد؟ اقرأ <a href='articles/index.html'>مقالاتنا عن كرة القدم</a> أو شاهد <a href='index.html#highlights'>أحدث الملخصات</a>."},
-fr: {nav_hl: "Résumés", nav_news: "Actus", nav_art: "Articles", nav_quiz: "Quiz", nav_fb: "Facebook", nav_about: "À propos",
+fr: {live: "EN DIRECT", nav_fix: "Matchs", h_fix: "Prochains matchs & chaînes TV", fix_note: "Les horaires sont affichés à votre heure locale. Les chaînes peuvent changer – vérifiez votre programme TV local.", more_fix: "Plus de matchs", tv_mena: "Monde arabe & Afrique du Nord", tv_usa: "États-Unis", tv_check: "Vérifiez votre programme TV local", no_fix: "Aucun match prévu dans les prochains jours.",
+ nav_hl: "Résumés", nav_news: "Actus", nav_art: "Articles", nav_quiz: "Quiz", nav_fb: "Facebook", nav_about: "À propos",
  tagline: "Résumés et actus des plus grands championnats du monde · mis à jour chaque heure",
  all: "Tous", c_eng: "Angleterre", c_esp: "Espagne", c_ita: "Italie", c_ger: "Allemagne", c_fra: "France", c_eur: "Europe", c_wld: "Monde",
  lg_eur: "Ligue des champions & UEFA", lg_wld: "FIFA & sélections",
@@ -44,7 +47,8 @@ fr: {nav_hl: "Résumés", nav_news: "Actus", nav_art: "Articles", nav_quiz: "Qui
  qz_your: "Votre score", qz_m1: "Parfait ! Vous êtes un génie du football 🏆", qz_m2: "Bravo – vous connaissez vraiment le football ! ⚽", qz_m3: "Pas mal ! Rejouez pour en apprendre plus 💪",
  qz_m4: "Continuez à regarder et à lire – vous y arriverez ! 📚", qz_again: "Rejouer", qz_share: "Partager sur Facebook",
  qz_more: "Envie d'en savoir plus ? Lisez nos <a href='articles/index.html'>articles foot</a> ou regardez les <a href='index.html#highlights'>derniers résumés</a>."},
-es: {nav_hl: "Resúmenes", nav_news: "Noticias", nav_art: "Artículos", nav_quiz: "Quiz", nav_fb: "Facebook", nav_about: "Quiénes somos",
+es: {live: "EN VIVO", nav_fix: "Partidos", h_fix: "Próximos partidos y canales de TV", fix_note: "Los horarios se muestran en tu hora local. Los canales pueden cambiar – consulta tu programación local.", more_fix: "Ver más partidos", tv_mena: "Mundo árabe y norte de África", tv_usa: "EE. UU.", tv_check: "Consulta tu programación local", no_fix: "No hay partidos programados en los próximos días.",
+ nav_hl: "Resúmenes", nav_news: "Noticias", nav_art: "Artículos", nav_quiz: "Quiz", nav_fb: "Facebook", nav_about: "Quiénes somos",
  tagline: "Resúmenes y noticias de las mayores ligas del mundo · actualizado cada hora",
  all: "Todos", c_eng: "Inglaterra", c_esp: "España", c_ita: "Italia", c_ger: "Alemania", c_fra: "Francia", c_eur: "Europa", c_wld: "Mundo",
  lg_eur: "Champions League y UEFA", lg_wld: "FIFA y selecciones",
@@ -58,7 +62,8 @@ es: {nav_hl: "Resúmenes", nav_news: "Noticias", nav_art: "Artículos", nav_quiz
  qz_your: "Tu resultado", qz_m1: "¡Perfecto! Eres un genio del fútbol 🏆", qz_m2: "¡Muy bien, sabes mucho de fútbol! ⚽", qz_m3: "¡Nada mal! Juega otra vez para aprender más 💪",
  qz_m4: "Sigue viendo y leyendo – ¡lo conseguirás! 📚", qz_again: "Jugar otra vez", qz_share: "Compartir en Facebook",
  qz_more: "¿Quieres saber más? Lee nuestros <a href='articles/index.html'>artículos de fútbol</a> o mira los <a href='index.html#highlights'>últimos resúmenes</a>."},
-pt: {nav_hl: "Melhores momentos", nav_news: "Notícias", nav_art: "Artigos", nav_quiz: "Quiz", nav_fb: "Facebook", nav_about: "Sobre",
+pt: {live: "AO VIVO", nav_fix: "Jogos", h_fix: "Próximos jogos e canais de TV", fix_note: "Os horários aparecem no seu fuso local. Os canais podem mudar – confira a programação local.", more_fix: "Ver mais jogos", tv_mena: "Mundo árabe e Norte da África", tv_usa: "EUA", tv_check: "Confira a programação local", no_fix: "Nenhum jogo marcado para os próximos dias.",
+ nav_hl: "Melhores momentos", nav_news: "Notícias", nav_art: "Artigos", nav_quiz: "Quiz", nav_fb: "Facebook", nav_about: "Sobre",
  tagline: "Melhores momentos e notícias das maiores ligas do mundo · atualizado a cada hora",
  all: "Todos", c_eng: "Inglaterra", c_esp: "Espanha", c_ita: "Itália", c_ger: "Alemanha", c_fra: "França", c_eur: "Europa", c_wld: "Mundo",
  lg_eur: "Champions League e UEFA", lg_wld: "FIFA e seleções",
@@ -72,7 +77,8 @@ pt: {nav_hl: "Melhores momentos", nav_news: "Notícias", nav_art: "Artigos", nav
  qz_your: "Seu resultado", qz_m1: "Perfeito! Você é um gênio do futebol 🏆", qz_m2: "Muito bem – você entende de futebol! ⚽", qz_m3: "Nada mal! Jogue de novo para aprender mais 💪",
  qz_m4: "Continue assistindo e lendo – você chega lá! 📚", qz_again: "Jogar de novo", qz_share: "Compartilhar no Facebook",
  qz_more: "Quer saber mais? Leia nossos <a href='articles/index.html'>artigos de futebol</a> ou assista aos <a href='index.html#highlights'>últimos melhores momentos</a>."},
-de: {nav_hl: "Highlights", nav_news: "News", nav_art: "Artikel", nav_quiz: "Quiz", nav_fb: "Facebook", nav_about: "Über uns",
+de: {live: "LIVE", nav_fix: "Spiele", h_fix: "Nächste Spiele & TV-Sender", fix_note: "Die Zeiten werden in deiner Ortszeit angezeigt. TV-Sender können sich ändern – bitte prüfe dein lokales TV-Programm.", more_fix: "Mehr Spiele", tv_mena: "Arabische Welt & Nordafrika", tv_usa: "USA", tv_check: "Bitte lokales TV-Programm prüfen", no_fix: "In den nächsten Tagen sind keine Spiele angesetzt.",
+ nav_hl: "Highlights", nav_news: "News", nav_art: "Artikel", nav_quiz: "Quiz", nav_fb: "Facebook", nav_about: "Über uns",
  tagline: "Highlights und News aus den größten Ligen der Welt · stündlich aktualisiert",
  all: "Alle", c_eng: "England", c_esp: "Spanien", c_ita: "Italien", c_ger: "Deutschland", c_fra: "Frankreich", c_eur: "Europa", c_wld: "Welt",
  lg_eur: "Champions League & UEFA", lg_wld: "FIFA & Nationalteams",
@@ -86,7 +92,8 @@ de: {nav_hl: "Highlights", nav_news: "News", nav_art: "Artikel", nav_quiz: "Quiz
  qz_your: "Dein Ergebnis", qz_m1: "Perfekt! Du bist ein Fußball-Genie 🏆", qz_m2: "Super – du kennst dich richtig gut aus! ⚽", qz_m3: "Nicht schlecht! Spiel nochmal und lerne mehr 💪",
  qz_m4: "Weiter schauen und lesen – du schaffst das! 📚", qz_again: "Nochmal spielen", qz_share: "Auf Facebook teilen",
  qz_more: "Mehr erfahren? Lies unsere <a href='articles/index.html'>Fußball-Artikel</a> oder schau die <a href='index.html#highlights'>neuesten Highlights</a>."},
-it: {nav_hl: "Highlights", nav_news: "Notizie", nav_art: "Articoli", nav_quiz: "Quiz", nav_fb: "Facebook", nav_about: "Chi siamo",
+it: {live: "LIVE", nav_fix: "Partite", h_fix: "Prossime partite e canali TV", fix_note: "Gli orari sono nel tuo fuso orario. I canali possono cambiare – controlla la guida TV locale.", more_fix: "Altre partite", tv_mena: "Mondo arabo e Nord Africa", tv_usa: "USA", tv_check: "Controlla la guida TV locale", no_fix: "Nessuna partita in programma nei prossimi giorni.",
+ nav_hl: "Highlights", nav_news: "Notizie", nav_art: "Articoli", nav_quiz: "Quiz", nav_fb: "Facebook", nav_about: "Chi siamo",
  tagline: "Highlights e notizie dai più grandi campionati del mondo · aggiornato ogni ora",
  all: "Tutti", c_eng: "Inghilterra", c_esp: "Spagna", c_ita: "Italia", c_ger: "Germania", c_fra: "Francia", c_eur: "Europa", c_wld: "Mondo",
  lg_eur: "Champions League e UEFA", lg_wld: "FIFA e nazionali",
@@ -128,6 +135,11 @@ var FA = window.FA = {lang: pick(), langs: LANGS,
     document.querySelectorAll("[data-i18n-html]").forEach(function (e) { e.innerHTML = FA.t(e.dataset.i18nHtml); });
     document.querySelectorAll("[data-i18n-note]").forEach(function (e) { var s = FA.t("art_note"); e.textContent = s; e.style.display = s ? "" : "none"; });
     document.querySelectorAll(".ago[data-t]").forEach(function (e) { e.textContent = FA.ago(+e.dataset.t); });
+    var loc = FA.lang === "ar" ? "ar-MA" : FA.lang;
+    document.querySelectorAll(".ftime[data-k]").forEach(function (e) {
+      var d = new Date(+e.dataset.k * 1000);
+      try { e.textContent = d.toLocaleDateString(loc, {weekday: "long", day: "numeric", month: "long"}) + " · " + d.toLocaleTimeString(loc, {hour: "2-digit", minute: "2-digit"}); } catch (x) {}
+    });
     document.querySelectorAll(".langpick").forEach(function (s) { s.value = FA.lang; });
   },
   set: function (l) {
