@@ -17,13 +17,13 @@ NEWS_FEEDS = [
     ("ESPN", "https://www.espn.com/espn/rss/soccer/news"),
 ]
 # official league / competition YouTube channels (by @handle)
-HIGHLIGHT_CHANNELS = [
-    ("Premier League", "@premierleague"),
-    ("LaLiga", "@LaLiga"),
-    ("UEFA Champions League", "@ChampionsLeague"),
-    ("Serie A", "@SerieA"),
-    ("Bundesliga", "@bundesliga"),
-    ("FIFA", "@FIFA"),
+HIGHLIGHT_CHANNELS = [  # official league / competition YouTube channels (channel IDs)
+    ("Premier League", "UCG5qGWdu8nIRZqJ_GgDwQ-w"),
+    ("LaLiga", "UCTv-XvfzLX3i4IGWAm4sbmA"),
+    ("UEFA", "UCyGa1YEx9ST66rYrJTGIKOw"),
+    ("Serie A", "UCBJeMCIeLQos7wacox4hmLQ"),
+    ("Bundesliga", "UC6UL29enLNe4mqwTfAyeNuw"),
+    ("FIFA", "UCpcTrCXblq78GZrTUTLWeBw"),
 ]
 NS = {"atom": "http://www.w3.org/2005/Atom", "media": "http://search.yahoo.com/mrss/",
       "yt": "http://www.youtube.com/xml/schemas/2015"}
@@ -89,7 +89,7 @@ def highlights():
     vids = []
     for name, handle in HIGHLIGHT_CHANNELS:
         try:
-            cid = channel_id(handle)
+            cid = handle if handle.startswith("UC") else channel_id(handle)
             root = ET.fromstring(get(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"))
         except Exception as e:
             print("Channel failed:", name, e)
@@ -185,6 +185,16 @@ publishers (BBC Sport, The Guardian, ESPN). All rights belong to their owners.<b
 
 if __name__ == "__main__":
     n, v = news(), highlights()
+    try:
+        old = json.load(open("latest.json"))
+    except Exception:
+        old = {}
+    if not v and old.get("videos"):  # YouTube hiccup: keep the last good highlights
+        v = [dict(x, date=datetime.datetime.fromisoformat(x["date"])) for x in old["videos"]]
+    if not n and old.get("news_all"):
+        n = [dict(x, date=datetime.datetime.fromisoformat(x["date"])) for x in old["news_all"]]
     print(f"{len(n)} news, {len(v)} videos")
     open("index.html", "w").write(render(n, v))
-    json.dump({"news": [dict(x, date=x["date"].isoformat()) for x in n[:10]]}, open("latest.json", "w"), indent=1)
+    json.dump({"news": [dict(x, date=x["date"].isoformat()) for x in n[:10]],
+               "news_all": [dict(x, date=x["date"].isoformat()) for x in n],
+               "videos": [dict(x, date=x["date"].isoformat()) for x in v]}, open("latest.json", "w"), indent=1)
