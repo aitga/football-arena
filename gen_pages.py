@@ -14,9 +14,13 @@ main{max-width:760px;margin:0 auto;padding:26px 16px 50px}h1{line-height:1.25;fo
 h2{font-size:22px;margin-top:30px}.meta{color:var(--mut);font-size:14px}.pill{display:inline-block;background:var(--card);border:1px solid var(--line);border-radius:20px;padding:2px 12px;font-size:13px;color:var(--acc)}
 .list a.card{display:block;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:14px 0;text-decoration:none;color:var(--txt)}
 .list a.card:hover{border-color:var(--acc)}.card h3{margin:6px 0 4px;font-size:20px}.card p{margin:0;color:var(--mut);font-size:15px}
-footer{border-top:1px solid var(--line);color:var(--mut);font-size:13px;padding:18px 16px;text-align:center}footer a{margin:0 6px}"""
+footer{border-top:1px solid var(--line);color:var(--mut);font-size:13px;padding:18px 16px;text-align:center}footer a{margin:0 6px}
+.top nav{align-items:center;flex-wrap:wrap}.langpick{background:#10251a;color:#eef6f0;border:1px solid #1f3d2b;border-radius:10px;padding:6px 8px;font:600 14px system-ui,sans-serif}
+.note{background:#10251a;border:1px solid #1f3d2b;border-radius:10px;padding:10px 14px;color:#ffc83d;font-size:15px}
+[dir=rtl] .top nav{margin-left:0;margin-right:auto}
+:lang(ar) body{font-family:"Segoe UI",Tahoma,"Noto Sans Arabic",system-ui,sans-serif}"""
 
-def page(title, desc, body, depth):
+def page(title, desc, body, depth, note=True, extra=""):
     up = "../" * depth
     e = html.escape
     return f"""<!doctype html>
@@ -25,9 +29,11 @@ def page(title, desc, body, depth):
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}">
 <link rel="icon" href="{up}logo.png"><style>{CSS}</style></head><body>
 <header><div class="top"><a href="{up}index.html"><img src="{up}logo.png" alt="Football Arena"></a><b>FOOTBALL <span>ARENA</span></b>
-<nav><a href="{up}index.html#highlights">Highlights</a><a href="{up}index.html#news">News</a><a href="{up}articles/index.html">Articles</a><a href="{up}quiz.html" style="color:#ffc83d">Quiz</a><a href="{up}about.html">About</a></nav></div></header>
-<main>{body}</main>
-<footer>© 2026 Football Arena ·<a href="{up}about.html">About</a>·<a href="{up}contact.html">Contact</a>·<a href="{up}privacy.html">Privacy</a>·<a href="{FB}" target="_blank" rel="noopener">Facebook</a></footer>
+<nav><a href="{up}index.html#highlights" data-i18n="nav_hl">Highlights</a><a href="{up}index.html#news" data-i18n="nav_news">News</a><a href="{up}articles/index.html" data-i18n="nav_art">Articles</a><a href="{up}quiz.html" style="color:#ffc83d" data-i18n="nav_quiz">Quiz</a><a href="{up}about.html" data-i18n="nav_about">About</a>
+<select class="langpick" aria-label="Language"></select></nav></div></header>
+<main>{'<p class="note" data-i18n-note style="display:none"></p>' if note else ''}{body}</main>
+<footer>© 2026 Football Arena ·<a href="{up}about.html" data-i18n="about">About</a>·<a href="{up}contact.html" data-i18n="contact">Contact</a>·<a href="{up}privacy.html" data-i18n="privacy">Privacy</a>·<a href="{FB}" target="_blank" rel="noopener" data-i18n="nav_fb">Facebook</a></footer>
+<script src="{up}i18n.js"></script>{extra}
 </body></html>"""
 
 def nice(d):
@@ -67,8 +73,8 @@ print("pages built:", len(arts))
 import json
 from quiz_src import QUIZ
 from build import LEAGUES, flag
-chips = '<button class="chip on" data-f="all">⚽ All</button>' + "".join(
-    f'<button class="chip" data-f="{k}">{flag(k)} {html.escape(c)}</button>' for k, _f, c, _l, _kw in LEAGUES)
+chips = '<button class="chip on" data-f="all">⚽ <span data-i18n="all">All</span></button>' + "".join(
+    f'<button class="chip" data-f="{k}">{flag(k)} <span data-i18n="c_{k}">{html.escape(c)}</span></button>' for k, _f, c, _l, _kw in LEAGUES)
 QCSS = """<style>
 .chips{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 20px}
 .chip{display:flex;align-items:center;gap:6px;background:#10251a;color:#eef6f0;border:1px solid #1f3d2b;border-radius:22px;padding:7px 13px;font:600 14px system-ui,sans-serif;cursor:pointer}
@@ -82,54 +88,59 @@ QCSS = """<style>
 .opt:disabled{cursor:default}
 #fact{display:none;margin-top:14px;background:#0b2e18;border-left:4px solid #ffc83d;border-radius:8px;padding:12px 14px;font-size:16px}
 .btn{display:inline-block;margin-top:16px;background:#2ee06f;color:#04210f;border:0;border-radius:22px;padding:11px 26px;font:800 16px system-ui,sans-serif;cursor:pointer;text-decoration:none}
-.btn.alt{background:none;color:#2ee06f;border:1px solid #2ee06f;margin-left:8px}
+.btn.alt{background:none;color:#2ee06f;border:1px solid #2ee06f;margin-inline-start:8px}
 .big{font-size:54px;font-weight:800;color:#ffc83d;margin:4px 0}
 </style>"""
-qbody = QCSS + f"""<h1>🧠 Football Quiz</h1>
-<p class="meta">Pick a country or league, answer 10 questions, and learn a fun fact with every answer.</p>
+qbody = QCSS + f"""<h1 data-i18n="qz_title">🧠 Football Quiz</h1>
+<p class="meta" data-i18n="qz_intro">Pick a country or league, answer 10 questions, and learn a fun fact with every answer.</p>
 <div class="chips">{chips}</div>
 <div id="box"></div>
-<p class="meta" style="margin-top:22px">Want to learn more? Read our <a href="articles/index.html">football articles</a> or watch the <a href="index.html#highlights">latest highlights</a>.</p>
+<p class="meta" style="margin-top:22px" data-i18n-html="qz_more">Want to learn more? Read our <a href="articles/index.html">football articles</a> or watch the <a href="index.html#highlights">latest highlights</a>.</p>"""
+qscript = f"""<script src="quiz_i18n.js"></script>
 <script>
 var QUIZ = {json.dumps(QUIZ, ensure_ascii=False)};
 var cat = "all", qs = [], i = 0, score = 0, box = document.getElementById("box");
 function shuffle(a){{ a = a.slice(); for (var j = a.length - 1; j > 0; j--) {{ var k = Math.floor(Math.random() * (j + 1)), t = a[j]; a[j] = a[k]; a[k] = t; }} return a; }}
 function esc(t){{ var d = document.createElement("div"); d.textContent = t; return d.innerHTML; }}
+function t(k, v){{ return window.FA ? FA.t(k, v) : k; }}
+function tq(q){{ var L = window.FA ? FA.lang : "en", x = (window.FA_QUIZ[L] || [])[QUIZ.indexOf(q)]; return x || [q.q, q.fact]; }}
+function to(o){{ var L = window.FA ? FA.lang : "en"; return (window.FA_OPT[L] || {{}})[o] || o; }}
 function start(){{
   qs = shuffle(QUIZ.filter(function(q){{ return cat === "all" || q.l === cat; }})).slice(0, 10);
   i = 0; score = 0; show();
 }}
 function show(){{
-  var q = qs[i], opts = shuffle(q.o);
-  box.innerHTML = '<div class="prog"><span>Question ' + (i + 1) + ' of ' + qs.length + '</span><span>Score: ' + score + '</span></div>'
-    + '<div class="pbar"><i style="width:' + (i / qs.length * 100) + '%"></i></div><p id="q">' + esc(q.q) + '</p>'
-    + opts.map(function(o){{ return '<button class="opt">' + esc(o) + '</button>'; }}).join("")
-    + '<div id="fact"></div><button class="btn" id="next" style="display:none">' + (i + 1 < qs.length ? "Next question →" : "See my score") + '</button>';
+  var q = qs[i], tr = tq(q), opts = shuffle(q.o.map(function(o, k){{ return [o, k]; }}));
+  box.innerHTML = '<div class="prog"><span>' + esc(t("qz_q", {{i: i + 1, n: qs.length}})) + '</span><span>' + esc(t("qz_score")) + ': ' + score + '</span></div>'
+    + '<div class="pbar"><i style="width:' + (i / qs.length * 100) + '%"></i></div><p id="q">' + esc(tr[0]) + '</p>'
+    + opts.map(function(o){{ return '<button class="opt" data-k="' + o[1] + '">' + esc(to(o[0])) + '</button>'; }}).join("")
+    + '<div id="fact"></div><button class="btn" id="next" style="display:none">' + esc(i + 1 < qs.length ? t("qz_next") : t("qz_see")) + '</button>';
   box.querySelectorAll(".opt").forEach(function(b){{
     b.onclick = function(){{
-      var ok = b.textContent === q.o[0];
+      var ok = b.dataset.k === "0";
       if (ok) score++;
-      box.querySelectorAll(".opt").forEach(function(x){{ x.disabled = true; if (x.textContent === q.o[0]) x.classList.add("right"); }});
+      box.querySelectorAll(".opt").forEach(function(x){{ x.disabled = true; if (x.dataset.k === "0") x.classList.add("right"); }});
       if (!ok) b.classList.add("wrong");
       var f = document.getElementById("fact");
-      f.innerHTML = (ok ? "✅ <b>Correct!</b> " : "❌ <b>Not quite.</b> The answer is <b>" + esc(q.o[0]) + "</b>. ") + "<br>💡 " + esc(q.fact);
+      f.innerHTML = (ok ? "✅ <b>" + esc(t("qz_ok")) + "</b> " : "❌ " + esc(t("qz_no")) + " <b>" + esc(to(q.o[0])) + "</b>. ") + "<br>💡 " + esc(tr[1]);
       f.style.display = "block"; document.getElementById("next").style.display = "inline-block";
     }};
   }});
   document.getElementById("next").onclick = function(){{ i++; i < qs.length ? show() : end(); }};
 }}
 function end(){{
-  var p = score / qs.length, msg = p === 1 ? "Perfect! You are a football genius 🏆" : p >= .7 ? "Great job – you really know your football! ⚽" : p >= .4 ? "Not bad! Play again to learn more 💪" : "Keep watching and reading – you'll get there! 📚";
+  var p = score / qs.length, msg = t(p === 1 ? "qz_m1" : p >= .7 ? "qz_m2" : p >= .4 ? "qz_m3" : "qz_m4");
   var share = "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent("https://www.footballarena.net/quiz.html");
-  box.innerHTML = '<p class="meta" style="margin:0">Your score</p><div class="big">' + score + ' / ' + qs.length + '</div><p style="font-size:19px;margin:0">' + msg + '</p>'
-    + '<button class="btn" id="again">Play again</button><a class="btn alt" href="' + share + '" target="_blank" rel="noopener">Share on Facebook</a>';
+  box.innerHTML = '<p class="meta" style="margin:0">' + esc(t("qz_your")) + '</p><div class="big">' + score + ' / ' + qs.length + '</div><p style="font-size:19px;margin:0">' + msg + '</p>'
+    + '<button class="btn" id="again">' + esc(t("qz_again")) + '</button><a class="btn alt" href="' + share + '" target="_blank" rel="noopener">' + esc(t("qz_share")) + '</a>';
   document.getElementById("again").onclick = start;
 }}
 document.querySelectorAll(".chip").forEach(function(b){{
   b.onclick = function(){{ document.querySelectorAll(".chip").forEach(function(x){{ x.classList.toggle("on", x === b); }}); cat = b.dataset.f; start(); }};
 }});
+document.addEventListener("fa:lang", start);
 start();
 </script>"""
 open("quiz.html", "w").write(page("Football Quiz – Test Your Knowledge by Country and League",
-     "Play a free football quiz about the Premier League, LaLiga, Serie A, Bundesliga, Ligue 1, the Champions League and the World Cup. Learn a fun fact with every answer.", qbody, 0))
+     "Play a free football quiz about the Premier League, LaLiga, Serie A, Bundesliga, Ligue 1, the Champions League and the World Cup. Learn a fun fact with every answer.", qbody, 0, note=False, extra=qscript))
 print("quiz built:", len(QUIZ), "questions")

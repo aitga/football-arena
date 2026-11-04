@@ -209,6 +209,10 @@ def flag(key):
     return ""
 
 
+def ago_span(d):
+    return f'<span class="ago" data-t="{int(d.timestamp())}">{ago(d)}</span>'
+
+
 def render(news_items, vids):
     e = html.escape
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%d %b %Y, %H:%M UTC")
@@ -217,18 +221,18 @@ def render(news_items, vids):
         f'<a class="vid card" data-l="{lg}" href="https://www.youtube.com/watch?v={e(v["id"])}" target="_blank" rel="noopener">'
         f'<div class="thumb"><img src="https://i.ytimg.com/vi/{e(v["id"])}/hqdefault.jpg" alt="" loading="lazy"><span class="play">▶</span></div>'
         f'<div class="vt">{e(nice_title(v["title"]))}</div>'
-        f'<div class="meta">{flag(lg)} {e(names[lg].split(" · ")[1])} · {ago(v["date"])}</div></a>'
+        f'<div class="meta">{flag(lg)} <span data-i18n="lg_{lg}">{e(names[lg].split(" · ")[1])}</span> · {ago_span(v["date"])}</div></a>'
         for v in vids for lg in [CHANNEL_LEAGUE.get(v["channel"], "wld")]) \
         or '<p class="empty">Highlights are loading – check back soon.</p>'
     ncards = "\n".join(
         f'<a class="news card" data-l="{lg}" href="{e(n["link"])}" target="_blank" rel="noopener">'
         + (f'<img class="nimg" src="{e(n["image"])}" alt="" loading="lazy">' if n["image"] else "")
         + f'<div><div class="nt">{e(n["title"])}</div><p>{e(n["summary"])}</p>'
-          f'<div class="meta">{flag(lg)} {e(n["source"])} · {ago(n["date"])}</div></div></a>'
+          f'<div class="meta">{flag(lg)} {e(n["source"])} · {ago_span(n["date"])}</div></div></a>'
         for n in news_items for lg in [league_of_news(n)]) \
         or '<p class="empty">News is loading – check back soon.</p>'
-    chips = '<button class="chip on" data-f="all">⚽ All</button>' + "".join(
-        f'<button class="chip" data-f="{k}">{flag(k)} {e(country)}<small>{e(league)}</small></button>'
+    chips = '<button class="chip on" data-f="all">⚽ <span data-i18n="all">All</span></button>' + "".join(
+        f'<button class="chip" data-f="{k}">{flag(k)} <span data-i18n="c_{k}">{e(country)}</span><small data-i18n="lg_{k}">{e(league)}</small></button>'
         for k, _c, country, league, _kw in LEAGUES)
     try:
         from articles_src import ARTICLES
@@ -259,7 +263,7 @@ body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.5 system-ui,-app
 a{color:inherit;text-decoration:none}
 header{background:linear-gradient(135deg,#0b3d1f,#07140c 70%);padding:18px 16px 14px}
 .wrap{max-width:1150px;margin:0 auto}
-.brand{display:flex;align-items:center;gap:12px}.brand img{width:52px;height:52px;border-radius:12px}
+.brand{display:flex;align-items:center;gap:12px;flex-wrap:wrap}.brand img{width:52px;height:52px;border-radius:12px}
 h1{margin:0;font-size:28px;letter-spacing:.5px}h1 span{color:var(--acc)}
 .tag{color:var(--mut);margin:2px 0 0;font-size:14px}
 .bar{position:sticky;top:0;z-index:5;background:rgba(7,20,12,.95);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
@@ -292,29 +296,34 @@ section{margin-bottom:38px}.empty{color:var(--mut)}
 .quizban a{margin-left:auto;background:var(--gold);color:#2a1d00;font-weight:800;border-radius:22px;padding:10px 22px}
 footer{border-top:1px solid var(--line);color:var(--mut);font-size:13px;padding:18px 16px;text-align:center}
 footer a{color:var(--acc)}
+.langpick{margin-inline-start:auto;background:var(--card);color:var(--txt);border:1px solid var(--line);border-radius:10px;padding:7px 10px;font:600 14px system-ui,sans-serif}
+[dir=rtl] .quizban a{margin-left:0;margin-right:auto}
+:lang(ar) body,:lang(ar) .chip,:lang(ar) .more{font-family:"Segoe UI",Tahoma,"Noto Sans Arabic",system-ui,sans-serif}
 </style></head><body>
 <header><div class="wrap brand"><img src="logo.png" alt="Football Arena" width="52" height="52"><div><h1>FOOTBALL <span>ARENA</span></h1>
-<div class="tag">Highlights & news from the world's biggest leagues · updated every hour</div></div></div></header>
+<div class="tag" data-i18n="tagline">Highlights & news from the world's biggest leagues · updated every hour</div></div>
+<select class="langpick" aria-label="Language"></select></div></header>
 <div class="bar"><div class="wrap">
-<nav><a href="#highlights">🎬 Highlights</a><a href="#news">📰 News</a><a href="articles/index.html">📝 Articles</a><a class="quiz" href="quiz.html">🧠 Quiz</a><a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener">👍 Facebook</a></nav>
+<nav><a href="#highlights">🎬 <span data-i18n="nav_hl">Highlights</span></a><a href="#news">📰 <span data-i18n="nav_news">News</span></a><a href="articles/index.html">📝 <span data-i18n="nav_art">Articles</span></a><a class="quiz" href="quiz.html">🧠 <span data-i18n="nav_quiz">Quiz</span></a><a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener">👍 <span data-i18n="nav_fb">Facebook</span></a></nav>
 <div class="chips">{{CHIPS}}</div>
 </div></div>
 <main class="wrap">
-<section id="highlights"><h2>Latest Highlights <span class="count"></span></h2><div class="grid" data-show="8">
+<section id="highlights"><h2><span data-i18n="h_hl">Latest Highlights</span> <span class="count"></span></h2><div class="grid" data-show="8">
 {{VIDEOS}}
-</div><button class="more">Show more highlights</button></section>
-<section><div class="quizban"><span style="font-size:38px">🧠</span><div><b>How well do you know football?</b>
-<p>Play our quiz by country and league – learn a fun fact with every answer.</p></div><a href="quiz.html">Play the quiz</a></div></section>
-<section id="news"><h2>Latest Football News <span class="count"></span></h2><div class="grid" data-show="9">
+</div><button class="more" data-i18n="more_hl">Show more highlights</button></section>
+<section><div class="quizban"><span style="font-size:38px">🧠</span><div><b data-i18n="qb_t">How well do you know football?</b>
+<p data-i18n="qb_p">Play our quiz by country and league – learn a fun fact with every answer.</p></div><a href="quiz.html" data-i18n="qb_btn">Play the quiz</a></div></section>
+<section id="news"><h2><span data-i18n="h_news">Latest Football News</span> <span class="count"></span></h2><div class="grid" data-show="9">
 {{NEWS}}
-</div><button class="more">Show more news</button></section>
-<section id="articles"><h2>Football Articles</h2><div class="grid">
+</div><button class="more" data-i18n="more_news">Show more news</button></section>
+<section id="articles"><h2 data-i18n="h_art">Football Articles</h2><div class="grid">
 {{ARTICLES}}
-</div><p><a href="articles/index.html" style="color:var(--acc)">See all articles →</a></p></section>
+</div><p><a href="articles/index.html" style="color:var(--acc)" data-i18n="see_art">See all articles →</a></p></section>
 </main>
-<footer>Updated {{UPDATED}} · Videos play on the official YouTube channels of each league. News headlines link to the original
-publishers (BBC Sport, The Guardian, ESPN). All rights belong to their owners.<br>
-<a href="about.html">About</a> · <a href="contact.html">Contact</a> · <a href="privacy.html">Privacy</a></footer>
+<footer><span data-i18n="updated">Updated</span> {{UPDATED}} · <span data-i18n="foot">Videos play on the official YouTube channels of each league. News headlines link to the original
+publishers (BBC Sport, The Guardian, ESPN). All rights belong to their owners.</span><br>
+<a href="about.html" data-i18n="about">About</a> · <a href="contact.html" data-i18n="contact">Contact</a> · <a href="privacy.html" data-i18n="privacy">Privacy</a></footer>
+<script src="i18n.js"></script>
 <script>
 (function(){
   var filter = "all";
@@ -332,7 +341,7 @@ publishers (BBC Sport, The Guardian, ESPN). All rights belong to their owners.<b
       sec.querySelector(".more").style.display = shown < total ? "" : "none";
       sec.querySelector(".count").textContent = total ? "(" + total + ")" : "";
       var em = g.querySelector(".none");
-      if (!total && !em){ em = document.createElement("p"); em.className = "empty none"; em.textContent = "Nothing for this league right now – check back soon."; g.appendChild(em); }
+      if (!total && !em){ em = document.createElement("p"); em.className = "empty none"; em.setAttribute("data-i18n", "none"); em.textContent = window.FA ? FA.t("none") : "Nothing for this league right now – check back soon."; g.appendChild(em); }
       if (em) em.style.display = total ? "none" : "";
     });
   }
