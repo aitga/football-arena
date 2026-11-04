@@ -23,6 +23,11 @@ def plan():
 def prepare():
     cfg = plan()
     news, vids = build.news(), build.highlights()
+    if not vids:  # use the highlights the website already saved this hour
+        try:
+            vids = [dict(v, date=build.parse_date(v["date"])) for v in json.load(open("latest.json")).get("videos", [])]
+        except Exception:
+            vids = []
     posts = []
     if cfg.get("news_roundup", True) and news:
         lines = ["⚽ FOOTBALL ARENA – today's top football stories", ""]

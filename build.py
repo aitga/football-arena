@@ -4,6 +4,7 @@ import datetime
 import email.utils
 import html
 import json
+import os
 import re
 import xml.etree.ElementTree as ET
 
@@ -85,9 +86,32 @@ def channel_id(handle):
     return m.group(1) if m else None
 
 
+def channel_videos_api(cid, key):
+    """Official YouTube Data API (free key): latest uploads of a channel."""
+    r = requests.get("https://www.googleapis.com/youtube/v3/playlistItems", timeout=30, params={
+        "part": "snippet", "playlistId": "UU" + cid[2:], "maxResults": 8, "key": key}).json()
+    if "error" in r:
+        raise RuntimeError(r["error"].get("message"))
+    out = []
+    for it in r.get("items", []):
+        sn = it["snippet"]
+        out.append({"id": sn["resourceId"]["videoId"], "title": sn["title"], "date": sn["publishedAt"]})
+    return out
+
+
 def highlights():
     vids = []
+    key = os.environ.get("YT_API_KEY", "").strip()
     for name, handle in HIGHLIGHT_CHANNELS:
+        if key:
+            try:
+                for v in channel_videos_api(handle, key):
+                    if "#shorts" not in v["title"].lower():
+                        vids.append({"channel": name, "id": v["id"], "title": clean(v["title"], 120),
+                                     "date": parse_date(v["date"])})
+                continue
+            except Exception as e:
+                print("YouTube API failed:", name, e)
         try:
             cid = handle if handle.startswith("UC") else channel_id(handle)
             root = ET.fromstring(get(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"))
