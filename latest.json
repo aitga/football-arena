@@ -1,6 +1,14 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "What are rules on loan players in Champions League?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport's Ask Me Anything team explains the Champions League rules on loan players facing their parent clubs",
+   "date": "2026-11-04T16:02:08+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202f/live/46fd4a90-d2e3-11f1-8af5-e1db7ad65222.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Christian Pulisic, Folarin Balogun return to USMNT roster for Nations League",
    "link": "https://www.theguardian.com/football/2026/nov/04/usmnt-roster-nations-league-christian-pulisic",
@@ -71,17 +79,17 @@
    "summary": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
    "date": "2026-11-04T11:49:23+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef8/live/b0d4e5f0-d828-11f1-be97-417dbcdedd32.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Keeper Owono 'would never intentionally hurt anyone'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-   "summary": "Andorra goalkeeper Jesus Owono \"would never intentionally hurt anyone\" and is \"deeply affected\" by the death of Tenerife forward Jesus de Miguel, his team-mate said on Wednesday.",
-   "date": "2026-11-04T11:40:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4710/live/c7840d60-d866-11f1-b441-2b33b063138f.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "What are rules on loan players in Champions League?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport's Ask Me Anything team explains the Champions League rules on loan players facing their parent clubs",
+   "date": "2026-11-04T16:02:08+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202f/live/46fd4a90-d2e3-11f1-8af5-e1db7ad65222.jpg"
+  },
   {
    "source": "The Guardian",
    "title": "Christian Pulisic, Folarin Balogun return to USMNT roster for Nations League",
@@ -553,17 +561,15 @@
    "summary": "Sunday\u2019s win at Liverpool showed the Gunners are deeper, more experienced, and are playing against a weaker class of contenders than last seasonSign up for our free newsletter hereArsenal are three points clear at the\u2026",
    "date": "2026-11-02T15:47:19+00:00",
    "image": "https://i.guim.co.uk/img/media/13126637f64d505b7db502f11e4633cc47345fbc/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ff864052105dc932f3f6a3c6de32f9cb"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Led by Liam Rosenior and backed by billionaires, Paris FC are now a force in Ligue 1 | Luke Entwistle",
-   "link": "https://www.theguardian.com/football/2026/nov/02/paris-fc-ligue-1-liam-rosenior-billionaires",
-   "summary": "After a huge summer and with PSG\u2019s other rivals falling away, their city rivals are aiming to \u2018be one of the biggest clubs in Europe\u2019By Get French Football NewsIt is hard to know what Pierre\u00a0Ferracci found stranger: the\u2026",
-   "date": "2026-11-02T15:45:35+00:00",
-   "image": "https://i.guim.co.uk/img/media/311f869dcd42353547019f9afe60ea4059a43a7f/289_0_4758_3806/master/4758.jpg?width=140&quality=85&auto=format&fit=max&s=cc6aa31ceb8fa3e878b5825136ecbdfc"
   }
  ],
  "videos": [
+  {
+   "channel": "Serie A",
+   "id": "AujjLj71dGw",
+   "title": "Meet Frosinone\u2019s FANTASTIC FOUR \ud83d\udd25 | Goals & Assists | Serie A 2026/27",
+   "date": "2026-11-04T16:00:12+00:00"
+  },
   {
    "channel": "Serie A",
    "id": "rZ4GM52uHlg",
@@ -650,6 +656,12 @@
   },
   {
    "channel": "Premier League",
+   "id": "j3h11PxN3Do",
+   "title": "100 IQ Moments \ud83e\udde0\ud83d\ude2e\u200d\ud83d\udca8",
+   "date": "2026-11-04T16:01:10+00:00"
+  },
+  {
+   "channel": "Premier League",
    "id": "M3zShNizlFw",
    "title": "Why Do Footballers Wear Specific Numbers? | Football 101",
    "date": "2026-11-04T15:05:10+00:00"
@@ -677,12 +689,6 @@
    "id": "QEQAXsNRD4M",
    "title": "Emotions. \u2764\ufe0f",
    "date": "2026-11-04T14:00:10+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "xlZZY84LSGo",
-   "title": "Man United\u2019s INCREDIBLE comeback against Roma!",
-   "date": "2026-11-04T13:30:04+00:00"
   }
  ],
  "fixtures": [
@@ -695,7 +701,7 @@
    "hs": "0",
    "as": "0",
    "live": true,
-   "clock": "21'",
+   "clock": "35'",
    "venue": "Roazhon Park",
    "usa": [
     "Paramount+"
