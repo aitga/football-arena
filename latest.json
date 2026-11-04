@@ -1,6 +1,38 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Fenerbahce v Liverpool: Champions League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live",
+   "summary": "Minute-by-minute updates on the early kick-off in TurkeyLiverpool fizzle out against Arsenal | Email SimonThe players are on the pitch! And while the tournament anthem rings out, the Fenerbahce midfielder Yuksek gives\u2026",
+   "date": "2026-11-04T17:57:51+00:00",
+   "image": "https://i.guim.co.uk/img/media/3f4aa260a5015473ee20f98035111c5dbc3f3eee/130_0_2651_2120/master/2651.jpg?width=140&quality=85&auto=format&fit=max&s=8d4ce5b4b267e1c9ea4c189283911c29"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "How landmark Everton compensation prevented Burnley record loss",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
+   "date": "2026-11-04T17:48:19+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Ex-Burnley striker Rodriguez announces retirement",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o?at_medium=RSS&at_campaign=rss",
+   "summary": "Former Burnley striker Jay Rodriguez announces his retirement from playing career.",
+   "date": "2026-11-04T17:28:52+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee2/live/8c1cffc0-d875-11f1-a364-a1fce50dd192.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Bournemouth\u2019s decision not to panic after their tough start is paying off",
+   "link": "https://www.theguardian.com/football/2026/nov/04/bournemouth-marco-rose-premier-league-games-opta",
+   "summary": "Marco Rose\u2019s team did not win any of their first six games in the Premier League but he stayed calm and positiveBy Opta AnalystIt would have been easy, understandable even, for Bournemouth fans to feel down and worried.\u2026",
+   "date": "2026-11-04T17:01:47+00:00",
+   "image": "https://i.guim.co.uk/img/media/ebcc5e4c257d2eac988fc01e87724ec434592253/447_0_3740_2993/master/3740.jpg?width=140&quality=85&auto=format&fit=max&s=6b3ae9ea52b511815812ef4551f8e577"
+  },
+  {
    "source": "BBC Sport",
    "title": "Hearts record \u00a32.4m loss in Bloom's first year",
    "link": "https://www.bbc.co.uk/sport/football/articles/ckqxnve3jplxo?at_medium=RSS&at_campaign=rss",
@@ -15,14 +47,6 @@
    "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
    "date": "2026-11-04T16:40:38+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Fenerbahce v Liverpool: Champions League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live",
-   "summary": "Minute-by-minute updates on the early kick-off in TurkeyLiverpool fizzle out against Arsenal | Email SimonThe teams have been named, and here they jolly well are! Five changes for Liverpool, with Florian Wirtz and\u2026",
-   "date": "2026-11-04T16:38:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/ed882208b4f8399bc99b6d70c26b652c6ffb7a54/0_189_2969_2375/master/2969.jpg?width=140&quality=85&auto=format&fit=max&s=cede580ae6ca56af86282b48beda88d1"
   },
   {
    "source": "BBC Sport",
@@ -44,7 +68,7 @@
    "source": "The Guardian",
    "title": "Goalkeeper Jes\u00fas Owono experiencing \u2018hardest days of my life\u2019 after De Miguel\u2019s death",
    "link": "https://www.theguardian.com/football/2026/nov/04/goalkeeper-jesus-owono-jesus-de-miguel-death-tenerife-deeply-affected-andorra",
-   "summary": "Owono says he feels \u2018immense pain\u2019 over tragedyHe gets backing from Andorra teammateThe FC Andorra goalkeeper Jes\u00fas Owono said on Wednesday he was enduring the \u201chardest days of my life\u201d after the death of the Tenerife\u2026",
+   "summary": "Owono says he feels \u2018huge pain\u2019 over tragedyInvestigation into medical attention De Miguel receivedThe FC Andorra goalkeeper Jes\u00fas Owono said he was enduring the \u201chardest days of my life\u201d after he was involved in the\u2026",
    "date": "2026-11-04T16:23:02+00:00",
    "image": "https://i.guim.co.uk/img/media/5f17bf842665d6d271246b1402b0d764097498f2/754_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=80df570f5e0f6c8736cb76f968c21caa"
   },
@@ -55,33 +79,41 @@
    "summary": "Aaron, Jobi and Lyle Taylor talk Scott Parker's taking over West Ham and Derby's issues.",
    "date": "2026-11-04T16:15:00+00:00",
    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
-   "summary": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
-   "date": "2026-11-04T16:12:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "What are rules on loan players in Champions League?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport's Ask Me Anything team explains the Champions League rules on loan players facing their parent clubs",
-   "date": "2026-11-04T16:02:08+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202f/live/46fd4a90-d2e3-11f1-8af5-e1db7ad65222.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | Manchester United\u2019s unlikely one-match winning streak and hard-to-please fans",
-   "link": "https://www.theguardian.com/football/2026/nov/04/manchester-united-win-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Considering they\u2019d just gone nine games without a win, assorted Manchester United fans carping about the manner of their team\u2019s Bigger Cup win over Roma on shouty radio\u2026",
-   "date": "2026-11-04T15:31:25+00:00",
-   "image": "https://i.guim.co.uk/img/media/d64742442ce86dea6dd15ef1208bf96fb34d92bd/220_0_3988_3190/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=31c9026c9e8b436fbb32255e06a898e5"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Fenerbahce v Liverpool: Champions League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live",
+   "summary": "Minute-by-minute updates on the early kick-off in TurkeyLiverpool fizzle out against Arsenal | Email SimonThe players are on the pitch! And while the tournament anthem rings out, the Fenerbahce midfielder Yuksek gives\u2026",
+   "date": "2026-11-04T17:57:51+00:00",
+   "image": "https://i.guim.co.uk/img/media/3f4aa260a5015473ee20f98035111c5dbc3f3eee/130_0_2651_2120/master/2651.jpg?width=140&quality=85&auto=format&fit=max&s=8d4ce5b4b267e1c9ea4c189283911c29"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "How landmark Everton compensation prevented Burnley record loss",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
+   "date": "2026-11-04T17:48:19+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Ex-Burnley striker Rodriguez announces retirement",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o?at_medium=RSS&at_campaign=rss",
+   "summary": "Former Burnley striker Jay Rodriguez announces his retirement from playing career.",
+   "date": "2026-11-04T17:28:52+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee2/live/8c1cffc0-d875-11f1-a364-a1fce50dd192.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Bournemouth\u2019s decision not to panic after their tough start is paying off",
+   "link": "https://www.theguardian.com/football/2026/nov/04/bournemouth-marco-rose-premier-league-games-opta",
+   "summary": "Marco Rose\u2019s team did not win any of their first six games in the Premier League but he stayed calm and positiveBy Opta AnalystIt would have been easy, understandable even, for Bournemouth fans to feel down and worried.\u2026",
+   "date": "2026-11-04T17:01:47+00:00",
+   "image": "https://i.guim.co.uk/img/media/ebcc5e4c257d2eac988fc01e87724ec434592253/447_0_3740_2993/master/3740.jpg?width=140&quality=85&auto=format&fit=max&s=6b3ae9ea52b511815812ef4551f8e577"
+  },
   {
    "source": "BBC Sport",
    "title": "Hearts record \u00a32.4m loss in Bloom's first year",
@@ -97,14 +129,6 @@
    "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
    "date": "2026-11-04T16:40:38+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Fenerbahce v Liverpool: Champions League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live",
-   "summary": "Minute-by-minute updates on the early kick-off in TurkeyLiverpool fizzle out against Arsenal | Email SimonThe teams have been named, and here they jolly well are! Five changes for Liverpool, with Florian Wirtz and\u2026",
-   "date": "2026-11-04T16:38:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/ed882208b4f8399bc99b6d70c26b652c6ffb7a54/0_189_2969_2375/master/2969.jpg?width=140&quality=85&auto=format&fit=max&s=cede580ae6ca56af86282b48beda88d1"
   },
   {
    "source": "BBC Sport",
@@ -126,7 +150,7 @@
    "source": "The Guardian",
    "title": "Goalkeeper Jes\u00fas Owono experiencing \u2018hardest days of my life\u2019 after De Miguel\u2019s death",
    "link": "https://www.theguardian.com/football/2026/nov/04/goalkeeper-jesus-owono-jesus-de-miguel-death-tenerife-deeply-affected-andorra",
-   "summary": "Owono says he feels \u2018immense pain\u2019 over tragedyHe gets backing from Andorra teammateThe FC Andorra goalkeeper Jes\u00fas Owono said on Wednesday he was enduring the \u201chardest days of my life\u201d after the death of the Tenerife\u2026",
+   "summary": "Owono says he feels \u2018huge pain\u2019 over tragedyInvestigation into medical attention De Miguel receivedThe FC Andorra goalkeeper Jes\u00fas Owono said he was enduring the \u201chardest days of my life\u201d after he was involved in the\u2026",
    "date": "2026-11-04T16:23:02+00:00",
    "image": "https://i.guim.co.uk/img/media/5f17bf842665d6d271246b1402b0d764097498f2/754_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=80df570f5e0f6c8736cb76f968c21caa"
   },
@@ -166,7 +190,7 @@
    "source": "The Guardian",
    "title": "Christian Pulisic, Folarin Balogun return to USMNT roster for Nations League",
    "link": "https://www.theguardian.com/football/2026/nov/04/usmnt-roster-nations-league-christian-pulisic",
-   "summary": "Mauricio Pochettino names 26-man roster to face HaitiMcKennie and Sullivan among notable inclusionsQuarter-final matches set for Miami, CincinnatiMauricio Pochettino has selected his 26-man roster for the United States\u2019\u2026",
+   "summary": "Mauricio Pochettino names 25-man roster to face HaitiMcKennie and Sullivan among notable inclusionsQuarter-final matches set for Miami, CincinnatiMauricio Pochettino has selected his 25-man roster for the United States\u2019\u2026",
    "date": "2026-11-04T15:10:43+00:00",
    "image": "https://i.guim.co.uk/img/media/0bb5f880eb7f985cf0f72b2fd84755f3e0f08863/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=240a947ee74b98fb51bc1945d6e16411"
   },
@@ -419,20 +443,20 @@
    "image": "https://i.guim.co.uk/img/media/73d0a1d0c981981a58ad0d478fcd54b0656d4f86/142_55_1335_1067/master/1335.jpg?width=140&quality=85&auto=format&fit=max&s=24738cde6de4b328d2174fe447136203"
   },
   {
+   "source": "The Guardian",
+   "title": "Phil Foden sets sights on England recall and says he has had no contact with Tuchel",
+   "link": "https://www.theguardian.com/football/2026/nov/03/phil-foden-sets-sights-on-england-recall-and-says-hes-had-no-contact-with-tuchel",
+   "summary": "Foden: \u2018You have to keep putting on performances\u2019Enzo Maresca: \u2018We cannot rely on Erling for every game\u2019Phil Foden is aiming for an England recall after the Manchester City attacker was left out of the squad for last\u2026",
+   "date": "2026-11-03T20:08:27+00:00",
+   "image": "https://i.guim.co.uk/img/media/5ffb0b819ac36014291a64e264523ed548817ed6/406_0_4073_3258/master/4073.jpg?width=140&quality=85&auto=format&fit=max&s=1c2feacd4a74ed643d5dff59664e4954"
+  },
+  {
    "source": "BBC Sport",
    "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
    "link": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&at_campaign=rss",
    "summary": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
    "date": "2026-11-03T16:54:35+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a643/live/cf56f660-d7a3-11f1-84dd-e55f4bec0ecd.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "How sporting events are being affected by Middle East conflict",
-   "link": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.",
-   "date": "2026-11-03T16:01:24+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754d/live/85ccd330-d798-11f1-801d-cf196dc7232c.jpg"
   },
   {
    "source": "The Guardian",
@@ -537,33 +561,15 @@
    "summary": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
    "date": "2026-11-02T22:44:30+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff55/live/2bdf6810-d76b-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Revisiting the Supercl\u00e1sico: a story of death, violence, colour and family",
-   "link": "https://www.theguardian.com/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
-   "summary": "Attending Boca v River in the week I turned 60 made me recall a lifetime of experiences at the fixtureEver since the Observer Sport Monthly published a list of 50 sporting things you must do before you die with Watch\u2026",
-   "date": "2026-11-02T20:00:27+00:00",
-   "image": "https://i.guim.co.uk/img/media/e12c6feac7cb349c1f5a8c635a79c1418e14eab8/49_0_3694_2956/master/3694.jpg?width=140&quality=85&auto=format&fit=max&s=8fec1766846cadd8b44e05a52f8bd843"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "BBC Women's Football Weekly",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pkxggd?at_medium=RSS&at_campaign=rss",
-   "summary": "Unbeaten in all competitions, are Sonia Bompastor's side getting back to their best?",
-   "date": "2026-11-02T18:10:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Arsenal have everything they need to repeat as Premier League champions | Jonathan Wilson",
-   "link": "https://www.theguardian.com/football/2026/nov/02/arsenal-liverpool-premier-league",
-   "summary": "Sunday\u2019s win at Liverpool showed the Gunners are deeper, more experienced, and are playing against a weaker class of contenders than last seasonSign up for our free newsletter hereArsenal are three points clear at the\u2026",
-   "date": "2026-11-02T15:47:19+00:00",
-   "image": "https://i.guim.co.uk/img/media/13126637f64d505b7db502f11e4633cc47345fbc/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ff864052105dc932f3f6a3c6de32f9cb"
   }
  ],
  "videos": [
+  {
+   "channel": "Serie A",
+   "id": "qO_3oepajYc",
+   "title": "ALL ROUND 9 HIGHLIGHTS \u26bd | PRIMAVERA 1 2026/27",
+   "date": "2026-11-04T17:23:20+00:00"
+  },
   {
    "channel": "UEFA",
    "id": "8tFkVM6eBxg",
@@ -613,12 +619,6 @@
    "date": "2026-11-03T17:00:16+00:00"
   },
   {
-   "channel": "UEFA",
-   "id": "WAZoEsNWmfQ",
-   "title": "Another first-half goal in a Galatasaray game? \ud83e\udd37\u200d\u2642\ufe0f Roma to avoid away defeat\u2753",
-   "date": "2026-11-03T16:55:14+00:00"
-  },
-  {
    "channel": "FIFA",
    "id": "FznMMgrSE-I",
    "title": "Scotland v Brazil In Just 60 Seconds! | 2026 FIFA World Cup HIGHLIGHTS",
@@ -649,6 +649,12 @@
    "date": "2026-11-01T23:00:38+00:00"
   },
   {
+   "channel": "UEFA",
+   "id": "ARpwlX5M_fQ",
+   "title": "This Cancelo assist \ud83d\ude0d",
+   "date": "2026-11-04T18:00:37+00:00"
+  },
+  {
    "channel": "FIFA",
    "id": "oXMVjw1lYUs",
    "title": "LIVE NOW | Argentina v Algeria | Group Stage | FIFA World Cup 2026\u2122",
@@ -675,34 +681,11 @@
   {
    "channel": "Premier League",
    "id": "j3h11PxN3Do",
-   "title": "100 IQ Moments \ud83e\udde0\ud83d\ude2e\u200d\ud83d\udca8",
+   "title": "Rating 100 IQ Football Moments \ud83e\udde0\ud83d\ude2e\u200d\ud83d\udca8",
    "date": "2026-11-04T16:01:10+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "M3zShNizlFw",
-   "title": "Why Do Footballers Wear Specific Numbers? | Football 101",
-   "date": "2026-11-04T15:05:10+00:00"
   }
  ],
  "fixtures": [
-  {
-   "id": "401915551",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-04T15:30Z",
-   "home": "Stade Rennais",
-   "away": "Olympiacos",
-   "hs": "0",
-   "as": "0",
-   "live": true,
-   "clock": "80'",
-   "venue": "Roazhon Park",
-   "usa": [
-    "Paramount+"
-   ]
-  },
   {
    "id": "401915383",
    "code": "uefa.champions",
@@ -711,10 +694,10 @@
    "date": "2026-11-04T17:45Z",
    "home": "AEK Athens",
    "away": "Real Madrid",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": false,
-   "clock": "0'",
+   "live": true,
+   "clock": "15'",
    "venue": "OPAP Arena",
    "usa": [
     "Paramount+"
@@ -730,8 +713,8 @@
    "away": "Liverpool",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "clock": "0'",
+   "live": true,
+   "clock": "14'",
    "venue": "\u015e\u00fckr\u00fc Saraco\u011flu Stadium",
    "usa": [
     "Paramount+"
