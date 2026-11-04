@@ -1,20 +1,52 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Hearts record \u00a32.4m loss in Bloom's first year",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckqxnve3jplxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Heart of Midlothian record a loss of \u00a32.4m for the year ending 30 June, despite a turnover of more than \u00a323m the first 12 months of Brighton owner Tony Bloom's involvement.",
+   "date": "2026-11-04T17:00:49+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ddd/live/81fb7340-d871-11f1-85ab-b3cc3b5498c6.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'Most difficult days of my life' for Owono after De Miguel death",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+   "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+   "date": "2026-11-04T16:40:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Fenerbahce v Liverpool: Champions League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live",
+   "summary": "Minute-by-minute updates on the early kick-off in TurkeyLiverpool fizzle out against Arsenal | Email SimonThe teams have been named, and here they jolly well are! Five changes for Liverpool, with Florian Wirtz and\u2026",
+   "date": "2026-11-04T16:38:51+00:00",
+   "image": "https://i.guim.co.uk/img/media/ed882208b4f8399bc99b6d70c26b652c6ffb7a54/0_189_2969_2375/master/2969.jpg?width=140&quality=85&auto=format&fit=max&s=cede580ae6ca56af86282b48beda88d1"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Rangers' McInnes eager for Penrice deal",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&at_campaign=rss",
+   "summary": "Rangers boss Derek McInnes stresses his desire to sign James Penrice on a permanent deal, with the full-back's impact leading to a first Scotland call.",
+   "date": "2026-11-04T16:38:41+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Upward path for Penrice has McInnes eager for Rangers deal",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&at_campaign=rss",
+   "summary": "Rangers boss Derek McInnes stresses his desire to sign James Penrice on a permanent deal, with the full-back's impact leading to a first Scotland call.",
+   "date": "2026-11-04T16:38:41+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Goalkeeper Jes\u00fas Owono experiencing \u2018hardest days of my life\u2019 after De Miguel\u2019s death",
    "link": "https://www.theguardian.com/football/2026/nov/04/goalkeeper-jesus-owono-jesus-de-miguel-death-tenerife-deeply-affected-andorra",
    "summary": "Owono says he feels \u2018immense pain\u2019 over tragedyHe gets backing from Andorra teammateThe FC Andorra goalkeeper Jes\u00fas Owono said on Wednesday he was enduring the \u201chardest days of my life\u201d after the death of the Tenerife\u2026",
    "date": "2026-11-04T16:23:02+00:00",
    "image": "https://i.guim.co.uk/img/media/5f17bf842665d6d271246b1402b0d764097498f2/754_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=80df570f5e0f6c8736cb76f968c21caa"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Fenerbahce v Liverpool: Champions League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live",
-   "summary": "Minute-by-minute updates on the early kick-off in TurkeyLiverpool fizzle out against Arsenal | Email SimonHere\u2019s Andy Hunter\u2019s pre-match missive from Istanbul:Andoni Iraola has said Liverpool must improve their\u2026",
-   "date": "2026-11-04T16:23:00+00:00",
-   "image": "https://i.guim.co.uk/img/media/a29029a46669d560f1c658be7fcae715a5ca19d7/375_0_4994_3996/master/4994.jpg?width=140&quality=85&auto=format&fit=max&s=62bf2a5bffb04b6b1a518480522c7250"
   },
   {
    "source": "BBC Sport",
@@ -47,41 +79,49 @@
    "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Considering they\u2019d just gone nine games without a win, assorted Manchester United fans carping about the manner of their team\u2019s Bigger Cup win over Roma on shouty radio\u2026",
    "date": "2026-11-04T15:31:25+00:00",
    "image": "https://i.guim.co.uk/img/media/d64742442ce86dea6dd15ef1208bf96fb34d92bd/220_0_3988_3190/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=31c9026c9e8b436fbb32255e06a898e5"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Christian Pulisic, Folarin Balogun return to USMNT roster for Nations League",
-   "link": "https://www.theguardian.com/football/2026/nov/04/usmnt-roster-nations-league-christian-pulisic",
-   "summary": "Mauricio Pochettino names 26-man roster to face HaitiMcKennie and Sullivan among notable inclusionsQuarter-final matches set for Miami, CincinnatiMauricio Pochettino has selected his 26-man roster for the United States\u2019\u2026",
-   "date": "2026-11-04T15:10:43+00:00",
-   "image": "https://i.guim.co.uk/img/media/0bb5f880eb7f985cf0f72b2fd84755f3e0f08863/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=240a947ee74b98fb51bc1945d6e16411"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel",
-   "link": "https://www.theguardian.com/football/2026/nov/04/real-madrid-jj-gabriel-manchester-united-close-agreement-sign",
-   "summary": "Madrid hope to bring in forward during JanuaryUnited to consider legal action if they feel rules brokenReal Madrid are closing in on signing JJ Gabriel, though Manchester United will consider legal action if the club\u2026",
-   "date": "2026-11-04T14:48:17+00:00",
-   "image": "https://i.guim.co.uk/img/media/878adb1955bcd3465818deffd928ff1fe2cb863e/229_150_2083_1665/master/2083.jpg?width=140&quality=85&auto=format&fit=max&s=b57b5ef1034ed05b766e49ee74e002e6"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Can miraculous Manchester United comeback save Michael Carrick? | Football Weekly video",
-   "link": "https://www.theguardian.com/football/video/2026/nov/04/can-miraculous-manchester-united-comeback-save-michael-carrick-football-weekly-video",
-   "summary": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Mark Langdon as Manchester United comeback from 2-0 down to beat Roma in the Champions League Continue reading...",
-   "date": "2026-11-04T13:30:58+00:00",
-   "image": "https://i.guim.co.uk/img/media/a6541e4a223a5030e9a32c71fdb071c668d9c909/853_0_4263_3411/master/4263.jpg?width=140&quality=85&auto=format&fit=max&s=27bb1b2e2433ecac5c5f9a152adf4ac4"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Nadal set to join Real Madrid board of directors",
-   "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-   "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-   "date": "2026-11-04T13:21:01+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75e/live/2dfb0e80-d84f-11f1-b870-55415e6a9944.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Hearts record \u00a32.4m loss in Bloom's first year",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckqxnve3jplxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Heart of Midlothian record a loss of \u00a32.4m for the year ending 30 June, despite a turnover of more than \u00a323m the first 12 months of Brighton owner Tony Bloom's involvement.",
+   "date": "2026-11-04T17:00:49+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ddd/live/81fb7340-d871-11f1-85ab-b3cc3b5498c6.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'Most difficult days of my life' for Owono after De Miguel death",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+   "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+   "date": "2026-11-04T16:40:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Fenerbahce v Liverpool: Champions League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live",
+   "summary": "Minute-by-minute updates on the early kick-off in TurkeyLiverpool fizzle out against Arsenal | Email SimonThe teams have been named, and here they jolly well are! Five changes for Liverpool, with Florian Wirtz and\u2026",
+   "date": "2026-11-04T16:38:51+00:00",
+   "image": "https://i.guim.co.uk/img/media/ed882208b4f8399bc99b6d70c26b652c6ffb7a54/0_189_2969_2375/master/2969.jpg?width=140&quality=85&auto=format&fit=max&s=cede580ae6ca56af86282b48beda88d1"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Rangers' McInnes eager for Penrice deal",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&at_campaign=rss",
+   "summary": "Rangers boss Derek McInnes stresses his desire to sign James Penrice on a permanent deal, with the full-back's impact leading to a first Scotland call.",
+   "date": "2026-11-04T16:38:41+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Upward path for Penrice has McInnes eager for Rangers deal",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&at_campaign=rss",
+   "summary": "Rangers boss Derek McInnes stresses his desire to sign James Penrice on a permanent deal, with the full-back's impact leading to a first Scotland call.",
+   "date": "2026-11-04T16:38:41+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"
+  },
   {
    "source": "The Guardian",
    "title": "Goalkeeper Jes\u00fas Owono experiencing \u2018hardest days of my life\u2019 after De Miguel\u2019s death",
@@ -89,14 +129,6 @@
    "summary": "Owono says he feels \u2018immense pain\u2019 over tragedyHe gets backing from Andorra teammateThe FC Andorra goalkeeper Jes\u00fas Owono said on Wednesday he was enduring the \u201chardest days of my life\u201d after the death of the Tenerife\u2026",
    "date": "2026-11-04T16:23:02+00:00",
    "image": "https://i.guim.co.uk/img/media/5f17bf842665d6d271246b1402b0d764097498f2/754_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=80df570f5e0f6c8736cb76f968c21caa"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Fenerbahce v Liverpool: Champions League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live",
-   "summary": "Minute-by-minute updates on the early kick-off in TurkeyLiverpool fizzle out against Arsenal | Email SimonHere\u2019s Andy Hunter\u2019s pre-match missive from Istanbul:Andoni Iraola has said Liverpool must improve their\u2026",
-   "date": "2026-11-04T16:23:00+00:00",
-   "image": "https://i.guim.co.uk/img/media/a29029a46669d560f1c658be7fcae715a5ca19d7/375_0_4994_3996/master/4994.jpg?width=140&quality=85&auto=format&fit=max&s=62bf2a5bffb04b6b1a518480522c7250"
   },
   {
    "source": "BBC Sport",
@@ -188,14 +220,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Keeper Owono 'would never intentionally hurt anyone'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-   "summary": "Andorra goalkeeper Jesus Owono \"would never intentionally hurt anyone\" and is \"deeply affected\" by the death of Tenerife forward Jesus de Miguel, his team-mate said on Wednesday.",
-   "date": "2026-11-04T11:40:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4710/live/c7840d60-d866-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Wilson returns as Wales call up uncapped Duncan",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo?at_medium=RSS&at_campaign=rss",
    "summary": "Harry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call.",
@@ -241,14 +265,6 @@
    "summary": "Will qualifying for the Europa League end up costing Sunderland their place in the Premier League at the end of the season?",
    "date": "2026-11-04T08:27:25+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a04/live/cf211500-d6c1-11f1-ac20-7783925c811f.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Recovering Murray hopes to earn Dundee deal - gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwj0l628dvmeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Veteran Scottish Premiership striker targets new contract on long road back to fitness as former Celtic player has advice on how to get the best out of record signing...",
-   "date": "2026-11-04T08:14:53+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a572/live/438686d0-d827-11f1-a701-fddedf244c16.png"
   },
   {
    "source": "The Guardian",
@@ -356,6 +372,14 @@
   },
   {
    "source": "BBC Sport",
+   "title": "Swansea defender Welsh in Scotland injury scare",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxj0l33pjgn6o?at_medium=RSS&at_campaign=rss",
+   "summary": "Swansea City are waiting to discover the extent of Stephen Welsh's knee injury after the centre-back is helped off during their painful defeat at Portsmouth.",
+   "date": "2026-11-03T23:20:32+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a0/live/ea9872d0-d7c3-11f1-a719-bf3dc3a3d5b5.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
    "link": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss",
    "summary": "Manchester City defender Rayan Ait-Nouri a surprise target for Manchester United, Crystal Palace could turn to England assistant boss Anthony Barry if they sack Pierre Sage, Barcelona keen on Arsenal centre-back Piero\u2026",
@@ -428,27 +452,11 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Former Rangers player Kyle Hutton to stand trial over road death",
-   "link": "https://www.bbc.co.uk/news/articles/c9vgrvjj0162o?at_medium=RSS&at_campaign=rss",
-   "summary": "Victoria Cairns died four days after the crash in Rutherglen in November 2024.",
-   "date": "2026-11-03T15:10:54+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb3/live/a8fb5520-9dc0-11ef-82c3-45a801b7330b.png"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
    "summary": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache.",
    "date": "2026-11-03T15:07:49+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b088/live/3590cf00-d7ae-11f1-9092-abeae3cab3b1.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Scotland draw Germany, Netherlands & Sweden in Nations League",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm75pg91d0yno?at_medium=RSS&at_campaign=rss",
-   "summary": "Scotland will meet Germany, Netherlands and Sweden in the next edition of the women's Nations League.",
-   "date": "2026-11-03T13:10:35+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/6cec1e90-d782-11f1-a391-ad4d37bef273.jpg"
   },
   {
    "source": "BBC Sport",
@@ -489,14 +497,6 @@
    "summary": "Our cartoonist on whether the Arsenal manager is right about the game not being an entertainment industryBuy a cartoon | Some of David\u2019s favourite worksAnd his latest book, Chaos in the Box: get it now Continue\u2026",
    "date": "2026-11-03T10:57:42+00:00",
    "image": "https://i.guim.co.uk/img/media/f9c385ce04ea84febf5b2296f7114a33ca4ec04f/0_0_631_505/master/631.jpg?width=140&quality=85&auto=format&fit=max&s=a68cf1549726acd9fdc8fd70dddc5abd"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Boy arrested following Bradley Lowery taunt",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynr531xlvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Police are investigating an incident at Coventry's Premier League match with Sunderland on Saturday.",
-   "date": "2026-11-03T09:21:56+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7de/live/dcbcdef0-d627-11f1-a947-0507737f09b2.jpg"
   },
   {
    "source": "BBC Sport",
@@ -565,6 +565,12 @@
  ],
  "videos": [
   {
+   "channel": "UEFA",
+   "id": "8tFkVM6eBxg",
+   "title": "Incredible Europa League Goals That Are 10/10 Finishes! | Matchday 4 Edition",
+   "date": "2026-11-04T17:00:05+00:00"
+  },
+  {
    "channel": "Serie A",
    "id": "AujjLj71dGw",
    "title": "Meet Frosinone\u2019s FANTASTIC FOUR \ud83d\udd25 | Goals & Assists | Serie A 2026/27",
@@ -631,18 +637,6 @@
    "date": "2026-11-03T08:30:32+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "_-IUTJ1lS1s",
-   "title": "C\u00f4te d'Ivoire v Ecuador Goes To The Wire | 2026 World Cup Match Highlights",
-   "date": "2026-11-03T02:30:39+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "nYFcrFUwioo",
-   "title": "RC DEPORTIVO 2 - 1 CA OSASUNA | RESUMEN LALIGA EA SPORTS",
-   "date": "2026-11-02T22:08:16+00:00"
-  },
-  {
    "channel": "Bundesliga",
    "id": "YSToP57dISM",
    "title": "Drama All Over Der Klassiker! | FC BAYERN - BORUSSIA DORTMUND | Highlights | Matchday 8 \u2013 Bundesliga",
@@ -655,6 +649,30 @@
    "date": "2026-11-01T23:00:38+00:00"
   },
   {
+   "channel": "FIFA",
+   "id": "oXMVjw1lYUs",
+   "title": "LIVE NOW | Argentina v Algeria | Group Stage | FIFA World Cup 2026\u2122",
+   "date": "2026-11-04T17:00:35+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "-fMOZnqlio8",
+   "title": "Los 3 jugadores con m\u00e1s apoyos ofrecidos son...",
+   "date": "2026-11-04T17:00:14+00:00"
+  },
+  {
+   "channel": "UEFA",
+   "id": "fcZtJ_z7BtU",
+   "title": "Diomande\u2019s finish \ud83d\ude0d",
+   "date": "2026-11-04T17:00:09+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "KaGhtrTLBl8",
+   "title": "REFCAM Real Racing vs Real Madrid",
+   "date": "2026-11-04T17:00:03+00:00"
+  },
+  {
    "channel": "Premier League",
    "id": "j3h11PxN3Do",
    "title": "100 IQ Moments \ud83e\udde0\ud83d\ude2e\u200d\ud83d\udca8",
@@ -665,30 +683,6 @@
    "id": "M3zShNizlFw",
    "title": "Why Do Footballers Wear Specific Numbers? | Football 101",
    "date": "2026-11-04T15:05:10+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "1N-KKMhNsuo",
-   "title": "J\u00dcRGEN KLINSMANN REACTS TO DER KLASSIKER! | Thrilling Title Race | Bundesliga Haus Special Clip",
-   "date": "2026-11-04T15:00:27+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "pSBMGckyf68",
-   "title": "Quaresma shot power \ud83e\udd2f",
-   "date": "2026-11-04T15:00:12+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "DDF_WX4L14E",
-   "title": "Thierno Barry Dancing On Repeat \ud83d\udd7a\ud83d\udd01",
-   "date": "2026-11-04T14:30:54+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "QEQAXsNRD4M",
-   "title": "Emotions. \u2764\ufe0f",
-   "date": "2026-11-04T14:00:10+00:00"
   }
  ],
  "fixtures": [
@@ -703,7 +697,7 @@
    "hs": "0",
    "as": "0",
    "live": true,
-   "clock": "49'",
+   "clock": "80'",
    "venue": "Roazhon Park",
    "usa": [
     "Paramount+"
