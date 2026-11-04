@@ -2,6 +2,14 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-04T07:06:19+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Fernandes critical of media 'lies' about Carrick relationship",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
    "summary": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.",
@@ -71,17 +79,17 @@
    "summary": "\u201cThis stadium brings back bad memories but I hope to be able to replace them with good ones,\u201d Harry Kane had said on Monday night, and 24 hours later this was a start. A small step, perhaps, towards coming back on 5\u2026",
    "date": "2026-11-03T22:28:08+00:00",
    "image": "https://i.guim.co.uk/img/media/76ac46a8d3074b1298b04016958d0cbb01395e59/499_102_1688_1350/master/1688.jpg?width=140&quality=85&auto=format&fit=max&s=aea7fb4e922f4607e7f9bd4f66d6e200"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Championship roundup: Devlin\u2019s double for Portsmouth denies Swansea top spot",
-   "link": "https://www.theguardian.com/football/2026/nov/03/championship-roundup-swansea-portsmouth-southampton-west-brom-burnley",
-   "summary": "Birmingham sink Millwall to keep up good formNorwich thump Rams and pile pressure on EustaceTerry Devlin\u2019s double denied Swansea the chance to take top spot in the Championship as in-form Portsmouth won 3-1 at Fratton\u2026",
-   "date": "2026-11-03T22:28:05+00:00",
-   "image": "https://i.guim.co.uk/img/media/abb65bf292488101abe7bdc7cb8721715e379a96/217_187_2702_2161/master/2702.jpg?width=140&quality=85&auto=format&fit=max&s=1c0b3662cdb7a3a78bbf55d8931a3aa5"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-04T07:06:19+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
   {
    "source": "BBC Sport",
    "title": "Fernandes critical of media 'lies' about Carrick relationship",
@@ -265,14 +273,6 @@
    "summary": "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
    "date": "2026-11-03T15:39:21+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/417598b0-d799-11f1-801d-cf196dc7232c.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Wrexham suffer 'significant' Smith injury blow",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqrmyr0m3ydxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Wrexham forward Sam Smith faces a \"significant\" spell out of action due to a knee injury, manager Phil Parkinson confirms.",
-   "date": "2026-11-03T15:20:23+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e14/live/90c22740-d798-11f1-801d-cf196dc7232c.jpg"
   },
   {
    "source": "BBC Sport",
@@ -565,6 +565,12 @@
  ],
  "videos": [
   {
+   "channel": "Ligue 1",
+   "id": "6hwSOsiNjGY",
+   "title": "More than just a goal \ud83e\udd79 #ligue1mcdonalds  #football #ligue1 #foot #soccer #footballshorts #sports",
+   "date": "2026-11-04T06:00:19+00:00"
+  },
+  {
    "channel": "FIFA",
    "id": "mHMnFvyM4_M",
    "title": "Cabo Verde Score First-Ever Goals To Remain Unbeaten | 2026 World Cup EXTENDED HIGHLIGHTS",
@@ -655,6 +661,12 @@
    "date": "2026-11-01T23:00:32+00:00"
   },
   {
+   "channel": "Ligue 1",
+   "id": "h_DZhICQy24",
+   "title": "Timothy Weah fait d\u00e9couvrir la Commanderie au petit Valentin ! | Ma Super Ligue 1 - Saison 2, ep8",
+   "date": "2026-11-04T07:00:33+00:00"
+  },
+  {
    "channel": "FIFA",
    "id": "_VDa4S9rd44",
    "title": "10-Minute Match | Japan v Sweden | 2026 World Cup",
@@ -683,12 +695,6 @@
    "id": "FWRuEKeeuG8",
    "title": "FULL MATCH | Algeria v Austria | Group Stage | FIFA World Cup 2026\u2122",
    "date": "2026-11-03T16:51:08+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "90qfs8cl-M0",
-   "title": "So good \ud83d\ude0d",
-   "date": "2026-11-03T15:35:24+00:00"
   }
  ]
 }
