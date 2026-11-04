@@ -9,7 +9,7 @@ import requests
 
 import build
 
-SITE = "https://aitga.github.io/football-arena/"
+SITE = "https://www.footballarena.net/"
 GRAPH = "https://graph.facebook.com/v21.0"
 
 
