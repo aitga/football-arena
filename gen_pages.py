@@ -29,7 +29,7 @@ def page(title, desc, body, depth, note=True, extra=""):
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}">
 <link rel="icon" href="{up}logo.png"><style>{CSS}</style></head><body>
 <header><div class="top"><a href="{up}index.html"><img src="{up}logo.png" alt="Football Arena"></a><b>FOOTBALL <span>ARENA</span></b>
-<nav><a href="{up}index.html#highlights" data-i18n="nav_hl">Highlights</a><a href="{up}index.html#news" data-i18n="nav_news">News</a><a href="{up}articles/index.html" data-i18n="nav_art">Articles</a><a href="{up}quiz.html" style="color:#ffc83d" data-i18n="nav_quiz">Quiz</a><a href="{up}about.html" data-i18n="nav_about">About</a>
+<nav><a href="{up}index.html#highlights" data-i18n="nav_hl">Highlights</a><a href="{up}index.html#news" data-i18n="nav_news">News</a><a href="{up}articles/index.html" data-i18n="nav_art">Articles</a><a href="{up}live.html" style="color:#ff6b6b" data-i18n="nav_live">Live</a><a href="{up}quiz.html" style="color:#ffc83d" data-i18n="nav_quiz">Quiz</a><a href="{up}about.html" data-i18n="nav_about">About</a>
 <select class="langpick" aria-label="Language"></select></nav></div></header>
 <main>{'<p class="note" data-i18n-note style="display:none"></p>' if note else ''}{body}</main>
 <footer>© 2026 Football Arena ·<a href="{up}about.html" data-i18n="about">About</a>·<a href="{up}contact.html" data-i18n="contact">Contact</a>·<a href="{up}privacy.html" data-i18n="privacy">Privacy</a>·<a href="{FB}" target="_blank" rel="noopener" data-i18n="nav_fb">Facebook</a></footer>
@@ -144,3 +144,38 @@ start();
 open("quiz.html", "w").write(page("Football Quiz – Test Your Knowledge by Country and League",
      "Play a free football quiz about the Premier League, LaLiga, Serie A, Bundesliga, Ligue 1, the Champions League and the World Cup. Learn a fun fact with every answer.", qbody, 0, note=False, extra=qscript))
 print("quiz built:", len(QUIZ), "questions")
+
+# ---------- live.html (live match tracker) ----------
+LCSS = """<style>
+main{max-width:980px}
+#list{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 20px}
+.lv-item{display:flex;align-items:center;gap:7px;background:#10251a;color:#eef6f0;border:1px solid #1f3d2b;border-radius:12px;padding:8px 12px;font:600 14px system-ui,sans-serif;cursor:pointer}
+.lv-item.on{border-color:#2ee06f;background:#123a22}.lv-item b{font-weight:700}
+.flag{width:20px;height:14px;border-radius:2px;object-fit:cover}
+.lv-live{color:#ff5b5b;font-weight:800;font-size:12px}.lv-ft{color:#9cb8a6;font-size:12px;font-weight:700}.lv-ko{color:#ffc83d;font-size:12px;font-weight:700}
+.lv-live.big,.lv-ft.big,.lv-ko.big{font-size:15px}.lv-live.big{animation:blink 1.4s infinite}@keyframes blink{50%{opacity:.45}}
+.lv-board{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:12px;background:#10251a;border:1px solid #1f3d2b;border-radius:16px 16px 0 0;padding:14px 16px}
+.lv-board .tm{font-weight:800;font-size:19px;line-height:1.2}.lv-board .tm:last-child{text-align:end}
+.lv-board .sc{font-size:40px;font-weight:900;color:#ffc83d;white-space:nowrap}
+.lv-st{background:#0b1f13;border:1px solid #1f3d2b;border-top:0;padding:6px 16px;text-align:center}.lv-st small{color:#9cb8a6;margin-inline-start:8px}
+.lv-wrap{position:relative;margin:12px 0}.lv-pitch{width:100%;display:block;border-radius:14px;border:3px solid #1f3d2b}
+.pl{animation:jig 3s ease-in-out infinite}.p1{animation-duration:3.7s}.p2{animation-duration:2.6s}
+@keyframes jig{0%,100%{transform:translate(0,0)}33%{transform:translate(1.5px,-1.2px)}66%{transform:translate(-1.2px,1.4px)}}
+.lv-goal{position:absolute;inset:0;display:grid;place-content:center;text-align:center;background:rgba(0,0,0,.55);border-radius:14px;opacity:0;pointer-events:none;transition:opacity .4s}
+.lv-goal.show{opacity:1}.lv-goal b{font-size:64px;color:#ffc83d;text-shadow:0 4px 0 #6a3a00;animation:pop .6s}.lv-goal span{font-size:18px;font-weight:700;padding:0 20px}
+@keyframes pop{0%{transform:scale(.3)}70%{transform:scale(1.15)}100%{transform:scale(1)}}
+.lv-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}@media(max-width:700px){.lv-grid{grid-template-columns:1fr}}
+.lv-grid h3{margin:10px 0}.st{display:grid;grid-template-columns:50px 1fr 50px;align-items:center;font-size:14px;margin:8px 0}
+.st b{text-align:center;color:#9cb8a6;font-weight:600}.st span:last-of-type{text-align:end}
+.sbar{grid-column:1/4;display:flex;height:7px;border-radius:4px;overflow:hidden;background:#1f3d2b;margin-top:3px}
+.tl{list-style:none;margin:0;padding:0;max-height:440px;overflow:auto}
+.ev{display:grid;grid-template-columns:28px 58px 1fr;gap:6px;padding:8px 6px;border-bottom:1px solid #1f3d2b;font-size:15px;line-height:1.35}
+.ev.goal{background:#123a22;border-radius:8px;font-weight:700}.ev .mn{color:#ffc83d;font-weight:700}.lv-src{margin-top:18px;font-size:13px}
+</style>"""
+lbody = LCSS + """<h1 data-i18n="lv_title">🔴 Live Match Tracker</h1>
+<p class="meta" data-i18n="lv_intro">Follow the big matches live as a cartoon – score, minute, goals, cards and stats update every 30 seconds.</p>
+<div id="list"><p class="meta">⏳</p></div><div id="match"></div>"""
+open("live.html", "w").write(page("Live Football Match Tracker – Scores, Goals & Stats",
+     "Follow today's Premier League, LaLiga, Serie A, Bundesliga, Ligue 1 and Champions League matches live: score, minute, goals, cards and stats, updated every 30 seconds.",
+     lbody, 0, note=False, extra='<script src="live.js"></script>'))
+print("live page built")

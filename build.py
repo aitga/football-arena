@@ -239,7 +239,7 @@ def fixtures(days=7):
                 tv = []
                 for b in c.get("broadcasts", []) or []:
                     tv += b.get("names", [])
-                out.append({"l": key, "comp": data.get("leagues", [{}])[0].get("name", ""), "date": ev["date"],
+                out.append({"id": ev["id"], "code": code, "l": key, "comp": data.get("leagues", [{}])[0].get("name", ""), "date": ev["date"],
                             "home": h.get("team", {}).get("displayName", "?"), "away": a.get("team", {}).get("displayName", "?"),
                             "hs": h.get("score", ""), "as": a.get("score", ""), "live": st == "in",
                             "clock": ev.get("status", {}).get("displayClock", ""),
@@ -269,7 +269,9 @@ def fixture_cards(fx):
             f'<div class="card fix" data-l="{f["l"]}"><div class="ftop">{flag(f["l"])} {comp}{badge}</div>'
             f'<div class="ftime" data-k="{int(d.timestamp())}">{d.strftime("%a %d %b · %H:%M UTC")}</div>'
             f'<div class="teams"><span>{e(f["home"])}</span>{mid}<span>{e(f["away"])}</span></div>'
-            f'<div class="tv">{tv}</div>' + (f'<div class="venue">🏟️ {e(f["venue"])}</div>' if f["venue"] else "") + '</div>')
+            f'<div class="tv">{tv}</div>' + (f'<div class="venue">🏟️ {e(f["venue"])}</div>' if f["venue"] else "")
+            + (f'<a class="watch" href="live.html#{e(f["code"])}/{e(f["id"])}">🔴 <span data-i18n="watch">Live tracker</span></a>' if f.get("id") else "")
+            + '</div>')
     return "\n".join(rows) or '<p class="empty" data-i18n="no_fix">No matches scheduled in the next few days.</p>'
 
 
@@ -366,7 +368,9 @@ footer a{color:var(--acc)}
 .teams span:last-child{text-align:end}.vs{color:var(--mut);font-size:13px}.sc{display:inline-flex;gap:5px;background:var(--acc);color:#04210f;border-radius:8px;padding:2px 8px}
 .live{margin-inline-start:auto;color:#ff5b5b;font-weight:800;font-size:12px}
 .tv{font-size:13px;color:var(--mut);border-top:1px solid var(--line);padding-top:8px}.tv b{color:var(--txt)}
-.venue{font-size:12px;color:var(--mut);margin-top:6px}.fnote{color:var(--mut);font-size:13px;margin:-6px 0 12px}
+.venue{font-size:12px;color:var(--mut);margin-top:6px}
+.watch{display:inline-block;margin-top:9px;font-size:13px;font-weight:700;color:#ff6b6b;border:1px solid #ff6b6b;border-radius:16px;padding:4px 12px}.watch:hover{background:#ff6b6b;color:#fff}
+nav a.livelink{color:#ff6b6b}.fnote{color:var(--mut);font-size:13px;margin:-6px 0 12px}
 .langpick{margin-inline-start:auto;background:var(--card);color:var(--txt);border:1px solid var(--line);border-radius:10px;padding:7px 10px;font:600 14px system-ui,sans-serif}
 [dir=rtl] .quizban a{margin-left:0;margin-right:auto}
 :lang(ar) body,:lang(ar) .chip,:lang(ar) .more{font-family:"Segoe UI",Tahoma,"Noto Sans Arabic",system-ui,sans-serif}
@@ -375,7 +379,7 @@ footer a{color:var(--acc)}
 <div class="tag" data-i18n="tagline">Highlights & news from the world's biggest leagues · updated every hour</div></div>
 <select class="langpick" aria-label="Language"></select></div></header>
 <div class="bar"><div class="wrap">
-<nav><a href="#highlights">🎬 <span data-i18n="nav_hl">Highlights</span></a><a href="#matches">📅 <span data-i18n="nav_fix">Matches</span></a><a href="#news">📰 <span data-i18n="nav_news">News</span></a><a href="articles/index.html">📝 <span data-i18n="nav_art">Articles</span></a><a class="quiz" href="quiz.html">🧠 <span data-i18n="nav_quiz">Quiz</span></a><a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener">👍 <span data-i18n="nav_fb">Facebook</span></a></nav>
+<nav><a href="#highlights">🎬 <span data-i18n="nav_hl">Highlights</span></a><a class="livelink" href="live.html">🔴 <span data-i18n="nav_live">Live</span></a><a href="#matches">📅 <span data-i18n="nav_fix">Matches</span></a><a href="#news">📰 <span data-i18n="nav_news">News</span></a><a href="articles/index.html">📝 <span data-i18n="nav_art">Articles</span></a><a class="quiz" href="quiz.html">🧠 <span data-i18n="nav_quiz">Quiz</span></a><a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener">👍 <span data-i18n="nav_fb">Facebook</span></a></nav>
 <div class="chips">{{CHIPS}}</div>
 </div></div>
 <main class="wrap">
