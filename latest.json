@@ -2,6 +2,14 @@
  "news": [
   {
    "source": "The Guardian",
+   "title": "Christian Pulisic, Folarin Balogun return to USMNT roster for Nations League",
+   "link": "https://www.theguardian.com/football/2026/nov/04/usmnt-roster-nations-league-christian-pulisic",
+   "summary": "Mauricio Pochettino names 26-man roster to face HaitiMcKennie and Sullivan among notable inclusionsQuarter-final matches set for Miami, CincinnatiMauricio Pochettino has selected his 26-man roster for the United States\u2019\u2026",
+   "date": "2026-11-04T15:10:43+00:00",
+   "image": "https://i.guim.co.uk/img/media/0bb5f880eb7f985cf0f72b2fd84755f3e0f08863/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=240a947ee74b98fb51bc1945d6e16411"
+  },
+  {
+   "source": "The Guardian",
    "title": "Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel",
    "link": "https://www.theguardian.com/football/2026/nov/04/real-madrid-jj-gabriel-manchester-united-close-agreement-sign",
    "summary": "Madrid hope to bring in forward during JanuaryUnited to consider legal action if they feel rules brokenReal Madrid are closing in on signing JJ Gabriel, though Manchester United will consider legal action if the club\u2026",
@@ -71,17 +79,17 @@
    "summary": "Andorra goalkeeper Jesus Owono \"would never intentionally hurt anyone\" and is \"deeply affected\" by the death of Tenerife forward Jesus de Miguel, his team-mate said on Wednesday.",
    "date": "2026-11-04T11:40:57+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Wilson returns as Wales call up uncapped Duncan",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Harry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call.",
-   "date": "2026-11-04T10:30:19+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1e1/live/ea0b03a0-d836-11f1-87c3-29e1cdce63c6.png"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Christian Pulisic, Folarin Balogun return to USMNT roster for Nations League",
+   "link": "https://www.theguardian.com/football/2026/nov/04/usmnt-roster-nations-league-christian-pulisic",
+   "summary": "Mauricio Pochettino names 26-man roster to face HaitiMcKennie and Sullivan among notable inclusionsQuarter-final matches set for Miami, CincinnatiMauricio Pochettino has selected his 26-man roster for the United States\u2019\u2026",
+   "date": "2026-11-04T15:10:43+00:00",
+   "image": "https://i.guim.co.uk/img/media/0bb5f880eb7f985cf0f72b2fd84755f3e0f08863/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=240a947ee74b98fb51bc1945d6e16411"
+  },
   {
    "source": "The Guardian",
    "title": "Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel",
@@ -483,14 +491,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"
   },
   {
-   "source": "The Guardian",
-   "title": "AFC postpones Asian Cup in Saudi Arabia to late 2027 due to conflict in Middle East",
-   "link": "https://www.theguardian.com/football/2026/nov/03/2027-asian-cup-saudi-arabia-postponed-conflict-middle-east",
-   "summary": "Tournament pushed back 11 months with proposed start on 23 DecemberNew dates with 21 January 2028 final must be approved by FifaThe 2027 Asian Cup in Saudi Arabia has been postponed as a result of the conflict in the\u2026",
-   "date": "2026-11-03T07:30:40+00:00",
-   "image": "https://i.guim.co.uk/img/media/8495ceb0049f5b69835e10b1e43486fe43a3f840/419_0_4275_3420/master/4275.jpg?width=140&quality=85&auto=format&fit=max&s=4767f48759f9df8956f72c4ca63a3777"
-  },
-  {
    "source": "BBC Sport",
    "title": "The referee who became a role model after bouncing back from Diaz error",
    "link": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
@@ -649,6 +649,12 @@
    "date": "2026-11-01T23:00:38+00:00"
   },
   {
+   "channel": "Premier League",
+   "id": "M3zShNizlFw",
+   "title": "Why Do Footballers Wear Specific Numbers? | Football 101",
+   "date": "2026-11-04T15:05:10+00:00"
+  },
+  {
    "channel": "Bundesliga",
    "id": "1N-KKMhNsuo",
    "title": "J\u00dcRGEN KLINSMANN REACTS TO DER KLASSIKER! | Thrilling Title Race | Bundesliga Haus Special Clip",
@@ -677,12 +683,6 @@
    "id": "xlZZY84LSGo",
    "title": "Man United\u2019s INCREDIBLE comeback against Roma!",
    "date": "2026-11-04T13:30:04+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "MzdxRmdNKg0",
-   "title": "REFCAM FC Barcelona vs Deportivo Alav\u00e9s",
-   "date": "2026-11-04T13:00:15+00:00"
   }
  ]
 }
