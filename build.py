@@ -382,7 +382,9 @@ footer a{color:var(--acc)}
 .pteam.on{border-color:#ffc83d;background:#2a2a0c}
 .mfoot{display:flex;align-items:center;justify-content:space-between;padding:12px 16px;border-top:1px solid var(--line)}
 .done{background:var(--acc);color:#04210f;border:0;border-radius:20px;padding:9px 24px;font:800 15px system-ui,sans-serif;cursor:pointer}
-.vwrap{position:relative;aspect-ratio:16/9;background:#000}.vwrap iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.vwrap{position:relative;aspect-ratio:16/9;background:#000}.vwrap iframe,.vwrap #ytp{position:absolute;inset:0;width:100%;height:100%;border:0}
+.ytbig{position:absolute;inset:0;display:grid;place-content:center;gap:12px;text-align:center;color:#fff;font-size:52px;background:radial-gradient(#3a0d0d,#000)}
+.ytbig span{font-size:18px;font-weight:700;background:#e62117;border-radius:24px;padding:10px 22px}
 .yt{margin:0;padding:10px 16px;font-size:14px}.yt a{color:var(--acc)}
 .fix{padding:12px 14px}.ftop{display:flex;align-items:center;gap:6px;color:var(--mut);font-size:13px;font-weight:600}
 .ftime{color:var(--gold);font-weight:700;font-size:14px;margin:6px 0 4px}
@@ -507,14 +509,41 @@ publishers (BBC Sport, The Guardian, ESPN). All rights belong to their owners.</
   document.querySelectorAll("[data-close]").forEach(function(b){ b.onclick = closeAll; });
   [picker, player].forEach(function(m){ m.addEventListener("click", function(ev){ if (ev.target === m) closeAll(); }); });
   document.addEventListener("keydown", function(ev){ if (ev.key === "Escape") closeAll(); });
+  // YouTube player; if the owner blocks playing on other sites (or it fails), show a big "watch on YouTube" button
+  var ytReady = null;
+  function loadYT(){
+    if (ytReady) return ytReady;
+    ytReady = new Promise(function(res, rej){
+      if (window.YT && window.YT.Player) return res();
+      window.onYouTubeIframeAPIReady = res;
+      var sc = document.createElement("script"); sc.src = "https://www.youtube.com/iframe_api"; sc.onerror = rej;
+      document.head.appendChild(sc);
+      setTimeout(rej, 5000);
+    });
+    return ytReady;
+  }
+  function fallback(url){
+    vwrap.innerHTML = '<a class="ytbig" href="' + url + '" target="_blank" rel="noopener">▶ <span>' +
+      (window.FA ? FA.t("yt_watch") : "Watch on YouTube") + '</span></a>';
+  }
+  function playVideo(id, url){
+    vwrap.innerHTML = '<div id="ytp"></div>';
+    loadYT().then(function(){
+      new YT.Player("ytp", {videoId: id, host: "https://www.youtube-nocookie.com",
+        playerVars: {autoplay: 1, rel: 0, playsinline: 1},
+        events: {onError: function(){ fallback(url); }}});
+    }).catch(function(){
+      vwrap.innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0" title="Highlights" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>';
+    });
+  }
   document.querySelectorAll("a.vid").forEach(function(a){
     a.addEventListener("click", function(ev){
       var m = a.href.match(/[?&]v=([A-Za-z0-9_-]{6,})/); if (!m) return;
       ev.preventDefault();
       document.getElementById("ptitle").textContent = a.querySelector(".vt").textContent;
       document.getElementById("ytlink").href = a.href;
-      vwrap.innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/' + m[1] + '?autoplay=1&rel=0" title="Highlights" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>';
       player.hidden = false;
+      playVideo(m[1], a.href);
     });
   });
   var h = location.hash.slice(1), pre = document.querySelector('.chip[data-f="' + h + '"]');
