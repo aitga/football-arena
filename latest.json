@@ -2,88 +2,176 @@
  "news": [
   {
    "source": "BBC Sport",
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo?at_medium=RSS&at_campaign=rss",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "date": "2026-11-04T07:06:19+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+   "title": "From Derby to Champions League - Brown's journey to face Reds",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss",
+   "summary": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening.",
+   "date": "2026-11-04T08:58:24+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed9/live/7f8180f0-d821-11f1-a9b6-0f4245e849b7.jpg"
+  },
+  {
+   "source": "ESPN",
+   "title": "As fan protests continue, did Man United's thrilling Champions League comeback save Carrick?",
+   "link": "https://www.espn.com/soccer/story/_/id/50372373/did-man-united-champions-league-comeback-save-carrick-job",
+   "summary": "Just when it looked like Man United would suffer another humiliating loss, they made a turnaround that might save their Champions League campaign -- and their coach.",
+   "date": "2026-11-04T08:45:55+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Liverpool's $500m forward line is failing. Can Iraola & Co. turn it around?",
+   "link": "https://www.espn.com/soccer/story/_/id/50360697/liverpool-attack-struggle-iraola-isak-wirtz-barcola-premier-league-champions-league",
+   "summary": "Liverpool's star-studded, expensively assembled attack has scored fewer Premier League goals this season than Ipswich. That needs to improve immediately.",
+   "date": "2026-11-04T08:42:18+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Southampton's long, redemptive road back from 'spygate'",
+   "link": "https://www.espn.com/soccer/story/_/id/50369194/southampton-spygate-tonda-eckert-english-championship-scandal",
+   "summary": "Southampton missed out on a chance at promotion last year because of a spying scandal that saw them booted from the playoffs. Now they're trying again and working through the trauma at the same time.",
+   "date": "2026-11-04T08:40:17+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Transfer rumors, news: Arsenal want Atl\u00e9tico Madrid winger",
+   "link": "https://www.espn.com/soccer/story/_/id/50376623/transfer-rumors-news-arsenal-want-atletico-madrid-winger",
+   "summary": "Arsenal are keeping tabs on Atl\u00e9tico Madrid winger \u00c1lex Baena. Transfer Talk has the latest.",
+   "date": "2026-11-04T08:30:41+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Lamine Yamal makes history as ruthless Bar\u00e7a end Aston Villa's perfect UCL start",
+   "link": "https://www.espn.com/soccer/story/_/id/50372990/lamine-yamal-makes-history-ruthless-barca-end-aston-villas-perfect-ucl-start",
+   "summary": "Aston Villa had their chances, but Bar\u00e7a's relentless press and red-hot duo of Lamine Yamal and Raphinha proved too much in a comprehensive Champions League victory.",
+   "date": "2026-11-04T08:27:53+00:00",
+   "image": null
   },
   {
    "source": "BBC Sport",
-   "title": "New strategy launched to transform Scottish women's football over 10 years",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly05y2jwzdo?at_medium=RSS&at_campaign=rss",
-   "summary": "The strategy aims to double the number of registered female players in Scotland, while also quadrupling attendances and audiences for matches.",
-   "date": "2026-11-04T07:03:05+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/827c/live/b919b670-d81c-11f1-a9b6-0f4245e849b7.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Fernandes critical of media 'lies' about Carrick relationship",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.",
-   "date": "2026-11-04T00:45:33+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bc/live/f12e0680-d7d4-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
-   "summary": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
-   "date": "2026-11-04T00:27:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8e8/live/5bf089a0-d7e1-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
-   "summary": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.",
-   "date": "2026-11-03T23:58:22+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de38/live/9ad09e20-d7e2-11f1-93e1-3b657b665bcf.jpg"
+   "title": "Recovering Murray hopes to earn Dundee deal - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwj0l628dvmeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Veteran Scottish Premiership striker targets new contract on long road back to fitness as former Celtic player has advice on how to get the best out of record signing...",
+   "date": "2026-11-04T08:14:53+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a572/live/438686d0-d827-11f1-a701-fddedf244c16.png"
   },
   {
    "source": "The Guardian",
-   "title": "Mainoo and Lacey raise the spirits but systemic change still required at Manchester United | Nick Ames",
-   "link": "https://www.theguardian.com/football/2026/nov/03/michael-carrick-manchester-united-roma-old-trafford-champions-league",
-   "summary": "There were protests at Old Trafford and even though two academy products stood out, Michael Carrick\u2019s future is far from safeGreen and yellow balloons bobbed around the Stretford End. Tennis balls rained down on the\u2026",
-   "date": "2026-11-03T23:57:56+00:00",
-   "image": "https://i.guim.co.uk/img/media/4732852d56bc4ec7772663a6deb1df78e05d9032/405_0_4050_3239/master/4050.jpg?width=140&quality=85&auto=format&fit=max&s=4387cdaafc5adb1e9ee6f6756cad34eb"
+   "title": "Has a footballer ever run a marathon faster than James Milner? | The Knowledge",
+   "link": "https://www.theguardian.com/football/2026/nov/04/footballer-run-marathon-faster-than-james-milner-the-knowledge",
+   "summary": "Plus: managers sacked after signing new deals, war victims commemorated on kits and the first club website (part II)Mail us with all of your questions and answersIt came as no surprise to the Knowledge that James Milner\u2026",
+   "date": "2026-11-04T08:00:29+00:00",
+   "image": "https://i.guim.co.uk/img/media/8d1cbc93291893cc07d93a329c88345e1b1e034b/0_1_5000_3998/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2cd63dd6c857ef966ace1765ca5de01c"
   },
   {
    "source": "The Guardian",
-   "title": "Asian Cup postponement leaves Socceroos, FA and coach Tony Popovic at crossroads | Joey Lynch",
-   "link": "https://www.theguardian.com/football/blog/2026/nov/04/asian-cup-afc-postponed-socceroos-football-australia-tony-popovich",
-   "summary": "The most immediate question thrown up by the delay of the tournament in Saudi Arabia is what it now means for PopovicConfirmation that the Asian Cup has been postponed until December 2027 would have caught few by\u2026",
-   "date": "2026-11-03T23:54:13+00:00",
-   "image": "https://i.guim.co.uk/img/media/7a80ee30e28277a5731228f614b47a2c269acdec/346_0_3461_2769/master/3461.jpg?width=140&quality=85&auto=format&fit=max&s=3782dddee703780d9ba04fc876ff1477"
+   "title": "Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
+   "link": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax",
+   "summary": "John Aloisi\u2019s side need a point on the final day to seal their maiden title \u2013 but their form has dropped off a cliffWith four games of the Chinese Super League to go, Chengdu Rongcheng needed just a point to clinch\u2026",
+   "date": "2026-11-04T08:00:29+00:00",
+   "image": "https://i.guim.co.uk/img/media/948390b71d4e67e3c067f79af9b6a7b1730782fa/396_105_3202_2562/master/3202.jpg?width=140&quality=85&auto=format&fit=max&s=fc39238a6707ac80db70b377668785f0"
   },
   {
-   "source": "BBC Sport",
-   "title": "Football world mourns Tenerife striker De Miguel",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch.",
-   "date": "2026-11-03T23:37:12+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35ad/live/c4dd6bc0-d7d4-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Man Utd beat Roma - the other great Champions League comebacks",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United come from two goals down to beat Roma 3-2 - but what are the other best fightbacks in Champions League history?",
-   "date": "2026-11-03T23:25:20+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a9/live/08b380a0-d7da-11f1-8cb0-d304936875f3.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester City defender Rayan Ait-Nouri a surprise target for Manchester United, Crystal Palace could turn to England assistant boss Anthony Barry if they sack Pierre Sage, Barcelona keen on Arsenal centre-back Piero\u2026",
-   "date": "2026-11-03T22:55:00+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a5/live/464eefe0-d7ca-11f1-a719-bf3dc3a3d5b5.png"
+   "source": "The Guardian",
+   "title": "West Ham took too long to sack Nuno and now must trust Parker to do what he does best | Jacob Steinberg",
+   "link": "https://www.theguardian.com/football/2026/nov/04/west-ham-took-too-long-to-sack-nuno-and-now-must-trust-parker-to-do-what-he-does-best",
+   "summary": "Forget speculation over how a Parker-led side would fare in the Premier League and let the man who has taken three clubs up do his work againIt has taken West Ham six months to come to their senses and sack Nuno\u2026",
+   "date": "2026-11-04T08:00:28+00:00",
+   "image": "https://i.guim.co.uk/img/media/47f87e9644c48957e781d49cacfef6430143c5d6/154_61_1842_1474/master/1842.jpg?width=140&quality=85&auto=format&fit=max&s=377f8133b7e71cfccabc80ea8018ca3d"
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
+   "title": "From Derby to Champions League - Brown's journey to face Reds",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss",
+   "summary": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening.",
+   "date": "2026-11-04T08:58:24+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed9/live/7f8180f0-d821-11f1-a9b6-0f4245e849b7.jpg"
+  },
+  {
+   "source": "ESPN",
+   "title": "As fan protests continue, did Man United's thrilling Champions League comeback save Carrick?",
+   "link": "https://www.espn.com/soccer/story/_/id/50372373/did-man-united-champions-league-comeback-save-carrick-job",
+   "summary": "Just when it looked like Man United would suffer another humiliating loss, they made a turnaround that might save their Champions League campaign -- and their coach.",
+   "date": "2026-11-04T08:45:55+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Liverpool's $500m forward line is failing. Can Iraola & Co. turn it around?",
+   "link": "https://www.espn.com/soccer/story/_/id/50360697/liverpool-attack-struggle-iraola-isak-wirtz-barcola-premier-league-champions-league",
+   "summary": "Liverpool's star-studded, expensively assembled attack has scored fewer Premier League goals this season than Ipswich. That needs to improve immediately.",
+   "date": "2026-11-04T08:42:18+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Southampton's long, redemptive road back from 'spygate'",
+   "link": "https://www.espn.com/soccer/story/_/id/50369194/southampton-spygate-tonda-eckert-english-championship-scandal",
+   "summary": "Southampton missed out on a chance at promotion last year because of a spying scandal that saw them booted from the playoffs. Now they're trying again and working through the trauma at the same time.",
+   "date": "2026-11-04T08:40:17+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Transfer rumors, news: Arsenal want Atl\u00e9tico Madrid winger",
+   "link": "https://www.espn.com/soccer/story/_/id/50376623/transfer-rumors-news-arsenal-want-atletico-madrid-winger",
+   "summary": "Arsenal are keeping tabs on Atl\u00e9tico Madrid winger \u00c1lex Baena. Transfer Talk has the latest.",
+   "date": "2026-11-04T08:30:41+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Lamine Yamal makes history as ruthless Bar\u00e7a end Aston Villa's perfect UCL start",
+   "link": "https://www.espn.com/soccer/story/_/id/50372990/lamine-yamal-makes-history-ruthless-barca-end-aston-villas-perfect-ucl-start",
+   "summary": "Aston Villa had their chances, but Bar\u00e7a's relentless press and red-hot duo of Lamine Yamal and Raphinha proved too much in a comprehensive Champions League victory.",
+   "date": "2026-11-04T08:27:53+00:00",
+   "image": null
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Recovering Murray hopes to earn Dundee deal - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwj0l628dvmeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Veteran Scottish Premiership striker targets new contract on long road back to fitness as former Celtic player has advice on how to get the best out of record signing...",
+   "date": "2026-11-04T08:14:53+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a572/live/438686d0-d827-11f1-a701-fddedf244c16.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Has a footballer ever run a marathon faster than James Milner? | The Knowledge",
+   "link": "https://www.theguardian.com/football/2026/nov/04/footballer-run-marathon-faster-than-james-milner-the-knowledge",
+   "summary": "Plus: managers sacked after signing new deals, war victims commemorated on kits and the first club website (part II)Mail us with all of your questions and answersIt came as no surprise to the Knowledge that James Milner\u2026",
+   "date": "2026-11-04T08:00:29+00:00",
+   "image": "https://i.guim.co.uk/img/media/8d1cbc93291893cc07d93a329c88345e1b1e034b/0_1_5000_3998/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2cd63dd6c857ef966ace1765ca5de01c"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
+   "link": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax",
+   "summary": "John Aloisi\u2019s side need a point on the final day to seal their maiden title \u2013 but their form has dropped off a cliffWith four games of the Chinese Super League to go, Chengdu Rongcheng needed just a point to clinch\u2026",
+   "date": "2026-11-04T08:00:29+00:00",
+   "image": "https://i.guim.co.uk/img/media/948390b71d4e67e3c067f79af9b6a7b1730782fa/396_105_3202_2562/master/3202.jpg?width=140&quality=85&auto=format&fit=max&s=fc39238a6707ac80db70b377668785f0"
+  },
+  {
+   "source": "The Guardian",
+   "title": "West Ham took too long to sack Nuno and now must trust Parker to do what he does best | Jacob Steinberg",
+   "link": "https://www.theguardian.com/football/2026/nov/04/west-ham-took-too-long-to-sack-nuno-and-now-must-trust-parker-to-do-what-he-does-best",
+   "summary": "Forget speculation over how a Parker-led side would fare in the Premier League and let the man who has taken three clubs up do his work againIt has taken West Ham six months to come to their senses and sack Nuno\u2026",
+   "date": "2026-11-04T08:00:28+00:00",
+   "image": "https://i.guim.co.uk/img/media/47f87e9644c48957e781d49cacfef6430143c5d6/154_61_1842_1474/master/1842.jpg?width=140&quality=85&auto=format&fit=max&s=377f8133b7e71cfccabc80ea8018ca3d"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Scottish Football Podcast",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pl78bz?at_medium=RSS&at_campaign=rss",
+   "summary": "Leaky defences, the enigma of Kasper H\u00f8gh and can Pogcognoli get his system to work?",
+   "date": "2026-11-04T08:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl78cc.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Who am I? Plus today's other quizzes",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo?at_medium=RSS&at_campaign=rss",
    "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -97,6 +185,78 @@
    "summary": "The strategy aims to double the number of registered female players in Scotland, while also quadrupling attendances and audiences for matches.",
    "date": "2026-11-04T07:03:05+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/827c/live/b919b670-d81c-11f1-a9b6-0f4245e849b7.jpg"
+  },
+  {
+   "source": "ESPN",
+   "title": "Man United fans throw tennis balls in protest before stunning comeback",
+   "link": "https://www.espn.com/soccer/story/_/id/50371927/man-united-fans-throw-tennis-balls-field-show-discontent",
+   "summary": "Manchester United fans attempted to disrupt the Champions League match against AS Roma on Tuesday by throwing tennis balls onto the pitch at Old Trafford.",
+   "date": "2026-11-04T00:53:51+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Police open investigation after Tenerife's De Miguel dies following on-field collision",
+   "link": "https://www.espn.com/soccer/story/_/id/50366968/tenerife-forward-jesus-de-miguel-dies-game-cardiac-arrest",
+   "summary": "Tenerife forward Jes\u00fas de Miguel died at age 30 after an on-field collision in a Spanish LaLiga 2 match on Monday, his club announced.",
+   "date": "2026-11-04T00:53:51+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Affected by De Miguel's death, Raphinha said he struggled to focus in UCL win",
+   "link": "https://www.espn.com/soccer/story/_/id/50373812/raphinha-de-miguel-death-barcelona-champions-league",
+   "summary": "Barcelona captain Raphinha paid an emotional tribute to late Tenerife player Jes\u00fas de Miguel after scoring a brace in the Champions League victory over Aston Villa.",
+   "date": "2026-11-04T00:53:51+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Bruno: Right to bench me after criticism of Man United tactics",
+   "link": "https://www.espn.com/soccer/story/_/id/50373037/bruno-fernandes-michael-carrick-right-drop-man-united",
+   "summary": "Bruno Fernandes helped inspire Manchester United to a dramatic 3-2 Champions League win against AS Roma and said manager Michael Carrick was right to drop him for criticising his tactics last month.",
+   "date": "2026-11-04T00:53:51+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Maresca asks City to help Haaland with goals: 'Can't rely on Erling'",
+   "link": "https://www.espn.com/soccer/story/_/id/50373115/maresca-man-city-help-erling-haaland-goals",
+   "summary": "Enzo Maresca said his Manchester City side cannot only rely on Erling Haaland to score their goals.",
+   "date": "2026-11-04T00:53:51+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "PSG send UCL records tumbling with 6-goal thrashing of Villarreal",
+   "link": "https://www.espn.com/soccer/story/_/id/50371706/psg-villarreal-champions-league-record-goals",
+   "summary": "Paris Saint-Germain scored a record four goals in the first 17 minutes of their Champions League clash at Villarreal on Tuesday.",
+   "date": "2026-11-04T00:53:51+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Lewandowski's jersey outselling Messi's since Chicago arrival",
+   "link": "https://www.espn.com/soccer/story/_/id/50370651/mls-jersey-sales-lionel-messi-robert-lewandowski-chicago",
+   "summary": "Robert Lewandowski's Chicago Fire jersey has been the most popular in MLS since his arrival to the league in June, outselling even Lionel Messi's Miami kit.",
+   "date": "2026-11-04T00:53:51+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Monaco add USMNT's Balogun to Conference League squad after goal",
+   "link": "https://www.espn.com/soccer/story/_/id/50370942/monaco-usmnt-balogun-conference-league-squad",
+   "summary": "United States striker Folarin Balogun has been added to Monaco's squad for the Conference League, having originally been left out amid uncertainty over his future.",
+   "date": "2026-11-04T00:53:51+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "\ud83c\udfc5 James Milner runs NYC Marathon in just over three hours",
+   "link": "https://www.espn.com/soccer/story/_/id/50350050/james-milner-liverpool-man-city-england-runs-nyc-new-york-marathon-three-hours",
+   "summary": "It's clear James Milner is enjoying his retirement from soccer, as he ran the 2026 NYC Marathon on Sunday with an impressive time. Did we mention he's 40 years old?",
+   "date": "2026-11-04T00:53:51+00:00",
+   "image": null
   },
   {
    "source": "BBC Sport",
@@ -139,6 +299,14 @@
    "image": "https://i.guim.co.uk/img/media/7a80ee30e28277a5731228f614b47a2c269acdec/346_0_3461_2769/master/3461.jpg?width=140&quality=85&auto=format&fit=max&s=3782dddee703780d9ba04fc876ff1477"
   },
   {
+   "source": "The Guardian",
+   "title": "\u2018I wasn\u2019t performing\u2019: Bruno Fernandes says Carrick was right to drop him after criticism",
+   "link": "https://www.theguardian.com/football/2026/nov/03/bruno-fernandes-manchester-united-michael-carrick-roma-champions-league",
+   "summary": "\u2018If it was punishment for the words, it was right\u2019Carrick hails \u2018magical\u2019 Old Trafford after comeback winBruno Fernandes said Michael \u00adCarrick was correct to drop him last month as he reflected on a remarkable\u2026",
+   "date": "2026-11-03T23:49:09+00:00",
+   "image": "https://i.guim.co.uk/img/media/0d723e923168089291521366ec05c5b2c59b35b8/593_296_3400_2719/master/3400.jpg?width=140&quality=85&auto=format&fit=max&s=15d4f545fc82acbd2f27b2d07af9be9c"
+  },
+  {
    "source": "BBC Sport",
    "title": "Football world mourns Tenerife striker De Miguel",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
@@ -161,6 +329,14 @@
    "summary": "Manchester City defender Rayan Ait-Nouri a surprise target for Manchester United, Crystal Palace could turn to England assistant boss Anthony Barry if they sack Pierre Sage, Barcelona keen on Arsenal centre-back Piero\u2026",
    "date": "2026-11-03T22:55:00+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a5/live/464eefe0-d7ca-11f1-a719-bf3dc3a3d5b5.png"
+  },
+  {
+   "source": "ESPN",
+   "title": "If Man City get relegated but win the Champions League, what would happen to star players?",
+   "link": "https://www.espn.com/soccer/story/_/id/50362560/man-city-relegated-premier-league-win-champions-league-how-play-out",
+   "summary": "What would happen to Man City's superstar players if they get relegated from the Premier League but qualify for Champions League?",
+   "date": "2026-11-03T22:48:10+00:00",
+   "image": null
   },
   {
    "source": "The Guardian",
@@ -177,14 +353,6 @@
    "summary": "Birmingham sink Millwall to keep up good formNorwich thump Rams and pile pressure on EustaceTerry Devlin\u2019s double denied Swansea the chance to take top spot in the Championship as in-form Portsmouth won 3-1 at Fratton\u2026",
    "date": "2026-11-03T22:28:05+00:00",
    "image": "https://i.guim.co.uk/img/media/abb65bf292488101abe7bdc7cb8721715e379a96/217_187_2702_2161/master/2702.jpg?width=140&quality=85&auto=format&fit=max&s=1c0b3662cdb7a3a78bbf55d8931a3aa5"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Manchester United produce comeback for the ages as Cunha double floors Roma",
-   "link": "https://www.theguardian.com/football/2026/nov/03/manchester-united-roma-champions-league-match-report",
-   "summary": "Michael Carrick enjoyed one of his finest nights as a Manchester United player in the Champions League against Roma, scoring twice in a 7-1 win in the quarter-final, second leg in 2007. The re-run here was all about his\u2026",
-   "date": "2026-11-03T22:11:04+00:00",
-   "image": "https://i.guim.co.uk/img/media/72684c90ed615f913fd5f01b6c2c133554f1e43a/0_94_4032_3226/master/4032.jpg?width=140&quality=85&auto=format&fit=max&s=b8951217d542fd86a6e49ce57c0a99a4"
   },
   {
    "source": "The Guardian",
@@ -364,27 +532,19 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Mee and Kenny handed first Northern Ireland call-ups",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwkg5dl4d3l8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United goalkeeper Dermot Mee and Portsmouth's Eoin Kenny are handed their first Northern Ireland call-ups for November's Nations League games with Ukraine and Hungary.",
-   "date": "2026-11-03T10:07:54+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09fe/live/2b3da270-d76e-11f1-b441-2b33b063138f.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "West Ham turn to Scott Parker after sacking Nuno Esp\u00edrito Santo as head coach",
-   "link": "https://www.theguardian.com/football/2026/nov/03/west-ham-sack-nuno-espirito-santo-as-head-coach",
-   "summary": "West Ham intent on instant return to Premier LeagueNuno took over from Graham Potter in September 2025West Ham are poised to appoint Scott Parker as manager after sacking Nuno Esp\u00edrito Santo. The club have acted after a\u2026",
-   "date": "2026-11-03T09:43:49+00:00",
-   "image": "https://i.guim.co.uk/img/media/ab427d8292256e66cac217e71c35f6e4f924ca92/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1cdb7a6336b83b3c5a4aa48a44747008"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Boy arrested following Bradley Lowery taunt",
    "link": "https://www.bbc.co.uk/news/articles/ck5ynr531xlvo?at_medium=RSS&at_campaign=rss",
    "summary": "Police are investigating an incident at Coventry's Premier League match with Sunderland on Saturday.",
    "date": "2026-11-03T09:21:56+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7de/live/dcbcdef0-d627-11f1-a947-0507737f09b2.jpg"
+  },
+  {
+   "source": "ESPN",
+   "title": "How Arsenal got a big win at Liverpool; Milan derby drama; Carrick's future; more",
+   "link": "https://www.espn.com/soccer/story/_/id/50355016/marcotti-musings-analysis-premier-league-arsenal-liverpool-isak-var-penalty-milan-derby-carrick",
+   "summary": "Arsenal got a big win at Liverpool to go clear atop the Premier League, but Liverpool should have had a penalty. Plus: Michael Carrick's Man United future, Milan's bounce-back, Bayern's frustrations and more.",
+   "date": "2026-11-03T09:10:37+00:00",
+   "image": null
   },
   {
    "source": "BBC Sport",
@@ -395,175 +555,21 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"
   },
   {
-   "source": "BBC Sport",
-   "title": "How Arteta is getting the best from Rice",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckeq3erv529po?at_medium=RSS&at_campaign=rss",
-   "summary": "Declan Rice was a key cog in Arsenal winning the Premier League title - so how is Mikel Arteta getting even more from him this season?",
-   "date": "2026-11-03T08:18:04+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3b/live/6ea98870-d6f2-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "AFC postpones Asian Cup in Saudi Arabia to late 2027 due to conflict in Middle East",
-   "link": "https://www.theguardian.com/football/2026/nov/03/2027-asian-cup-saudi-arabia-postponed-conflict-middle-east",
-   "summary": "Tournament pushed back 11 months with proposed start on 23 DecemberNew dates with 21 January 2028 final must be approved by FifaThe 2027 Asian Cup in Saudi Arabia has been postponed as a result of the conflict in the\u2026",
-   "date": "2026-11-03T07:30:40+00:00",
-   "image": "https://i.guim.co.uk/img/media/8495ceb0049f5b69835e10b1e43486fe43a3f840/419_0_4275_3420/master/4275.jpg?width=140&quality=85&auto=format&fit=max&s=4767f48759f9df8956f72c4ca63a3777"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "The referee who became a role model after bouncing back from Diaz error",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
-   "summary": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League.",
-   "date": "2026-11-03T06:41:31+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d8/live/3adfa190-ade0-11f1-9a5c-a7a4083eb832.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who has made Troy's Premier League team of the week?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8dx37n11kv2o?at_medium=RSS&at_campaign=rss",
-   "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-   "date": "2026-11-02T23:09:36+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf47/live/e05ef5c0-d6f4-11f1-93e1-3b657b665bcf.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Jaissle unhappy with 'clear foul' before Barry goal",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier\u2026",
-   "date": "2026-11-02T23:01:13+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f84/live/1a2cfac0-d710-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'He's unavailable' - Moyes tight-lipped on Grealish",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Everton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following disciplinary action.",
-   "date": "2026-11-02T22:54:52+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efed/live/79f70870-d70f-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Everton hold off Newcastle to move into seventh",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
-   "summary": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
-   "date": "2026-11-02T22:44:30+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff55/live/2bdf6810-d76b-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Fifa to share documents on World Cup sell-off plans with council members",
-   "link": "https://www.theguardian.com/football/2026/nov/02/fifa-council-members-documents-forward-enterprise-ffe-scheme-uefa-questions-governance-scandals-gianni-infantino",
-   "summary": "Viewings to take place at Fifa\u2019s headquarters in ZurichNo direct response to Uefa\u2019s questions on governanceFifa will grant its council members access to documents regarding the doomed Fifa Forward Enterprise scheme but\u2026",
-   "date": "2026-11-02T22:23:20+00:00",
-   "image": "https://i.guim.co.uk/img/media/b86216e6886c6bf8a63b6c73019125e4de5f3d94/154_589_3960_3169/master/3960.jpg?width=140&quality=85&auto=format&fit=max&s=d2f998de06c3b5f40d7eb907433c5f26"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Newcastle unrest grows as Barry and Everton give Jaissle another headache",
-   "link": "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report",
-   "summary": "Jack Grealish will do well to get back into the Everton starting lineup when he returns to the squad \u2013 as David Moyes\u2019s side are doing just fine without him.Newcastle were condemned to a second defeat in five days by\u2026",
-   "date": "2026-11-02T22:04:11+00:00",
-   "image": "https://i.guim.co.uk/img/media/cb071176768c8c2d12863a56220c55b812e7f2a0/314_0_3627_2902/master/3627.jpg?width=140&quality=85&auto=format&fit=max&s=fdca47981a05481ab8248e3b20313c71"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Revisiting the Supercl\u00e1sico: a story of death, violence, colour and family",
-   "link": "https://www.theguardian.com/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
-   "summary": "Attending Boca v River in the week I turned 60 made me recall a lifetime of experiences at the fixtureEver since the Observer Sport Monthly published a list of 50 sporting things you must do before you die with Watch\u2026",
-   "date": "2026-11-02T20:00:27+00:00",
-   "image": "https://i.guim.co.uk/img/media/e12c6feac7cb349c1f5a8c635a79c1418e14eab8/49_0_3694_2956/master/3694.jpg?width=140&quality=85&auto=format&fit=max&s=8fec1766846cadd8b44e05a52f8bd843"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "BBC Women's Football Weekly",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pkxggd?at_medium=RSS&at_campaign=rss",
-   "summary": "Unbeaten in all competitions, are Sonia Bompastor's side getting back to their best?",
-   "date": "2026-11-02T18:10:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Arsenal have everything they need to repeat as Premier League champions | Jonathan Wilson",
-   "link": "https://www.theguardian.com/football/2026/nov/02/arsenal-liverpool-premier-league",
-   "summary": "Sunday\u2019s win at Liverpool showed the Gunners are deeper, more experienced, and are playing against a weaker class of contenders than last seasonSign up for our free newsletter hereArsenal are three points clear at the\u2026",
-   "date": "2026-11-02T15:47:19+00:00",
-   "image": "https://i.guim.co.uk/img/media/13126637f64d505b7db502f11e4633cc47345fbc/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ff864052105dc932f3f6a3c6de32f9cb"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Led by Liam Rosenior and backed by billionaires, Paris FC are now a force in Ligue 1 | Luke Entwistle",
-   "link": "https://www.theguardian.com/football/2026/nov/02/paris-fc-ligue-1-liam-rosenior-billionaires",
-   "summary": "After a huge summer and with PSG\u2019s other rivals falling away, their city rivals are aiming to \u2018be one of the biggest clubs in Europe\u2019By Get French Football NewsIt is hard to know what Pierre\u00a0Ferracci found stranger: the\u2026",
-   "date": "2026-11-02T15:45:35+00:00",
-   "image": "https://i.guim.co.uk/img/media/311f869dcd42353547019f9afe60ea4059a43a7f/289_0_4758_3806/master/4758.jpg?width=140&quality=85&auto=format&fit=max&s=cc6aa31ceb8fa3e878b5825136ecbdfc"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | Aston Villa, \u2018unacceptable insults\u2019 and thin-skinned clutching of pearls",
-   "link": "https://www.theguardian.com/football/2026/nov/02/football-daily-email-aston-villa",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!When Jamie Carragher appeared as a pundit on Sky Sports Super Sunday, Football Daily was surprised he didn\u2019t have a solicitor sitting alongside him, occasionally\u2026",
-   "date": "2026-11-02T15:00:43+00:00",
-   "image": "https://i.guim.co.uk/img/media/d6a54a91281b767c21eacf65894a4437d950c118/244_0_3008_2407/master/3008.jpg?width=140&quality=85&auto=format&fit=max&s=ee9de89abea47cb623f879fc9188f413"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Arsenal end Anfield wait and Manchester United beaten again | Football Weekly \u2013 video",
-   "link": "https://www.theguardian.com/football/video/2026/nov/02/arsenal-end-anfield-wait-and-manchester-united-beaten-again-football-weekly-video",
-   "summary": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson and John Brewin as Arsenal win at Anfield in the league for the first time in 14 years and go top of the Premier League Continue reading...",
-   "date": "2026-11-02T14:34:55+00:00",
-   "image": "https://i.guim.co.uk/img/media/e18021a308ccfab2177c8de60df27d3a569300d6/68_0_5149_4120/master/5149.jpg?width=140&quality=85&auto=format&fit=max&s=dcd843aa8f67bee119d9424d54547e47"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Worst in the EFL - the team with a penalty problem",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o?at_medium=RSS&at_campaign=rss",
-   "summary": "Newport County have scored just two from nine penalties across the past two seasons in all competitions, so what's going wrong?",
-   "date": "2026-11-02T13:56:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e871/live/b312df70-d6b1-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "From VHS dreams to San Siro glory: Amorim\u2019s Milan surge puts rivals on notice | Nicky Bandini",
-   "link": "https://www.theguardian.com/football/2026/nov/02/milan-inter-ruben-amorim-serie-a",
-   "summary": "Inspired by the legendary Milan sides of his youth, the manager gave his side a  lift with a tactical victory over InterRuben Amorim had waited a lifetime for his first Milan derby. As a kid growing up in Lisbon, he\u2026",
-   "date": "2026-11-02T13:47:03+00:00",
-   "image": "https://i.guim.co.uk/img/media/96217bae73d594ee0ba1afbdf26555f3b120f7fc/635_607_2647_2118/master/2647.jpg?width=140&quality=85&auto=format&fit=max&s=b3bc353b9e444f0802862f3f9fd627d0"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Dazn secures exclusive deal on global streaming rights for 2029 Club World Cup",
-   "link": "https://www.theguardian.com/football/2026/nov/02/dazn-world-cup-2029-exclusive-deal-global-streaming-rights",
-   "summary": "Deal deepens company\u2019s relationship with FifaDazn paid $1bn for global rights for the 2025 tournamentDazn has secured an exclusive option for global streaming rights for the next men\u2019s Club World Cup in 2029 in a\u2026",
-   "date": "2026-11-02T13:00:40+00:00",
-   "image": "https://i.guim.co.uk/img/media/0ea52ba994563851a92b7d2332d5dbfb9a99d973/158_0_4053_3241/master/4053.jpg?width=140&quality=85&auto=format&fit=max&s=ab73fc4bb88b3025c373f53a91d02c6c"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Harry Kane\u2019s Ballon d\u2019Or party gives way to anxiety-filled hangover for Bayern Munich | Andy Brassell",
-   "link": "https://www.theguardian.com/football/2026/nov/02/harry-kane-ballon-dor-bayern-munich-hangover-borussia-dortmund-bundesliga",
-   "summary": "Dortmund did not read the script, remaining level on points with the defending champions at the top of the tableIt was the moment they had all been \u2026 not so much waiting for, but planning, pushing and yearning for. In\u2026",
-   "date": "2026-11-02T12:04:05+00:00",
-   "image": "https://i.guim.co.uk/img/media/dc3dcea3297f3686991465226bdc43e5d915550a/748_142_5833_4668/master/5833.jpg?width=140&quality=85&auto=format&fit=max&s=f0a5c4f49fac6c31ef8dc0d056c51f34"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Every goal from the Women's Super League - matchweek eight",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6rmy008xmzxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Watch every goal from across the WSL in match week eight, from Chelsea's thrashing to Arsenal's late equaliser, in an eventful weekend of action.",
-   "date": "2026-11-02T11:42:40+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dde/live/cced5870-d63a-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Hibs toast win over Hearts - but will they kick on before cup final?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Hibernian buried their Hampden hoodoo against city rivals Heart of Midlothian on Sunday, but will they build on their Premier Sports Cup semi-final triumph?",
-   "date": "2026-11-02T11:39:41+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ab/live/53172fe0-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"
+   "source": "ESPN",
+   "title": "MLS Power Rankings: Miami find their feet with Decision Day coming up",
+   "link": "https://www.espn.com/soccer/story/_/id/50359073/mls-power-rankings-inter-miami-find-their-feet-decision-day-coming-up",
+   "summary": "Which teams are in the best position heading into Decision Day? All this and more in our latest edition of the rankings.",
+   "date": "2026-11-03T08:48:20+00:00",
+   "image": null
   }
  ],
  "videos": [
+  {
+   "channel": "FIFA",
+   "id": "6hODQ3xpNaw",
+   "title": "EXTENDED HIGHLIGHTS | Belgium v Egypt  | 2026 FIFA World Cup",
+   "date": "2026-11-04T08:00:07+00:00"
+  },
   {
    "channel": "FIFA",
    "id": "mHMnFvyM4_M",
@@ -655,6 +661,24 @@
    "date": "2026-11-01T23:00:32+00:00"
   },
   {
+   "channel": "LaLiga",
+   "id": "9cGah8J8gyM",
+   "title": "TODOS LOS GOLES de la JORNADA 11 | LALIGA EA SPORTS 2026/27",
+   "date": "2026-11-04T09:08:21+00:00"
+  },
+  {
+   "channel": "Premier League",
+   "id": "dIVyggN46n8",
+   "title": "Jacquet Said: \u201cTHAT'S MINE!\u201d \ud83d\ude24",
+   "date": "2026-11-04T09:00:23+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "lB5w9KQkaqQ",
+   "title": "Pero DIOMANDE! \ud83d\ude31",
+   "date": "2026-11-04T09:00:10+00:00"
+  },
+  {
    "channel": "Ligue 1",
    "id": "h_DZhICQy24",
    "title": "Timothy Weah fait d\u00e9couvrir la Commanderie au petit Valentin ! | Ma Super Ligue 1 - Saison 2, ep8",
@@ -671,24 +695,6 @@
    "id": "XRnTTsovaQk",
    "title": "Mikel Arteta Reacts To Arsenal's 1-0 Win At Anfield \ud83e\udd29",
    "date": "2026-11-03T18:30:35+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "EDTG1Qv9up8",
-   "title": "TOP SAVES \ud83e\udde4 From the Serie A Round 10 | 2026/27",
-   "date": "2026-11-03T17:30:00+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "3qZK9ozdsl4",
-   "title": "The audacity from Raphinha",
-   "date": "2026-11-03T17:00:17+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "FWRuEKeeuG8",
-   "title": "FULL MATCH | Algeria v Austria | Group Stage | FIFA World Cup 2026\u2122",
-   "date": "2026-11-03T16:51:08+00:00"
   }
  ]
 }
