@@ -1,6 +1,22 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Europa League: Sunderland lose at home to Zagreb while Celtic enjoy first win",
+   "link": "https://www.theguardian.com/football/2026/nov/05/europa-league-roundup-sparta-prague-bournemouth-ferencvaros-milanstay-perfect-while-milan-sunderland-dinamo-zagreb",
+   "summary": "Evanilson helps Bournemouth to 3-1 win at Sparta PragueFerencvaros prevail 2-0 at Milan to keep 100% recordSunderland\u2019s unbeaten run in the Europa League came to an end as they were beaten 2-0 by Dinamo Zagreb at the\u2026",
+   "date": "2026-11-05T23:27:14+00:00",
+   "image": "https://i.guim.co.uk/img/media/4718194e042b637ce1e14510eea795bf0b2a463e/675_50_1865_1493/master/1865.jpg?width=140&quality=85&auto=format&fit=max&s=35ecdc7b0f795720f644b261349aeb2a"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
+   "summary": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
+   "date": "2026-11-05T23:00:10+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
+  },
+  {
    "source": "BBC Sport",
    "title": "Deschamps not interested in Man Utd job - Friday's gossip",
    "link": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
@@ -55,14 +71,6 @@
    "summary": "IOC open to dialogue and Fifa wants input from othersFifa concerned about fixture congestion and workload Fifa wants talks with the International Olympic Committee over restricting the Olympic women\u2019s football\u2026",
    "date": "2026-11-05T21:08:01+00:00",
    "image": "https://i.guim.co.uk/img/media/20e8cfdf2f42897137a5c26591b06f1f86ac0ce4/49_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=3d41fc51e010d63af28ac8923ca793d1"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Europa League: Sunderland soundly beaten by Zagreb while Celtic enjoy first win",
-   "link": "https://www.theguardian.com/football/2026/nov/05/europa-league-roundup-sparta-prague-bournemouth-ferencvaros-milanstay-perfect-while-milan-sunderland-dinamo-zagreb",
-   "summary": "Evanilson helps Bournemouth to 3-1 win at Sparta PragueFerencvaros prevail 2-0 at Milan to keep 100% recordSunderland\u2019s unbeaten run in the Europa League came to an end as they were beaten 2-0 by Dinamo Zagreb at the\u2026",
-   "date": "2026-11-05T20:51:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/4718194e042b637ce1e14510eea795bf0b2a463e/675_50_1865_1493/master/1865.jpg?width=140&quality=85&auto=format&fit=max&s=35ecdc7b0f795720f644b261349aeb2a"
   },
   {
    "source": "The Guardian",
@@ -71,17 +79,25 @@
    "summary": "A late, late strike from Daichi Kamada saved Crystal Palace from embarrassment and another round of navel gazing as they snatched a Europa League draw with Hoffenheim against the odds.After being outplayed by a side\u2026",
    "date": "2026-11-05T19:56:39+00:00",
    "image": "https://i.guim.co.uk/img/media/6ef706b212a1c610e4ad6d3311740787c0983d16/119_0_2189_1751/master/2189.jpg?width=140&quality=85&auto=format&fit=max&s=14cf0e032796735b82a2c2e065f4eb15"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "England check on Palmer - what are Tuchel's other big choices?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
-   "summary": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
-   "date": "2026-11-05T19:00:04+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46d7/live/5b9e86d0-d946-11f1-b2ee-87d22b17ac74.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Europa League: Sunderland lose at home to Zagreb while Celtic enjoy first win",
+   "link": "https://www.theguardian.com/football/2026/nov/05/europa-league-roundup-sparta-prague-bournemouth-ferencvaros-milanstay-perfect-while-milan-sunderland-dinamo-zagreb",
+   "summary": "Evanilson helps Bournemouth to 3-1 win at Sparta PragueFerencvaros prevail 2-0 at Milan to keep 100% recordSunderland\u2019s unbeaten run in the Europa League came to an end as they were beaten 2-0 by Dinamo Zagreb at the\u2026",
+   "date": "2026-11-05T23:27:14+00:00",
+   "image": "https://i.guim.co.uk/img/media/4718194e042b637ce1e14510eea795bf0b2a463e/675_50_1865_1493/master/1865.jpg?width=140&quality=85&auto=format&fit=max&s=35ecdc7b0f795720f644b261349aeb2a"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
+   "summary": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
+   "date": "2026-11-05T23:00:10+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
+  },
   {
    "source": "BBC Sport",
    "title": "Deschamps not interested in Man Utd job - Friday's gossip",
@@ -137,14 +153,6 @@
    "summary": "IOC open to dialogue and Fifa wants input from othersFifa concerned about fixture congestion and workload Fifa wants talks with the International Olympic Committee over restricting the Olympic women\u2019s football\u2026",
    "date": "2026-11-05T21:08:01+00:00",
    "image": "https://i.guim.co.uk/img/media/20e8cfdf2f42897137a5c26591b06f1f86ac0ce4/49_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=3d41fc51e010d63af28ac8923ca793d1"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Europa League: Sunderland soundly beaten by Zagreb while Celtic enjoy first win",
-   "link": "https://www.theguardian.com/football/2026/nov/05/europa-league-roundup-sparta-prague-bournemouth-ferencvaros-milanstay-perfect-while-milan-sunderland-dinamo-zagreb",
-   "summary": "Evanilson helps Bournemouth to 3-1 win at Sparta PragueFerencvaros prevail 2-0 at Milan to keep 100% recordSunderland\u2019s unbeaten run in the Europa League came to an end as they were beaten 2-0 by Dinamo Zagreb at the\u2026",
-   "date": "2026-11-05T20:51:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/4718194e042b637ce1e14510eea795bf0b2a463e/675_50_1865_1493/master/1865.jpg?width=140&quality=85&auto=format&fit=max&s=35ecdc7b0f795720f644b261349aeb2a"
   },
   {
    "source": "The Guardian",
@@ -251,6 +259,14 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c782/live/445b20c0-d92b-11f1-b441-2b33b063138f.jpg"
   },
   {
+   "source": "The Guardian",
+   "title": "Champions League review: comebacks, thrashings and a Mauritanian first",
+   "link": "https://www.theguardian.com/football/2026/nov/05/champions-league-roundup-koita-real-madrid-bayern-psg",
+   "summary": "Bayern Munich and Paris Saint-Germain flexed their muscles, Manchester United fought back and an unlikely star stole the show for AEK AthensStill without the recovering Vincent Kompany, Bayern Munich are among the\u2026",
+   "date": "2026-11-05T15:00:26+00:00",
+   "image": "https://i.guim.co.uk/img/media/e71e5867757c9f873b9a9ad5baeac5971da1941c/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b1ed1faa28f061ddaa077d2b46d58469"
+  },
+  {
    "source": "BBC Sport",
    "title": "What new Kane deal means for England and the Premier League record",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
@@ -289,6 +305,14 @@
    "summary": "There is no doubt his international career was an incredible one, but it would have been greater still if he had not lingered on the stage so longNothing, perhaps, is quite so difficult for an elite sportsperson as\u2026",
    "date": "2026-11-05T13:32:02+00:00",
    "image": "https://i.guim.co.uk/img/media/249366a1c838cbae96f59631c6cbdf1f695b54b6/0_73_2000_1599/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=2a5bd3ed7aecdbb59c46a2ba1cae0205"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Six tournaments, 11 goals - Ronaldo's World Cup legacy",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cwr5y0yj716do?at_medium=RSS&at_campaign=rss",
+   "summary": "Portugal legend Cristiano Ronaldo retires from international football having scored 146 goals and 234 caps for his country. Here's a look back at his 11 World Cup goals, across six tournaments since 2006.",
+   "date": "2026-11-05T13:15:21+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3106/live/2e505630-d91a-11f1-93e1-3b657b665bcf.jpg"
   },
   {
    "source": "BBC Sport",
@@ -427,6 +451,14 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
   },
   {
+   "source": "The Guardian",
+   "title": "Uefa faces political flashpoint over Sevastopol\u2019s ascent in Russian football",
+   "link": "https://www.theguardian.com/football/2026/nov/05/uefa-fifa-ukraine-crimea-sevastopol-promotion-russia-war",
+   "summary": "Promotion to third tier for Crimean club would be clear violation of governing body\u2019s rules amid conflict in UkraineUefa and Fifa face a decisive test of their appetite to punish Russia\u2019s integration of teams from\u2026",
+   "date": "2026-11-05T07:30:56+00:00",
+   "image": "https://i.guim.co.uk/img/media/1ddfd798db148f570b3eceea86ccf0e65f7605c4/753_0_3694_2956/master/3694.jpg?width=140&quality=85&auto=format&fit=max&s=f86823cb521ceb2f2a3149b04ef8243d"
+  },
+  {
    "source": "BBC Sport",
    "title": "Ferguson harbours Rangers ambition - gossip",
    "link": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o?at_medium=RSS&at_campaign=rss",
@@ -468,99 +500,67 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.",
-   "date": "2026-11-04T23:18:03+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/448d/live/a1e6d8a0-d8a5-11f1-93e1-3b657b665bcf.png"
+   "title": "Hearts lose Miller for two months as injuries mount",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Heart of Midlothian will be without Calvin Miller for two months after the winger suffered a knee injury that requires surgery in Sunday's Premier Sports Cup semi-final defeat by Hibernian.",
+   "date": "2026-11-04T19:00:49+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d24/live/c007e640-d881-11f1-a364-a1fce50dd192.jpg"
   },
   {
    "source": "BBC Sport",
-   "title": "Como score nine to make Champions League history",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Anastasios Douvikas scores a hat-trick as Como produce a stunning 9-1 away win over Lens on match day four, recording the biggest away win in Champions League history.",
-   "date": "2026-11-04T22:45:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e11f/live/fb34e230-d8a0-11f1-93e1-3b657b665bcf.jpg"
+   "title": "How landmark Everton compensation prevented Burnley record loss",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
+   "date": "2026-11-04T17:48:19+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg"
   },
   {
    "source": "BBC Sport",
-   "title": "Dortmund take narrow win over Real Betis",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Borussia Dortmund gain a home victory over Real Betis to end the Spanish side's winning run in the Champions League.",
-   "date": "2026-11-04T22:31:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a4/live/798d45d0-d89e-11f1-b441-2b33b063138f.jpg"
+   "title": "'Most difficult days of my life' for Owono after De Miguel death",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+   "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+   "date": "2026-11-04T16:40:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
   },
   {
    "source": "BBC Sport",
-   "title": "Emphatic Porto thrash Napoli in second-half romp",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o?at_medium=RSS&at_campaign=rss",
-   "summary": "Porto score three goals in the final 20 minutes of the game to pull away and seal a comfortable victory against Napoli, who are unable to match their Portuguese opponents in the second half.",
-   "date": "2026-11-04T22:17:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbc/live/899dbd30-d89c-11f1-b441-2b33b063138f.jpg"
+   "title": "Upward path for Penrice has McInnes eager for Rangers deal",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&at_campaign=rss",
+   "summary": "Rangers boss Derek McInnes stresses his desire to sign James Penrice on a permanent deal, with the full-back's impact leading to a first Scotland call.",
+   "date": "2026-11-04T16:38:41+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Goalkeeper Jes\u00fas Owono experiencing \u2018hardest days of my life\u2019 after De Miguel\u2019s death",
+   "link": "https://www.theguardian.com/football/2026/nov/04/goalkeeper-jesus-owono-jesus-de-miguel-death-tenerife-deeply-affected-andorra",
+   "summary": "Owono says he feels \u2018huge pain\u2019 over tragedyInvestigation into medical attention De Miguel receivedThe FC Andorra goalkeeper Jes\u00fas Owono said he was enduring the \u201chardest days of my life\u201d after he was involved in the\u2026",
+   "date": "2026-11-04T16:23:02+00:00",
+   "image": "https://i.guim.co.uk/img/media/5f17bf842665d6d271246b1402b0d764097498f2/754_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=80df570f5e0f6c8736cb76f968c21caa"
   },
   {
    "source": "BBC Sport",
-   "title": "Haaland scores winner as Man City beat Leipzig",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase.",
-   "date": "2026-11-04T22:15:31+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f703/live/769378b0-d89c-11f1-b441-2b33b063138f.jpg"
+   "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
+   "summary": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
+   "date": "2026-11-04T16:12:46+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018She can do what Beckham did\u2019: Oc\u00e9ane Hurtr\u00e9 making waves at Birmingham",
+   "link": "https://www.theguardian.com/football/2026/nov/04/oceane-hurtre-birmingham-womens-super-league-france",
+   "summary": "WSL\u2019s second-highest goalscorer is likened to England legend for her crossing and has earned France call-upAt the conclusion of Birmingham\u2019s warm-up, the players quietly and carefully placed their footballs into a\u2026",
+   "date": "2026-11-04T13:00:11+00:00",
+   "image": "https://i.guim.co.uk/img/media/4b2eaee0eba4fa1223c9bb2a45a597580b01fb66/301_0_3347_2677/master/3347.jpg?width=140&quality=85&auto=format&fit=max&s=2917251e2616702c532d00c1d2c3eb82"
   },
   {
    "source": "BBC Sport",
-   "title": "Arsenal survive late Slavia scare for hard-fought win",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game.",
-   "date": "2026-11-04T22:10:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7297/live/bfc6bfc0-d89b-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Liverpool crumble at Kuyt's Fenerbahce",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o?at_medium=RSS&at_campaign=rss",
-   "summary": "Liverpool are defeated by Turkish side Fenerbahce, who twice fought back from behind to seal a famous victory, ending the Reds' perfect start to this year's Champions League after four games.",
-   "date": "2026-11-04T22:04:16+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42bc/live/f62b49e0-d888-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Bellingham backheel and Valverde rocket earn Real late win at AEK",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ck7vpj0ggqr8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Real Madrid continue their 100% start to their Champions League campaign with another late win, this time through captain Federico Valverde to inflict Athens' third loss in a row.",
-   "date": "2026-11-04T22:04:13+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d7/live/94a0f1c0-d88d-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Manchester United beat Roma in epic second-half comeback",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United drag themselves up off the canvas to come from two goals down to record a sensational Champions League victory against Roma at Old Trafford.",
-   "date": "2026-11-04T22:04:05+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f345/live/60f9ebf0-d7da-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Raphinha scores twice as Barcelona beat Aston Villa",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmlylzndw52ko?at_medium=RSS&at_campaign=rss",
-   "summary": "Barcelona end Aston Villa's perfect Champions League start with an enthralling win at the Spotify Nou Camp.",
-   "date": "2026-11-04T22:04:02+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c3f/live/88cfd0d0-d7d6-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Bayern continue unbeaten CL start with win at Atletico",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cxm23ry19n9po?at_medium=RSS&at_campaign=rss",
-   "summary": "Bayern Munich continued their unbeaten start to the Champions League season with an assured 2-0 victory at Atletico Madrid.",
-   "date": "2026-11-04T22:03:54+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b194/live/26e1d1b0-d7d7-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Spence stars as Inter Milan cruise to win at Feyenoord",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ck4g1ev58yw7o?at_medium=RSS&at_campaign=rss",
-   "summary": "England full-back Djed Spence staring as Inter Milan bounc back from their derby defeat with a comfortable Champions League victory over Feyenoord.",
-   "date": "2026-11-04T22:03:51+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af89/live/c5028650-d7dc-11f1-a701-fddedf244c16.jpg"
+   "title": "Real Madrid reach verbal agreement to sign Gabriel",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
+   "summary": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
+   "date": "2026-11-04T11:49:23+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef8/live/b0d4e5f0-d828-11f1-be97-417dbcdedd32.jpg"
   }
  ],
  "videos": [
