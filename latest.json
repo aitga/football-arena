@@ -1,88 +1,168 @@
 {
  "news": [
   {
-   "source": "BBC Sport",
-   "title": "World record 51 red cards shown in Brazilian youth game",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
-   "summary": "A world record of 43 players and eight members of staff were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
-   "date": "2026-11-04T23:22:27+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"
+   "source": "ESPN",
+   "title": "Pulisic, Balogun, McKennie return to USMNT for Nations League QF vs. Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50378888/pulisic-balogun-mckennie-usmnt-concacaf-nations-league-haiti",
+   "summary": "Monaco's Folarin Balogun, Milan's Christian Pulisic and Juventus' Weston McKennie the USMNT roster for the Concacaf Nations League quarterfinals vs. Haiti.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.",
-   "date": "2026-11-04T23:18:03+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/448d/live/a1e6d8a0-d8a5-11f1-93e1-3b657b665bcf.png"
+   "source": "ESPN",
+   "title": "Fabregas: Como can't buy into 'hype' after record 9-goal UCL night",
+   "link": "https://www.espn.com/soccer/story/_/id/50382528/fabregas-como-4th-record-setting-9-goal-night",
+   "summary": "Como beat Lens 9-1 in the league phase to set a record for most goals on the road by any team in the competition's history and move them up to fourth place in the table.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
   },
   {
-   "source": "The Guardian",
-   "title": "Champions League: Como clobber Lens 9-1 after Real Madrid roar back to deny AEK Athens",
-   "link": "https://www.theguardian.com/football/2026/nov/04/champions-league-roundup-aek-athens-real-madrid-borussia-dortmund-napoli",
-   "summary": "Valverde hits late winner as Madrid win 3-2 in AthensNapoli thrashed by Porto, Club Brugge win at PSVAnastasios Douvikas led the rout with a hat-trick as Como cruised to a 9-1 victory at Lens, equalling the record for\u2026",
-   "date": "2026-11-04T23:08:05+00:00",
-   "image": "https://i.guim.co.uk/img/media/027d21edc7a52d5cde03b57e8ae12d8c5ed98b92/190_0_3579_2863/master/3579.jpg?width=140&quality=85&auto=format&fit=max&s=91e01abd8ee77b1ac125144401e3f922"
+   "source": "ESPN",
+   "title": "Haaland tells Man City to 'step up' after netting winner in Leipzig",
+   "link": "https://www.espn.com/soccer/story/_/id/50382966/erling-haaland-man-city-rb-leipzig-uefa-champions-league",
+   "summary": "Erling Haaland called on Manchester City to become more ruthless after twice being pegged back before beating RB Leipzig 3-2 on Wednesday.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Como score nine to make Champions League history",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Anastasios Douvikas scores a hat-trick as Como produce a stunning 9-1 away win over Lens on match day four, recording the biggest away win in Champions League history.",
-   "date": "2026-11-04T22:45:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e11f/live/fb34e230-d8a0-11f1-93e1-3b657b665bcf.jpg"
+   "source": "ESPN",
+   "title": "Iraola bemoans 'cheap, messy goals' in Liverpool loss at Fenerbahce",
+   "link": "https://www.espn.com/soccer/story/_/id/50381609/liverpool-fenerbahce-andoni-iraola-uefa-champions-league",
+   "summary": "Liverpool head coach Andoni Iraola bemoaned his side's poor defending of set pieces leading to \"cheap, messy\" goals which cost them a 3-2 defeat at Fenerbahce.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
-   "date": "2026-11-04T22:38:24+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
+   "source": "ESPN",
+   "title": "'One-of-a-kind': Mourinho lauds Bellingham as Madrid stay perfect in Champions",
+   "link": "https://www.espn.com/soccer/story/_/id/50382502/mourinho-bellingham-real-madrid-aek-athens-champions-league",
+   "summary": "Real Madrid stayed perfect in the Champions League after Jude Bellingham sparked a 3-2 comeback win against AEK in Athens.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Dortmund take narrow win over Real Betis",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Borussia Dortmund gain a home victory over Real Betis to end the Spanish side's winning run in the Champions League.",
-   "date": "2026-11-04T22:31:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a4/live/798d45d0-d89e-11f1-b441-2b33b063138f.jpg"
+   "source": "ESPN",
+   "title": "Wrexham joy at big win dented by losing striker Sam Smith for season",
+   "link": "https://www.espn.com/soccer/story/_/id/50383627/wrexham-middlesbrough-sam-smith-injury-championship",
+   "summary": "Wrexham's morale-boosting win over Championship leaders Middlesbrough was partially overshadowed by confirmation that striker Sam Smith will miss the rest of the season.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
   },
   {
-   "source": "The Guardian",
-   "title": "Championship roundup: West Ham stage dramatic comeback on Scott Parker\u2019s opening night",
-   "link": "https://www.theguardian.com/football/2026/nov/04/championship-roundup-cardiff-west-ham-scott-parker-wrexham-middlesbrough-bristol-city-wolves",
-   "summary": "West Ham recover from 3-0 down to draw 3-3 at CardiffLeaders Middlesbrough beaten 2-0 at WrexhamScott Parker\u2019s return to West Ham had looked like beginning in painful fashion but instead featured a stunning comeback\u2026",
-   "date": "2026-11-04T22:18:02+00:00",
-   "image": "https://i.guim.co.uk/img/media/7eb9c49fcd7ea4b6441295d1fd73c69dd9cb004c/471_0_4872_3898/master/4872.jpg?width=140&quality=85&auto=format&fit=max&s=3d1dde05ddbe88cd576e0af8aa96a9e9"
+   "source": "ESPN",
+   "title": "Andorra GK on De Miguel death: 'Most difficult days of my life'",
+   "link": "https://www.espn.com/soccer/story/_/id/50379500/andorra-gk-owono-statement-de-miguel-death-difficult-days",
+   "summary": "Andorra GK Jes\u00fas Owono said he is facing \"the most difficult days\" of his life after being involved in the on-field collision with Tenerife's Jes\u00fas de Miguel.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Emphatic Porto thrash Napoli in second-half romp",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o?at_medium=RSS&at_campaign=rss",
-   "summary": "Porto score three goals in the final 20 minutes of the game to pull away and seal a comfortable victory against Napoli, who are unable to match their Portuguese opponents in the second half.",
-   "date": "2026-11-04T22:17:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbc/live/899dbd30-d89c-11f1-b441-2b33b063138f.jpg"
+   "source": "ESPN",
+   "title": "\ud83d\udc40 Man United fans throwing tennis balls part of soccer's rich history of supporter protests",
+   "link": "https://www.espn.com/soccer/story/_/id/50378091/man-united-fans-tennis-balls-soccer-history-supporter-protests",
+   "summary": "After Manchester United's match was disrupted by tennis ball's thrown onto the pitch, here are some of the various ways fans have made themselves heard.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Haaland scores winner as Man City beat Leipzig",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase.",
-   "date": "2026-11-04T22:15:31+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f703/live/769378b0-d89c-11f1-b441-2b33b063138f.jpg"
+   "source": "ESPN",
+   "title": "Arteta: Arsenal have 'a lot to learn' after nervy win in Prague",
+   "link": "https://www.espn.com/soccer/story/_/id/50383222/mikel-arteta-arsenal-sloppy-win-slavia-prague",
+   "summary": "Mikel Arteta admitted Arsenal made life hard for themselves after they edged past Slavia Prague 2-1 in the Champions League.",
+   "date": "2026-11-05T00:49:43+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Arsenal survive late Slavia scare for hard-fought win",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game.",
-   "date": "2026-11-04T22:10:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7297/live/bfc6bfc0-d89b-11f1-b441-2b33b063138f.jpg"
+   "source": "ESPN",
+   "title": "UCL talking points: First upsetting United, now NINE goals!? Are Como the real deal?",
+   "link": "https://www.espn.com/soccer/story/_/id/50381317/champions-league-talking-points-como-real-deal",
+   "summary": "Gab Marcotti, Rob Dawson, Mark Ogden and Sam Marsden run the rule over upstarts Como, plus all the other moments that mattered from Matchday 4.",
+   "date": "2026-11-05T00:37:59+00:00",
+   "image": null
   }
  ],
  "news_all": [
   {
+   "source": "ESPN",
+   "title": "Pulisic, Balogun, McKennie return to USMNT for Nations League QF vs. Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50378888/pulisic-balogun-mckennie-usmnt-concacaf-nations-league-haiti",
+   "summary": "Monaco's Folarin Balogun, Milan's Christian Pulisic and Juventus' Weston McKennie the USMNT roster for the Concacaf Nations League quarterfinals vs. Haiti.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Fabregas: Como can't buy into 'hype' after record 9-goal UCL night",
+   "link": "https://www.espn.com/soccer/story/_/id/50382528/fabregas-como-4th-record-setting-9-goal-night",
+   "summary": "Como beat Lens 9-1 in the league phase to set a record for most goals on the road by any team in the competition's history and move them up to fourth place in the table.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Haaland tells Man City to 'step up' after netting winner in Leipzig",
+   "link": "https://www.espn.com/soccer/story/_/id/50382966/erling-haaland-man-city-rb-leipzig-uefa-champions-league",
+   "summary": "Erling Haaland called on Manchester City to become more ruthless after twice being pegged back before beating RB Leipzig 3-2 on Wednesday.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Iraola bemoans 'cheap, messy goals' in Liverpool loss at Fenerbahce",
+   "link": "https://www.espn.com/soccer/story/_/id/50381609/liverpool-fenerbahce-andoni-iraola-uefa-champions-league",
+   "summary": "Liverpool head coach Andoni Iraola bemoaned his side's poor defending of set pieces leading to \"cheap, messy\" goals which cost them a 3-2 defeat at Fenerbahce.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "'One-of-a-kind': Mourinho lauds Bellingham as Madrid stay perfect in Champions",
+   "link": "https://www.espn.com/soccer/story/_/id/50382502/mourinho-bellingham-real-madrid-aek-athens-champions-league",
+   "summary": "Real Madrid stayed perfect in the Champions League after Jude Bellingham sparked a 3-2 comeback win against AEK in Athens.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Wrexham joy at big win dented by losing striker Sam Smith for season",
+   "link": "https://www.espn.com/soccer/story/_/id/50383627/wrexham-middlesbrough-sam-smith-injury-championship",
+   "summary": "Wrexham's morale-boosting win over Championship leaders Middlesbrough was partially overshadowed by confirmation that striker Sam Smith will miss the rest of the season.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Andorra GK on De Miguel death: 'Most difficult days of my life'",
+   "link": "https://www.espn.com/soccer/story/_/id/50379500/andorra-gk-owono-statement-de-miguel-death-difficult-days",
+   "summary": "Andorra GK Jes\u00fas Owono said he is facing \"the most difficult days\" of his life after being involved in the on-field collision with Tenerife's Jes\u00fas de Miguel.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "\ud83d\udc40 Man United fans throwing tennis balls part of soccer's rich history of supporter protests",
+   "link": "https://www.espn.com/soccer/story/_/id/50378091/man-united-fans-tennis-balls-soccer-history-supporter-protests",
+   "summary": "After Manchester United's match was disrupted by tennis ball's thrown onto the pitch, here are some of the various ways fans have made themselves heard.",
+   "date": "2026-11-05T00:49:44+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Arteta: Arsenal have 'a lot to learn' after nervy win in Prague",
+   "link": "https://www.espn.com/soccer/story/_/id/50383222/mikel-arteta-arsenal-sloppy-win-slavia-prague",
+   "summary": "Mikel Arteta admitted Arsenal made life hard for themselves after they edged past Slavia Prague 2-1 in the Champions League.",
+   "date": "2026-11-05T00:49:43+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "UCL talking points: First upsetting United, now NINE goals!? Are Como the real deal?",
+   "link": "https://www.espn.com/soccer/story/_/id/50381317/champions-league-talking-points-como-real-deal",
+   "summary": "Gab Marcotti, Rob Dawson, Mark Ogden and Sam Marsden run the rule over upstarts Como, plus all the other moments that mattered from Matchday 4.",
+   "date": "2026-11-05T00:37:59+00:00",
+   "image": null
+  },
+  {
    "source": "BBC Sport",
    "title": "World record 51 red cards shown in Brazilian youth game",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
@@ -105,6 +185,14 @@
    "summary": "Valverde hits late winner as Madrid win 3-2 in AthensNapoli thrashed by Porto, Club Brugge win at PSVAnastasios Douvikas led the rout with a hat-trick as Como cruised to a 9-1 victory at Lens, equalling the record for\u2026",
    "date": "2026-11-04T23:08:05+00:00",
    "image": "https://i.guim.co.uk/img/media/027d21edc7a52d5cde03b57e8ae12d8c5ed98b92/190_0_3579_2863/master/3579.jpg?width=140&quality=85&auto=format&fit=max&s=91e01abd8ee77b1ac125144401e3f922"
+  },
+  {
+   "source": "ESPN",
+   "title": "As fan protests continue, did Man United's thrilling Champions League comeback save Carrick?",
+   "link": "https://www.espn.com/soccer/story/_/id/50372373/did-man-united-champions-league-comeback-save-carrick-job",
+   "summary": "Just when it looked like Man United would suffer another humiliating loss, they made a turnaround that might save their Champions League campaign -- and their coach.",
+   "date": "2026-11-04T22:53:23+00:00",
+   "image": null
   },
   {
    "source": "BBC Sport",
@@ -323,6 +411,14 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"
   },
   {
+   "source": "ESPN",
+   "title": "Pochettino's squad illustrates his task: Blend prodigious prospects with USMNT's golden generation",
+   "link": "https://www.espn.com/soccer/story/_/id/50379572/mauricio-pochettinos-squad-illustrates-task-blend-prodigious-prospects-usmnt-golden-generation",
+   "summary": "The USMNT's November squad includes returns of the team's biggest stars, but a number of the teenage talents who excelled last time out, too.",
+   "date": "2026-11-04T16:33:49+00:00",
+   "image": null
+  },
+  {
    "source": "The Guardian",
    "title": "Goalkeeper Jes\u00fas Owono experiencing \u2018hardest days of my life\u2019 after De Miguel\u2019s death",
    "link": "https://www.theguardian.com/football/2026/nov/04/goalkeeper-jesus-owono-jesus-de-miguel-death-tenerife-deeply-affected-andorra",
@@ -377,6 +473,14 @@
    "summary": "Madrid hope to bring in forward during JanuaryUnited to consider legal action if they feel rules brokenReal Madrid are closing in on signing JJ Gabriel, though Manchester United will consider legal action if the club\u2026",
    "date": "2026-11-04T14:48:17+00:00",
    "image": "https://i.guim.co.uk/img/media/878adb1955bcd3465818deffd928ff1fe2cb863e/229_150_2083_1665/master/2083.jpg?width=140&quality=85&auto=format&fit=max&s=b57b5ef1034ed05b766e49ee74e002e6"
+  },
+  {
+   "source": "ESPN",
+   "title": "Transfer rumors, news: Arsenal want Atl\u00e9tico Madrid winger",
+   "link": "https://www.espn.com/soccer/story/_/id/50376623/transfer-rumors-news-arsenal-want-atletico-madrid-winger",
+   "summary": "Juventus are keeping tabs on possible moves for forwards Benjamin \u0160e\u0161ko and Folarin Balogun. Transfer Talk has the latest.",
+   "date": "2026-11-04T14:22:02+00:00",
+   "image": null
   },
   {
    "source": "The Guardian",
@@ -435,132 +539,28 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e5/live/84926a10-d82a-11f1-be97-417dbcdedd32.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "Why is it going so wrong for Le Bris at Sunderland?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo?at_medium=RSS&at_campaign=rss",
-   "summary": "Will qualifying for the Europa League end up costing Sunderland their place in the Premier League at the end of the season?",
-   "date": "2026-11-04T08:27:25+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a04/live/cf211500-d6c1-11f1-ac20-7783925c811f.png"
+   "source": "ESPN",
+   "title": "One burning question for every NWSL team eliminated from the playoffs",
+   "link": "https://www.espn.com/soccer/story/_/id/50361539/every-nwsl-team-eliminated-playoffs-2026-one-offseason-question-answer",
+   "summary": "The NWSL Championship is almost here -- and these teams won't be in it. ESPN breaks down every eliminated team's biggest offseason question to answer.",
+   "date": "2026-11-04T09:15:32+00:00",
+   "image": null
   },
   {
-   "source": "The Guardian",
-   "title": "Has a footballer ever run a marathon faster than James Milner? | The Knowledge",
-   "link": "https://www.theguardian.com/football/2026/nov/04/footballer-run-marathon-faster-than-james-milner-the-knowledge",
-   "summary": "Plus: managers sacked after signing new deals, war victims commemorated on kits and the first club website (part II)Mail us with all of your questions and answersIt came as no surprise to the Knowledge that James Milner\u2026",
-   "date": "2026-11-04T08:00:29+00:00",
-   "image": "https://i.guim.co.uk/img/media/8d1cbc93291893cc07d93a329c88345e1b1e034b/0_1_5000_3998/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2cd63dd6c857ef966ace1765ca5de01c"
+   "source": "ESPN",
+   "title": "NWSL Power Rankings: Gotham FC claims No. 1 with first NWSL Shield",
+   "link": "https://www.espn.com/soccer/story/_/id/50355634/nwsl-power-rankings-gotham-fc-claims-no-1-first-nwsl-shield",
+   "summary": "There can only be one No. 1 in our rankings, with Gotham FC adding yet more hardware to their trophy cabinet.",
+   "date": "2026-11-04T09:15:32+00:00",
+   "image": null
   },
   {
-   "source": "The Guardian",
-   "title": "Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
-   "link": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax",
-   "summary": "John Aloisi\u2019s players need a point on the final day to seal their maiden title \u2013 but their form has dropped off a cliffWith four games of the Chinese Super League to go, Chengdu Rongcheng needed just a point to clinch\u2026",
-   "date": "2026-11-04T08:00:29+00:00",
-   "image": "https://i.guim.co.uk/img/media/948390b71d4e67e3c067f79af9b6a7b1730782fa/396_105_3202_2562/master/3202.jpg?width=140&quality=85&auto=format&fit=max&s=fc39238a6707ac80db70b377668785f0"
-  },
-  {
-   "source": "The Guardian",
-   "title": "West Ham took too long to sack Nuno and now must trust Parker to do what he does best | Jacob Steinberg",
-   "link": "https://www.theguardian.com/football/2026/nov/04/west-ham-took-too-long-to-sack-nuno-and-now-must-trust-parker-to-do-what-he-does-best",
-   "summary": "Forget speculation over how a Parker-led side would fare in the Premier League and let the man who has taken three clubs up do his work againIt has taken West Ham six months to come to their senses and sack Nuno\u2026",
-   "date": "2026-11-04T08:00:28+00:00",
-   "image": "https://i.guim.co.uk/img/media/47f87e9644c48957e781d49cacfef6430143c5d6/154_61_1842_1474/master/1842.jpg?width=140&quality=85&auto=format&fit=max&s=377f8133b7e71cfccabc80ea8018ca3d"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo?at_medium=RSS&at_campaign=rss",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "date": "2026-11-04T07:06:19+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "New strategy launched to transform Scottish women's football over 10 years",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly05y2jwzdo?at_medium=RSS&at_campaign=rss",
-   "summary": "The strategy aims to double the number of registered female players in Scotland, while also quadrupling attendances and audiences for matches.",
-   "date": "2026-11-04T07:03:05+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/827c/live/b919b670-d81c-11f1-a9b6-0f4245e849b7.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Fernandes critical of media 'lies' about Carrick relationship",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.",
-   "date": "2026-11-04T00:45:33+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bc/live/f12e0680-d7d4-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
-   "summary": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
-   "date": "2026-11-04T00:27:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8e8/live/5bf089a0-d7e1-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
-   "summary": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.",
-   "date": "2026-11-03T23:58:22+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de38/live/9ad09e20-d7e2-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Mainoo and Lacey raise the spirits but systemic change still required at Manchester United | Nick Ames",
-   "link": "https://www.theguardian.com/football/2026/nov/03/michael-carrick-manchester-united-roma-old-trafford-champions-league",
-   "summary": "There were protests at Old Trafford and even though two academy products stood out, Michael Carrick\u2019s future is far from safeGreen and yellow balloons bobbed around the Stretford End. Tennis balls rained down on the\u2026",
-   "date": "2026-11-03T23:57:56+00:00",
-   "image": "https://i.guim.co.uk/img/media/4732852d56bc4ec7772663a6deb1df78e05d9032/405_0_4050_3239/master/4050.jpg?width=140&quality=85&auto=format&fit=max&s=4387cdaafc5adb1e9ee6f6756cad34eb"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Asian Cup postponement leaves Socceroos, FA and coach Tony Popovic at crossroads | Joey Lynch",
-   "link": "https://www.theguardian.com/football/blog/2026/nov/04/asian-cup-afc-postponed-socceroos-football-australia-tony-popovich",
-   "summary": "The most immediate question thrown up by the delay of the tournament in Saudi Arabia is what it now means for PopovicConfirmation that the Asian Cup has been postponed until December 2027 would have caught few by\u2026",
-   "date": "2026-11-03T23:54:13+00:00",
-   "image": "https://i.guim.co.uk/img/media/7a80ee30e28277a5731228f614b47a2c269acdec/346_0_3461_2769/master/3461.jpg?width=140&quality=85&auto=format&fit=max&s=3782dddee703780d9ba04fc876ff1477"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Lennart Karl steals in behind Atl\u00e9tico Madrid to inspire Bayern Munich win",
-   "link": "https://www.theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report",
-   "summary": "\u201cThis stadium brings back bad memories but I hope to be able to replace them with good ones,\u201d Harry Kane had said on Monday night, and 24 hours later this was a start. A small step, perhaps, towards coming back on 5\u2026",
-   "date": "2026-11-03T22:28:08+00:00",
-   "image": "https://i.guim.co.uk/img/media/76ac46a8d3074b1298b04016958d0cbb01395e59/499_102_1688_1350/master/1688.jpg?width=140&quality=85&auto=format&fit=max&s=aea7fb4e922f4607e7f9bd4f66d6e200"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Championship roundup: Devlin\u2019s double for Portsmouth denies Swansea top spot",
-   "link": "https://www.theguardian.com/football/2026/nov/03/championship-roundup-swansea-portsmouth-southampton-west-brom-burnley",
-   "summary": "Birmingham sink Millwall to keep up good formNorwich thump Rams and pile pressure on EustaceTerry Devlin\u2019s double denied Swansea the chance to take top spot in the Championship as in-form Portsmouth won 3-1 at Fratton\u2026",
-   "date": "2026-11-03T22:28:05+00:00",
-   "image": "https://i.guim.co.uk/img/media/abb65bf292488101abe7bdc7cb8721715e379a96/217_187_2702_2161/master/2702.jpg?width=140&quality=85&auto=format&fit=max&s=1c0b3662cdb7a3a78bbf55d8931a3aa5"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Raphinha underlines Barcelona\u2019s class to give Aston Villa a reality check",
-   "link": "https://www.theguardian.com/football/2026/nov/03/barcelona-aston-villa-champions-league-match-report",
-   "summary": "This was a chastening night for Aston Villa, and a familiar one for Unai Emery in this corner of town. On a processional night at the Camp Nou Barcelona produced a performance of unhurried, high-grade incision, easing\u2026",
-   "date": "2026-11-03T22:00:11+00:00",
-   "image": "https://i.guim.co.uk/img/media/3b9587bc846f99902474bfa9e0967d0f02939c11/205_315_2175_1740/master/2175.jpg?width=140&quality=85&auto=format&fit=max&s=ef1f8779c03693ab1458dd7545cd128b"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Arteta backs Saliba\u2019s readiness to return for Arsenal at Slavia Prague",
-   "link": "https://www.theguardian.com/football/2026/nov/03/arteta-backs-salibas-readiness-to-return-for-arsenal-at-slavia-prague",
-   "summary": "Defender travelled with squad after long injury absence\u2018I have clips\u2019: Arteta hits back after Liverpool complaintsMikel Arteta is confident that William Saliba is ready to make his first appearance of the season for\u2026",
-   "date": "2026-11-03T20:31:58+00:00",
-   "image": "https://i.guim.co.uk/img/media/73d0a1d0c981981a58ad0d478fcd54b0656d4f86/142_55_1335_1067/master/1335.jpg?width=140&quality=85&auto=format&fit=max&s=24738cde6de4b328d2174fe447136203"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Lionesses to face France and Portugal in Nations League",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo?at_medium=RSS&at_campaign=rss",
-   "summary": "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
-   "date": "2026-11-03T15:39:21+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/417598b0-d799-11f1-801d-cf196dc7232c.jpg"
+   "source": "ESPN",
+   "title": "Liverpool's $500m forward line is failing. Can Iraola & Co. turn it around?",
+   "link": "https://www.espn.com/soccer/story/_/id/50360697/liverpool-attack-struggle-iraola-isak-wirtz-barcola-premier-league-champions-league",
+   "summary": "Liverpool's star-studded, expensively assembled attack has scored fewer Premier League goals this season than Ipswich. That needs to improve immediately.",
+   "date": "2026-11-04T08:42:18+00:00",
+   "image": null
   }
  ],
  "videos": [
@@ -603,6 +603,187 @@
  ],
  "fixtures": [
   {
+   "id": "401915551",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-04T15:30Z",
+   "home": "Stade Rennais",
+   "away": "Olympiacos",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
+   "venue": "Roazhon Park",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "id": "401915383",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T17:45Z",
+   "home": "AEK Athens",
+   "away": "Real Madrid",
+   "hs": "2",
+   "as": "3",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
+   "venue": "OPAP Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "id": "401915382",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T17:45Z",
+   "home": "Fenerbahce",
+   "away": "Liverpool",
+   "hs": "3",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
+   "venue": "\u015e\u00fckr\u00fc Saraco\u011flu Stadium",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "id": "401915304",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "Borussia Dortmund",
+   "away": "Real Betis",
+   "hs": "2",
+   "as": "1",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
+   "venue": "Signal Iduna Park",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "id": "401915301",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "FC Porto",
+   "away": "Napoli",
+   "hs": "4",
+   "as": "1",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
+   "venue": "Est\u00e1dio do Drag\u00e3o",
+   "usa": [
+    "CBSSN",
+    "Paramount+"
+   ]
+  },
+  {
+   "id": "401915305",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "Lens",
+   "away": "Como",
+   "hs": "1",
+   "as": "9",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
+   "venue": "Stade Bollaert-Delelis",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "id": "401915303",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "PSV Eindhoven",
+   "away": "Club Brugge",
+   "hs": "1",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
+   "venue": "Philips Stadion",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "id": "401915306",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "RB Leipzig",
+   "away": "Manchester City",
+   "hs": "2",
+   "as": "3",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
+   "venue": "Red Bull Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "id": "401915381",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "Slavia Prague",
+   "away": "Arsenal",
+   "hs": "1",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+6'",
+   "venue": "Fortuna Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
+   "id": "401915302",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "Viking FK",
+   "away": "Sabah FK",
+   "hs": "4",
+   "as": "1",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
+   "venue": "Viking Stadion",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  {
    "id": "401915534",
    "code": "uefa.europa",
    "l": "eur",
@@ -613,6 +794,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "San Siro",
    "usa": [
@@ -630,6 +812,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Lotto Park",
    "usa": [
@@ -647,6 +830,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Selhurst Park",
    "usa": [
@@ -664,6 +848,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Vasil Levski National Stadium",
    "usa": [
@@ -681,6 +866,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Arasen Stadion",
    "usa": [
@@ -698,6 +884,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Goffertstadion",
    "usa": [
@@ -715,6 +902,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Reale Arena",
    "usa": [
@@ -732,6 +920,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Generali Arena",
    "usa": [
@@ -749,6 +938,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "AFAS Stadion",
    "usa": [
@@ -766,6 +956,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "BayArena",
    "usa": [
@@ -783,6 +974,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Est\u00e1dio da Luz",
    "usa": [
@@ -800,6 +992,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Balaidos",
    "usa": [
@@ -817,6 +1010,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Celtic Park",
    "usa": [
@@ -834,6 +1028,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Giulesti Stadium",
    "usa": [
@@ -851,6 +1046,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Merkur Arena",
    "usa": [
@@ -868,6 +1064,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Stadium of Light",
    "usa": [
@@ -885,6 +1082,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Est\u00e1dio Dr. Magalhaes Pessoa",
    "usa": [
@@ -902,6 +1100,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Volksparkstadion",
    "usa": [
@@ -919,6 +1118,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Stadio Pier Luigi Penzo",
    "usa": [
@@ -936,6 +1136,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Stadium Municipal de Toulouse",
    "usa": [
@@ -953,6 +1154,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Hill Dickinson Stadium",
    "usa": [
@@ -971,6 +1173,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Ram\u00f3n S\u00e1nchez Pizju\u00e1n Stadium",
    "usa": [
@@ -989,6 +1192,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Elland Road",
    "usa": [
@@ -1007,6 +1211,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "La Rosaleda",
    "usa": [
@@ -1025,6 +1230,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Unipol Domus",
    "usa": [
@@ -1042,6 +1248,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Stadio Olimpico Grande Torino",
    "usa": [
@@ -1059,6 +1266,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Signal Iduna Park",
    "usa": [
@@ -1076,6 +1284,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "MEWA ARENA",
    "usa": [
@@ -1094,6 +1303,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Red Bull Arena",
    "usa": [
@@ -1111,6 +1321,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Home Deluxe Arena",
    "usa": [
@@ -1128,6 +1339,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Emirates Stadium",
    "usa": [
@@ -1146,6 +1358,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Craven Cottage",
    "usa": [
@@ -1164,6 +1377,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "RCDE Stadium",
    "usa": [
@@ -1182,6 +1396,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Ennio Tardini",
    "usa": [
@@ -1199,6 +1414,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "The City Ground",
    "usa": [
@@ -1217,6 +1433,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "El Sadar",
    "usa": [
@@ -1235,6 +1452,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "MHPArena",
    "usa": [
@@ -1252,6 +1470,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Stade de l'Abb\u00e9-Deschamps",
    "usa": [
@@ -1269,6 +1488,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Olimpico",
    "usa": [
@@ -1286,6 +1506,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Mestalla Stadium",
    "usa": [
@@ -1304,6 +1525,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Parc des Princes",
    "usa": [
@@ -1321,6 +1543,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Stadio Diego Armando Maradona",
    "usa": [
@@ -1338,6 +1561,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Estadio Mart\u00ednez Valero",
    "usa": [
@@ -1355,6 +1579,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "American Express Stadium",
    "usa": [
@@ -1372,6 +1597,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Selhurst Park",
    "usa": [
@@ -1389,6 +1615,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Portman Road",
    "usa": [
@@ -1406,6 +1633,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Stadium of Light",
    "usa": [
@@ -1424,6 +1652,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Stadio Luigi Ferraris",
    "usa": [
@@ -1441,6 +1670,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "U-Power Stadium",
    "usa": [
@@ -1458,6 +1688,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Roazhon Park",
    "usa": [
@@ -1475,6 +1706,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "RheinEnergieStadion",
    "usa": [
@@ -1492,6 +1724,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Reale Arena",
    "usa": [
@@ -1509,6 +1742,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Stade Raymond Kopa",
    "usa": [
@@ -1526,6 +1760,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Stade Francis-Le Bl\u00e9",
    "usa": [
@@ -1543,6 +1778,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Stade Oc\u00e9ane",
    "usa": [
@@ -1560,6 +1796,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Stade Marie-Marvingt",
    "usa": [
@@ -1577,6 +1814,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Old Trafford",
    "usa": [
@@ -1595,6 +1833,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Europa-Park Stadion",
    "usa": [
@@ -1612,6 +1851,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "San Siro",
    "usa": [
@@ -1629,6 +1869,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Balaidos",
    "usa": [
@@ -1646,6 +1887,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Estadio de la Cer\u00e1mica",
    "usa": [
@@ -1663,6 +1905,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "PreZero Arena",
    "usa": [
@@ -1680,6 +1923,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Stadio Artemio Franchi",
    "usa": [
@@ -1697,6 +1941,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Stade Bollaert-Delelis",
    "usa": [
@@ -1714,6 +1959,7 @@
    "hs": "0",
    "as": "0",
    "live": false,
+   "state": "pre",
    "clock": "0'",
    "venue": "Riyadh Air Metropolitano",
    "usa": [
@@ -5654,5 +5900,1372 @@
     ]
    }
   ]
+ },
+ "match_archive": {
+  "401915551": {
+   "id": "401915551",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-04T15:30Z",
+   "home": "Stade Rennais",
+   "away": "Olympiacos",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
+   "venue": "Roazhon Park",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915383": {
+   "id": "401915383",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T17:45Z",
+   "home": "AEK Athens",
+   "away": "Real Madrid",
+   "hs": "2",
+   "as": "3",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
+   "venue": "OPAP Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915382": {
+   "id": "401915382",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T17:45Z",
+   "home": "Fenerbahce",
+   "away": "Liverpool",
+   "hs": "3",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
+   "venue": "\u015e\u00fckr\u00fc Saraco\u011flu Stadium",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915304": {
+   "id": "401915304",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "Borussia Dortmund",
+   "away": "Real Betis",
+   "hs": "2",
+   "as": "1",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
+   "venue": "Signal Iduna Park",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915301": {
+   "id": "401915301",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "FC Porto",
+   "away": "Napoli",
+   "hs": "4",
+   "as": "1",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
+   "venue": "Est\u00e1dio do Drag\u00e3o",
+   "usa": [
+    "CBSSN",
+    "Paramount+"
+   ]
+  },
+  "401915305": {
+   "id": "401915305",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "Lens",
+   "away": "Como",
+   "hs": "1",
+   "as": "9",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
+   "venue": "Stade Bollaert-Delelis",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915303": {
+   "id": "401915303",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "PSV Eindhoven",
+   "away": "Club Brugge",
+   "hs": "1",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
+   "venue": "Philips Stadion",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915306": {
+   "id": "401915306",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "RB Leipzig",
+   "away": "Manchester City",
+   "hs": "2",
+   "as": "3",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
+   "venue": "Red Bull Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915381": {
+   "id": "401915381",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "Slavia Prague",
+   "away": "Arsenal",
+   "hs": "1",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+6'",
+   "venue": "Fortuna Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915302": {
+   "id": "401915302",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-04T20:00Z",
+   "home": "Viking FK",
+   "away": "Sabah FK",
+   "hs": "4",
+   "as": "1",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
+   "venue": "Viking Stadion",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915534": {
+   "id": "401915534",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "AC Milan",
+   "away": "Ferencvaros",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "San Siro",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915538": {
+   "id": "401915538",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "Anderlecht",
+   "away": "RB Salzburg",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Lotto Park",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915526": {
+   "id": "401915526",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "Crystal Palace",
+   "away": "TSG Hoffenheim",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Selhurst Park",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915536": {
+   "id": "401915536",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "Levski Sofia",
+   "away": "Jagiellonia Bialystok",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Vasil Levski National Stadium",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915527": {
+   "id": "401915527",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "Lillestrom",
+   "away": "Viktoria Plzen",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Arasen Stadion",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915535": {
+   "id": "401915535",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "NEC Nijmegen",
+   "away": "Omonia Nicosia",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Goffertstadion",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915537": {
+   "id": "401915537",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "Real Sociedad",
+   "away": "Lyon",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Reale Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915528": {
+   "id": "401915528",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T17:45Z",
+   "home": "Sparta Prague",
+   "away": "AFC Bournemouth",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Generali Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915529": {
+   "id": "401915529",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "AZ Alkmaar",
+   "away": "Juventus",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "AFAS Stadion",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915533": {
+   "id": "401915533",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "Bayer Leverkusen",
+   "away": "Marseille",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "BayArena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915525": {
+   "id": "401915525",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "Benfica",
+   "away": "Lech Poznan",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Est\u00e1dio da Luz",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915531": {
+   "id": "401915531",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "Celta Vigo",
+   "away": "Union St.-Gilloise",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Balaidos",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915522": {
+   "id": "401915522",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "Celtic",
+   "away": "Besiktas",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Celtic Park",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915532": {
+   "id": "401915532",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "Hapoel Be'er",
+   "away": "OFI Crete",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Giulesti Stadium",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915524": {
+   "id": "401915524",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "SK Sturm Graz",
+   "away": "NK Celje",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Merkur Arena",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915523": {
+   "id": "401915523",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "Sunderland",
+   "away": "Dinamo Zagreb",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stadium of Light",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401915530": {
+   "id": "401915530",
+   "code": "uefa.europa",
+   "l": "eur",
+   "comp": "UEFA Europa League",
+   "date": "2026-11-05T20:00Z",
+   "home": "Torreense",
+   "away": "Ararat-Armenia",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Est\u00e1dio Dr. Magalhaes Pessoa",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401884739": {
+   "id": "401884739",
+   "code": "ger.1",
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-06T19:30Z",
+   "home": "Hamburg SV",
+   "away": "Borussia M\u00f6nchengladbach",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Volksparkstadion",
+   "usa": [
+    "Fandango"
+   ]
+  },
+  "401874815": {
+   "id": "401874815",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-06T19:45Z",
+   "home": "Venezia",
+   "away": "Udinese",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stadio Pier Luigi Penzo",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401876405": {
+   "id": "401876405",
+   "code": "fra.1",
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-06T19:45Z",
+   "home": "Toulouse",
+   "away": "Strasbourg",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stadium Municipal de Toulouse",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  "401879242": {
+   "id": "401879242",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-06T20:00Z",
+   "home": "Everton",
+   "away": "Coventry City",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Hill Dickinson Stadium",
+   "usa": [
+    "USA Net",
+    "Universo"
+   ]
+  },
+  "401882809": {
+   "id": "401882809",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-06T20:00Z",
+   "home": "Sevilla",
+   "away": "Alav\u00e9s",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Ram\u00f3n S\u00e1nchez Pizju\u00e1n Stadium",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ]
+  },
+  "401878758": {
+   "id": "401878758",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-07T12:30Z",
+   "home": "Leeds United",
+   "away": "Tottenham Hotspur",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Elland Road",
+   "usa": [
+    "USA Net",
+    "Universo"
+   ]
+  },
+  "401882812": {
+   "id": "401882812",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-07T13:00Z",
+   "home": "M\u00e1laga",
+   "away": "Racing Santander",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "La Rosaleda",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ]
+  },
+  "401874791": {
+   "id": "401874791",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-07T14:00Z",
+   "home": "Cagliari",
+   "away": "Frosinone",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Unipol Domus",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401874811": {
+   "id": "401874811",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-07T14:00Z",
+   "home": "Torino",
+   "away": "Lecce",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stadio Olimpico Grande Torino",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401884745": {
+   "id": "401884745",
+   "code": "ger.1",
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-07T14:30Z",
+   "home": "Borussia Dortmund",
+   "away": "SV Elversberg",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Signal Iduna Park",
+   "usa": [
+    "Fandango"
+   ]
+  },
+  "401884740": {
+   "id": "401884740",
+   "code": "ger.1",
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-07T14:30Z",
+   "home": "Mainz",
+   "away": "Bayern Munich",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "MEWA ARENA",
+   "usa": [
+    "Fandango",
+    "Hulu"
+   ]
+  },
+  "401884744": {
+   "id": "401884744",
+   "code": "ger.1",
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-07T14:30Z",
+   "home": "RB Leipzig",
+   "away": "FC Augsburg",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Red Bull Arena",
+   "usa": [
+    "Fandango"
+   ]
+  },
+  "401884737": {
+   "id": "401884737",
+   "code": "ger.1",
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-07T14:30Z",
+   "home": "SC Paderborn 07",
+   "away": "Eintracht Frankfurt",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Home Deluxe Arena",
+   "usa": [
+    "Fandango"
+   ]
+  },
+  "401878760": {
+   "id": "401878760",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-07T15:00Z",
+   "home": "Arsenal",
+   "away": "Hull City",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Emirates Stadium",
+   "usa": [
+    "Peacock",
+    "Universo"
+   ]
+  },
+  "401879241": {
+   "id": "401879241",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-07T15:00Z",
+   "home": "Fulham",
+   "away": "Newcastle United",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Craven Cottage",
+   "usa": [
+    "Peacock",
+    "USA Net"
+   ]
+  },
+  "401882813": {
+   "id": "401882813",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-07T15:15Z",
+   "home": "Espanyol",
+   "away": "Deportivo",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "RCDE Stadium",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ]
+  },
+  "401874974": {
+   "id": "401874974",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-07T17:00Z",
+   "home": "Parma",
+   "away": "Bologna",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Ennio Tardini",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401878757": {
+   "id": "401878757",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-07T17:30Z",
+   "home": "Nottingham Forest",
+   "away": "Manchester City",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "The City Ground",
+   "usa": [
+    "NBC",
+    "Tele"
+   ]
+  },
+  "401882811": {
+   "id": "401882811",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-07T17:30Z",
+   "home": "Osasuna",
+   "away": "Athletic Club",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "El Sadar",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ]
+  },
+  "401884743": {
+   "id": "401884743",
+   "code": "ger.1",
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-07T17:30Z",
+   "home": "VfB Stuttgart",
+   "away": "Werder Bremen",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "MHPArena",
+   "usa": [
+    "USA Net"
+   ]
+  },
+  "401876411": {
+   "id": "401876411",
+   "code": "fra.1",
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-07T18:00Z",
+   "home": "AJ Auxerre",
+   "away": "Paris FC",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stade de l'Abb\u00e9-Deschamps",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  "401874803": {
+   "id": "401874803",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-07T19:45Z",
+   "home": "AS Roma",
+   "away": "Sassuolo",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Olimpico",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401882808": {
+   "id": "401882808",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-07T20:00Z",
+   "home": "Valencia",
+   "away": "Real Madrid",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Mestalla Stadium",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ]
+  },
+  "401876407": {
+   "id": "401876407",
+   "code": "fra.1",
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-07T20:05Z",
+   "home": "Paris Saint-Germain",
+   "away": "Troyes",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Parc des Princes",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  "401874810": {
+   "id": "401874810",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-08T11:30Z",
+   "home": "Napoli",
+   "away": "Lazio",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stadio Diego Armando Maradona",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401882814": {
+   "id": "401882814",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-08T13:00Z",
+   "home": "Elche",
+   "away": "Real Betis",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Estadio Mart\u00ednez Valero",
+   "usa": [
+    "ESPN+"
+   ]
+  },
+  "401879244": {
+   "id": "401879244",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T14:00Z",
+   "home": "Brighton & Hove Albion",
+   "away": "Brentford",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "American Express Stadium",
+   "usa": [
+    "Peacock"
+   ]
+  },
+  "401879243": {
+   "id": "401879243",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T14:00Z",
+   "home": "Crystal Palace",
+   "away": "Liverpool",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Selhurst Park",
+   "usa": [
+    "Peacock"
+   ]
+  },
+  "401878759": {
+   "id": "401878759",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T14:00Z",
+   "home": "Ipswich Town",
+   "away": "AFC Bournemouth",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Portman Road",
+   "usa": [
+    "Peacock"
+   ]
+  },
+  "401879239": {
+   "id": "401879239",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T14:00Z",
+   "home": "Sunderland",
+   "away": "Chelsea",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stadium of Light",
+   "usa": [
+    "Tele",
+    "USA Net"
+   ]
+  },
+  "401875018": {
+   "id": "401875018",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-08T14:00Z",
+   "home": "Genoa",
+   "away": "AC Milan",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stadio Luigi Ferraris",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401874800": {
+   "id": "401874800",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-08T14:00Z",
+   "home": "Monza",
+   "away": "Atalanta",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "U-Power Stadium",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401876406": {
+   "id": "401876406",
+   "code": "fra.1",
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-08T14:00Z",
+   "home": "Stade Rennais",
+   "away": "Lille",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Roazhon Park",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  "401884738": {
+   "id": "401884738",
+   "code": "ger.1",
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-08T14:30Z",
+   "home": "FC Cologne",
+   "away": "Bayer Leverkusen",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "RheinEnergieStadion",
+   "usa": [
+    "Fandango"
+   ]
+  },
+  "401882810": {
+   "id": "401882810",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-08T15:15Z",
+   "home": "Real Sociedad",
+   "away": "Rayo Vallecano",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Reale Arena",
+   "usa": [
+    "ESPN+"
+   ]
+  },
+  "401876412": {
+   "id": "401876412",
+   "code": "fra.1",
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-08T16:15Z",
+   "home": "Angers",
+   "away": "Nice",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stade Raymond Kopa",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  "401876410": {
+   "id": "401876410",
+   "code": "fra.1",
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-08T16:15Z",
+   "home": "Brest",
+   "away": "Lyon",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stade Francis-Le Bl\u00e9",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  "401876409": {
+   "id": "401876409",
+   "code": "fra.1",
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-08T16:15Z",
+   "home": "Le Havre AC",
+   "away": "Lorient",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stade Oc\u00e9ane",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  "401876408": {
+   "id": "401876408",
+   "code": "fra.1",
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-08T16:15Z",
+   "home": "Le Mans",
+   "away": "AS Monaco",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stade Marie-Marvingt",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  "401879240": {
+   "id": "401879240",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T16:30Z",
+   "home": "Manchester United",
+   "away": "Aston Villa",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Old Trafford",
+   "usa": [
+    "Tele",
+    "USA Net"
+   ]
+  },
+  "401884741": {
+   "id": "401884741",
+   "code": "ger.1",
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-08T16:30Z",
+   "home": "SC Freiburg",
+   "away": "1. FC Union Berlin",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Europa-Park Stadion",
+   "usa": [
+    "Fandango"
+   ]
+  },
+  "401874808": {
+   "id": "401874808",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-08T17:00Z",
+   "home": "Internazionale",
+   "away": "Como",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "San Siro",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401882815": {
+   "id": "401882815",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-08T17:30Z",
+   "home": "Celta Vigo",
+   "away": "Levante",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Balaidos",
+   "usa": [
+    "ESPN+"
+   ]
+  },
+  "401882807": {
+   "id": "401882807",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-08T17:30Z",
+   "home": "Villarreal",
+   "away": "Getafe",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Estadio de la Cer\u00e1mica",
+   "usa": [
+    "ESPN+"
+   ]
+  },
+  "401884742": {
+   "id": "401884742",
+   "code": "ger.1",
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-08T18:30Z",
+   "home": "TSG Hoffenheim",
+   "away": "Schalke 04",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "PreZero Arena",
+   "usa": [
+    "Fandango"
+   ]
+  },
+  "401875003": {
+   "id": "401875003",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-08T19:45Z",
+   "home": "Fiorentina",
+   "away": "Juventus",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stadio Artemio Franchi",
+   "usa": [
+    "Paramount+"
+   ]
+  },
+  "401876404": {
+   "id": "401876404",
+   "code": "fra.1",
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-08T19:45Z",
+   "home": "Lens",
+   "away": "Marseille",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stade Bollaert-Delelis",
+   "usa": [
+    "beIn Sports"
+   ]
+  },
+  "401882816": {
+   "id": "401882816",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-08T20:00Z",
+   "home": "Atl\u00e9tico Madrid",
+   "away": "Barcelona",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Riyadh Air Metropolitano",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ]
+  }
  }
 }
