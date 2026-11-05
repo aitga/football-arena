@@ -1,20 +1,52 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Deschamps not interested in Man Utd job - Friday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
+   "summary": "Didier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.",
+   "date": "2026-11-05T22:49:23+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7c/live/f8e97940-d969-11f1-93e1-3b657b665bcf.png"
+  },
+  {
    "source": "The Guardian",
-   "title": "Sunderland v Dinamo Zagreb, Celtic v Besiktas: Europa League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/05/crystal-palace-hoffenheim-sparta-prague-bournemouth-sunderland-celtic-europa-league-live",
-   "summary": "\u26bd Europa League updates, kicking off from 8pm GMT\u26bd Live scores | Europa League table | And email WillThough actually none of the games I\u2019m monitoring have started yet, with delays including the minute\u2019s silence for\u2026",
-   "date": "2026-11-05T21:49:57+00:00",
-   "image": "https://i.guim.co.uk/img/media/c731a170a2021d152356c91584ee0a19a204dc2f/211_58_2647_2117/master/2647.jpg?width=140&quality=85&auto=format&fit=max&s=4defd284f8e3766b881c30f3fe308c57"
+   "title": "Scott Parker\u2019s dramatic West Ham return leaves him struggling for words",
+   "link": "https://www.theguardian.com/football/2026/nov/05/scott-parkers-dramatic-west-ham-return-leaves-him-struggling-for-words",
+   "summary": "The former midfielder with impressive managerial promotion record began with a thrilling comeback in draw at CardiffThree days in and Scott Parker has already lost his voice. West Ham\u2019s head coach arrived on Tuesday,\u2026",
+   "date": "2026-11-05T22:30:35+00:00",
+   "image": "https://i.guim.co.uk/img/media/59dbef7c403bddefffc473d430bd22a167dabef0/300_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=77e903ae88841d2abe35d4b530b867b0"
   },
   {
    "source": "BBC Sport",
-   "title": "Friday's gossip: Man Utd contact Deschamps",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United contact Didier Deschamps, support for Michael Carrick remains at Old Trafford, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.",
-   "date": "2026-11-05T21:41:38+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc65/live/61bc6ac0-d95d-11f1-a701-fddedf244c16.png"
+   "title": "Forest need balance between Woodstock and military - Glasner",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
+   "date": "2026-11-05T22:30:07+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ea/live/40bb5860-d965-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek 10.",
+   "date": "2026-11-05T22:26:23+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5b/live/fcfa5550-d963-11f1-b441-2b33b063138f.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Euro Leagues",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pljnrs?at_medium=RSS&at_campaign=rss",
+   "summary": "Reaction to Cristiano Ronaldo\u2019s retirement from Portugal.",
+   "date": "2026-11-05T22:18:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pljntv.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018In moments of pain, football comes together\u2019: Spain says goodbye to Jes\u00fas de Miguel",
+   "link": "https://www.theguardian.com/football/2026/nov/05/jesus-de-miguel-death-tenerife-funeral-football-spain",
+   "summary": "Only 3,587 people live in his family\u2019s village but the streets of Navahermosa were fuller yet quieter to mourn the Tenerife striker at his funeralThe narrow streets of Navahermosa in La Mancha were fuller than they have\u2026",
+   "date": "2026-11-05T22:03:49+00:00",
+   "image": "https://i.guim.co.uk/img/media/eea7928b70b174eebe5b6e5016c4356c4b57a54c/385_0_5850_4680/master/5850.jpg?width=140&quality=85&auto=format&fit=max&s=524992fc8ec9ac2a017351caae7c5b97"
   },
   {
    "source": "The Guardian",
@@ -26,11 +58,11 @@
   },
   {
    "source": "The Guardian",
-   "title": "Europa League: Bournemouth stay perfect while Milan humbled at home",
+   "title": "Europa League: Sunderland soundly beaten by Zagreb while Celtic enjoy first win",
    "link": "https://www.theguardian.com/football/2026/nov/05/europa-league-roundup-sparta-prague-bournemouth-ferencvaros-milanstay-perfect-while-milan-sunderland-dinamo-zagreb",
-   "summary": "Evanilson\u2019s fine finish sets up 3-1 win at Sparta PragueFerencvaros prevail 2-0 at Milan to keep 100% recordBournemouth extended their winning run to seven matches as Evanilson\u2019s wonderful late goal helped earn a 3-1\u2026",
+   "summary": "Evanilson helps Bournemouth to 3-1 win at Sparta PragueFerencvaros prevail 2-0 at Milan to keep 100% recordSunderland\u2019s unbeaten run in the Europa League came to an end as they were beaten 2-0 by Dinamo Zagreb at the\u2026",
    "date": "2026-11-05T20:51:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/f4ed55737fb93567c4d79ac3e09ba303045a73e5/466_0_3063_2451/master/3063.jpg?width=140&quality=85&auto=format&fit=max&s=da7a187f90acdf4b66a0610ec3cc606d"
+   "image": "https://i.guim.co.uk/img/media/4718194e042b637ce1e14510eea795bf0b2a463e/675_50_1865_1493/master/1865.jpg?width=140&quality=85&auto=format&fit=max&s=35ecdc7b0f795720f644b261349aeb2a"
   },
   {
    "source": "The Guardian",
@@ -47,56 +79,56 @@
    "summary": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
    "date": "2026-11-05T19:00:04+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46d7/live/5b9e86d0-d946-11f1-b2ee-87d22b17ac74.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Clock is ticking' - Gateshead fans fear for future",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Bottom of the National League and with a prospective takeover at the point of collapse, there are fears for the very future of Gateshead.",
-   "date": "2026-11-05T18:33:33+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa9f/live/998f4430-d945-11f1-b2ee-87d22b17ac74.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Sutton's predictions v Football Manager, the game",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport football expert Chris Sutton takes on the computer game Football Manager 27, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
-   "date": "2026-11-05T18:02:15+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2355/live/30c520d0-d627-11f1-93e1-3b657b665bcf.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Concacaf revamps Gold Cup format to make tournament \u2018more competitive\u2019",
-   "link": "https://www.theguardian.com/football/2026/nov/05/concacaf-gold-cup-format-changes",
-   "summary": "Group stage to involve two groups of eight teamsChange resembles model of Uefa Champions LeagueConcacaf on Thursday announced changes to the format of the Gold Cup, the confederation\u2019s regional championship. The move is\u2026",
-   "date": "2026-11-05T17:34:37+00:00",
-   "image": "https://i.guim.co.uk/img/media/707be9086351be2c5c187016a3eab4391820010f/633_0_6329_5064/master/6329.jpg?width=140&quality=85&auto=format&fit=max&s=55901cc74456a13cf968e4d13db117aa"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Good to feel club are committed to me - Jaissle",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo?at_medium=RSS&at_campaign=rss",
-   "summary": "Newcastle United manager Matthias Jaissle says he has \"got more of a feeling from within the club\" about how \"committed\" they are to him amid his side's struggling form.",
-   "date": "2026-11-05T17:25:41+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ed/live/083fb410-d936-11f1-8bce-2396c9c50357.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Deschamps not interested in Man Utd job - Friday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
+   "summary": "Didier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.",
+   "date": "2026-11-05T22:49:23+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7c/live/f8e97940-d969-11f1-93e1-3b657b665bcf.png"
+  },
+  {
    "source": "The Guardian",
-   "title": "Sunderland v Dinamo Zagreb, Celtic v Besiktas: Europa League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/05/crystal-palace-hoffenheim-sparta-prague-bournemouth-sunderland-celtic-europa-league-live",
-   "summary": "\u26bd Europa League updates, kicking off from 8pm GMT\u26bd Live scores | Europa League table | And email WillThough actually none of the games I\u2019m monitoring have started yet, with delays including the minute\u2019s silence for\u2026",
-   "date": "2026-11-05T21:49:57+00:00",
-   "image": "https://i.guim.co.uk/img/media/c731a170a2021d152356c91584ee0a19a204dc2f/211_58_2647_2117/master/2647.jpg?width=140&quality=85&auto=format&fit=max&s=4defd284f8e3766b881c30f3fe308c57"
+   "title": "Scott Parker\u2019s dramatic West Ham return leaves him struggling for words",
+   "link": "https://www.theguardian.com/football/2026/nov/05/scott-parkers-dramatic-west-ham-return-leaves-him-struggling-for-words",
+   "summary": "The former midfielder with impressive managerial promotion record began with a thrilling comeback in draw at CardiffThree days in and Scott Parker has already lost his voice. West Ham\u2019s head coach arrived on Tuesday,\u2026",
+   "date": "2026-11-05T22:30:35+00:00",
+   "image": "https://i.guim.co.uk/img/media/59dbef7c403bddefffc473d430bd22a167dabef0/300_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=77e903ae88841d2abe35d4b530b867b0"
   },
   {
    "source": "BBC Sport",
-   "title": "Friday's gossip: Man Utd contact Deschamps",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United contact Didier Deschamps, support for Michael Carrick remains at Old Trafford, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.",
-   "date": "2026-11-05T21:41:38+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc65/live/61bc6ac0-d95d-11f1-a701-fddedf244c16.png"
+   "title": "Forest need balance between Woodstock and military - Glasner",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
+   "date": "2026-11-05T22:30:07+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ea/live/40bb5860-d965-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek 10.",
+   "date": "2026-11-05T22:26:23+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5b/live/fcfa5550-d963-11f1-b441-2b33b063138f.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Euro Leagues",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pljnrs?at_medium=RSS&at_campaign=rss",
+   "summary": "Reaction to Cristiano Ronaldo\u2019s retirement from Portugal.",
+   "date": "2026-11-05T22:18:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pljntv.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018In moments of pain, football comes together\u2019: Spain says goodbye to Jes\u00fas de Miguel",
+   "link": "https://www.theguardian.com/football/2026/nov/05/jesus-de-miguel-death-tenerife-funeral-football-spain",
+   "summary": "Only 3,587 people live in his family\u2019s village but the streets of Navahermosa were fuller yet quieter to mourn the Tenerife striker at his funeralThe narrow streets of Navahermosa in La Mancha were fuller than they have\u2026",
+   "date": "2026-11-05T22:03:49+00:00",
+   "image": "https://i.guim.co.uk/img/media/eea7928b70b174eebe5b6e5016c4356c4b57a54c/385_0_5850_4680/master/5850.jpg?width=140&quality=85&auto=format&fit=max&s=524992fc8ec9ac2a017351caae7c5b97"
   },
   {
    "source": "The Guardian",
@@ -108,11 +140,11 @@
   },
   {
    "source": "The Guardian",
-   "title": "Europa League: Bournemouth stay perfect while Milan humbled at home",
+   "title": "Europa League: Sunderland soundly beaten by Zagreb while Celtic enjoy first win",
    "link": "https://www.theguardian.com/football/2026/nov/05/europa-league-roundup-sparta-prague-bournemouth-ferencvaros-milanstay-perfect-while-milan-sunderland-dinamo-zagreb",
-   "summary": "Evanilson\u2019s fine finish sets up 3-1 win at Sparta PragueFerencvaros prevail 2-0 at Milan to keep 100% recordBournemouth extended their winning run to seven matches as Evanilson\u2019s wonderful late goal helped earn a 3-1\u2026",
+   "summary": "Evanilson helps Bournemouth to 3-1 win at Sparta PragueFerencvaros prevail 2-0 at Milan to keep 100% recordSunderland\u2019s unbeaten run in the Europa League came to an end as they were beaten 2-0 by Dinamo Zagreb at the\u2026",
    "date": "2026-11-05T20:51:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/f4ed55737fb93567c4d79ac3e09ba303045a73e5/466_0_3063_2451/master/3063.jpg?width=140&quality=85&auto=format&fit=max&s=da7a187f90acdf4b66a0610ec3cc606d"
+   "image": "https://i.guim.co.uk/img/media/4718194e042b637ce1e14510eea795bf0b2a463e/675_50_1865_1493/master/1865.jpg?width=140&quality=85&auto=format&fit=max&s=35ecdc7b0f795720f644b261349aeb2a"
   },
   {
    "source": "The Guardian",
@@ -219,14 +251,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c782/live/445b20c0-d92b-11f1-b441-2b33b063138f.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Champions League review: comebacks, thrashings and a Mauritanian first",
-   "link": "https://www.theguardian.com/football/2026/nov/05/champions-league-roundup-koita-real-madrid-bayern-psg",
-   "summary": "Bayern Munich and Paris Saint-Germain flexed their muscles, Manchester United fought back and an unlikely star stole the show for AEK AthensStill without the recovering Vincent Kompany, Bayern Munich are among the\u2026",
-   "date": "2026-11-05T15:00:26+00:00",
-   "image": "https://i.guim.co.uk/img/media/e71e5867757c9f873b9a9ad5baeac5971da1941c/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b1ed1faa28f061ddaa077d2b46d58469"
-  },
-  {
    "source": "BBC Sport",
    "title": "What new Kane deal means for England and the Premier League record",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
@@ -300,7 +324,7 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Ronaldo retires from Portugal duty",
+   "title": "Portugal great Ronaldo retires from international duty",
    "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
    "summary": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
    "date": "2026-11-05T12:28:01+00:00",
@@ -403,14 +427,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Uefa faces political flashpoint over Sevastopol\u2019s ascent in Russian football",
-   "link": "https://www.theguardian.com/football/2026/nov/05/uefa-fifa-ukraine-crimea-sevastopol-promotion-russia-war",
-   "summary": "Promotion to third tier for Crimean club would be clear violation of governing body\u2019s rules amid conflict in UkraineUefa and Fifa face a decisive test of their appetite to punish Russia\u2019s integration of teams from\u2026",
-   "date": "2026-11-05T07:30:56+00:00",
-   "image": "https://i.guim.co.uk/img/media/1ddfd798db148f570b3eceea86ccf0e65f7605c4/753_0_3694_2956/master/3694.jpg?width=140&quality=85&auto=format&fit=max&s=f86823cb521ceb2f2a3149b04ef8243d"
-  },
-  {
    "source": "BBC Sport",
    "title": "Ferguson harbours Rangers ambition - gossip",
    "link": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o?at_medium=RSS&at_campaign=rss",
@@ -449,6 +465,14 @@
    "summary": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
    "date": "2026-11-05T06:26:11+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/733de250-c978-11f1-a64c-550be9e3c66b.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who have dropped down from Scotland's senior squad.",
+   "date": "2026-11-04T23:18:03+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/448d/live/a1e6d8a0-d8a5-11f1-93e1-3b657b665bcf.png"
   },
   {
    "source": "BBC Sport",
@@ -537,30 +561,6 @@
    "summary": "England full-back Djed Spence staring as Inter Milan bounc back from their derby defeat with a comfortable Champions League victory over Feyenoord.",
    "date": "2026-11-04T22:03:51+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af89/live/c5028650-d7dc-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Billions in revenue proves Fifa right on the World Cup \u2013 but only on things it cares about",
-   "link": "https://www.theguardian.com/football/2026/nov/04/fifa-world-cup-billions-revenue",
-   "summary": "The 2026 edition of the tournament brought in untold amounts of money to Gianni Infantino\u2019s governing bodyThe total hasn\u2019t entirely stopped rising yet, still clicking away towards a final tally. Still, Fifa has already\u2026",
-   "date": "2026-11-04T19:02:48+00:00",
-   "image": "https://i.guim.co.uk/img/media/64ece25ea3c69d73275864317d01a846505f265c/591_0_4774_3820/master/4774.jpg?width=140&quality=85&auto=format&fit=max&s=f74b6eae82d05325fb72d610f78f1423"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Hearts lose Miller for two months as injuries mount",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o?at_medium=RSS&at_campaign=rss",
-   "summary": "Heart of Midlothian will be without Calvin Miller for two months after the winger suffered a knee injury that requires surgery in Sunday's Premier Sports Cup semi-final defeat by Hibernian.",
-   "date": "2026-11-04T19:00:49+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d24/live/c007e640-d881-11f1-a364-a1fce50dd192.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "How landmark Everton compensation prevented Burnley record loss",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.",
-   "date": "2026-11-04T17:48:19+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg"
   }
  ],
  "videos": [
@@ -1191,8 +1191,8 @@
    "away": "Ararat-Armenia",
    "hs": "3",
    "as": "2",
-   "live": true,
-   "state": "in",
+   "live": false,
+   "state": "post",
    "clock": "90'+8'",
    "venue": "Est\u00e1dio Dr. Magalhaes Pessoa",
    "usa": [
@@ -6492,8 +6492,8 @@
    "away": "Ararat-Armenia",
    "hs": "3",
    "as": "2",
-   "live": true,
-   "state": "in",
+   "live": false,
+   "state": "post",
    "clock": "90'+8'",
    "venue": "Est\u00e1dio Dr. Magalhaes Pessoa",
    "usa": [
