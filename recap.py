@@ -21,7 +21,12 @@ OUT = "out"
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 LEAGUES = [("eng.1", "Premier League"), ("uefa.champions", "Champions League"), ("esp.1", "LaLiga"),
            ("ita.1", "Serie A"), ("ger.1", "Bundesliga"), ("fra.1", "Ligue 1")]
-VOICE = os.environ.get("RECAP_VOICE", "en-GB-RyanNeural")
+VOICES = {"en": os.environ.get("RECAP_VOICE", "en-GB-RyanNeural"),   # English commentator
+          "ar": os.environ.get("RECAP_VOICE_AR", "ar-MA-JamalNeural")}  # Arabic (Moroccan) commentator
+# which commentators to make a recap with (one video per language), e.g. "en,ar" or just "en"
+RECAP_LANGS = [x.strip() for x in os.environ.get("RECAP_LANGS", "en,ar").split(",") if x.strip() in VOICES]
+LEAGUE_AR = {"Premier League": "الدوري الإنجليزي الممتاز", "Champions League": "دوري أبطال أوروبا", "LaLiga": "الدوري الإسباني",
+             "Serie A": "الدوري الإيطالي", "Bundesliga": "الدوري الألماني", "Ligue 1": "الدوري الفرنسي"}
 PITCH = (60, 330, 1020, 1690)  # x0, y0, x1, y1 (home attacks the top goal)
 GREEN, DARK = (46, 224, 111), (7, 20, 12)
 _fonts = {}
@@ -97,17 +102,17 @@ def text_on(c):
 
 
 # ---------------------------------------------------------------- voice
-def speak(text, path):
+def speak(text, path, lang="en"):
     try:
         import edge_tts
-        asyncio.run(edge_tts.Communicate(text, VOICE, rate="+8%", pitch="+2Hz").save(path))
+        asyncio.run(edge_tts.Communicate(text, VOICES[lang], rate="+8%", pitch="+2Hz").save(path))
         if os.path.getsize(path) > 1000:
             return
     except Exception as e:
         print("Voice failed, trying gTTS:", e)
     try:
         from gtts import gTTS
-        gTTS(text, lang="en", tld="co.uk").save(path)
+        gTTS(text, lang="ar").save(path) if lang == "ar" else gTTS(text, lang="en", tld="co.uk").save(path)
         return
     except Exception as e:
         print("Voice failed, silence:", e)
@@ -119,9 +124,47 @@ def dur(path):
                                 capture_output=True, text=True).stdout.strip() or 3)
 
 
-def spoken_minute(m):
+def spoken_minute(m, lang="en"):
     base = m.replace("'", "").split("+")[0]
+    if lang == "ar":
+        return f"في الدقيقة {base}" if base.isdigit() else "في الدقائق الأخيرة"
     return f"{base} minutes" if base.isdigit() else "late on"
+
+
+def commentary(m, lang="en"):
+    """The commentator's lines: intro, one per goal, full time."""
+    home, away = m["home"]["name"], m["away"]["name"]
+    ar = lang == "ar"
+    if ar:
+        segs = [("intro", f"مرحبًا بكم في فوتبول أرينا! مباراة {home} ضد {away} في {LEAGUE_AR.get(m['league'], m['league'])}. إليكم ما حدث!")]
+    else:
+        segs = [("intro", f"Welcome to Football Arena! It's {home} against {away} in the {m['league']}. Here's how it happened!")]
+    hs = as_ = 0
+    for g in m["goals"]:
+        if g["side"] == "home":
+            hs += 1
+        else:
+            as_ += 1
+        team = home if g["side"] == "home" else away
+        lead = (hs > as_) if g["side"] == "home" else (as_ > hs)
+        if ar:
+            state = (f"{team} يتقدم!" if lead and abs(hs - as_) == 1 else f"{team} يعادل النتيجة!" if hs == as_
+                     else f"{team} يعزز تقدمه!" if lead else f"{team} يقلص الفارق!")
+            how = ("يتقدم لتنفيذ ركلة الجزاء... و" if g["pen"] else "يسجل في مرماه بالخطأ... يا للحسرة..." if g["og"]
+                   else "ينطلق... يسدد... و")
+            segs.append(("goal", f"{spoken_minute(g['minute'], 'ar')}... {g['scorer']} {how} هدف! {state} {hs} مقابل {as_}.", g, hs, as_))
+        else:
+            state = f"{team} lead!" if lead and abs(hs - as_) == 1 else (f"{team} pull level!" if hs == as_ else f"{team} extend the lead!" if lead else f"{team} pull one back!")
+            how = "steps up from the penalty spot... and" if g["pen"] else "turns it into his own net... oh no..." if g["og"] else "breaks forward... shoots... and"
+            segs.append(("goal", f"{spoken_minute(g['minute'])}... {g['scorer']} {how} it's a GOAL! {state} {hs}, {as_}.", g, hs, as_))
+    h_end, a_end = m["home"]["score"], m["away"]["score"]
+    if ar:
+        result = f"الفوز لـ{home}!" if h_end > a_end else f"الفوز لـ{away}!" if a_end > h_end else "تعادل الفريقان!"
+        segs.append(("full", f"نهاية المباراة! {home} {h_end}، {away} {a_end}. {result} من هو رجل المباراة في رأيكم؟ اكتبوا لنا في التعليقات!"))
+    else:
+        result = f"{home} win it!" if h_end > a_end else f"{away} take the win!" if a_end > h_end else "the points are shared!"
+        segs.append(("full", f"Full time! {home} {h_end}, {away} {a_end}. {result} Who was your man of the match? Tell us in the comments!"))
+    return segs
 
 
 # ---------------------------------------------------------------- drawing
@@ -236,36 +279,23 @@ def pos(fx, fy):
 
 
 # ---------------------------------------------------------------- video
-def make_recap(m, idx):
+def make_recap(m, idx, lang="en"):
     os.makedirs(OUT, exist_ok=True)
-    work = os.path.join(OUT, f"w{idx}")
+    work = os.path.join(OUT, f"w{idx}_{lang}")
     os.makedirs(work, exist_ok=True)
     colors = team_colors(m)
     home, away = m["home"]["name"], m["away"]["name"]
     rnd = random.Random(f"{home}{away}")
 
     # commentary script
-    segs = [("intro", f"Welcome to Football Arena! It's {home} against {away} in the {m['league']}. Here's how it happened!")]
-    hs = as_ = 0
-    for g in m["goals"]:
-        if g["side"] == "home":
-            hs += 1
-        else:
-            as_ += 1
-        team = home if g["side"] == "home" else away
-        lead = (hs > as_) if g["side"] == "home" else (as_ > hs)
-        state = f"{team} lead!" if lead and abs(hs - as_) == 1 else (f"{team} pull level!" if hs == as_ else f"{team} extend the lead!" if lead else f"{team} pull one back!")
-        how = "steps up from the penalty spot... and" if g["pen"] else "turns it into his own net... oh no..." if g["og"] else "breaks forward... shoots... and"
-        segs.append(("goal", f"{spoken_minute(g['minute'])}... {g['scorer']} {how} it's a GOAL! {state} {hs}, {as_}.", g, hs, as_))
+    segs = commentary(m, lang)
     h_end, a_end = m["home"]["score"], m["away"]["score"]
-    result = f"{home} win it!" if h_end > a_end else f"{away} take the win!" if a_end > h_end else "the points are shared!"
-    segs.append(("full", f"Full time! {home} {h_end}, {away} {a_end}. {result} Who was your man of the match? Tell us in the comments!"))
 
     # voice + timeline
     timeline, t = [], 0.0
     for i, s in enumerate(segs):
         path = os.path.join(work, f"v{i}.mp3")
-        speak(s[1], path)
+        speak(s[1], path, lang)
         length = max(dur(path) + 0.7, 5.0 if s[0] == "goal" else 3.5)
         timeline.append((t, length, s, path))
         t += length
@@ -350,6 +380,9 @@ def make_recap(m, idx):
             d.text((W / 2, 1160), "Comment below!", font=font(44), fill=(255, 255, 255), anchor="mm")
         d.rounded_rectangle([0, H - 120, W, H], 0, fill=(12, 30, 18))
         d.text((W / 2, H - 60), "Follow FOOTBALL ARENA for daily recaps", font=font(40), fill=GREEN, anchor="mm")
+        tag = "ARABIC COMMENTARY" if lang == "ar" else "ENGLISH COMMENTARY"
+        d.rounded_rectangle([W / 2 - 230, 1712, W / 2 + 230, 1776], 30, fill=(255, 200, 60))
+        d.text((W / 2, 1744), tag, font=font(32), fill=DARK, anchor="mm")
         ff.stdin.write(im.tobytes())
     ff.stdin.close()
     ff.wait()
@@ -370,7 +403,7 @@ def make_recap(m, idx):
     graph = ";".join(filters + [crowd, whistle] + roars)
     rlabels = "".join(f"[r{i}]" for i, (_, _, s, _) in enumerate(timeline) if s[0] == "goal")
     graph += f";{mix}[crowd][w1][w2]{rlabels}amix=inputs={n + 3 + len(roars)}:duration=longest:normalize=0[a]"
-    video = os.path.join(OUT, f"recap_{idx}.mp4")
+    video = os.path.join(OUT, f"recap_{idx}_{lang}.mp4")
     subprocess.run(["ffmpeg", "-y", "-v", "error", *inputs, "-i", silent, "-filter_complex", graph,
                     "-map", f"{n}:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}",
                     "-movflags", "+faststart", video], check=True)
@@ -378,10 +411,14 @@ def make_recap(m, idx):
     return video
 
 
-def caption(m):
+def caption(m, lang="en"):
     h, a = m["home"], m["away"]
     scorers = ", ".join(f"{g['scorer']} {g['minute']}" for g in m["goals"][:6])
-    return (f"⚽ {h['name']} {h['score']}-{a['score']} {a['name']} | {m['league']} cartoon recap\n\n"
+    if lang == "ar":
+        return (f"⚽ {h['name']} {h['score']}-{a['score']} {a['name']} | ملخص كرتوني بتعليق عربي 🎙️\n\n"
+                f"الأهداف: {scorers}\n\nمن هو رجل المباراة في رأيكم؟ 👇\n"
+                "تابعوا فوتبول أرينا لملخصات يومية!\n\n#كرة_القدم #ملخص_المباراة #football #footballarena")
+    return (f"⚽ {h['name']} {h['score']}-{a['score']} {a['name']} | {m['league']} cartoon recap 🎙️ English commentary\n\n"
             f"Goals: {scorers}\n\nWho was your man of the match? 👇\n"
             "Follow Football Arena for daily recaps!\n\n#football #soccer #matchrecap #footballarena")
 
@@ -429,7 +466,8 @@ def make():
     made = []
     for i, m in enumerate(picked):
         print("Recap:", m["home"]["name"], m["away"]["name"], m["league"])
-        made.append({"video": make_recap(m, i), "caption": caption(m)})
+        for lang in RECAP_LANGS:  # one video per commentator (English and Arabic)
+            made.append({"video": make_recap(m, i, lang), "caption": caption(m, lang), "lang": lang})
     json.dump(made, open(os.path.join(OUT, "recaps.json"), "w"), ensure_ascii=False, indent=1)
     summary = os.environ.get("GITHUB_STEP_SUMMARY")
     if summary:

@@ -86,7 +86,70 @@ function stat(team, name) {
   return s ? parseFloat(s.displayValue) || 0 : 0;
 }
 
-function eventLine(k, teams) {
+// ---- live commentator: reads goals, cards and big moments out loud in English or Arabic
+var cm = "off", said = {}, saidMatch = null;
+try { cm = localStorage.getItem("fa_cmlive") || "off"; } catch (e) {}
+var CM_LANG = {en: "en-GB", ar: "ar-SA"};
+var cmStyle = document.createElement("style");
+cmStyle.textContent = ".lv-cm{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:12px 0 0;font-size:14px;font-weight:700}" +
+  ".lv-cm button{background:#10251a;color:#eef6f0;border:1px solid #1f3d2b;border-radius:20px;padding:6px 14px;font:700 14px system-ui,sans-serif;cursor:pointer}" +
+  ".lv-cm button.on{background:#ffc83d;border-color:#ffc83d;color:#2a1d00}.lv-cm small{flex-basis:100%;color:#9cb8a6;font-weight:500}";
+document.head.appendChild(cmStyle);
+function voiceFor(l) {
+  if (!window.speechSynthesis) return null;
+  var vs = speechSynthesis.getVoices() || [];
+  return vs.filter(function (v) { return v.lang && v.lang.toLowerCase().indexOf(l) === 0; })[0] || null;
+}
+function say(text) {
+  if (cm === "off" || !window.speechSynthesis || !text) return;
+  var u = new SpeechSynthesisUtterance(text);
+  u.lang = CM_LANG[cm]; var v = voiceFor(cm); if (v) u.voice = v;
+  u.rate = 1.05; u.pitch = 1.05;
+  speechSynthesis.speak(u);
+}
+function cmBar() {
+  var el = document.getElementById("lvcm");
+  if (!el) return;
+  var b = function (k, label) { return '<button data-cm="' + k + '"' + (cm === k ? ' class="on"' : "") + ">" + label + "</button>"; };
+  var note = cm !== "off" && window.speechSynthesis && !voiceFor(cm) && (speechSynthesis.getVoices() || []).length ? t("cm_novoice") : t("cm_note");
+  el.innerHTML = "<span>" + esc(t("cm_title")) + "</span>" + b("off", esc(t("cm_off"))) + b("en", "🇬🇧 English") + b("ar", "🇲🇦 العربية") +
+    "<small>" + esc(note) + "</small>";
+  el.querySelectorAll("button").forEach(function (x) {
+    x.onclick = function () {
+      cm = x.dataset.cm;
+      try { localStorage.setItem("fa_cmlive", cm); } catch (e) {}
+      if (window.speechSynthesis) speechSynthesis.cancel();
+      saidMatch = null;  // say hello + the latest moment in the new language
+      cmBar(); loadMatch();
+    };
+  });
+}
+if (window.speechSynthesis) speechSynthesis.onvoiceschanged = cmBar;
+function commentate(g, s, h, a, state, teams) {
+  if (cm === "off") { saidMatch = g.id; return; }
+  var tr = function (k, v) { return window.FA && FA.tl ? FA.tl(cm, k, v) : k; };
+  var lines = ((s && s.keyEvents) || []).map(function (k) { return eventLine(k, teams, tr); }).filter(Boolean);
+  var key = function (e) { return e[1] + "|" + e[2]; };
+  var fresh = saidMatch !== g.id;
+  if (fresh) {  // just picked this match: greet, then only the latest moment
+    said = {};
+    lines.forEach(function (e) { said[key(e)] = 1; });
+    var score = state === "pre" ? tr("cm_pre") : tr("cm_score", {h: h.score, a: a.score});
+    say(tr("cm_hello", {home: h.team.shortDisplayName || h.team.displayName, away: a.team.shortDisplayName || a.team.displayName, score: score}));
+    var lastEv = lines[lines.length - 1];
+    if (lastEv) say((lastEv[1] ? tr("cm_min", {min: lastEv[1].replace(/'/g, "")}) + " " : "") + lastEv[2]);
+    saidMatch = g.id;
+    return;
+  }
+  lines.forEach(function (e) {
+    if (said[key(e)]) return;
+    said[key(e)] = 1;
+    say((e[1] ? tr("cm_min", {min: e[1].replace(/'/g, "")}) + " " : "") + e[2] + (e[3] === "goal" ? " " + tr("cm_score", {h: h.score, a: a.score}) : ""));
+  });
+}
+
+function eventLine(k, teams, tr) {
+  var t = tr || function (k, v) { return window.FA ? FA.t(k, v) : k; };
   var ty = (k.type && (k.type.type || k.type.text) || "").toLowerCase(), c = (k.clock && k.clock.displayValue) || "";
   var who = (k.participants || []).map(function (p) { return p.athlete && p.athlete.displayName; }).filter(Boolean);
   var team = k.team ? (teams[k.team.id] || {}).name || k.team.displayName : "";
@@ -159,7 +222,7 @@ async function loadMatch() {
   var firstDraw = !box.querySelector(".lv-pitch") || last.id !== g.id;
   if (firstDraw) {
     box.innerHTML = '<div class="lv-board"><div class="tm">' + esc(h.team.displayName) + '</div><div class="sc" id="lvsc"></div><div class="tm">' +
-      esc(a.team.displayName) + '</div></div><div class="lv-st" id="lvbadge"></div><div class="lv-wrap">' + pitch(h, a) +
+      esc(a.team.displayName) + '</div></div><div class="lv-st" id="lvbadge"></div><div class="lv-cm" id="lvcm"></div><div class="lv-wrap">' + pitch(h, a) +
       '<div class="lv-goal" id="lvgoal"></div></div><div class="lv-grid"><div><h3>' + esc(t("lv_stats")) + '</h3><div id="lvstats"></div></div>' +
       '<div><h3>' + esc(t("lv_events")) + '</h3><ul class="tl" id="lvtl"></ul></div></div><p class="meta lv-src">' + esc(t("lv_src")) + "</p>";
   }
@@ -174,6 +237,8 @@ async function loadMatch() {
     gb.classList.add("show");
     setTimeout(function () { gb.classList.remove("show"); }, 9000);
   }
+  if (firstDraw) cmBar();
+  commentate(g, s, h, a, state, teams);
   last = {id: g.id, goals: goals, state: state, pos: stat(bh, "possessionPct") || 50};
   drawList();
   clearTimeout(timer);

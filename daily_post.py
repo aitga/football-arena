@@ -30,17 +30,20 @@ def prepare():
             vids = []
     posts = []
     if cfg.get("news_roundup", True) and news:
-        lines = ["⚽ FOOTBALL ARENA – today's top football stories", ""]
+        lines = ["⚽ FOOTBALL ARENA – today's top football stories", "⚽ فوتبول أرينا – أبرز أخبار كرة القدم اليوم", ""]
         lines += [f"{i}. {n['title']} ({n['source']})" for i, n in enumerate(news[:4], 1)]
-        lines += ["", f"👉 All the latest highlights & news, updated every hour: {SITE}", "",
-                  "What do you think? Share your view in the comments 👇", "",
-                  "#football #soccer #footballnews #highlights #PremierLeague #ChampionsLeague #LaLiga"]
+        lines += ["", f"👉 All the latest highlights & news, updated every hour: {SITE}",
+                  f"👉 كل الملخصات والأخبار بالعربية والإنجليزية، تحديث كل ساعة: {SITE}", "",
+                  "What do you think? Share your view in the comments 👇",
+                  "ما رأيكم؟ شاركونا في التعليقات 👇", "",
+                  "#football #soccer #footballnews #highlights #PremierLeague #ChampionsLeague #LaLiga #كرة_القدم"]
         posts.append({"message": "\n".join(lines), "link": SITE})
     # official highlight videos, shared as YouTube links (no re-uploading)
     for v in [v for v in vids if build.re.search(r"highlight|resumen|sintesi|goals?\b", v["title"], build.re.I)][:int(cfg.get("highlights", 2))]:
-        posts.append({"message": f"🎬 HIGHLIGHTS | {v['title']}\n\nOfficial video from {v['channel']}.\n"
-                                 f"More highlights every day 👉 {SITE}\n\n"
-                                 "Who was the best player? Tell us below 👇\n\n#football #highlights #goals #soccer",
+        posts.append({"message": f"🎬 HIGHLIGHTS | ملخص المباراة\n{v['title']}\n\nOfficial video from {v['channel']}.\n"
+                                 f"More highlights every day 👉 {SITE}\nملخصات جديدة كل يوم 👉 {SITE}\n\n"
+                                 "Who was the best player? Tell us below 👇\nمن هو أفضل لاعب؟ اكتبوا لنا 👇\n\n"
+                                 "#football #highlights #goals #soccer #ملخص #أهداف",
                       "link": f"https://www.youtube.com/watch?v={v['id']}"})
     json.dump({"posts": posts}, open("post.json", "w"), ensure_ascii=False, indent=1)
     summary = os.environ.get("GITHUB_STEP_SUMMARY")

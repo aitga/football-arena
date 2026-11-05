@@ -26,7 +26,25 @@ HIGHLIGHT_CHANNELS = [  # official league / competition YouTube channels (channe
     ("Bundesliga", "UC6UL29enLNe4mqwTfAyeNuw"),
     ("FIFA", "UCpcTrCXblq78GZrTUTLWeBw"),
     ("Ligue 1", "@Ligue1"),  # handle: looked up to its channel ID automatically
+    ("beIN SPORTS", "@beINSPORTS"),  # Arabic commentary (Middle East & North Africa)
 ]
+AR_CHANNELS = {"beIN SPORTS"}  # channels whose videos have Arabic commentary (only their highlight videos are used)
+AR_LEAGUE = [("eng", r"الإنجليزي|الانجليزي|البريميرليغ"), ("esp", r"الإسباني|الاسباني|الليغا"), ("ita", r"الإيطالي|الايطالي"),
+             ("ger", r"الألماني|الالماني|البوندسليغا"), ("fra", r"الفرنسي"), ("eur", r"أبطال أوروبا|ابطال اوروبا|الدوري الأوروبي|الدوري الاوروبي")]
+
+
+def commentary_of(v):
+    """'ar' for Arabic commentary, 'en' for the official league channels (English)."""
+    return "ar" if v["channel"] in AR_CHANNELS or re.search("[\u0600-\u06FF]", v["title"]) else "en"
+
+
+def league_of_video(v):
+    if v["channel"] in CHANNEL_LEAGUE:
+        return CHANNEL_LEAGUE[v["channel"]]
+    for k, rx in AR_LEAGUE:
+        if re.search(rx, v["title"]):
+            return k
+    return "wld"
 NS = {"atom": "http://www.w3.org/2005/Atom", "media": "http://search.yahoo.com/mrss/",
       "yt": "http://www.youtube.com/xml/schemas/2015"}
 
@@ -129,8 +147,8 @@ def highlights():
                 continue
             vids.append({"channel": name, "id": en.findtext("yt:videoId", "", NS), "title": clean(title, 120),
                          "date": parse_date(en.findtext("atom:published", "", NS))})
-    hl = [v for v in vids if re.search(r"highlight|resumen|sintesi|goals?\b|résumé", v["title"], re.I)]
-    rest = [v for v in vids if v not in hl]
+    hl = [v for v in vids if re.search(r"highlight|resumen|sintesi|goals?\b|résumé|ملخص|أهداف|اهداف", v["title"], re.I)]
+    rest = [v for v in vids if v not in hl and v["channel"] not in AR_CHANNELS]  # Arabic channels: highlights only
     return sorted(hl, key=lambda v: v["date"], reverse=True)[:18] + sorted(rest, key=lambda v: v["date"], reverse=True)[:6]
 
 
@@ -325,11 +343,11 @@ def render(news_items, vids, fx=(), teams=(), slugs=None):
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%d %b %Y, %H:%M UTC")
     names = {k: f"{country} · {league}" for k, _c, country, league, _kw in LEAGUES}
     vcards = "\n".join(
-        f'<a class="vid card" data-l="{lg}" data-s="{e(plain(v["title"]))}" href="https://www.youtube.com/watch?v={e(v["id"])}" target="_blank" rel="noopener">'
+        f'<a class="vid card" data-l="{lg}" data-c="{cm}" data-s="{e(plain(v["title"]))}" href="https://www.youtube.com/watch?v={e(v["id"])}" target="_blank" rel="noopener">'
         f'<div class="thumb"><img src="https://i.ytimg.com/vi/{e(v["id"])}/hqdefault.jpg" alt="" loading="lazy"><span class="play">▶</span></div>'
         f'<div class="vt">{e(nice_title(v["title"]))}</div>'
-        f'<div class="meta">{flag(lg)} <span data-i18n="lg_{lg}">{e(names[lg].split(" · ")[1])}</span> · {ago_span(v["date"])}</div></a>'
-        for v in vids for lg in [CHANNEL_LEAGUE.get(v["channel"], "wld")]) \
+        f'<div class="meta">{flag(lg)} <span data-i18n="lg_{lg}">{e(names[lg].split(" · ")[1])}</span> · {ago_span(v["date"])} · <span class="cmtag">🎙️ {"عربي" if cm == "ar" else "EN"}</span></div></a>'
+        for v in vids for lg in [league_of_video(v)] for cm in [commentary_of(v)]) \
         or '<p class="empty">Highlights are loading – check back soon.</p>'
     ncards = "\n".join(
         f'<a class="news card" data-l="{lg}" data-s="{e(plain(n["title"] + " " + n["summary"]))}" href="{e(n["link"])}" target="_blank" rel="noopener">'
@@ -408,6 +426,9 @@ section{margin-bottom:38px}.empty{color:var(--mut)}
 .quizban a{margin-left:auto;background:var(--gold);color:#2a1d00;font-weight:800;border-radius:22px;padding:10px 22px}
 footer{border-top:1px solid var(--line);color:var(--mut);font-size:13px;padding:18px 16px;text-align:center}
 footer a{color:var(--acc)}
+.cmrow{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:-4px 0 14px;color:var(--mut);font-size:14px;font-weight:600}
+.cmb{background:var(--card);color:var(--txt);border:1px solid var(--line);border-radius:20px;padding:5px 12px;font:600 14px system-ui,sans-serif;cursor:pointer}
+.cmb.on{background:#ffc83d;border-color:#ffc83d;color:#2a1d00}.cmtag{white-space:nowrap}
 .chip.mychip{border-color:#ffc83d}.chip.mychip.on{background:#ffc83d;border-color:#ffc83d;color:#2a1d00}
 .modal{position:fixed;inset:0;z-index:50;background:rgba(0,0,0,.72);display:grid;place-items:center;padding:16px}.modal[hidden]{display:none}
 .mbox{background:var(--card);border:1px solid var(--line);border-radius:18px;width:min(640px,100%);max-height:88vh;display:flex;flex-direction:column;overflow:hidden}
@@ -447,7 +468,8 @@ nav a.livelink{color:#ff6b6b}.fnote{color:var(--mut);font-size:13px;margin:-6px 
 <div class="chips">{{CHIPS}}</div>
 </div></div>
 <main class="wrap">
-<section id="highlights"><h2><span data-i18n="h_hl">Latest Highlights</span> <span class="count"></span></h2><div class="grid" data-show="8">
+<section id="highlights"><h2><span data-i18n="h_hl">Latest Highlights</span> <span class="count"></span></h2>
+<div class="cmrow"><span data-i18n="cm_hl">🎙️ Commentary:</span> <button class="cmb on" data-c="all" data-i18n="all">All</button><button class="cmb" data-c="en">🇬🇧 English</button><button class="cmb" data-c="ar">🇲🇦 العربية</button></div><div class="grid" data-show="8">
 {{VIDEOS}}
 </div><button class="more" data-i18n="more_hl">Show more highlights</button></section>
 <section id="matches"><h2><span data-i18n="h_fix">Upcoming Matches & TV Channels</span> <span class="count"></span></h2>
@@ -489,11 +511,24 @@ publishers (BBC Sport, The Guardian, ESPN). All rights belong to their owners.</
     mineRe = keys.length ? new RegExp("(^|[^a-z0-9])(" + keys.map(esc).join("|") + ")($|[^a-z0-9])") : null;
   }
   buildRe();
+  var cmf = "all";  // commentary language filter for highlights
+  try { cmf = localStorage.getItem("fa_cm") || "all"; } catch (e) {}
+  document.querySelectorAll(".cmb").forEach(function(b){
+    b.classList.toggle("on", b.dataset.c === cmf);
+    b.onclick = function(){
+      cmf = b.dataset.c;
+      try { localStorage.setItem("fa_cm", cmf); } catch (e) {}
+      document.querySelectorAll(".cmb").forEach(function(x){ x.classList.toggle("on", x === b); });
+      document.querySelectorAll(".grid[data-show]").forEach(function(g){ g.dataset.limit = ""; });
+      apply();
+    };
+  });
   function apply(){
     document.querySelectorAll(".grid[data-show]").forEach(function(g){
       var lim = +g.dataset.limit || +g.dataset.show, total = 0;
       g.querySelectorAll(".card").forEach(function(c){
         var ok = filter === "all" || (filter === "my" ? !!(mineRe && mineRe.test(c.dataset.s || "")) : c.dataset.l === filter);
+        if (cmf !== "all" && c.dataset.c && c.dataset.c !== cmf) ok = false;
         if (!ok) { c.classList.add("hide"); return; }
         total++;
         c.classList.toggle("hide", total > lim);
