@@ -23,7 +23,7 @@ jobs:
       - run: |
           git config user.name "football-arena-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html latest.json tables.html
+          git add -A index.html latest.json tables.html sitemap.xml robots.txt matches
           git commit -m "Update news and highlights" || echo "no changes"
           git pull --rebase origin main
           git push
