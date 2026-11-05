@@ -16,11 +16,15 @@ for a in arts:
     body = (f'<span class="pill">{a["tag"]}</span><h1>{html.escape(a["title"])}</h1>'
             f'<div class="meta">By Football Arena · {nice(a["date"])}</div>{a["body"]}'
             f'<h2>More articles</h2><ul>{others}</ul><p><a href="index.html">← All articles</a></p>')
-    open(f"articles/{a['slug']}.html", "w").write(page(a["title"], a["summary"], body, 1))
+    open(f"articles/{a['slug']}.html", "w").write(page(a["title"], a["summary"], body, 1, path=f"articles/{a['slug']}.html", jsonld={
+        "@context": "https://schema.org", "@type": "Article", "headline": a["title"], "description": a["summary"],
+        "datePublished": a["date"], "author": {"@type": "Organization", "name": "Football Arena"},
+        "publisher": {"@type": "Organization", "name": "Football Arena", "logo": {"@type": "ImageObject", "url": "https://www.footballarena.net/logo.png"}},
+        "mainEntityOfPage": f"https://www.footballarena.net/articles/{a['slug']}.html", "inLanguage": "en"}))
 cards = "".join(f'<a class="card" href="{a["slug"]}.html"><span class="pill">{a["tag"]}</span><h3>{html.escape(a["title"])}</h3>'
                 f'<p>{html.escape(a["summary"])}</p><div class="meta">{nice(a["date"])}</div></a>' for a in arts)
 open("articles/index.html", "w").write(page("Football Articles", "Guides to the rules, tactics and history of football, written by Football Arena.",
-     f'<h1>Football Articles</h1><p class="meta">Easy guides to the rules, tactics and history of the beautiful game.</p><div class="list">{cards}</div>', 1))
+     f'<h1>Football Articles</h1><p class="meta">Easy guides to the rules, tactics and history of the beautiful game.</p><div class="list">{cards}</div>', 1, path="articles/index.html"))
 open("about.html", "w").write(page("About Football Arena", "About Football Arena: who we are and what we publish.", f"""
 <h1>About Football Arena</h1>
 <p>Football Arena is an independent football website for fans everywhere. We bring together the latest official highlights and football news from the world's biggest leagues — the Premier League, LaLiga, the Champions League, Serie A, the Bundesliga and more — in one simple place, updated every hour.</p>
@@ -30,12 +34,12 @@ open("about.html", "w").write(page("About Football Arena", "About Football Arena
 <li><strong>Articles:</strong> our own easy-to-read guides about the rules, tactics and history of football.</li></ul>
 <h2>Our approach</h2>
 <p>We respect the work of clubs, leagues and journalists. We never re-upload other people's videos or copy their articles: we link to the official source so the creators get the credit. Our own articles are written by the Football Arena team.</p>
-<p>Follow us on <a href="{FB}" target="_blank" rel="noopener">Facebook</a> for daily match recaps and stories.</p>""", 0))
+<p>Follow us on <a href="{FB}" target="_blank" rel="noopener">Facebook</a> for daily match recaps and stories.</p>""", 0, path="about.html"))
 open("contact.html", "w").write(page("Contact Football Arena", "How to contact Football Arena.", f"""
 <h1>Contact us</h1>
 <p>We'd love to hear from you — whether you have a question, a correction, a story idea or a business enquiry.</p>
 <p>The fastest way to reach us is to send a message to our <a href="{FB}" target="_blank" rel="noopener">Football Arena Facebook Page</a>. We usually reply within 48 hours.</p>
-<p>If you believe any content on this site should be credited differently or removed, please tell us and we will act quickly.</p>""", 0))
+<p>If you believe any content on this site should be credited differently or removed, please tell us and we will act quickly.</p>""", 0, path="contact.html"))
 print("pages built:", len(arts))
 
 # ---------- quiz.html ----------
@@ -111,7 +115,7 @@ document.addEventListener("fa:lang", start);
 start();
 </script>"""
 open("quiz.html", "w").write(page("Football Quiz – Test Your Knowledge by Country and League",
-     "Play a free football quiz about the Premier League, LaLiga, Serie A, Bundesliga, Ligue 1, the Champions League and the World Cup. Learn a fun fact with every answer.", qbody, 0, note=False, extra=qscript))
+     "Play a free football quiz about the Premier League, LaLiga, Serie A, Bundesliga, Ligue 1, the Champions League and the World Cup. Learn a fun fact with every answer.", qbody, 0, note=False, extra=qscript, path="quiz.html"))
 print("quiz built:", len(QUIZ), "questions")
 
 # ---------- live.html (live match tracker) ----------
@@ -146,5 +150,5 @@ lbody = LCSS + """<h1 data-i18n="lv_title">🔴 Live Match Tracker</h1>
 <div id="list"><p class="meta">⏳</p></div><div id="match"></div>"""
 open("live.html", "w").write(page("Live Football Match Tracker – Scores, Goals & Stats",
      "Follow today's Premier League, LaLiga, Serie A, Bundesliga, Ligue 1 and Champions League matches live: score, minute, goals, cards and stats, updated every 30 seconds.",
-     lbody, 0, note=False, extra='<script src="live.js"></script>'))
+     lbody, 0, note=False, extra='<script src="live.js"></script>', path="live.html"))
 print("live page built")

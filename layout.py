@@ -18,16 +18,27 @@ footer{border-top:1px solid var(--line);color:var(--mut);font-size:13px;padding:
 [dir=rtl] .top nav{margin-left:0;margin-right:auto}
 :lang(ar) body{font-family:"Segoe UI",Tahoma,"Noto Sans Arabic",system-ui,sans-serif}"""
 
-def page(title, desc, body, depth, note=True, extra=""):
+SITE = "https://www.footballarena.net/"
+
+
+def page(title, desc, body, depth, note=True, extra="", path="", jsonld=None, head=""):
     up = "../" * depth
     e = html.escape
+    url = SITE + path
+    seo = (f'<link rel="canonical" href="{e(url)}"><meta property="og:url" content="{e(url)}">'
+           f'<meta property="og:type" content="website"><meta property="og:site_name" content="Football Arena">'
+           f'<meta property="og:image" content="{SITE}logo.png"><meta name="twitter:card" content="summary">') if path else ""
+    if jsonld:
+        import json as _j
+        seo += '<script type="application/ld+json">' + _j.dumps(jsonld, ensure_ascii=False).replace("</", "<\\/") + "</script>"
+    seo += head
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(title)} – Football Arena</title><meta name="description" content="{e(desc)}">
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}">
-<link rel="icon" href="{up}logo.png"><style>{CSS}</style></head><body>
+<link rel="icon" href="{up}logo.png">{seo}<style>{CSS}</style></head><body>
 <header><div class="top"><a href="{up}index.html"><img src="{up}logo.png" alt="Football Arena"></a><b>FOOTBALL <span>ARENA</span></b>
-<nav><a href="{up}index.html#highlights" data-i18n="nav_hl">Highlights</a><a href="{up}index.html#news" data-i18n="nav_news">News</a><a href="{up}articles/index.html" data-i18n="nav_art">Articles</a><a href="{up}live.html" style="color:#ff6b6b" data-i18n="nav_live">Live</a><a href="{up}tables.html" data-i18n="nav_tables">Tables</a><a href="{up}quiz.html" style="color:#ffc83d" data-i18n="nav_quiz">Quiz</a><a href="{up}about.html" data-i18n="nav_about">About</a>
+<nav><a href="{up}index.html#highlights" data-i18n="nav_hl">Highlights</a><a href="{up}index.html#news" data-i18n="nav_news">News</a><a href="{up}articles/index.html" data-i18n="nav_art">Articles</a><a href="{up}live.html" style="color:#ff6b6b" data-i18n="nav_live">Live</a><a href="{up}tables.html" data-i18n="nav_tables">Tables</a><a href="{up}matches/index.html" data-i18n="nav_fix">Matches</a><a href="{up}quiz.html" style="color:#ffc83d" data-i18n="nav_quiz">Quiz</a><a href="{up}about.html" data-i18n="nav_about">About</a>
 <select class="langpick" aria-label="Language"></select></nav></div></header>
 <main>{'<p class="note" data-i18n-note style="display:none"></p>' if note else ''}{body}</main>
 <footer>© 2026 Football Arena ·<a href="{up}about.html" data-i18n="about">About</a>·<a href="{up}contact.html" data-i18n="contact">Contact</a>·<a href="{up}privacy.html" data-i18n="privacy">Privacy</a>·<a href="{FB}" target="_blank" rel="noopener" data-i18n="nav_fb">Facebook</a></footer>

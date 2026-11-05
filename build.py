@@ -221,7 +221,7 @@ def fixtures(days=7):
     out, seen = [], set()
     today = datetime.datetime.now(datetime.timezone.utc)
     for key, code in FIX_LEAGUES:
-        for k in range(days):
+        for k in range(-1, days):  # yesterday too, so finished matches get their final score
             day = (today + datetime.timedelta(days=k)).strftime("%Y%m%d")
             try:
                 data = json.loads(get(f"https://site.api.espn.com/apis/site/v2/sports/soccer/{code}/scoreboard?dates={day}"))
@@ -230,7 +230,7 @@ def fixtures(days=7):
                 continue
             for ev in data.get("events", []):
                 st = ev.get("status", {}).get("type", {}).get("state")
-                if st not in ("pre", "in") or ev["id"] in seen:
+                if st not in ("pre", "in", "post") or ev["id"] in seen:
                     continue
                 seen.add(ev["id"])
                 c = ev["competitions"][0]
@@ -241,17 +241,20 @@ def fixtures(days=7):
                     tv += b.get("names", [])
                 out.append({"id": ev["id"], "code": code, "l": key, "comp": data.get("leagues", [{}])[0].get("name", ""), "date": ev["date"],
                             "home": h.get("team", {}).get("displayName", "?"), "away": a.get("team", {}).get("displayName", "?"),
-                            "hs": h.get("score", ""), "as": a.get("score", ""), "live": st == "in",
+                            "hs": h.get("score", ""), "as": a.get("score", ""), "live": st == "in", "state": st,
                             "clock": ev.get("status", {}).get("displayClock", ""),
                             "venue": (c.get("venue") or {}).get("fullName", ""), "usa": sorted(set(tv))})
     out.sort(key=lambda f: f["date"])
-    return out[:80]
+    return out[:160]
 
 
-def fixture_cards(fx):
+def fixture_cards(fx, slugs=None):
     e = html.escape
+    slugs = slugs or {}
     rows = []
     for f in fx:
+        if f.get("state") == "post":
+            continue
         d = parse_date(f["date"])
         if not f["live"] and d < datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=3):
             continue
@@ -268,11 +271,44 @@ def fixture_cards(fx):
         rows.append(
             f'<div class="card fix" data-l="{f["l"]}" data-s="{e(plain(f["home"] + " " + f["away"]))}"><div class="ftop">{flag(f["l"])} {comp}{badge}</div>'
             f'<div class="ftime" data-k="{int(d.timestamp())}">{d.strftime("%a %d %b · %H:%M UTC")}</div>'
-            f'<div class="teams"><span>{e(f["home"])}</span>{mid}<span>{e(f["away"])}</span></div>'
-            f'<div class="tv">{tv}</div>' + (f'<div class="venue">🏟️ {e(f["venue"])}</div>' if f["venue"] else "")
+            + (f'<a class="teams" href="matches/{e(slugs[f["id"]])}.html">' if f.get("id") in slugs else '<div class="teams">')
+            + f'<span>{e(f["home"])}</span>{mid}<span>{e(f["away"])}</span>' + ('</a>' if f.get("id") in slugs else '</div>')
+            + f'<div class="tv">{tv}</div>' + (f'<div class="venue">🏟️ {e(f["venue"])}</div>' if f["venue"] else "")
             + (f'<a class="watch" href="live.html#{e(f["code"])}/{e(f["id"])}">🔴 <span data-i18n="watch">Live tracker</span></a>' if f.get("id") else "")
             + '</div>')
     return "\n".join(rows) or '<p class="empty" data-i18n="no_fix">No matches scheduled in the next few days.</p>'
+
+
+def gsv_tags():
+    """Search-engine ownership tags from seo.json, e.g. {"google": "abc...", "bing": "123..."}"""
+    try:
+        cfg = json.load(open("seo.json"))
+    except Exception:
+        return ""
+    out = ""
+    if cfg.get("google"):
+        out += f'<meta name="google-site-verification" content="{html.escape(cfg["google"])}">'
+    if cfg.get("bing"):
+        out += f'<meta name="msvalidate.01" content="{html.escape(cfg["bing"])}">'
+    return out
+
+
+STATIC_PAGES = ["", "tables.html", "matches/index.html", "live.html", "quiz.html", "articles/index.html", "about.html", "contact.html", "privacy.html"]
+
+
+def write_sitemap(match_pages):
+    import glob
+    now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
+    urls = [(p, now, "hourly" if p in ("", "tables.html", "matches/index.html") else "weekly") for p in STATIC_PAGES]
+    urls += [(p, now, "monthly") for p in sorted(glob.glob("articles/*.html")) if not p.endswith("index.html")]
+    urls += [(p, d.strftime("%Y-%m-%d"), "hourly") for p, d in match_pages]
+    xml = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for p, mod, freq in urls:
+        xml.append(f"  <url><loc>https://www.footballarena.net/{html.escape(p)}</loc><lastmod>{mod}</lastmod><changefreq>{freq}</changefreq></url>")
+    xml.append("</urlset>")
+    open("sitemap.xml", "w").write("\n".join(xml) + "\n")
+    open("robots.txt", "w").write("User-agent: *\nAllow: /\n\nSitemap: https://www.footballarena.net/sitemap.xml\n")
+    return len(urls)
 
 
 def plain(t):
@@ -284,7 +320,7 @@ def ago_span(d):
     return f'<span class="ago" data-t="{int(d.timestamp())}">{ago(d)}</span>'
 
 
-def render(news_items, vids, fx=(), teams=()):
+def render(news_items, vids, fx=(), teams=(), slugs=None):
     e = html.escape
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%d %b %Y, %H:%M UTC")
     names = {k: f"{country} · {league}" for k, _c, country, league, _kw in LEAGUES}
@@ -314,9 +350,9 @@ def render(news_items, vids, fx=(), teams=()):
     acards = "\n".join(
         f'<a class="news card" href="articles/{e(a["slug"])}.html"><div><div class="nt">{e(a["title"])}</div>'
         f'<p>{e(a["summary"])}</p><div class="meta">📝 {e(a["tag"])} · Football Arena</div></div></a>' for a in arts)
-    return (TEMPLATE.replace("{{FIXTURES}}", fixture_cards(fx)).replace("{{CHIPS}}", chips).replace("{{ARTICLES}}", acards).replace("{{VIDEOS}}", vcards)
+    return (TEMPLATE.replace("{{FIXTURES}}", fixture_cards(fx, slugs)).replace("{{CHIPS}}", chips).replace("{{ARTICLES}}", acards).replace("{{VIDEOS}}", vcards)
             .replace("{{NEWS}}", ncards).replace("{{UPDATED}}", now)
-            .replace("{{TEAMS}}", json.dumps(list(teams), ensure_ascii=False).replace("</", "<\\/")))
+            .replace("{{GSV}}", gsv_tags()).replace("{{TEAMS}}", json.dumps(list(teams), ensure_ascii=False).replace("</", "<\\/")))
 
 
 TEMPLATE = """<!doctype html>
@@ -328,6 +364,9 @@ TEMPLATE = """<!doctype html>
 <meta property="og:description" content="The latest football highlights and news by league, updated every hour. Test yourself with our football quiz.">
 <meta property="og:image" content="https://www.footballarena.net/logo.png">
 <link rel="canonical" href="https://www.footballarena.net/">
+<meta property="og:url" content="https://www.footballarena.net/"><meta property="og:type" content="website"><meta property="og:site_name" content="Football Arena">
+{{GSV}}
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.footballarena.net/#website","name":"Football Arena","alternateName":"FootballArena.net","url":"https://www.footballarena.net/","inLanguage":["en","ar","fr","es","pt","de","it"]},{"@type":"Organization","@id":"https://www.footballarena.net/#org","name":"Football Arena","url":"https://www.footballarena.net/","logo":"https://www.footballarena.net/logo.png","sameAs":["https://www.facebook.com/1429286323597310"]}]}</script>
 <link rel="icon" href="logo.png">
 <style>
 :root{--bg:#07140c;--card:#10251a;--line:#1f3d2b;--txt:#eef6f0;--mut:#9cb8a6;--acc:#2ee06f;--gold:#ffc83d}
@@ -393,6 +432,7 @@ footer a{color:var(--acc)}
 .live{margin-inline-start:auto;color:#ff5b5b;font-weight:800;font-size:12px}
 .tv{font-size:13px;color:var(--mut);border-top:1px solid var(--line);padding-top:8px}.tv b{color:var(--txt)}
 .venue{font-size:12px;color:var(--mut);margin-top:6px}
+a.teams{color:inherit;text-decoration:none}a.teams:hover span{text-decoration:underline}
 .watch{display:inline-block;margin-top:9px;font-size:13px;font-weight:700;color:#ff6b6b;border:1px solid #ff6b6b;border-radius:16px;padding:4px 12px}.watch:hover{background:#ff6b6b;color:#fff}
 nav a.livelink{color:#ff6b6b}.fnote{color:var(--mut);font-size:13px;margin:-6px 0 12px}
 .langpick{margin-inline-start:auto;background:var(--card);color:var(--txt);border:1px solid var(--line);border-radius:10px;padding:7px 10px;font:600 14px system-ui,sans-serif}
@@ -414,7 +454,8 @@ nav a.livelink{color:#ff6b6b}.fnote{color:var(--mut);font-size:13px;margin:-6px 
 <p class="fnote" data-i18n="fix_note">Times are shown in your local time. TV channels can change – please check your local listings.</p>
 <div class="grid" data-show="9">
 {{FIXTURES}}
-</div><button class="more" data-i18n="more_fix">Show more matches</button></section>
+</div><button class="more" data-i18n="more_fix">Show more matches</button>
+<p><a href="matches/index.html" style="color:var(--acc)" data-i18n="m_all">All matches</a> →</p></section>
 <section><div class="quizban"><span style="font-size:38px">🧠</span><div><b data-i18n="qb_t">How well do you know football?</b>
 <p data-i18n="qb_p">Play our quiz by country and league – learn a fun fact with every answer.</p></div><a href="quiz.html" data-i18n="qb_btn">Play the quiz</a></div></section>
 <section id="news"><h2><span data-i18n="h_news">Latest Football News</span> <span class="count"></span></h2><div class="grid" data-show="9">
@@ -579,9 +620,13 @@ if __name__ == "__main__":
     if not any(lg["rows"] for lg in tb["leagues"]) and old.get("tables"):
         tb = old["tables"]
     tables.render(tb)
-    print(f"{len(n)} news, {len(v)} videos, {len(fx)} fixtures, {len(tb['teams'])} teams")
-    open("index.html", "w").write(render(n, v, fx, tb["teams"]))
+    import matchpages
+    archive = matchpages.merge_archive(old.get("match_archive", {}), fx)
+    slugs, mpages = matchpages.render_all(archive, tb, v, n)
+    print(f"{len(n)} news, {len(v)} videos, {len(fx)} fixtures, {len(tb['teams'])} teams, {len(mpages)} match pages, "
+          f"{write_sitemap(mpages)} sitemap URLs")
+    open("index.html", "w").write(render(n, v, fx, tb["teams"], slugs))
     json.dump({"news": [dict(x, date=x["date"].isoformat()) for x in n[:10]],
                "news_all": [dict(x, date=x["date"].isoformat()) for x in n],
                "videos": [dict(x, date=x["date"].isoformat()) for x in v],
-               "fixtures": fx, "tables": tb}, open("latest.json", "w"), indent=1)
+               "fixtures": fx, "tables": tb, "match_archive": archive}, open("latest.json", "w"), indent=1)

@@ -166,5 +166,5 @@ def render(data, path="tables.html"):
     open(path, "w").write(page("Football League Tables & Top Scorers – Premier League, LaLiga, Serie A and more",
                                "Live league tables, top scorers and top assists for the Premier League, LaLiga, Serie A, Bundesliga, "
                                "Ligue 1, the Champions League and the Saudi Pro League, updated every hour.",
-                               body, 0, note=False, extra=script))
+                               body, 0, note=False, extra=script, path="tables.html"))
     return path
