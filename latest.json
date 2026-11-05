@@ -1,12 +1,52 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Uefa faces political flashpoint over Sevastopol\u2019s ascent in Russian football",
+   "link": "https://www.theguardian.com/football/2026/nov/05/uefa-fifa-ukraine-crimea-sevastopol-promotion-russia-war",
+   "summary": "Promotion to third tier for Crimean club would be clear violation of governing body\u2019s rules amid conflict in UkraineUefa and Fifa face a decisive test of their appetite to punish Russia\u2019s integration of teams from\u2026",
+   "date": "2026-11-05T07:30:56+00:00",
+   "image": "https://i.guim.co.uk/img/media/1ddfd798db148f570b3eceea86ccf0e65f7605c4/753_0_3694_2956/master/3694.jpg?width=140&quality=85&auto=format&fit=max&s=f86823cb521ceb2f2a3149b04ef8243d"
+  },
+  {
    "source": "BBC Sport",
-   "title": "World record 51 red cards shown in Brazilian youth game",
+   "title": "Ferguson harbours Rangers ambition - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o?at_medium=RSS&at_campaign=rss",
+   "summary": "Midfielder expects Rangers move one day as Celtic willing to sell right-back.",
+   "date": "2026-11-05T07:27:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1e5/live/6ca9f2e0-d8ea-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "World record 53 red cards shown in Brazilian youth game",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
-   "summary": "A world record of 43 players and eight members of staff were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
-   "date": "2026-11-04T23:22:27+00:00",
+   "summary": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
+   "date": "2026-11-05T07:23:08+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.",
+   "date": "2026-11-05T07:17:20+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2fd/live/76eb2240-d6b2-11f1-aacc-5b5f23abff4b.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-05T06:30:52+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Meet the people set for key role in deciding Man City fate",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
+   "summary": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
+   "date": "2026-11-05T06:26:11+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/733de250-c978-11f1-a64c-550be9e3c66b.jpg"
   },
   {
    "source": "BBC Sport",
@@ -39,56 +79,56 @@
    "summary": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
    "date": "2026-11-04T22:38:24+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Dortmund take narrow win over Real Betis",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Borussia Dortmund gain a home victory over Real Betis to end the Spanish side's winning run in the Champions League.",
-   "date": "2026-11-04T22:31:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a4/live/798d45d0-d89e-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Championship roundup: West Ham stage dramatic comeback on Scott Parker\u2019s opening night",
-   "link": "https://www.theguardian.com/football/2026/nov/04/championship-roundup-cardiff-west-ham-scott-parker-wrexham-middlesbrough-bristol-city-wolves",
-   "summary": "West Ham recover from 3-0 down to draw 3-3 at CardiffLeaders Middlesbrough beaten 2-0 at WrexhamScott Parker\u2019s return to West Ham had looked like beginning in painful fashion but instead featured a stunning comeback\u2026",
-   "date": "2026-11-04T22:18:02+00:00",
-   "image": "https://i.guim.co.uk/img/media/7eb9c49fcd7ea4b6441295d1fd73c69dd9cb004c/471_0_4872_3898/master/4872.jpg?width=140&quality=85&auto=format&fit=max&s=3d1dde05ddbe88cd576e0af8aa96a9e9"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Emphatic Porto thrash Napoli in second-half romp",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o?at_medium=RSS&at_campaign=rss",
-   "summary": "Porto score three goals in the final 20 minutes of the game to pull away and seal a comfortable victory against Napoli, who are unable to match their Portuguese opponents in the second half.",
-   "date": "2026-11-04T22:17:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbc/live/899dbd30-d89c-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Haaland scores winner as Man City beat Leipzig",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase.",
-   "date": "2026-11-04T22:15:31+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f703/live/769378b0-d89c-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Arsenal survive late Slavia scare for hard-fought win",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game.",
-   "date": "2026-11-04T22:10:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7297/live/bfc6bfc0-d89b-11f1-b441-2b33b063138f.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "The Guardian",
+   "title": "Uefa faces political flashpoint over Sevastopol\u2019s ascent in Russian football",
+   "link": "https://www.theguardian.com/football/2026/nov/05/uefa-fifa-ukraine-crimea-sevastopol-promotion-russia-war",
+   "summary": "Promotion to third tier for Crimean club would be clear violation of governing body\u2019s rules amid conflict in UkraineUefa and Fifa face a decisive test of their appetite to punish Russia\u2019s integration of teams from\u2026",
+   "date": "2026-11-05T07:30:56+00:00",
+   "image": "https://i.guim.co.uk/img/media/1ddfd798db148f570b3eceea86ccf0e65f7605c4/753_0_3694_2956/master/3694.jpg?width=140&quality=85&auto=format&fit=max&s=f86823cb521ceb2f2a3149b04ef8243d"
+  },
+  {
    "source": "BBC Sport",
-   "title": "World record 51 red cards shown in Brazilian youth game",
+   "title": "Ferguson harbours Rangers ambition - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o?at_medium=RSS&at_campaign=rss",
+   "summary": "Midfielder expects Rangers move one day as Celtic willing to sell right-back.",
+   "date": "2026-11-05T07:27:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1e5/live/6ca9f2e0-d8ea-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "World record 53 red cards shown in Brazilian youth game",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
-   "summary": "A world record of 43 players and eight members of staff were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
-   "date": "2026-11-04T23:22:27+00:00",
+   "summary": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
+   "date": "2026-11-05T07:23:08+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Will Thomas Tuchel pick Cole Palmer for his next England squad as the competition to be England's number 10 continues.",
+   "date": "2026-11-05T07:17:20+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2fd/live/76eb2240-d6b2-11f1-aacc-5b5f23abff4b.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-05T06:30:52+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Meet the people set for key role in deciding Man City fate",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
+   "summary": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
+   "date": "2026-11-05T06:26:11+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/733de250-c978-11f1-a64c-550be9e3c66b.jpg"
   },
   {
    "source": "BBC Sport",
@@ -275,28 +315,12 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "Ex-Burnley striker Rodriguez announces retirement",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Former Burnley striker Jay Rodriguez announces his retirement from playing career.",
-   "date": "2026-11-04T17:28:52+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee2/live/8c1cffc0-d875-11f1-a364-a1fce50dd192.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Bournemouth\u2019s decision not to panic after their tough start is paying off",
    "link": "https://www.theguardian.com/football/2026/nov/04/bournemouth-marco-rose-premier-league-games-opta",
    "summary": "Marco Rose\u2019s team did not win any of their first six games in the Premier League but he stayed calm and positiveBy Opta AnalystIt would have been easy, understandable even, for Bournemouth fans to feel down and worried.\u2026",
    "date": "2026-11-04T17:01:47+00:00",
    "image": "https://i.guim.co.uk/img/media/ebcc5e4c257d2eac988fc01e87724ec434592253/447_0_3740_2993/master/3740.jpg?width=140&quality=85&auto=format&fit=max&s=6b3ae9ea52b511815812ef4551f8e577"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Hearts record \u00a32.4m loss in Bloom's first year",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckqxnve3jplxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Heart of Midlothian record a loss of \u00a32.4m for the year ending 30 June, despite a turnover of more than \u00a323m the first 12 months of Brighton owner Tony Bloom's involvement.",
-   "date": "2026-11-04T17:00:49+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ddd/live/81fb7340-d871-11f1-85ab-b3cc3b5498c6.jpg"
   },
   {
    "source": "BBC Sport",
@@ -347,14 +371,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "What are rules on loan players in Champions League?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport's Ask Me Anything team explains the Champions League rules on loan players facing their parent clubs",
-   "date": "2026-11-04T16:02:08+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202f/live/46fd4a90-d2e3-11f1-8af5-e1db7ad65222.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Football Daily | Manchester United\u2019s unlikely one-match winning streak and hard-to-please fans",
    "link": "https://www.theguardian.com/football/2026/nov/04/manchester-united-win-football-daily-newsletter",
@@ -401,6 +417,14 @@
    "summary": "WSL\u2019s second-highest goalscorer is likened to England legend for her crossing and has earned France call-upAt the conclusion of Birmingham\u2019s warm-up, the players quietly and carefully placed their footballs into a\u2026",
    "date": "2026-11-04T13:00:11+00:00",
    "image": "https://i.guim.co.uk/img/media/4b2eaee0eba4fa1223c9bb2a45a597580b01fb66/301_0_3347_2677/master/3347.jpg?width=140&quality=85&auto=format&fit=max&s=2917251e2616702c532d00c1d2c3eb82"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester United\u2019s wild win against Roma showed angry fans we care, says Dalot",
+   "link": "https://www.theguardian.com/football/2026/nov/04/roma-manchester-united-win-can-transform-season-says-diogo-dalot",
+   "summary": "Full-back believes 3-2 win can transform seasonUnited were booed off by supporters at half-timeDiogo Dalot believes Manchester United\u2019s comeback against Roma in the Champions League on Tuesday can transform their\u2026",
+   "date": "2026-11-04T12:00:10+00:00",
+   "image": "https://i.guim.co.uk/img/media/2598993d0700782211d3d62a1057ea152443a7ec/323_9_2474_1979/master/2474.jpg?width=140&quality=85&auto=format&fit=max&s=3547f92bd5793e32fdc1042603ac5c37"
   },
   {
    "source": "BBC Sport",
@@ -468,22 +492,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6jdmg9mkg8mo?at_medium=RSS&at_campaign=rss",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "date": "2026-11-04T07:06:19+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "New strategy launched to transform Scottish women's football over 10 years",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly05y2jwzdo?at_medium=RSS&at_campaign=rss",
-   "summary": "The strategy aims to double the number of registered female players in Scotland, while also quadrupling attendances and audiences for matches.",
-   "date": "2026-11-04T07:03:05+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/827c/live/b919b670-d81c-11f1-a9b6-0f4245e849b7.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Fernandes critical of media 'lies' about Carrick relationship",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
    "summary": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.",
@@ -545,14 +553,6 @@
    "summary": "This was a chastening night for Aston Villa, and a familiar one for Unai Emery in this corner of town. On a processional night at the Camp Nou Barcelona produced a performance of unhurried, high-grade incision, easing\u2026",
    "date": "2026-11-03T22:00:11+00:00",
    "image": "https://i.guim.co.uk/img/media/3b9587bc846f99902474bfa9e0967d0f02939c11/205_315_2175_1740/master/2175.jpg?width=140&quality=85&auto=format&fit=max&s=ef1f8779c03693ab1458dd7545cd128b"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Arteta backs Saliba\u2019s readiness to return for Arsenal at Slavia Prague",
-   "link": "https://www.theguardian.com/football/2026/nov/03/arteta-backs-salibas-readiness-to-return-for-arsenal-at-slavia-prague",
-   "summary": "Defender travelled with squad after long injury absence\u2018I have clips\u2019: Arteta hits back after Liverpool complaintsMikel Arteta is confident that William Saliba is ready to make his first appearance of the season for\u2026",
-   "date": "2026-11-03T20:31:58+00:00",
-   "image": "https://i.guim.co.uk/img/media/73d0a1d0c981981a58ad0d478fcd54b0656d4f86/142_55_1335_1067/master/1335.jpg?width=140&quality=85&auto=format&fit=max&s=24738cde6de4b328d2174fe447136203"
   },
   {
    "source": "BBC Sport",
