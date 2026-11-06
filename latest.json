@@ -1,6 +1,22 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
+   "date": "2026-11-06T00:10:28+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/2cdec430-d96f-11f1-9fd0-cdf612d1539f.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Premier League: 10 things to look out for this weekend",
+   "link": "https://www.theguardian.com/football/2026/nov/06/premier-league-10-things-to-look-out-for-this-weekend",
+   "summary": "Lampard appreciation at Everton, Glasner sparking Forest fire, Zubimendi and Kroupi in spotlight and Carrick v EmeryPremier League top scorersNothing better encapsulates the dysfunction that was Everton under Farhad\u2026",
+   "date": "2026-11-06T00:01:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/ee7c2b03da707865b8025e1eacefffd085a6e9a1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ba9faaa1ea6a2f22c9760fc34d684fab"
+  },
+  {
    "source": "The Guardian",
    "title": "Europa League: Sunderland lose at home to Zagreb while Celtic enjoy first win",
    "link": "https://www.theguardian.com/football/2026/nov/05/europa-league-roundup-sparta-prague-bournemouth-ferencvaros-milanstay-perfect-while-milan-sunderland-dinamo-zagreb",
@@ -63,25 +79,25 @@
    "summary": "Only 3,587 people live in his family\u2019s village but the streets of Navahermosa were fuller yet quieter to mourn the Tenerife striker at his funeralThe narrow streets of Navahermosa in La Mancha were fuller than they have\u2026",
    "date": "2026-11-05T22:03:49+00:00",
    "image": "https://i.guim.co.uk/img/media/eea7928b70b174eebe5b6e5016c4356c4b57a54c/385_0_5850_4680/master/5850.jpg?width=140&quality=85&auto=format&fit=max&s=524992fc8ec9ac2a017351caae7c5b97"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Fifa wants talks over restricting women\u2019s Olympic football to under-23s",
-   "link": "https://www.theguardian.com/football/2026/nov/05/fifa-wants-womens-olympic-football-under-23s",
-   "summary": "IOC open to dialogue and Fifa wants input from othersFifa concerned about fixture congestion and workload Fifa wants talks with the International Olympic Committee over restricting the Olympic women\u2019s football\u2026",
-   "date": "2026-11-05T21:08:01+00:00",
-   "image": "https://i.guim.co.uk/img/media/20e8cfdf2f42897137a5c26591b06f1f86ac0ce4/49_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=3d41fc51e010d63af28ac8923ca793d1"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Kamada\u2019s late leveller rescues point for 10-man Crystal Palace and denies Hoffenheim",
-   "link": "https://www.theguardian.com/football/2026/nov/05/kamadas-late-leveller-rescues-point-for-10-man-crystal-palace-and-denies-hoffenheim",
-   "summary": "A late, late strike from Daichi Kamada saved Crystal Palace from embarrassment and another round of navel gazing as they snatched a Europa League draw with Hoffenheim against the odds.After being outplayed by a side\u2026",
-   "date": "2026-11-05T19:56:39+00:00",
-   "image": "https://i.guim.co.uk/img/media/6ef706b212a1c610e4ad6d3311740787c0983d16/119_0_2189_1751/master/2189.jpg?width=140&quality=85&auto=format&fit=max&s=14cf0e032796735b82a2c2e065f4eb15"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
+   "date": "2026-11-06T00:10:28+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/2cdec430-d96f-11f1-9fd0-cdf612d1539f.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Premier League: 10 things to look out for this weekend",
+   "link": "https://www.theguardian.com/football/2026/nov/06/premier-league-10-things-to-look-out-for-this-weekend",
+   "summary": "Lampard appreciation at Everton, Glasner sparking Forest fire, Zubimendi and Kroupi in spotlight and Carrick v EmeryPremier League top scorersNothing better encapsulates the dysfunction that was Everton under Farhad\u2026",
+   "date": "2026-11-06T00:01:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/ee7c2b03da707865b8025e1eacefffd085a6e9a1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ba9faaa1ea6a2f22c9760fc34d684fab"
+  },
   {
    "source": "The Guardian",
    "title": "Europa League: Sunderland lose at home to Zagreb while Celtic enjoy first win",
@@ -460,14 +476,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Ferguson harbours Rangers ambition - gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c699zd2g5343o?at_medium=RSS&at_campaign=rss",
-   "summary": "Midfielder expects Rangers move one day as Celtic willing to sell right-back.",
-   "date": "2026-11-05T07:27:38+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc93/live/73d27590-d8ec-11f1-93e1-3b657b665bcf.png"
-  },
-  {
-   "source": "BBC Sport",
    "title": "World record 53 red cards shown in Brazilian youth game",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
    "summary": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
@@ -553,17 +561,15 @@
    "summary": "WSL\u2019s second-highest goalscorer is likened to England legend for her crossing and has earned France call-upAt the conclusion of Birmingham\u2019s warm-up, the players quietly and carefully placed their footballs into a\u2026",
    "date": "2026-11-04T13:00:11+00:00",
    "image": "https://i.guim.co.uk/img/media/4b2eaee0eba4fa1223c9bb2a45a597580b01fb66/301_0_3347_2677/master/3347.jpg?width=140&quality=85&auto=format&fit=max&s=2917251e2616702c532d00c1d2c3eb82"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Real Madrid reach verbal agreement to sign Gabriel",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-   "summary": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
-   "date": "2026-11-04T11:49:23+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef8/live/b0d4e5f0-d828-11f1-be97-417dbcdedd32.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "beIN SPORTS",
+   "id": "5MhNlWT-1jA",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0623\u0644\u0643\u0645\u0627\u0631 \u0648\u064a\u0648\u0641\u0646\u062a\u0648\u0633 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
+   "date": "2026-11-05T22:39:38+00:00"
+  },
   {
    "channel": "beIN SPORTS",
    "id": "Azl4oELSNPQ",
@@ -575,12 +581,6 @@
    "id": "jawU9m1b4DM",
    "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0637\u0631\u0627\u0628\u0632\u0648\u0646 \u0633\u0628\u0648\u0631 \u0648\u0641\u0631\u0627\u064a\u0628\u0648\u0631\u063a | \u062f\u0648\u0631\u064a \u0627\u0644\u0645\u0624\u062a\u0645\u0631 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
    "date": "2026-11-05T21:06:25+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "DGv3GDhIpbo",
-   "title": "8 Goals In 3 Minutes | Germany v Curacao Match Highlights | 2026 World Cup",
-   "date": "2026-11-05T20:30:02+00:00"
   },
   {
    "channel": "beIN SPORTS",
@@ -595,94 +595,22 @@
    "date": "2026-11-05T20:04:04+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "aZRvc8Bd57A",
-   "title": "INTER-COMO 4-0 | CLASSIC HIGHLIGHTS SERIE A 2025/26",
-   "date": "2026-11-05T16:00:25+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "iOgq7RqFbMc",
-   "title": "Haiti's First World Cup Goal In 52 Years",
-   "date": "2026-11-05T15:30:10+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "obNC5dxHVj8",
-   "title": "6 Goals In 60 Seconds | Morocco Secure Comeback Against Haiti | 2026 World Cup",
-   "date": "2026-11-05T14:30:38+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "QEwj-nLuApc",
-   "title": "Oli McBurnie RATES Hull City's Best Premier League Goals",
-   "date": "2026-11-05T14:01:23+00:00"
-  },
-  {
    "channel": "UEFA",
    "id": "OVcoVweCVuY",
    "title": "EVERY Champions League Goal From Matchday 4 | Highlights",
    "date": "2026-11-05T13:11:15+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "9UgnDeat_dg",
-   "title": "NAPOLI-LAZIO 0-2 | CLASSIC HIGHLIGHTS SERIE A 2025/26",
-   "date": "2026-11-05T12:00:12+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "GdUdeOIAubk",
-   "title": "14 years later, F\u00fcllkrug\u2018s still scoring goals like this\u2026 \ud83d\udc9a\ud83d\udd25",
-   "date": "2026-11-05T11:00:20+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "zL39Up_Tfho",
-   "title": "Pedro Neto Saw The Goal Before It Happened! \ud83d\udd2e",
-   "date": "2026-11-05T09:00:33+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "qsYwaY6DG6Q",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0641\u0627\u064a\u0643\u064a\u0646\u063a \u0627\u0644\u0646\u0631\u0648\u064a\u062c\u064a \u0648\u0635\u0628\u0627\u062d \u0627\u0644\u0623\u0630\u0631\u064a | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
-   "date": "2026-11-05T07:33:09+00:00"
-  },
-  {
    "channel": "LaLiga",
-   "id": "1B4voOHgKtk",
-   "title": "The Highlight Hattrick of MD11 by Goalitos LALIGA!",
-   "date": "2026-11-05T03:00:38+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "qO_3oepajYc",
-   "title": "ALL ROUND 9 HIGHLIGHTS \u26bd | PRIMAVERA 1 2026/27",
-   "date": "2026-11-04T17:23:20+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "AujjLj71dGw",
-   "title": "Meet Frosinone\u2019s FANTASTIC FOUR \ud83d\udd25 | Goals & Assists | Serie A 2026/27",
-   "date": "2026-11-04T16:00:12+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "rZ4GM52uHlg",
-   "title": "JUVE STEAL THE SHOW \ud83c\udfac | JUVENTUS-NAPOLI CINEMATIC HIGHLIGHTS | Serie A 2026/27",
-   "date": "2026-11-04T14:00:27+00:00"
+   "id": "z6hJ7xCro4I",
+   "title": "ATL\u00c9TICO DE MADRID vs FC BARCELONA: 10 A\u00d1OS de goles y emoci\u00f3n en LALIGA EA SPORTS",
+   "date": "2026-11-05T23:00:21+00:00"
   },
   {
    "channel": "Ligue 1",
    "id": "I_xVcX4Ko8U",
    "title": "PAULO FONSECA \u00c0 L'OL : LE BILAN !",
    "date": "2026-11-05T21:34:24+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "jTfR8kR1ZrA",
-   "title": "STUNNING Stop From Morocco's Bounou",
-   "date": "2026-11-05T21:30:30+00:00"
   },
   {
    "channel": "LaLiga",
@@ -697,200 +625,19 @@
    "date": "2026-11-05T20:16:23+00:00"
   },
   {
-   "channel": "Premier League",
-   "id": "EM7TDZkxmBU",
-   "title": "Best Captaincy Options For Gameweek 10 | FPL Podcast 2026/27",
-   "date": "2026-11-05T17:15:11+00:00"
+   "channel": "LaLiga",
+   "id": "OSUEpkRslRA",
+   "title": "Unai L\u00f3pez: TOP 3 apoyos ofrecidos",
+   "date": "2026-11-05T17:00:19+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "jmlSSJhtt0s",
-   "title": "Cristiano Ronaldo's ICONIC hat-trick vs Spain \ud83c\uddf5\ud83c\uddf9\ud83c\udfa9",
-   "date": "2026-11-05T17:04:38+00:00"
+   "channel": "LaLiga",
+   "id": "tCnprYOHkQo",
+   "title": "Los 18 MINUTOS FINALES de la REMONTADA del BAR\u00c7A al ATLETI \ud83e\udd2f | LALIGA EA SPORTS",
+   "date": "2026-11-05T17:00:02+00:00"
   }
  ],
  "fixtures": [
-  {
-   "id": "401915551",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-04T15:30Z",
-   "home": "Stade Rennais",
-   "away": "Olympiacos",
-   "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Roazhon Park",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915383",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-04T17:45Z",
-   "home": "AEK Athens",
-   "away": "Real Madrid",
-   "hs": "2",
-   "as": "3",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "OPAP Arena",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915382",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-04T17:45Z",
-   "home": "Fenerbahce",
-   "away": "Liverpool",
-   "hs": "3",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+3'",
-   "venue": "\u015e\u00fckr\u00fc Saraco\u011flu Stadium",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915304",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-04T20:00Z",
-   "home": "Borussia Dortmund",
-   "away": "Real Betis",
-   "hs": "2",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Signal Iduna Park",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915301",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-04T20:00Z",
-   "home": "FC Porto",
-   "away": "Napoli",
-   "hs": "4",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+3'",
-   "venue": "Est\u00e1dio do Drag\u00e3o",
-   "usa": [
-    "CBSSN",
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915305",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-04T20:00Z",
-   "home": "Lens",
-   "away": "Como",
-   "hs": "1",
-   "as": "9",
-   "live": false,
-   "state": "post",
-   "clock": "90'+3'",
-   "venue": "Stade Bollaert-Delelis",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915303",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-04T20:00Z",
-   "home": "PSV Eindhoven",
-   "away": "Club Brugge",
-   "hs": "1",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+3'",
-   "venue": "Philips Stadion",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915306",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-04T20:00Z",
-   "home": "RB Leipzig",
-   "away": "Manchester City",
-   "hs": "2",
-   "as": "3",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "Red Bull Arena",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915381",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-04T20:00Z",
-   "home": "Slavia Prague",
-   "away": "Arsenal",
-   "hs": "1",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+6'",
-   "venue": "Fortuna Arena",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915302",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-04T20:00Z",
-   "home": "Viking FK",
-   "away": "Sabah FK",
-   "hs": "4",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "Viking Stadion",
-   "usa": [
-    "Paramount+"
-   ]
-  },
   {
    "id": "401915534",
    "code": "uefa.europa",
