@@ -1,6 +1,54 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Goodwin keen but realistic over Cameron move - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9z99we1yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Dundee United manager addresses possibility of formalising move for loan player as Dundee set for stadium public consultation.",
+   "date": "2026-11-06T07:27:05+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb2/live/44316fe0-d9b3-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
+   "date": "2026-11-06T06:53:56+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "From playing against Messi & Ronaldo to non-league",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Fernando Forestieri, whose career has seen him play against Lionel Messi and Cristiano Ronaldo, is looking to inspire non-league Oxford City to a memorable FA Cup win over Leicester City.",
+   "date": "2026-11-06T06:42:07+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7d1/live/c26e86a0-d82c-11f1-be97-417dbcdedd32.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
+   "summary": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+   "date": "2026-11-06T06:22:00+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
+   "summary": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
+   "date": "2026-11-06T06:17:13+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-06T06:13:26+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
    "source": "The Guardian",
    "title": "Cape Verde captain Ryan Mendes cleared of rape allegation as woman charged with false statement",
    "link": "https://www.theguardian.com/football/2026/nov/06/cape-verde-football-ryan-mendes-sexual-assault-allegation-dismissed-ntwnfb",
@@ -31,58 +79,58 @@
    "summary": "Evanilson helps Bournemouth to 3-1 win at Sparta PragueFerencvaros prevail 2-0 at Milan to keep 100% recordSunderland\u2019s unbeaten run in the Europa League came to an end as they were beaten 2-0 by Dinamo Zagreb at the\u2026",
    "date": "2026-11-05T23:27:14+00:00",
    "image": "https://i.guim.co.uk/img/media/4718194e042b637ce1e14510eea795bf0b2a463e/675_50_1865_1493/master/1865.jpg?width=140&quality=85&auto=format&fit=max&s=35ecdc7b0f795720f644b261349aeb2a"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
-   "summary": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
-   "date": "2026-11-05T23:00:10+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Deschamps not interested in Man Utd job - Friday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
-   "summary": "Didier Deschamps is not interested in becoming Manchester United's manager, Arsenal are interested in Club Brugge striker Nicolo Tresoldi, plus more.",
-   "date": "2026-11-05T22:49:23+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7c/live/f8e97940-d969-11f1-93e1-3b657b665bcf.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Scott Parker\u2019s dramatic West Ham return leaves him struggling for words",
-   "link": "https://www.theguardian.com/football/2026/nov/05/scott-parkers-dramatic-west-ham-return-leaves-him-struggling-for-words",
-   "summary": "The former midfielder with impressive managerial promotion record began with a thrilling comeback in draw at CardiffThree days in and Scott Parker has already lost his voice. West Ham\u2019s head coach arrived on Tuesday,\u2026",
-   "date": "2026-11-05T22:30:35+00:00",
-   "image": "https://i.guim.co.uk/img/media/59dbef7c403bddefffc473d430bd22a167dabef0/300_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=77e903ae88841d2abe35d4b530b867b0"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Forest need balance between Woodstock and military - Glasner",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
-   "date": "2026-11-05T22:30:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ea/live/40bb5860-d965-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek 10.",
-   "date": "2026-11-05T22:26:23+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5b/live/fcfa5550-d963-11f1-b441-2b33b063138f.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Euro Leagues",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pljnrs?at_medium=RSS&at_campaign=rss",
-   "summary": "Reaction to Cristiano Ronaldo\u2019s retirement from Portugal.",
-   "date": "2026-11-05T22:18:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pljntv.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Goodwin keen but realistic over Cameron move - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9z99we1yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Dundee United manager addresses possibility of formalising move for loan player as Dundee set for stadium public consultation.",
+   "date": "2026-11-06T07:27:05+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb2/live/44316fe0-d9b3-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
+   "date": "2026-11-06T06:53:56+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "From playing against Messi & Ronaldo to non-league",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Fernando Forestieri, whose career has seen him play against Lionel Messi and Cristiano Ronaldo, is looking to inspire non-league Oxford City to a memorable FA Cup win over Leicester City.",
+   "date": "2026-11-06T06:42:07+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7d1/live/c26e86a0-d82c-11f1-be97-417dbcdedd32.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
+   "summary": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+   "date": "2026-11-06T06:22:00+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
+   "summary": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
+   "date": "2026-11-06T06:17:13+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-06T06:13:26+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
    "source": "The Guardian",
    "title": "Cape Verde captain Ryan Mendes cleared of rape allegation as woman charged with false statement",
    "link": "https://www.theguardian.com/football/2026/nov/06/cape-verde-football-ryan-mendes-sexual-assault-allegation-dismissed-ntwnfb",
@@ -113,14 +161,6 @@
    "summary": "Evanilson helps Bournemouth to 3-1 win at Sparta PragueFerencvaros prevail 2-0 at Milan to keep 100% recordSunderland\u2019s unbeaten run in the Europa League came to an end as they were beaten 2-0 by Dinamo Zagreb at the\u2026",
    "date": "2026-11-05T23:27:14+00:00",
    "image": "https://i.guim.co.uk/img/media/4718194e042b637ce1e14510eea795bf0b2a463e/675_50_1865_1493/master/1865.jpg?width=140&quality=85&auto=format&fit=max&s=35ecdc7b0f795720f644b261349aeb2a"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
-   "summary": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
-   "date": "2026-11-05T23:00:10+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
   },
   {
    "source": "BBC Sport",
@@ -156,7 +196,7 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Euro Leagues",
+   "title": "What legacy does Ronaldo leave on international stage?",
    "link": "https://www.bbc.co.uk/sounds/play/p0pljnrs?at_medium=RSS&at_campaign=rss",
    "summary": "Reaction to Cristiano Ronaldo\u2019s retirement from Portugal.",
    "date": "2026-11-05T22:18:00+00:00",
@@ -459,14 +499,6 @@
    "image": "https://i.guim.co.uk/img/media/1284976770fa7222953f38eed71a5eb562c3ea08/378_0_3494_2795/master/3494.jpg?width=140&quality=85&auto=format&fit=max&s=32acf378b7a4bb25089b5804388715fa"
   },
   {
-   "source": "BBC Sport",
-   "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
-   "date": "2026-11-05T08:24:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Uefa faces political flashpoint over Sevastopol\u2019s ascent in Russian football",
    "link": "https://www.theguardian.com/football/2026/nov/05/uefa-fifa-ukraine-crimea-sevastopol-promotion-russia-war",
@@ -492,27 +524,11 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6y4xznww9xpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "date": "2026-11-05T06:30:52+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Meet the people set for key role in deciding Man City fate",
    "link": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
    "summary": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
    "date": "2026-11-05T06:26:11+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/733de250-c978-11f1-a64c-550be9e3c66b.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Hearts lose Miller for two months as injuries mount",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o?at_medium=RSS&at_campaign=rss",
-   "summary": "Heart of Midlothian will be without Calvin Miller for two months after the winger suffered a knee injury that requires surgery in Sunday's Premier Sports Cup semi-final defeat by Hibernian.",
-   "date": "2026-11-04T19:00:49+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d24/live/c007e640-d881-11f1-a364-a1fce50dd192.jpg"
   },
   {
    "source": "BBC Sport",
@@ -545,22 +561,6 @@
    "summary": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
    "date": "2026-11-04T16:12:46+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "\u2018She can do what Beckham did\u2019: Oc\u00e9ane Hurtr\u00e9 making waves at Birmingham",
-   "link": "https://www.theguardian.com/football/2026/nov/04/oceane-hurtre-birmingham-womens-super-league-france",
-   "summary": "WSL\u2019s second-highest goalscorer is likened to England legend for her crossing and has earned France call-upAt the conclusion of Birmingham\u2019s warm-up, the players quietly and carefully placed their footballs into a\u2026",
-   "date": "2026-11-04T13:00:11+00:00",
-   "image": "https://i.guim.co.uk/img/media/4b2eaee0eba4fa1223c9bb2a45a597580b01fb66/301_0_3347_2677/master/3347.jpg?width=140&quality=85&auto=format&fit=max&s=2917251e2616702c532d00c1d2c3eb82"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Fans pay respects to Tenerife's De Miguel",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c862yezg92qqo?at_medium=RSS&at_campaign=rss",
-   "summary": "Fans gathered to pay their respects to Tenerife striker Jesus de Miguel who died after suffered a serious injury during a Spanish second-division match.",
-   "date": "2026-11-04T11:05:16+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb9a/live/05e8f080-d83e-11f1-b441-2b33b063138f.jpg"
   }
  ],
  "videos": [
