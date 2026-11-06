@@ -1,12 +1,36 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Has Anderson lived up to the hype after Man City move?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
+   "summary": "As Elliot Anderson returns to Nottingham Forest after his \u00a3116m move to Manchester City, has he lived up to the price tag?",
+   "date": "2026-11-06T12:00:18+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/2656a970-d86b-11f1-85ab-b3cc3b5498c6.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Palmer misses too many chances to impress - Tuchel",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
+   "summary": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for England's November Nations League fixtures.",
+   "date": "2026-11-06T11:59:37+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8811/live/cd3bd6d0-d9cd-11f1-bb8e-efaa31738708.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Jobe Bellingham called up by England, Sunderland face jeers and the FA Cup first round: football news \u2013 live",
+   "title": "Jobe Bellingham earned England call with \u2019special performances\u2019; Palmer left out \u2013 football news",
    "link": "https://www.theguardian.com/football/live/2026/nov/06/england-squad-announced-sunderland-face-jeers-and-fa-cup-first-round-football-news-live",
    "summary": "\u26bd All the latest heading into a busy weekend of football\u26bd Premier League: 10 things to look out for | Mail DavidWhat do we make of that then? Josh King a better player than Cole Palmer? Looks like this goes beyond just\u2026",
-   "date": "2026-11-06T11:09:13+00:00",
+   "date": "2026-11-06T11:41:09+00:00",
    "image": "https://i.guim.co.uk/img/media/4835d8d24f2f8d5557382d2e4b9286b3adf950bb/588_0_5595_4476/master/5595.jpg?width=140&quality=85&auto=format&fit=max&s=71d408468d4a5fa02d734f7c2884236a"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
+   "summary": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
+   "date": "2026-11-06T11:16:07+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e8/live/f9eca4e0-d9cb-11f1-bb8e-efaa31738708.png"
   },
   {
    "source": "The Guardian",
@@ -55,40 +79,40 @@
    "summary": "Can Celtic build on their European comeback as another huge Premiership weekend looms?",
    "date": "2026-11-06T08:00:00+00:00",
    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pll46p.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "How much prize money can teams win in FA Cup?",
-   "link": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Our Ask Me Anything team look at what teams could be set to earn from the 2026-27 FA Cup.",
-   "date": "2026-11-06T07:50:11+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e4/live/5a50dcb0-d6cb-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "How to follow the FA Cup on the BBC this weekend",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.",
-   "date": "2026-11-06T07:47:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a50/live/eb177540-d6af-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Goodwin keen but realistic over Cameron move - gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9z99we1yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Dundee United manager addresses possibility of formalising move for loan player as Dundee set for stadium public consultation.",
-   "date": "2026-11-06T07:27:05+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb2/live/44316fe0-d9b3-11f1-93e1-3b657b665bcf.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Has Anderson lived up to the hype after Man City move?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
+   "summary": "As Elliot Anderson returns to Nottingham Forest after his \u00a3116m move to Manchester City, has he lived up to the price tag?",
+   "date": "2026-11-06T12:00:18+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/2656a970-d86b-11f1-85ab-b3cc3b5498c6.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Palmer misses too many chances to impress - Tuchel",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
+   "summary": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for England's November Nations League fixtures.",
+   "date": "2026-11-06T11:59:37+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8811/live/cd3bd6d0-d9cd-11f1-bb8e-efaa31738708.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Jobe Bellingham called up by England, Sunderland face jeers and the FA Cup first round: football news \u2013 live",
+   "title": "Jobe Bellingham earned England call with \u2019special performances\u2019; Palmer left out \u2013 football news",
    "link": "https://www.theguardian.com/football/live/2026/nov/06/england-squad-announced-sunderland-face-jeers-and-fa-cup-first-round-football-news-live",
    "summary": "\u26bd All the latest heading into a busy weekend of football\u26bd Premier League: 10 things to look out for | Mail DavidWhat do we make of that then? Josh King a better player than Cole Palmer? Looks like this goes beyond just\u2026",
-   "date": "2026-11-06T11:09:13+00:00",
+   "date": "2026-11-06T11:41:09+00:00",
    "image": "https://i.guim.co.uk/img/media/4835d8d24f2f8d5557382d2e4b9286b3adf950bb/588_0_5595_4476/master/5595.jpg?width=140&quality=85&auto=format&fit=max&s=71d408468d4a5fa02d734f7c2884236a"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
+   "summary": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
+   "date": "2026-11-06T11:16:07+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e8/live/f9eca4e0-d9cb-11f1-bb8e-efaa31738708.png"
   },
   {
    "source": "The Guardian",
@@ -435,14 +459,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3106/live/2e505630-d91a-11f1-93e1-3b657b665bcf.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "Coleman in 'hybrid role' with Republic of Ireland",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Republic of Ireland manager Heimir Hallgrimsson says it was \"tempting\" to include Seamus Coleman in his squad for this month's Nations League matches against Austria and Kosovo despite the defender having not played\u2026",
-   "date": "2026-11-05T13:03:43+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244c/live/93c2f6f0-d913-11f1-a81d-35e942472442.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "The international break is almost here: so wave goodbye to your players, and maybe your manager | Max Rushden",
    "link": "https://www.theguardian.com/football/2026/nov/05/the-international-break-is-almost-here-so-wave-goodbye-to-your-players-and-maybe-your-manager",
@@ -545,25 +561,15 @@
    "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
    "date": "2026-11-04T16:40:38+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Upward path for Penrice has McInnes eager for Rangers deal",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&at_campaign=rss",
-   "summary": "Rangers boss Derek McInnes stresses his desire to sign James Penrice on a permanent deal, with the full-back's impact leading to a first Scotland call.",
-   "date": "2026-11-04T16:38:41+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
-   "summary": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
-   "date": "2026-11-04T16:12:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "Serie A",
+   "id": "iu5lCqsYJqI",
+   "title": "FIORENTINA-JUVENTUS 1-1 | CLASSIC HIGHLIGHTS SERIE A 2025/26",
+   "date": "2026-11-06T12:00:32+00:00"
+  },
   {
    "channel": "UEFA",
    "id": "Zf6mc9QWKU0",
@@ -665,12 +671,6 @@
    "id": "qO_3oepajYc",
    "title": "ALL ROUND 9 HIGHLIGHTS \u26bd | PRIMAVERA 1 2026/27",
    "date": "2026-11-04T17:23:20+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "AujjLj71dGw",
-   "title": "Meet Frosinone\u2019s FANTASTIC FOUR \ud83d\udd25 | Goals & Assists | Serie A 2026/27",
-   "date": "2026-11-04T16:00:12+00:00"
   },
   {
    "channel": "Premier League",
