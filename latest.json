@@ -2,11 +2,11 @@
  "news": [
   {
    "source": "The Guardian",
-   "title": "Jobe Bellingham joining Jude in England squad is \u2018beautiful\u2019, says Tuchel: football news \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/06/england-squad-announced-sunderland-face-jeers-and-fa-cup-first-round-football-news-live",
-   "summary": "\u26bd All the latest heading into a busy weekend of football\u26bd Premier League: 10 things to look out for | Mail TomWhat do we make of that then? Josh King a better player than Cole Palmer? Looks like this goes beyond just\u2026",
-   "date": "2026-11-06T17:21:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/b0d33f547e93a4f8986eec3da7a3b51410509f44/65_0_4772_3817/master/4772.jpg?width=140&quality=85&auto=format&fit=max&s=a97022d77e0cf8c9ecf0836f1399587a"
+   "title": "Everton v Coventry City: Premier League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/06/everton-v-coventry-city-premier-league-live-updates",
+   "summary": "\u26bd Premier League updates from the 8pm GMT kick-off\u26bd Today\u2019s Football Daily | Live scores | Table | Mail ScottThere\u2019s no Jack Grealish in the Everton squad, by the way. But then did anyone really expect that?Coventry\u2026",
+   "date": "2026-11-06T19:00:11+00:00",
+   "image": "https://i.guim.co.uk/img/media/8694818a761673e707123bd6b85a1672b4dea484/132_34_1297_1038/master/1297.jpg?width=140&quality=85&auto=format&fit=max&s=52fafe67591d7278362cd54b93ec6da4"
   },
   {
    "source": "BBC Sport",
@@ -84,11 +84,11 @@
  "news_all": [
   {
    "source": "The Guardian",
-   "title": "Jobe Bellingham joining Jude in England squad is \u2018beautiful\u2019, says Tuchel: football news \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/06/england-squad-announced-sunderland-face-jeers-and-fa-cup-first-round-football-news-live",
-   "summary": "\u26bd All the latest heading into a busy weekend of football\u26bd Premier League: 10 things to look out for | Mail TomWhat do we make of that then? Josh King a better player than Cole Palmer? Looks like this goes beyond just\u2026",
-   "date": "2026-11-06T17:21:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/b0d33f547e93a4f8986eec3da7a3b51410509f44/65_0_4772_3817/master/4772.jpg?width=140&quality=85&auto=format&fit=max&s=a97022d77e0cf8c9ecf0836f1399587a"
+   "title": "Everton v Coventry City: Premier League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/06/everton-v-coventry-city-premier-league-live-updates",
+   "summary": "\u26bd Premier League updates from the 8pm GMT kick-off\u26bd Today\u2019s Football Daily | Live scores | Table | Mail ScottThere\u2019s no Jack Grealish in the Everton squad, by the way. But then did anyone really expect that?Coventry\u2026",
+   "date": "2026-11-06T19:00:11+00:00",
+   "image": "https://i.guim.co.uk/img/media/8694818a761673e707123bd6b85a1672b4dea484/132_34_1297_1038/master/1297.jpg?width=140&quality=85&auto=format&fit=max&s=52fafe67591d7278362cd54b93ec6da4"
   },
   {
    "source": "BBC Sport",
@@ -565,6 +565,12 @@
  ],
  "videos": [
   {
+   "channel": "UEFA",
+   "id": "KS-yY0LUAFg",
+   "title": "Ebrim Singhateh is your Goal of the Day winner in the Europa League",
+   "date": "2026-11-06T18:30:16+00:00"
+  },
+  {
    "channel": "FIFA",
    "id": "LSkz9G5AT8I",
    "title": "Lamine Yamal SCORES | Spain 4-0 Saudi Arabia | 2026 World Cup EXTENDED HIGHLIGHTS",
@@ -667,10 +673,22 @@
    "date": "2026-11-05T12:00:12+00:00"
   },
   {
-   "channel": "Bundesliga",
-   "id": "GdUdeOIAubk",
-   "title": "14 years later, F\u00fcllkrug\u2018s still scoring goals like this\u2026 \ud83d\udc9a\ud83d\udd25",
-   "date": "2026-11-05T11:00:20+00:00"
+   "channel": "Ligue 1",
+   "id": "F9kE9m16J6o",
+   "title": "Le TOP ARR\u00caTS d'octobre en Ligue 1 McDonald's \ud83e\udde4\u200b",
+   "date": "2026-11-06T19:05:08+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "RcrBZ7mzIO8",
+   "title": "REFCAM Athletic Club vs Real Sociedad",
+   "date": "2026-11-06T18:47:39+00:00"
+  },
+  {
+   "channel": "Premier League",
+   "id": "PlOh5Uu6y_4",
+   "title": "It Took Just 6 Touches To Find The Net! \ud83e\udeea",
+   "date": "2026-11-06T18:00:36+00:00"
   },
   {
    "channel": "Premier League",
@@ -689,24 +707,6 @@
    "id": "Tpsd7mM8wYY",
    "title": "FULL MATCH | Spain v Netherlands | Quarter-Finals | FIFA Women's World Cup 2023\u2122",
    "date": "2026-11-06T16:51:36+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "GaTEA7oKFZM",
-   "title": "First Save Or Second Save? Back-To-Back Blocks From Johny Placide",
-   "date": "2026-11-06T15:30:34+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "vk7KZqGM9sg",
-   "title": "Leo Messi a pase de Lamine Yamal",
-   "date": "2026-11-06T15:00:37+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "l4qpo2TsOcs",
-   "title": "DER KLASSIKER REACTIONS With Klinsmann and Many More Legends! | Bundesliga Haus Podcast S.2 Ep.4",
-   "date": "2026-11-06T15:00:22+00:00"
   }
  ],
  "fixtures": [
@@ -1051,6 +1051,7 @@
    "clock": "0'",
    "venue": "Stadio Pier Luigi Penzo",
    "usa": [
+    "CBSSN",
     "Paramount+"
    ]
   },
@@ -1602,6 +1603,7 @@
    "clock": "0'",
    "venue": "U-Power Stadium",
    "usa": [
+    "CBSSN",
     "Paramount+"
    ]
   },
@@ -6352,6 +6354,7 @@
    "clock": "0'",
    "venue": "Stadio Pier Luigi Penzo",
    "usa": [
+    "CBSSN",
     "Paramount+"
    ]
   },
@@ -6903,6 +6906,7 @@
    "clock": "0'",
    "venue": "U-Power Stadium",
    "usa": [
+    "CBSSN",
     "Paramount+"
    ]
   },
