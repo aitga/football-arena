@@ -1,20 +1,28 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Cape Verde captain Ryan Mendes cleared of rape allegation as woman charged with false statement",
+   "link": "https://www.theguardian.com/football/2026/nov/06/cape-verde-football-ryan-mendes-sexual-assault-allegation-dismissed-ntwnfb",
+   "summary": "New Zealand police dismiss claim of sexual assault at Auckland hotelIncident alleged to have occurred after football friendly in MarchNew Zealand police have dismissed a rape allegation against Cape Verde football\u2026",
+   "date": "2026-11-06T03:37:32+00:00",
+   "image": "https://i.guim.co.uk/img/media/dac8f928ed495dc64c04dadf7755a53757e88716/0_369_3172_2538/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=eccff75f803004d6008e2c528c930d24"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Socceroos urge FA to move Jordan friendly in Middle East due to safety concerns",
+   "link": "https://www.theguardian.com/football/2026/nov/06/socceroos-football-australia-jordan-friendly-middle-east-safety-concerns",
+   "summary": "Australia to face Qatar in Doha before football match in AmmanSome players reluctant to travel to region where Asian Cup postponedSocceroos players, via their union, have urged Football Australia to reschedule or\u2026",
+   "date": "2026-11-06T03:10:55+00:00",
+   "image": "https://i.guim.co.uk/img/media/787f0305e715fac9e60aac2da0b3d6e54a3985fa/653_111_3962_3169/master/3962.jpg?width=140&quality=85&auto=format&fit=max&s=913eccd0cd7d2fa7d5a5e2113c7780a2"
+  },
+  {
    "source": "BBC Sport",
    "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss",
    "summary": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
    "date": "2026-11-06T00:10:28+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/2cdec430-d96f-11f1-9fd0-cdf612d1539f.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Premier League: 10 things to look out for this weekend",
-   "link": "https://www.theguardian.com/football/2026/nov/06/premier-league-10-things-to-look-out-for-this-weekend",
-   "summary": "Lampard appreciation at Everton, Glasner sparking Forest fire, Zubimendi and Kroupi in spotlight and Carrick v EmeryPremier League top scorersNothing better encapsulates the dysfunction that was Everton under Farhad\u2026",
-   "date": "2026-11-06T00:01:37+00:00",
-   "image": "https://i.guim.co.uk/img/media/ee7c2b03da707865b8025e1eacefffd085a6e9a1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ba9faaa1ea6a2f22c9760fc34d684fab"
   },
   {
    "source": "The Guardian",
@@ -71,17 +79,25 @@
    "summary": "Reaction to Cristiano Ronaldo\u2019s retirement from Portugal.",
    "date": "2026-11-05T22:18:00+00:00",
    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pljntv.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "\u2018In moments of pain, football comes together\u2019: Spain says goodbye to Jes\u00fas de Miguel",
-   "link": "https://www.theguardian.com/football/2026/nov/05/jesus-de-miguel-death-tenerife-funeral-football-spain",
-   "summary": "Only 3,587 people live in his family\u2019s village but the streets of Navahermosa were fuller yet quieter to mourn the Tenerife striker at his funeralThe narrow streets of Navahermosa in La Mancha were fuller than they have\u2026",
-   "date": "2026-11-05T22:03:49+00:00",
-   "image": "https://i.guim.co.uk/img/media/eea7928b70b174eebe5b6e5016c4356c4b57a54c/385_0_5850_4680/master/5850.jpg?width=140&quality=85&auto=format&fit=max&s=524992fc8ec9ac2a017351caae7c5b97"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Cape Verde captain Ryan Mendes cleared of rape allegation as woman charged with false statement",
+   "link": "https://www.theguardian.com/football/2026/nov/06/cape-verde-football-ryan-mendes-sexual-assault-allegation-dismissed-ntwnfb",
+   "summary": "New Zealand police dismiss claim of sexual assault at Auckland hotelIncident alleged to have occurred after football friendly in MarchNew Zealand police have dismissed a rape allegation against Cape Verde football\u2026",
+   "date": "2026-11-06T03:37:32+00:00",
+   "image": "https://i.guim.co.uk/img/media/dac8f928ed495dc64c04dadf7755a53757e88716/0_369_3172_2538/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=eccff75f803004d6008e2c528c930d24"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Socceroos urge FA to move Jordan friendly in Middle East due to safety concerns",
+   "link": "https://www.theguardian.com/football/2026/nov/06/socceroos-football-australia-jordan-friendly-middle-east-safety-concerns",
+   "summary": "Australia to face Qatar in Doha before football match in AmmanSome players reluctant to travel to region where Asian Cup postponedSocceroos players, via their union, have urged Football Australia to reschedule or\u2026",
+   "date": "2026-11-06T03:10:55+00:00",
+   "image": "https://i.guim.co.uk/img/media/787f0305e715fac9e60aac2da0b3d6e54a3985fa/653_111_3962_3169/master/3962.jpg?width=140&quality=85&auto=format&fit=max&s=913eccd0cd7d2fa7d5a5e2113c7780a2"
+  },
   {
    "source": "BBC Sport",
    "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
@@ -89,14 +105,6 @@
    "summary": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
    "date": "2026-11-06T00:10:28+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/2cdec430-d96f-11f1-9fd0-cdf612d1539f.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Premier League: 10 things to look out for this weekend",
-   "link": "https://www.theguardian.com/football/2026/nov/06/premier-league-10-things-to-look-out-for-this-weekend",
-   "summary": "Lampard appreciation at Everton, Glasner sparking Forest fire, Zubimendi and Kroupi in spotlight and Carrick v EmeryPremier League top scorersNothing better encapsulates the dysfunction that was Everton under Farhad\u2026",
-   "date": "2026-11-06T00:01:37+00:00",
-   "image": "https://i.guim.co.uk/img/media/ee7c2b03da707865b8025e1eacefffd085a6e9a1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ba9faaa1ea6a2f22c9760fc34d684fab"
   },
   {
    "source": "The Guardian",
@@ -451,14 +459,6 @@
    "image": "https://i.guim.co.uk/img/media/1284976770fa7222953f38eed71a5eb562c3ea08/378_0_3494_2795/master/3494.jpg?width=140&quality=85&auto=format&fit=max&s=32acf378b7a4bb25089b5804388715fa"
   },
   {
-   "source": "The Guardian",
-   "title": "Ballon d\u2019Or winner Harry Kane signs new contract with Bayern through to 2029",
-   "link": "https://www.theguardian.com/football/2026/nov/05/ballon-dor-winner-harry-kane-signs-new-contract-with-bayern-munich-2029",
-   "summary": "\u2018I love the club, fans and the city of Munich,\u2019 says strikerKane has 156 goals in 161 Bayern games since 2023England captain and Ballon d\u2019Or winner Harry Kane has signed a new deal with Bayern Munich through to 2029,\u2026",
-   "date": "2026-11-05T08:43:01+00:00",
-   "image": "https://i.guim.co.uk/img/media/1f5cb58d05f35119872b68242feea46abbf67af8/429_0_3598_2879/master/3598.jpg?width=140&quality=85&auto=format&fit=max&s=17832b27df2bcb99926ae0e0564ec327"
-  },
-  {
    "source": "BBC Sport",
    "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
@@ -539,14 +539,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f333/live/266cb230-d85a-11f1-94f3-cf7d1e52bb8c.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Goalkeeper Jes\u00fas Owono experiencing \u2018hardest days of my life\u2019 after De Miguel\u2019s death",
-   "link": "https://www.theguardian.com/football/2026/nov/04/goalkeeper-jesus-owono-jesus-de-miguel-death-tenerife-deeply-affected-andorra",
-   "summary": "Owono says he feels \u2018huge pain\u2019 over tragedyInvestigation into medical attention De Miguel receivedThe FC Andorra goalkeeper Jes\u00fas Owono said he was enduring the \u201chardest days of my life\u201d after he was involved in the\u2026",
-   "date": "2026-11-04T16:23:02+00:00",
-   "image": "https://i.guim.co.uk/img/media/5f17bf842665d6d271246b1402b0d764097498f2/754_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=80df570f5e0f6c8736cb76f968c21caa"
-  },
-  {
    "source": "BBC Sport",
    "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
@@ -561,6 +553,14 @@
    "summary": "WSL\u2019s second-highest goalscorer is likened to England legend for her crossing and has earned France call-upAt the conclusion of Birmingham\u2019s warm-up, the players quietly and carefully placed their footballs into a\u2026",
    "date": "2026-11-04T13:00:11+00:00",
    "image": "https://i.guim.co.uk/img/media/4b2eaee0eba4fa1223c9bb2a45a597580b01fb66/301_0_3347_2677/master/3347.jpg?width=140&quality=85&auto=format&fit=max&s=2917251e2616702c532d00c1d2c3eb82"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Fans pay respects to Tenerife's De Miguel",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c862yezg92qqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Fans gathered to pay their respects to Tenerife striker Jesus de Miguel who died after suffered a serious injury during a Spanish second-division match.",
+   "date": "2026-11-04T11:05:16+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb9a/live/05e8f080-d83e-11f1-b441-2b33b063138f.jpg"
   }
  ],
  "videos": [
