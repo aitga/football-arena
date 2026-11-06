@@ -1,6 +1,14 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Jobe Bellingham \u2018deserves\u2019 England call; Kompany on track for \u2018full recovery\u2019; Coady retires: football news \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/06/england-squad-announced-sunderland-face-jeers-and-fa-cup-first-round-football-news-live",
+   "summary": "\u26bd All the latest heading into a busy weekend of football\u26bd Premier League: 10 things to look out for | Mail DavidWhat do we make of that then? Josh King a better player than Cole Palmer? Looks like this goes beyond just\u2026",
+   "date": "2026-11-06T12:58:30+00:00",
+   "image": "https://i.guim.co.uk/img/media/614cd909a1fc543ffbcda819170583e57dd11721/1072_98_2885_2308/master/2885.jpg?width=140&quality=85&auto=format&fit=max&s=7866b00516e57e19caca8529b8900949"
+  },
+  {
    "source": "BBC Sport",
    "title": "Has Anderson lived up to the hype after Man City move?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
@@ -12,17 +20,9 @@
    "source": "BBC Sport",
    "title": "Palmer misses too many chances to impress - Tuchel",
    "link": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
-   "summary": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for England's November Nations League fixtures.",
+   "summary": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
    "date": "2026-11-06T11:59:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8811/live/cd3bd6d0-d9cd-11f1-bb8e-efaa31738708.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Jobe Bellingham earned England call with \u2019special performances\u2019; Palmer left out \u2013 football news",
-   "link": "https://www.theguardian.com/football/live/2026/nov/06/england-squad-announced-sunderland-face-jeers-and-fa-cup-first-round-football-news-live",
-   "summary": "\u26bd All the latest heading into a busy weekend of football\u26bd Premier League: 10 things to look out for | Mail DavidWhat do we make of that then? Josh King a better player than Cole Palmer? Looks like this goes beyond just\u2026",
-   "date": "2026-11-06T11:41:09+00:00",
-   "image": "https://i.guim.co.uk/img/media/4835d8d24f2f8d5557382d2e4b9286b3adf950bb/588_0_5595_4476/master/5595.jpg?width=140&quality=85&auto=format&fit=max&s=71d408468d4a5fa02d734f7c2884236a"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f49b/live/366055d0-d9e4-11f1-bbe5-797ee05bee69.jpg"
   },
   {
    "source": "BBC Sport",
@@ -66,23 +66,31 @@
   },
   {
    "source": "BBC Sport",
+   "title": "Diamonds are forever - phoenix club seek FA Cup upset",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o?at_medium=RSS&at_campaign=rss",
+   "summary": "Eighth-tier AFC Rushden & Diamonds travel to Burton Albion looking to add a glorious chapter to their FA Cup fairytale.",
+   "date": "2026-11-06T08:22:16+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d4e/live/fdb76130-d90a-11f1-b72c-d16cdc75f35f.png"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Lampard looks for Coventry progress as belief grows",
    "link": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o?at_medium=RSS&at_campaign=rss",
    "summary": "Coventry City could move 11th in the Premier League with victory at Everton on Friday as Frank Lampard returns to the Toffees with his side growing in confidence.",
    "date": "2026-11-06T08:11:03+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f10/live/07e8baa0-d95b-11f1-a800-d9dce9e5aa21.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Podcast: After dramatic Euro comeback, have Celtic found spark? It's the SPFL weekend preview",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pll0yb?at_medium=RSS&at_campaign=rss",
-   "summary": "Can Celtic build on their European comeback as another huge Premiership weekend looms?",
-   "date": "2026-11-06T08:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pll46p.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "The Guardian",
+   "title": "Jobe Bellingham \u2018deserves\u2019 England call; Kompany on track for \u2018full recovery\u2019; Coady retires: football news \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/06/england-squad-announced-sunderland-face-jeers-and-fa-cup-first-round-football-news-live",
+   "summary": "\u26bd All the latest heading into a busy weekend of football\u26bd Premier League: 10 things to look out for | Mail DavidWhat do we make of that then? Josh King a better player than Cole Palmer? Looks like this goes beyond just\u2026",
+   "date": "2026-11-06T12:58:30+00:00",
+   "image": "https://i.guim.co.uk/img/media/614cd909a1fc543ffbcda819170583e57dd11721/1072_98_2885_2308/master/2885.jpg?width=140&quality=85&auto=format&fit=max&s=7866b00516e57e19caca8529b8900949"
+  },
+  {
    "source": "BBC Sport",
    "title": "Has Anderson lived up to the hype after Man City move?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
@@ -94,17 +102,9 @@
    "source": "BBC Sport",
    "title": "Palmer misses too many chances to impress - Tuchel",
    "link": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
-   "summary": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for England's November Nations League fixtures.",
+   "summary": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
    "date": "2026-11-06T11:59:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8811/live/cd3bd6d0-d9cd-11f1-bb8e-efaa31738708.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Jobe Bellingham earned England call with \u2019special performances\u2019; Palmer left out \u2013 football news",
-   "link": "https://www.theguardian.com/football/live/2026/nov/06/england-squad-announced-sunderland-face-jeers-and-fa-cup-first-round-football-news-live",
-   "summary": "\u26bd All the latest heading into a busy weekend of football\u26bd Premier League: 10 things to look out for | Mail DavidWhat do we make of that then? Josh King a better player than Cole Palmer? Looks like this goes beyond just\u2026",
-   "date": "2026-11-06T11:41:09+00:00",
-   "image": "https://i.guim.co.uk/img/media/4835d8d24f2f8d5557382d2e4b9286b3adf950bb/588_0_5595_4476/master/5595.jpg?width=140&quality=85&auto=format&fit=max&s=71d408468d4a5fa02d734f7c2884236a"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f49b/live/366055d0-d9e4-11f1-bbe5-797ee05bee69.jpg"
   },
   {
    "source": "BBC Sport",
@@ -148,11 +148,27 @@
   },
   {
    "source": "BBC Sport",
+   "title": "Diamonds are forever - phoenix club seek FA Cup upset",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o?at_medium=RSS&at_campaign=rss",
+   "summary": "Eighth-tier AFC Rushden & Diamonds travel to Burton Albion looking to add a glorious chapter to their FA Cup fairytale.",
+   "date": "2026-11-06T08:22:16+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d4e/live/fdb76130-d90a-11f1-b72c-d16cdc75f35f.png"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Lampard looks for Coventry progress as belief grows",
    "link": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o?at_medium=RSS&at_campaign=rss",
    "summary": "Coventry City could move 11th in the Premier League with victory at Everton on Friday as Frank Lampard returns to the Toffees with his side growing in confidence.",
    "date": "2026-11-06T08:11:03+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f10/live/07e8baa0-d95b-11f1-a800-d9dce9e5aa21.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Win at Everton would put Coventry on right side of history in survival fight",
+   "link": "https://www.theguardian.com/football/2026/nov/06/coventry-everton-frank-lampard-premier-league-survival",
+   "summary": "None of the 21 sides who had 12 points after 10 matches, over the past decade, were relegated from the Premier LeagueIf Coventry win at Everton on Friday night they will take an enormous stride towards maintaining their\u2026",
+   "date": "2026-11-06T08:00:47+00:00",
+   "image": "https://i.guim.co.uk/img/media/a9682d49fc569f9d2b9c050db085e3911174c05e/182_0_1763_1410/master/1763.jpg?width=140&quality=85&auto=format&fit=max&s=9cb1d3fcc1896e29ce059c21414029ec"
   },
   {
    "source": "BBC Sport",
@@ -235,14 +251,6 @@
    "image": "https://i.guim.co.uk/img/media/dac8f928ed495dc64c04dadf7755a53757e88716/0_369_3172_2538/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=eccff75f803004d6008e2c528c930d24"
   },
   {
-   "source": "The Guardian",
-   "title": "Socceroos urge FA to move Jordan friendly in Middle East due to safety concerns",
-   "link": "https://www.theguardian.com/football/2026/nov/06/socceroos-football-australia-jordan-friendly-middle-east-safety-concerns",
-   "summary": "Australia to face Qatar in Doha before football match in AmmanSome players reluctant to travel to region where Asian Cup postponedSocceroos players, via their union, have urged Football Australia to reschedule or\u2026",
-   "date": "2026-11-06T03:10:55+00:00",
-   "image": "https://i.guim.co.uk/img/media/787f0305e715fac9e60aac2da0b3d6e54a3985fa/653_111_3962_3169/master/3962.jpg?width=140&quality=85&auto=format&fit=max&s=913eccd0cd7d2fa7d5a5e2113c7780a2"
-  },
-  {
    "source": "BBC Sport",
    "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss",
@@ -257,6 +265,14 @@
    "summary": "Lampard appreciation at Everton, Glasner sparking Forest fire, Zubimendi and Kroupi in spotlight and Carrick v EmeryPremier League top scorersNothing better encapsulates the dysfunction that was Everton under Farhad\u2026",
    "date": "2026-11-06T00:01:37+00:00",
    "image": "https://i.guim.co.uk/img/media/ee7c2b03da707865b8025e1eacefffd085a6e9a1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ba9faaa1ea6a2f22c9760fc34d684fab"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Europa League: Sunderland lose at home to Zagreb while Celtic enjoy first win",
+   "link": "https://www.theguardian.com/football/2026/nov/05/europa-league-roundup-sparta-prague-bournemouth-ferencvaros-milanstay-perfect-while-milan-sunderland-dinamo-zagreb",
+   "summary": "Evanilson helps Bournemouth to 3-1 win at Sparta PragueFerencvaros prevail 2-0 at Milan to keep 100% recordSunderland\u2019s unbeaten run in the Europa League came to an end as they were beaten 2-0 by Dinamo Zagreb at the\u2026",
+   "date": "2026-11-05T23:27:14+00:00",
+   "image": "https://i.guim.co.uk/img/media/4718194e042b637ce1e14510eea795bf0b2a463e/675_50_1865_1493/master/1865.jpg?width=140&quality=85&auto=format&fit=max&s=35ecdc7b0f795720f644b261349aeb2a"
   },
   {
    "source": "BBC Sport",
@@ -395,14 +411,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410d/live/f2a1a650-d92a-11f1-bd1d-4f4c8335e0ab.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "Everton's Grealish unavailable again after 'breach of discipline'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Jack Grealish remains unavailable for Everton's Premier League clash with Coventry on Friday, manager David Moyes confirms.",
-   "date": "2026-11-05T15:28:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c782/live/445b20c0-d92b-11f1-b441-2b33b063138f.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Champions League review: comebacks, thrashings and a Mauritanian first",
    "link": "https://www.theguardian.com/football/2026/nov/05/champions-league-roundup-koita-real-madrid-bayern-psg",
@@ -515,14 +523,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26a/live/ded10400-cc86-11f1-bed8-c51b95c602ec.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Japan FA\u2019s Kozo Tashima to stand against Infantino for Fifa presidency",
-   "link": "https://www.theguardian.com/football/2026/nov/05/japan-fa-head-kozo-tashima-stand-against-gianni-infantino-for-fifa-president",
-   "summary": "Tashima says he brings \u2018honest, sound, upright attitude\u2019He is understood to have acted with the blessing of UefaThe Japan Football Association\u2019s honorary president, Kozo Tashima, has announced his intention to stand\u2026",
-   "date": "2026-11-05T10:48:42+00:00",
-   "image": "https://i.guim.co.uk/img/media/ba022b67aaec23e366f50ef3dfa4c77ac9910ae9/40_0_3762_3010/master/3762.jpg?width=140&quality=85&auto=format&fit=max&s=08df2669513b4ed87b6885b037f07d22"
-  },
-  {
    "source": "BBC Sport",
    "title": "FA and WSL launch major study into ACL injuries in women's football",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o?at_medium=RSS&at_campaign=rss",
@@ -564,6 +564,12 @@
   }
  ],
  "videos": [
+  {
+   "channel": "UEFA",
+   "id": "NCb3wtrrZSk",
+   "title": "The BEST Goals From Matchweek 4 (UCL, UEL, UECL)",
+   "date": "2026-11-06T12:31:43+00:00"
+  },
   {
    "channel": "Serie A",
    "id": "iu5lCqsYJqI",
@@ -667,10 +673,16 @@
    "date": "2026-11-05T11:00:20+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "qO_3oepajYc",
-   "title": "ALL ROUND 9 HIGHLIGHTS \u26bd | PRIMAVERA 1 2026/27",
-   "date": "2026-11-04T17:23:20+00:00"
+   "channel": "Premier League",
+   "id": "MHUjgyhmcXo",
+   "title": "De Zerbi Has Unlocked Spurs' Midfield \ud83d\udd13",
+   "date": "2026-11-06T12:44:12+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "TmhPkaa51-Y",
+   "title": "Atl\u00e9tico de Madrid 0 - 3 FC Barcelona 2023/24 PARTIDO COMPLETO",
+   "date": "2026-11-06T12:28:34+00:00"
   },
   {
    "channel": "Premier League",
@@ -687,7 +699,7 @@
   {
    "channel": "Premier League",
    "id": "3LnZtia2AL4",
-   "title": "The Bolasie Flick \u2122\ufe0f",
+   "title": "Yannick Bolasie Magic \ud83c\udde8\ud83c\udde9\ud83e\ude84",
    "date": "2026-11-06T10:43:59+00:00"
   },
   {
@@ -695,18 +707,6 @@
    "id": "BX4Qz8FfFCM",
    "title": "The special bond between Yassine and his coach Oliveira \u2764\ufe0f#ligue1mcdonalds  #football #ligue1 #foot",
    "date": "2026-11-06T10:00:03+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "kotvogTg-WY",
-   "title": "Homenaje a Jes\u00fas de Miguel en el Heliodoro Rodr\u00edguez L\u00f3pez",
-   "date": "2026-11-06T09:57:27+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "w0E4X1Ituqs",
-   "title": "Atl\u00e9tico de Madrid vs. Barcelona: \u00a1EL PARTIDAZO de la jornada! | JORNADA DIGITAL",
-   "date": "2026-11-06T09:51:09+00:00"
   }
  ],
  "fixtures": [
