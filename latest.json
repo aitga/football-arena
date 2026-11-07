@@ -2,6 +2,14 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+   "summary": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+   "date": "2026-11-06T23:53:06+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8417/live/c55f7ff0-da38-11f1-bde4-c13870167801.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Leicester hold nerve to knock out sixth-tier Oxford City",
    "link": "https://www.bbc.co.uk/sport/football/videos/c8qlnn4dvp3yo?at_medium=RSS&at_campaign=rss",
    "summary": "League One side, and 2021 champions, Leicester City avoid an upset as they beat sixth-tier Oxford City 4-2 at the MGroup Stadium, to reach the second round of the FA Cup.",
@@ -71,19 +79,19 @@
    "summary": "Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.",
    "date": "2026-11-06T22:06:01+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a43/live/23d437d0-da2d-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Thierno Barry double fires Everton to comeback win against Coventry",
-   "link": "https://www.theguardian.com/football/2026/nov/06/everton-coventry-premier-league-match-report",
-   "summary": "The most optimistic Evertonian \u2013 if that is not an oxymoron \u2013 could not have envisaged David Moyes\u2019s team sitting fifth in the Premier League and Thierno Barry just behind Erling Haaland in the goalscoring chart at the\u2026",
-   "date": "2026-11-06T22:03:48+00:00",
-   "image": "https://i.guim.co.uk/img/media/faee4eedcdd07bdc1ae9a290d4eea8e3b2fdb21d/405_0_4050_3240/master/4050.jpg?width=140&quality=85&auto=format&fit=max&s=7ca64cc8049ae27ca0e4be465c570d0b"
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
+   "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+   "summary": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+   "date": "2026-11-06T23:53:06+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8417/live/c55f7ff0-da38-11f1-bde4-c13870167801.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Leicester hold nerve to knock out sixth-tier Oxford City",
    "link": "https://www.bbc.co.uk/sport/football/videos/c8qlnn4dvp3yo?at_medium=RSS&at_campaign=rss",
    "summary": "League One side, and 2021 champions, Leicester City avoid an upset as they beat sixth-tier Oxford City 4-2 at the MGroup Stadium, to reach the second round of the FA Cup.",
@@ -158,7 +166,7 @@
    "source": "The Guardian",
    "title": "Thierno Barry double fires Everton to comeback win against Coventry",
    "link": "https://www.theguardian.com/football/2026/nov/06/everton-coventry-premier-league-match-report",
-   "summary": "The most optimistic Evertonian \u2013 if that is not an oxymoron \u2013 could not have envisaged David Moyes\u2019s team sitting fifth in the Premier League and Thierno Barry just behind Erling Haaland in the goalscoring chart at the\u2026",
+   "summary": "The wildly optimistic Evertonian \u2013 if such a being exists \u2013 could not have envisaged David Moyes\u2019 side fifth in the Premier League with Thierno Barry just behind Erling Haaland in the goalscoring chart when their\u2026",
    "date": "2026-11-06T22:03:48+00:00",
    "image": "https://i.guim.co.uk/img/media/faee4eedcdd07bdc1ae9a290d4eea8e3b2fdb21d/405_0_4050_3240/master/4050.jpg?width=140&quality=85&auto=format&fit=max&s=7ca64cc8049ae27ca0e4be465c570d0b"
   },
@@ -499,14 +507,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2355/live/30c520d0-d627-11f1-93e1-3b657b665bcf.png"
   },
   {
-   "source": "BBC Sport",
-   "title": "Good to feel club are committed to me - Jaissle",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo?at_medium=RSS&at_campaign=rss",
-   "summary": "Newcastle United manager Matthias Jaissle says he has \"got more of a feeling from within the club\" about how \"committed\" they are to him amid his side's struggling form.",
-   "date": "2026-11-05T17:25:41+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ed/live/083fb410-d936-11f1-8bce-2396c9c50357.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Wooden Spoon, Golden Boot and playoff spots: what to watch for on MLS Decision Day",
    "link": "https://www.theguardian.com/football/2026/nov/05/mls-decision-day-storylines",
@@ -662,314 +662,6 @@
   }
  ],
  "fixtures": [
-  {
-   "id": "401915534",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T17:45Z",
-   "home": "AC Milan",
-   "away": "Ferencvaros",
-   "hs": "0",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "San Siro",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915538",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T17:45Z",
-   "home": "Anderlecht",
-   "away": "RB Salzburg",
-   "hs": "2",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+7'",
-   "venue": "Lotto Park",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915526",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T17:45Z",
-   "home": "Crystal Palace",
-   "away": "TSG Hoffenheim",
-   "hs": "1",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "Selhurst Park",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915536",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T17:45Z",
-   "home": "Levski Sofia",
-   "away": "Jagiellonia Bialystok",
-   "hs": "1",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "Vasil Levski National Stadium",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915527",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T17:45Z",
-   "home": "Lillestrom",
-   "away": "Viktoria Plzen",
-   "hs": "0",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Arasen Stadion",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915535",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T17:45Z",
-   "home": "NEC Nijmegen",
-   "away": "Omonia Nicosia",
-   "hs": "3",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Goffertstadion",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915537",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T17:45Z",
-   "home": "Real Sociedad",
-   "away": "Lyon",
-   "hs": "1",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Reale Arena",
-   "usa": [
-    "CBSSN",
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915528",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T17:45Z",
-   "home": "Sparta Prague",
-   "away": "AFC Bournemouth",
-   "hs": "1",
-   "as": "3",
-   "live": false,
-   "state": "post",
-   "clock": "90'+6'",
-   "venue": "Generali Arena",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915529",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T20:00Z",
-   "home": "AZ Alkmaar",
-   "away": "Juventus",
-   "hs": "1",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+7'",
-   "venue": "AFAS Stadion",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915533",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T20:00Z",
-   "home": "Bayer Leverkusen",
-   "away": "Marseille",
-   "hs": "0",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "BayArena",
-   "usa": [
-    "CBSSN",
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915525",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T20:00Z",
-   "home": "Benfica",
-   "away": "Lech Poznan",
-   "hs": "3",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Est\u00e1dio da Luz",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915531",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T20:00Z",
-   "home": "Celta Vigo",
-   "away": "Union St.-Gilloise",
-   "hs": "1",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+6'",
-   "venue": "Balaidos",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915522",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T20:00Z",
-   "home": "Celtic",
-   "away": "Besiktas",
-   "hs": "3",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+6'",
-   "venue": "Celtic Park",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915532",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T20:00Z",
-   "home": "Hapoel Be'er",
-   "away": "OFI Crete",
-   "hs": "0",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "Giulesti Stadium",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915524",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T20:00Z",
-   "home": "SK Sturm Graz",
-   "away": "NK Celje",
-   "hs": "2",
-   "as": "3",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Merkur Arena",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915523",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T20:00Z",
-   "home": "Sunderland",
-   "away": "Dinamo Zagreb",
-   "hs": "0",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Stadium of Light",
-   "usa": [
-    "Paramount+"
-   ]
-  },
-  {
-   "id": "401915530",
-   "code": "uefa.europa",
-   "l": "eur",
-   "comp": "UEFA Europa League",
-   "date": "2026-11-05T20:00Z",
-   "home": "Torreense",
-   "away": "Ararat-Armenia",
-   "hs": "3",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+8'",
-   "venue": "Est\u00e1dio Dr. Magalhaes Pessoa",
-   "usa": [
-    "Paramount+"
-   ]
-  },
   {
    "id": "401884739",
    "code": "ger.1",
