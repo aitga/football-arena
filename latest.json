@@ -1,28 +1,44 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
+   "summary": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
+   "date": "2026-11-07T14:35:23+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc27/live/09850300-daaf-11f1-9da2-b11e4d68c08e.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Leeds United v Tottenham Hotspur: Premier League \u2013 live",
+   "title": "Leeds United 1-0 Tottenham Hotspur: Premier League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
    "summary": "\u26bd\ufe0f Premier League updates from the 12.30pm GMT kick-off\u26bd\ufe0f Live scores | Top scorers | Follow us on TikTok | Mail ScottA different fanfare for the common man \u2013 the Last Post \u2013 sounds poignantly. Silent, solemn\u2026",
-   "date": "2026-11-07T13:48:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/c8a3016b2844a42347f75fcafe06831c03d880d2/852_0_4234_3388/master/4234.jpg?width=140&quality=85&auto=format&fit=max&s=e672a846dfbf36326ddf8d1b244905c9"
+   "date": "2026-11-07T14:35:08+00:00",
+   "image": "https://i.guim.co.uk/img/media/067e09c2e1fefad5a2c4ca501b4de34a9b527f6c/134_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=12ce418bbebd6f66fdc8642136c504ab"
   },
   {
    "source": "The Guardian",
    "title": "Arsenal v Hull City, Fulham v Newcastle United, FA Cup and more: football \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-v-hull-city-fulham-v-newcastle-united-fa-cup-and-more-football-live",
-   "summary": "\u26bd\ufe0f Follow live updates from all of Saturday\u2019s football action\u26bd\ufe0f Live scores | Full tables | Follow us on TikTok | Mail BarryChampionship: Andre Brooks scores Norwich\u2019s second goal in three second-half minutes to make it\u2026",
-   "date": "2026-11-07T13:45:57+00:00",
+   "summary": "\u26bd\ufe0f Follow live updates from all of Saturday\u2019s football action\u26bd\ufe0f Live scores | Full tables | Follow us on TikTok | Mail BarryIn yesterday\u2019s Football Daily email, John Brewin previewed his pick of the weekend\u2019s first\u2026",
+   "date": "2026-11-07T14:34:14+00:00",
    "image": "https://i.guim.co.uk/img/media/8b30349f7ca057ba07ae1b11062c327f1bab37a7/889_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=ea628c327aa8cfd5f03280a7dd6ecd85"
   },
   {
    "source": "BBC Sport",
-   "title": "Listen to Off The Ball",
-   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-   "summary": "The most petty and ill-informed football show on radio.",
-   "date": "2026-11-07T13:30:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+   "title": "How 'calm' Eustace got the result he needed for Derby",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqlyek7ywx3no?at_medium=RSS&at_campaign=rss",
+   "summary": "How under-pressure John Eustace kept calm to ensure he would carry on as Rams boss by overseeing Friday's come-from-behind win over Bolton.",
+   "date": "2026-11-07T14:12:45+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da4/live/3a89da30-dab3-11f1-8c3b-f3c0d6bd7c4f.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Scotland lose Welsh and call up Porteous",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro?at_medium=RSS&at_campaign=rss",
+   "summary": "Swansea City centre-back Stephen Welsh drops out the Scotland squad for their forthcoming Nations League double-header and is replaced with Los Angeles' Ryan Porteous.",
+   "date": "2026-11-07T13:57:46+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7938/live/6a3bb340-dab1-11f1-93e1-3b657b665bcf.png"
   },
   {
    "source": "BBC Sport",
@@ -63,48 +79,48 @@
    "summary": "Former Celtic centre-half Ramon Vega urges the Scottish FA to support his bid to oust Fifa president Gianni Infantino as Stephen Robinson admits he has no funds to add free agents to Aberdeen's squad.",
    "date": "2026-11-07T09:11:29+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61a/live/efb2d560-da8b-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay",
-   "link": "https://www.theguardian.com/football/2026/nov/07/gianni-infantino-fifa-donald-trump-democrats-republicans",
-   "summary": "Trump Exposed Reactor Core Syndrome very much in play after Democrat landslide \u2013 and Fifa\u2019s president may pay a priceOh baby, clamp me in your repulsive mouthparts. Sink your unusually large and venomous fangs into my\u2026",
-   "date": "2026-11-07T08:00:05+00:00",
-   "image": "https://i.guim.co.uk/img/media/9e7ae405facd7fe96282352c135e94adb050c653/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=38906b7b587387cc7c955c209ace0e04"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "I had to play regularly for my mental wellbeing - Trafford on summer move",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro?at_medium=RSS&at_campaign=rss",
-   "summary": "Leeds United's James Trafford opens up on his struggles at Manchester City last season that were behind his summer transfer.",
-   "date": "2026-11-07T07:27:40+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2925/live/81cc9190-da12-11f1-b441-2b33b063138f.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
+   "summary": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
+   "date": "2026-11-07T14:35:23+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc27/live/09850300-daaf-11f1-9da2-b11e4d68c08e.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Leeds United v Tottenham Hotspur: Premier League \u2013 live",
+   "title": "Leeds United 1-0 Tottenham Hotspur: Premier League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
    "summary": "\u26bd\ufe0f Premier League updates from the 12.30pm GMT kick-off\u26bd\ufe0f Live scores | Top scorers | Follow us on TikTok | Mail ScottA different fanfare for the common man \u2013 the Last Post \u2013 sounds poignantly. Silent, solemn\u2026",
-   "date": "2026-11-07T13:48:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/c8a3016b2844a42347f75fcafe06831c03d880d2/852_0_4234_3388/master/4234.jpg?width=140&quality=85&auto=format&fit=max&s=e672a846dfbf36326ddf8d1b244905c9"
+   "date": "2026-11-07T14:35:08+00:00",
+   "image": "https://i.guim.co.uk/img/media/067e09c2e1fefad5a2c4ca501b4de34a9b527f6c/134_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=12ce418bbebd6f66fdc8642136c504ab"
   },
   {
    "source": "The Guardian",
    "title": "Arsenal v Hull City, Fulham v Newcastle United, FA Cup and more: football \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-v-hull-city-fulham-v-newcastle-united-fa-cup-and-more-football-live",
-   "summary": "\u26bd\ufe0f Follow live updates from all of Saturday\u2019s football action\u26bd\ufe0f Live scores | Full tables | Follow us on TikTok | Mail BarryChampionship: Andre Brooks scores Norwich\u2019s second goal in three second-half minutes to make it\u2026",
-   "date": "2026-11-07T13:45:57+00:00",
+   "summary": "\u26bd\ufe0f Follow live updates from all of Saturday\u2019s football action\u26bd\ufe0f Live scores | Full tables | Follow us on TikTok | Mail BarryIn yesterday\u2019s Football Daily email, John Brewin previewed his pick of the weekend\u2019s first\u2026",
+   "date": "2026-11-07T14:34:14+00:00",
    "image": "https://i.guim.co.uk/img/media/8b30349f7ca057ba07ae1b11062c327f1bab37a7/889_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=ea628c327aa8cfd5f03280a7dd6ecd85"
   },
   {
    "source": "BBC Sport",
-   "title": "Listen to Off The Ball",
-   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-   "summary": "The most petty and ill-informed football show on radio.",
-   "date": "2026-11-07T13:30:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+   "title": "How 'calm' Eustace got the result he needed for Derby",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqlyek7ywx3no?at_medium=RSS&at_campaign=rss",
+   "summary": "How under-pressure John Eustace kept calm to ensure he would carry on as Rams boss by overseeing Friday's come-from-behind win over Bolton.",
+   "date": "2026-11-07T14:12:45+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da4/live/3a89da30-dab3-11f1-8c3b-f3c0d6bd7c4f.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Scotland lose Welsh and call up Porteous",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro?at_medium=RSS&at_campaign=rss",
+   "summary": "Swansea City centre-back Stephen Welsh drops out the Scotland squad for their forthcoming Nations League double-header and is replaced with Los Angeles' Ryan Porteous.",
+   "date": "2026-11-07T13:57:46+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7938/live/6a3bb340-dab1-11f1-93e1-3b657b665bcf.png"
   },
   {
    "source": "BBC Sport",
@@ -340,14 +356,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Euro Leagues",
-   "link": "https://www.bbc.co.uk/sounds/play/p0plhlmm?at_medium=RSS&at_campaign=rss",
-   "summary": "HJK assistant coach Erkka Lehtola ahead of a fascinating final weekend in Finland.",
-   "date": "2026-11-06T16:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
    "summary": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
@@ -404,14 +412,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Wolves legend and ex-England defender Coady retires",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckgj99yjpnqzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Wolves legend Conor Coady retires as a player at the age of 33 after a 503-game, eight-club career, which began at Liverpool.",
-   "date": "2026-11-06T11:29:51+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e5/live/718d44d0-d9ce-11f1-9e5a-c30c5e3d8c85.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
    "summary": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
@@ -436,14 +436,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Podcast: After dramatic Euro comeback, have Celtic found spark? It's the SPFL weekend preview",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pll0yb?at_medium=RSS&at_campaign=rss",
-   "summary": "Can Celtic build on their European comeback as another huge Premiership weekend looms?",
-   "date": "2026-11-06T08:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pll46p.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "How to follow the FA Cup on the BBC this weekend",
    "link": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
    "summary": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.",
@@ -465,14 +457,6 @@
    "summary": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
    "date": "2026-11-06T06:22:00+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'He'll regret it' - the day Ferguson quit Aberdeen for Man Utd",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
-   "summary": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
-   "date": "2026-11-06T06:17:13+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/19839f00-d90b-11f1-b72c-d16cdc75f35f.jpg"
   },
   {
    "source": "BBC Sport",
@@ -523,14 +507,6 @@
    "image": "https://i.guim.co.uk/img/media/59dbef7c403bddefffc473d430bd22a167dabef0/300_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=77e903ae88841d2abe35d4b530b867b0"
   },
   {
-   "source": "BBC Sport",
-   "title": "Forest need balance between Woodstock and military - Glasner",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Oliver Glasner insists his Nottingham Forest side cannot survive on \"flower power\" as he tries to strike a balance between trust and respect at the club.",
-   "date": "2026-11-05T22:30:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ea/live/40bb5860-d965-11f1-a701-fddedf244c16.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "\u2018In moments of pain, football comes together\u2019: Spain says goodbye to Jes\u00fas de Miguel",
    "link": "https://www.theguardian.com/football/2026/nov/05/jesus-de-miguel-death-tenerife-funeral-football-spain",
@@ -548,22 +524,52 @@
   },
   {
    "source": "BBC Sport",
-   "title": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
-   "summary": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
-   "date": "2026-11-05T16:12:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7822/live/4d543600-d933-11f1-8bce-2396c9c50357.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "What new Kane deal means for England and the Premier League record",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
    "summary": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
    "date": "2026-11-05T14:44:34+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2669/live/3768f3a0-d91d-11f1-ad94-e17fee4cd332.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Fenerbahce thwart Liverpool and Arsenal pushed in Prague | Football Weekly Extra \u2013 video",
+   "link": "https://www.theguardian.com/football/video/2026/nov/05/fenerbahce-thwart-liverpool-and-arsenal-pushed-in-prague-football-weekly-video",
+   "summary": "Max Rushden is joined by Barry Glendenning, Lars Sivertsen and Jonathan Liew as Liverpool lose for the first time in the Champions League this season and Manchester City and Arsenal escape with narrow wins Continue\u2026",
+   "date": "2026-11-05T14:35:27+00:00",
+   "image": "https://i.guim.co.uk/img/media/d5d91b70adbce1e035378e4b2fc5dc418571a56b/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8678f244b650cc298520f60737de2a88"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+   "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+   "date": "2026-11-05T14:29:40+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Fenerbahce thwart Liverpool and Arsenal pushed in Prague: Football Weekly \u2013 podcast",
+   "link": "https://www.theguardian.com/football/audio/2026/nov/05/fenerbahce-thwart-liverpool-and-arsenal-pushed-in-prague-football-weekly",
+   "summary": "Max Rushden is joined by Barry Glendenning, Lars Sivertsen and Jonathan Liew as Liverpool lose for the first time in the Champions League this season and Manchester City and Arsenal escape with narrow winsRate, review,\u2026",
+   "date": "2026-11-05T13:40:36+00:00",
+   "image": "https://i.guim.co.uk/img/media/deb50ac37b4ef4f3883251f05098ce7280ba94bc/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=684601f9215236cbc01c45c880680198"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Cristiano Ronaldo merely the latest example of a great player who couldn\u2019t let go | Jonathan Wilson",
+   "link": "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-retires-international-football-career-portugal",
+   "summary": "There is no doubt his international career was an incredible one, but it would have been greater still if he had not lingered on the stage so longNothing, perhaps, is quite so difficult for an elite sportsperson as\u2026",
+   "date": "2026-11-05T13:32:02+00:00",
+   "image": "https://i.guim.co.uk/img/media/249366a1c838cbae96f59631c6cbdf1f695b54b6/0_73_2000_1599/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=2a5bd3ed7aecdbb59c46a2ba1cae0205"
   }
  ],
  "videos": [
+  {
+   "channel": "Bundesliga",
+   "id": "TwytovTfDWM",
+   "title": "Stunning 27-Metre Goal! | HAMBURGER SV - BORUSSIA M'GLADBACH | Highlights | Matchday 9 \u2013 Bundesliga",
+   "date": "2026-11-07T14:38:12+00:00"
+  },
   {
    "channel": "FIFA",
    "id": "SF8zTuzElNY",
@@ -667,12 +673,6 @@
    "date": "2026-11-05T22:39:38+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "Azl4oELSNPQ",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0645\u064a\u0644\u0627\u0646 \u0648\u0641\u0631\u0646\u0633\u0641\u0627\u0631\u0648\u0634\u064a | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
-   "date": "2026-11-05T21:31:36+00:00"
-  },
-  {
    "channel": "LaLiga",
    "id": "itmM7F15q20",
    "title": "En el minuto 9, un mismo recuerdo nos une a todos. Por Jes\u00fas de Miguel.",
@@ -697,16 +697,16 @@
    "date": "2026-11-07T12:00:01+00:00"
   },
   {
-   "channel": "Bundesliga",
-   "id": "I4ZF3kH4aIc",
-   "title": "Can you guess the correct Bayern player? \ud83d\udc40",
-   "date": "2026-11-07T11:00:26+00:00"
-  },
-  {
    "channel": "Ligue 1",
    "id": "4oMtG6zzxp4",
    "title": "POURQUOI LA LIGUE 1 CRAQUE POUR LES JOUEURS DANOIS ? \ud83c\udde9\ud83c\uddf0",
    "date": "2026-11-07T10:00:09+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "pypE4hUCCNQ",
+   "title": "Neymar \u2728",
+   "date": "2026-11-07T09:29:56+00:00"
   }
  ],
  "fixtures": [
@@ -811,11 +811,11 @@
    "date": "2026-11-07T12:30Z",
    "home": "Leeds United",
    "away": "Tottenham Hotspur",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "67'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
    "venue": "Elland Road",
    "usa": [
     "USA Net",
@@ -831,10 +831,10 @@
    "home": "M\u00e1laga",
    "away": "Racing Santander",
    "hs": "1",
-   "as": "0",
+   "as": "2",
    "live": true,
    "state": "in",
-   "clock": "45'+5'",
+   "clock": "90'+1'",
    "venue": "La Rosaleda",
    "usa": [
     "ESPN Deportes",
@@ -849,11 +849,11 @@
    "date": "2026-11-07T14:00Z",
    "home": "Cagliari",
    "away": "Frosinone",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+2'",
    "venue": "Unipol Domus",
    "usa": [
     "Paramount+"
@@ -869,9 +869,9 @@
    "away": "Lecce",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "36'",
    "venue": "Stadio Olimpico Grande Torino",
    "usa": [
     "Paramount+"
@@ -887,9 +887,9 @@
    "away": "SV Elversberg",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "23'",
    "venue": "Signal Iduna Park",
    "usa": [
     "Fandango"
@@ -904,10 +904,10 @@
    "home": "Mainz",
    "away": "Bayern Munich",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "23'",
    "venue": "MEWA ARENA",
    "usa": [
     "Fandango"
@@ -922,10 +922,10 @@
    "home": "RB Leipzig",
    "away": "FC Augsburg",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "23'",
    "venue": "Red Bull Arena",
    "usa": [
     "Fandango"
@@ -941,9 +941,9 @@
    "away": "Eintracht Frankfurt",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "23'",
    "venue": "Home Deluxe Arena",
    "usa": [
     "Fandango"
@@ -1699,6 +1699,20 @@
      {
       "group": "",
       "rank": "8",
+      "team": "Leeds United",
+      "short": "Leeds",
+      "p": "10",
+      "w": "3",
+      "d": "5",
+      "l": "2",
+      "gd": "+2",
+      "pts": "14",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "9",
       "team": "AFC Bournemouth",
       "short": "Bournemouth",
       "p": "9",
@@ -1712,21 +1726,21 @@
      },
      {
       "group": "",
-      "rank": "9",
+      "rank": "10",
       "team": "Tottenham Hotspur",
       "short": "Spurs",
-      "p": "9",
+      "p": "10",
       "w": "3",
       "d": "3",
-      "l": "3",
-      "gd": "0",
+      "l": "4",
+      "gd": "-1",
       "pts": "12",
       "zone": "",
       "zone_name": ""
      },
      {
       "group": "",
-      "rank": "10",
+      "rank": "11",
       "team": "Aston Villa",
       "short": "Aston Villa",
       "p": "9",
@@ -1740,23 +1754,9 @@
      },
      {
       "group": "",
-      "rank": "11",
+      "rank": "12",
       "team": "Hull City",
       "short": "Hull",
-      "p": "9",
-      "w": "2",
-      "d": "5",
-      "l": "2",
-      "gd": "+1",
-      "pts": "11",
-      "zone": "",
-      "zone_name": ""
-     },
-     {
-      "group": "",
-      "rank": "12",
-      "team": "Leeds United",
-      "short": "Leeds",
       "p": "9",
       "w": "2",
       "d": "5",
@@ -4475,6 +4475,15 @@
    },
    {
     "l": "eng",
+    "name": "Leeds United",
+    "short": "Leeds",
+    "keys": [
+     "leeds",
+     "leeds united"
+    ]
+   },
+   {
+    "l": "eng",
     "name": "AFC Bournemouth",
     "short": "Bournemouth",
     "keys": [
@@ -4507,15 +4516,6 @@
     "keys": [
      "hull",
      "hull city"
-    ]
-   },
-   {
-    "l": "eng",
-    "name": "Leeds United",
-    "short": "Leeds",
-    "keys": [
-     "leeds",
-     "leeds united"
     ]
    },
    {
@@ -6114,11 +6114,11 @@
    "date": "2026-11-07T12:30Z",
    "home": "Leeds United",
    "away": "Tottenham Hotspur",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "67'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
    "venue": "Elland Road",
    "usa": [
     "USA Net",
@@ -6134,10 +6134,10 @@
    "home": "M\u00e1laga",
    "away": "Racing Santander",
    "hs": "1",
-   "as": "0",
+   "as": "2",
    "live": true,
    "state": "in",
-   "clock": "45'+5'",
+   "clock": "90'+1'",
    "venue": "La Rosaleda",
    "usa": [
     "ESPN Deportes",
@@ -6152,11 +6152,11 @@
    "date": "2026-11-07T14:00Z",
    "home": "Cagliari",
    "away": "Frosinone",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+2'",
    "venue": "Unipol Domus",
    "usa": [
     "Paramount+"
@@ -6172,9 +6172,9 @@
    "away": "Lecce",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "36'",
    "venue": "Stadio Olimpico Grande Torino",
    "usa": [
     "Paramount+"
@@ -6190,9 +6190,9 @@
    "away": "SV Elversberg",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "23'",
    "venue": "Signal Iduna Park",
    "usa": [
     "Fandango"
@@ -6207,10 +6207,10 @@
    "home": "Mainz",
    "away": "Bayern Munich",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "23'",
    "venue": "MEWA ARENA",
    "usa": [
     "Fandango"
@@ -6225,10 +6225,10 @@
    "home": "RB Leipzig",
    "away": "FC Augsburg",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "23'",
    "venue": "Red Bull Arena",
    "usa": [
     "Fandango"
@@ -6244,9 +6244,9 @@
    "away": "Eintracht Frankfurt",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "23'",
    "venue": "Home Deluxe Arena",
    "usa": [
     "Fandango"
