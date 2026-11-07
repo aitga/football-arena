@@ -46,11 +46,13 @@ jobs:
           name: recaps
           path: out/
       - if: steps.check.outputs.count != '0'
-        run: echo "[Watch the recap videos here](${{ steps.up.outputs.artifact-url }}) (zip). If they look good, click Review deployments → approval → Approve and deploy." >> "$GITHUB_STEP_SUMMARY"
+        run: echo "[Watch the recap videos here](${{ steps.up.outputs.artifact-url }}) (zip). Facebook posting is paused - download them and post them on your page yourself." >> "$GITHUB_STEP_SUMMARY"
 
   publish:
     needs: make
-    if: needs.make.outputs.count != '0'
+    # FACEBOOK PAUSED while Meta has the developer account blocked: download the recap videos from the run.
+    # To switch automatic posting back on, change the next line to: if: needs.make.outputs.count != '0'
+    if: false
     runs-on: ubuntu-latest
     environment: approval
     steps:
