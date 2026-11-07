@@ -689,25 +689,6 @@
    ]
   },
   {
-   "id": "401882809",
-   "code": "esp.1",
-   "l": "esp",
-   "comp": "Spanish LALIGA",
-   "date": "2026-11-06T20:00Z",
-   "home": "Sevilla",
-   "away": "Alav\u00e9s",
-   "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "Ram\u00f3n S\u00e1nchez Pizju\u00e1n Stadium",
-   "usa": [
-    "ESPN Deportes",
-    "ESPN+"
-   ]
-  },
-  {
    "id": "401878758",
    "code": "eng.1",
    "l": "eng",
