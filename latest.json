@@ -1,108 +1,164 @@
 {
  "news": [
   {
-   "source": "The Guardian",
-   "title": "Arsenal v Hull City, Fulham v Newcastle United, FA Cup and more: football \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-v-hull-city-fulham-v-newcastle-united-fa-cup-and-more-football-live",
-   "summary": "\u26bd\ufe0f Follow live updates from all of Saturday\u2019s football action\u26bd\ufe0f Live scores | Full tables | Follow us on TikTok | Mail BarryIn yesterday\u2019s Football Daily email, John Brewin previewed his pick of the weekend\u2019s first\u2026",
-   "date": "2026-11-07T16:39:59+00:00",
-   "image": "https://i.guim.co.uk/img/media/9f1b960cf73470a66a09bbb4404402dc82e9d918/335_139_4808_3848/master/4808.jpg?width=140&quality=85&auto=format&fit=max&s=8751b441e0585dcf6f61b554872fe79c"
+   "source": "BBC Sport",
+   "title": "Salisbury put six past Sholing to advance to second round",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o?at_medium=RSS&at_campaign=rss",
+   "summary": "National League South side Salisbury put six past Southern Premier League South club Sholing to advance to the second round of the FA Cup for the first time in their history.",
+   "date": "2026-11-07T17:39:21+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8262/live/394015f0-dad0-11f1-b441-2b33b063138f.jpg"
   },
   {
    "source": "The Guardian",
    "title": "Nottingham Forest v Manchester City: Premier League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
-   "summary": "\u26bd Premier League updates from the 5.30pm GMT kick-off\u26bd Live scores | Full tables | Follow us on TikTok | Mail TomNottingham Forest\u2019s historic goal drought at home is part of longstanding problemNottingham Forest and\u2026",
-   "date": "2026-11-07T16:36:21+00:00",
-   "image": "https://i.guim.co.uk/img/media/0b1054499f051fde16f834a060d764df1926c4fe/871_0_4359_3488/master/4359.jpg?width=140&quality=85&auto=format&fit=max&s=223d10d33529d83f6063e6a2777d055b"
+   "summary": "\u26bd Premier League updates from the 5.30pm GMT kick-off\u26bd Live scores | Full tables | Follow us on TikTok | Mail TomWe\u2019re off at the City Ground.Before kick-off, we\u2019ll hear The Last Post. Remembrance Sunday is tomorrow.\u2026",
+   "date": "2026-11-07T17:32:44+00:00",
+   "image": "https://i.guim.co.uk/img/media/b38103b11e62a25660fa2e9caf944b0ea5a3102f/555_210_3659_2927/master/3659.jpg?width=140&quality=85&auto=format&fit=max&s=f4225b851b7684c0f430a46420a2398c"
   },
   {
    "source": "BBC Sport",
-   "title": "De Zerbi focuses on Spurs' failings - but should Bogle have seen red?",
+   "title": "Highlights: Shrewsbury edge past Eastleigh to reach round two",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6kg7vdk9dy2o?at_medium=RSS&at_campaign=rss",
+   "summary": "League Two side Shrewsbury Town defeat Eastleigh of the National League 2-1 in the first round of the FA Cup.",
+   "date": "2026-11-07T17:30:36+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebcd/live/014d4550-dad0-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
+   "summary": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
+   "date": "2026-11-07T17:23:20+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b477/live/b17159f0-dace-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "European football: Bayern beat Mainz but Neuer\u2019s record-breaking day turns sour",
+   "link": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
+   "summary": "Veteran becomes club\u2019s oldest player but suffers injuryKeeper also in spotlight after another gaffeBayern Munich secured a 2-1 victory over Mainz in the Bundesliga on Saturday but the form \u2060of goalkeeper Manuel Neuer\u2026",
+   "date": "2026-11-07T17:13:48+00:00",
+   "image": "https://i.guim.co.uk/img/media/baa91510ae554d9b7cdcfe46936d358ab1424414/259_0_1700_1360/master/1700.jpg?width=140&quality=85&auto=format&fit=max&s=0af1ce2f2549bf7056a17cf8bbc0431e"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Martin \u00d8degaard extends Arsenal lead at top with winner to break Hull resistance",
+   "link": "https://www.theguardian.com/football/2026/nov/07/arsenal-hull-premier-league-match-report",
+   "summary": "As most Arsenal supporters would testify, patience is a virtue. They needed plenty during the 22-year wait to be crowned Premier League champions and Mikel Arteta\u2019s side certainly had to retain their composure as they\u2026",
+   "date": "2026-11-07T17:02:45+00:00",
+   "image": "https://i.guim.co.uk/img/media/64b9af2f49e566e924212a9e6530c1a830aa926a/458_257_3083_2467/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=95fcbfd72e35f31cf8a571ab704cf93b"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Muniz rescues late point for Fulham against Newcastle after Murphy stunner",
+   "link": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
+   "summary": "Rodrigo Muniz came off the bench to rescue a point for Fulham and deny Matthias Jaissle a welcome victory after a difficult week. Newcastle produced an improved display after a run of four defeats in five games in all\u2026",
+   "date": "2026-11-07T17:00:54+00:00",
+   "image": "https://i.guim.co.uk/img/media/0524118fb7d7482c664b87701841e19090a63c3b/314_0_2767_2214/master/2767.jpg?width=140&quality=85&auto=format&fit=max&s=a015403979f624d0d97296506cd810ec"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
+   "summary": "How Arsenal and Hull City's players rated following their Premier League match at Emirates Stadium.",
+   "date": "2026-11-07T17:00:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05de/live/79243450-dace-11f1-bda8-29fb69dbc026.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Truro City game at Folkestone called off after Yassine En-Neyah has medical emergency in warm-up",
+   "link": "https://www.theguardian.com/football/2026/nov/07/yassine-en-neyah-truro-folkestone-national-league-south-medical-emergency",
+   "summary": "National League South match postponedPlayer \u2018required medical assistance during the warm-up\u2019Truro\u2019s National League South game at Folkestone Invicta was called off after the visitors\u2019 midfielder Yassine En-Neyah had a\u2026",
+   "date": "2026-11-07T16:41:52+00:00",
+   "image": "https://i.guim.co.uk/img/media/8ef23b660e9da2145e1baec1e0fd095466d65545/1671_506_4326_3460/master/4326.jpg?width=140&quality=85&auto=format&fit=max&s=f3db33148c9d2150db3a5f51c6f5498d"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Tottenham set to complain to Pro Ref - but should Bogle have seen red?",
    "link": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss",
-   "summary": "It was somewhat surprising to see Roberto de Zerbi take a more peaceful approach when he faced the media at Elland Road after Tottenham's 1-0 defeat by Leeds United on Saturday afternoon.",
+   "summary": "Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.",
    "date": "2026-11-07T16:35:26+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "National League South game abandoned after player collapses in warm-up",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cxj0l54rr61do?at_medium=RSS&at_campaign=rss",
-   "summary": "Saturday's National League South match between Folkestone Invicta and Truro City is postponed after a player collapses during the warm-up.",
-   "date": "2026-11-07T15:55:54+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/725a/live/a8b714b0-dac1-11f1-8c3b-f3c0d6bd7c4f.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Championship roundup: Stoke go top, Norwich hit five and Wrexham hold Wolves",
-   "link": "https://www.theguardian.com/football/2026/nov/07/championship-roundup-stoke-norwich-wrexham-wolves",
-   "summary": "Wilmot grabs winner to seal 2-1 comeback at PortsmouthNorwich hammer Bristol City 5-0 at Ashton GateJack McGlynn and Ben Wilmot scored as Stoke hit back to beat Portsmouth 2-1 and maintain their impressive Championship\u2026",
-   "date": "2026-11-07T15:27:08+00:00",
-   "image": "https://i.guim.co.uk/img/media/41927469608203a4f2c209241ed4942b4ce5d09c/27_0_3253_2602/master/3253.jpg?width=140&quality=85&auto=format&fit=max&s=f1e2b8ed1554875589c105eb15d2c4a5"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Manchester City break clear of Chelsea in WSL after Bronze\u2019s freak own goal",
-   "link": "https://www.theguardian.com/football/2026/nov/07/manchester-city-chelsea-everton-west-ham-wsl-roundup",
-   "summary": "Khadija Shaw hits hat-trick in City\u2019s 5-0 rout of West HamChelsea held 1-1 by Everton after Lucy Bronze own goalAn own goal by defender Lucy Bronze \u2060against Everton cost Chelsea top spot in the Women\u2019s \u2060Super League as\u2026",
-   "date": "2026-11-07T15:11:59+00:00",
-   "image": "https://i.guim.co.uk/img/media/2077977fb558e58597559a7d6a4a907b79f10264/399_0_3856_3085/master/3856.jpg?width=140&quality=85&auto=format&fit=max&s=afa19ee81dcf26fd3b2c76abb85375b2"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
-   "summary": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
-   "date": "2026-11-07T14:35:23+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc27/live/09850300-daaf-11f1-9da2-b11e4d68c08e.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Okafor\u2019s Leeds winner adds insult to Tel\u2019s injury for Tottenham as Bogle escapes red",
-   "link": "https://www.theguardian.com/football/2026/nov/07/leeds-tottenham-premier-league-match-report",
-   "summary": "It is almost one year to the day when the Leeds manager, Daniel Farke, produced the tactical overhaul many observers believe saved his job. That day, Farke abandoned his trusted 4-3-3 when Leeds were 2-0 down at\u2026",
-   "date": "2026-11-07T14:34:21+00:00",
-   "image": "https://i.guim.co.uk/img/media/b31290c695367b1a2727e83ad6bc4304c6b5e177/400_0_2075_1660/master/2075.jpg?width=140&quality=85&auto=format&fit=max&s=2f16d1b8a4a2af35840be4a34d579ce0"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "How 'calm' Eustace got the result he needed for Derby",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqlyek7ywx3no?at_medium=RSS&at_campaign=rss",
-   "summary": "How under-pressure John Eustace kept calm to ensure he would carry on as Rams boss by overseeing Friday's come-from-behind win over Bolton.",
-   "date": "2026-11-07T14:12:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da4/live/3a89da30-dab3-11f1-8c3b-f3c0d6bd7c4f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Scotland lose Welsh and call up Porteous",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro?at_medium=RSS&at_campaign=rss",
-   "summary": "Swansea City centre-back Stephen Welsh drops out the Scotland squad for their forthcoming Nations League double-header and is replaced with Los Angeles' Ryan Porteous.",
-   "date": "2026-11-07T13:57:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7938/live/6a3bb340-dab1-11f1-93e1-3b657b665bcf.png"
   }
  ],
  "news_all": [
   {
-   "source": "The Guardian",
-   "title": "Arsenal v Hull City, Fulham v Newcastle United, FA Cup and more: football \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-v-hull-city-fulham-v-newcastle-united-fa-cup-and-more-football-live",
-   "summary": "\u26bd\ufe0f Follow live updates from all of Saturday\u2019s football action\u26bd\ufe0f Live scores | Full tables | Follow us on TikTok | Mail BarryIn yesterday\u2019s Football Daily email, John Brewin previewed his pick of the weekend\u2019s first\u2026",
-   "date": "2026-11-07T16:39:59+00:00",
-   "image": "https://i.guim.co.uk/img/media/9f1b960cf73470a66a09bbb4404402dc82e9d918/335_139_4808_3848/master/4808.jpg?width=140&quality=85&auto=format&fit=max&s=8751b441e0585dcf6f61b554872fe79c"
+   "source": "BBC Sport",
+   "title": "Salisbury put six past Sholing to advance to second round",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o?at_medium=RSS&at_campaign=rss",
+   "summary": "National League South side Salisbury put six past Southern Premier League South club Sholing to advance to the second round of the FA Cup for the first time in their history.",
+   "date": "2026-11-07T17:39:21+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8262/live/394015f0-dad0-11f1-b441-2b33b063138f.jpg"
   },
   {
    "source": "The Guardian",
    "title": "Nottingham Forest v Manchester City: Premier League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
-   "summary": "\u26bd Premier League updates from the 5.30pm GMT kick-off\u26bd Live scores | Full tables | Follow us on TikTok | Mail TomNottingham Forest\u2019s historic goal drought at home is part of longstanding problemNottingham Forest and\u2026",
-   "date": "2026-11-07T16:36:21+00:00",
-   "image": "https://i.guim.co.uk/img/media/0b1054499f051fde16f834a060d764df1926c4fe/871_0_4359_3488/master/4359.jpg?width=140&quality=85&auto=format&fit=max&s=223d10d33529d83f6063e6a2777d055b"
+   "summary": "\u26bd Premier League updates from the 5.30pm GMT kick-off\u26bd Live scores | Full tables | Follow us on TikTok | Mail TomWe\u2019re off at the City Ground.Before kick-off, we\u2019ll hear The Last Post. Remembrance Sunday is tomorrow.\u2026",
+   "date": "2026-11-07T17:32:44+00:00",
+   "image": "https://i.guim.co.uk/img/media/b38103b11e62a25660fa2e9caf944b0ea5a3102f/555_210_3659_2927/master/3659.jpg?width=140&quality=85&auto=format&fit=max&s=f4225b851b7684c0f430a46420a2398c"
   },
   {
    "source": "BBC Sport",
-   "title": "De Zerbi focuses on Spurs' failings - but should Bogle have seen red?",
+   "title": "Highlights: Shrewsbury edge past Eastleigh to reach round two",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6kg7vdk9dy2o?at_medium=RSS&at_campaign=rss",
+   "summary": "League Two side Shrewsbury Town defeat Eastleigh of the National League 2-1 in the first round of the FA Cup.",
+   "date": "2026-11-07T17:30:36+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebcd/live/014d4550-dad0-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
+   "summary": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
+   "date": "2026-11-07T17:23:20+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b477/live/b17159f0-dace-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "European football: Bayern beat Mainz but Neuer\u2019s record-breaking day turns sour",
+   "link": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
+   "summary": "Veteran becomes club\u2019s oldest player but suffers injuryKeeper also in spotlight after another gaffeBayern Munich secured a 2-1 victory over Mainz in the Bundesliga on Saturday but the form \u2060of goalkeeper Manuel Neuer\u2026",
+   "date": "2026-11-07T17:13:48+00:00",
+   "image": "https://i.guim.co.uk/img/media/baa91510ae554d9b7cdcfe46936d358ab1424414/259_0_1700_1360/master/1700.jpg?width=140&quality=85&auto=format&fit=max&s=0af1ce2f2549bf7056a17cf8bbc0431e"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Martin \u00d8degaard extends Arsenal lead at top with winner to break Hull resistance",
+   "link": "https://www.theguardian.com/football/2026/nov/07/arsenal-hull-premier-league-match-report",
+   "summary": "As most Arsenal supporters would testify, patience is a virtue. They needed plenty during the 22-year wait to be crowned Premier League champions and Mikel Arteta\u2019s side certainly had to retain their composure as they\u2026",
+   "date": "2026-11-07T17:02:45+00:00",
+   "image": "https://i.guim.co.uk/img/media/64b9af2f49e566e924212a9e6530c1a830aa926a/458_257_3083_2467/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=95fcbfd72e35f31cf8a571ab704cf93b"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Muniz rescues late point for Fulham against Newcastle after Murphy stunner",
+   "link": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
+   "summary": "Rodrigo Muniz came off the bench to rescue a point for Fulham and deny Matthias Jaissle a welcome victory after a difficult week. Newcastle produced an improved display after a run of four defeats in five games in all\u2026",
+   "date": "2026-11-07T17:00:54+00:00",
+   "image": "https://i.guim.co.uk/img/media/0524118fb7d7482c664b87701841e19090a63c3b/314_0_2767_2214/master/2767.jpg?width=140&quality=85&auto=format&fit=max&s=a015403979f624d0d97296506cd810ec"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
+   "summary": "How Arsenal and Hull City's players rated following their Premier League match at Emirates Stadium.",
+   "date": "2026-11-07T17:00:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05de/live/79243450-dace-11f1-bda8-29fb69dbc026.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Truro City game at Folkestone called off after Yassine En-Neyah has medical emergency in warm-up",
+   "link": "https://www.theguardian.com/football/2026/nov/07/yassine-en-neyah-truro-folkestone-national-league-south-medical-emergency",
+   "summary": "National League South match postponedPlayer \u2018required medical assistance during the warm-up\u2019Truro\u2019s National League South game at Folkestone Invicta was called off after the visitors\u2019 midfielder Yassine En-Neyah had a\u2026",
+   "date": "2026-11-07T16:41:52+00:00",
+   "image": "https://i.guim.co.uk/img/media/8ef23b660e9da2145e1baec1e0fd095466d65545/1671_506_4326_3460/master/4326.jpg?width=140&quality=85&auto=format&fit=max&s=f3db33148c9d2150db3a5f51c6f5498d"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Tottenham set to complain to Pro Ref - but should Bogle have seen red?",
    "link": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss",
-   "summary": "It was somewhat surprising to see Roberto de Zerbi take a more peaceful approach when he faced the media at Elland Road after Tottenham's 1-0 defeat by Leeds United on Saturday afternoon.",
+   "summary": "Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.",
    "date": "2026-11-07T16:35:26+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg"
   },
@@ -233,22 +289,6 @@
    "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
    "date": "2026-11-07T06:53:35+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Non-league's greatest giant-killers eye another scalp",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.",
-   "date": "2026-11-07T06:45:56+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e68/live/669c60c0-d9d2-11f1-9e5a-c30c5e3d8c85.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Can we play you every week? The day Southend toppled Man United",
-   "link": "https://www.bbc.co.uk/news/articles/cwm266zkz8ggo?at_medium=RSS&at_campaign=rss",
-   "summary": "Southend United's heroes remember their famous victory against Manchester United 20 years on.",
-   "date": "2026-11-07T06:22:41+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c4/live/2e6d6b50-d9ef-11f1-bb10-cdca6001fbcf.jpg"
   },
   {
    "source": "The Guardian",
@@ -403,46 +443,6 @@
    "image": "https://i.guim.co.uk/img/media/0764787a3c80e8b2763ec5e0848c037293306c8b/0_0_4998_3998/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=148bdf72eb39cc1aecc69b384e177d7f"
   },
   {
-   "source": "BBC Sport",
-   "title": "'A beautiful story' as Bellingham brothers called up",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
-   "summary": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
-   "date": "2026-11-06T14:16:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e1/live/6e8557d0-d9d5-11f1-9e5a-c30c5e3d8c85.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Talking points as Premiership prepares for international break",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o?at_medium=RSS&at_campaign=rss",
-   "summary": "Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?",
-   "date": "2026-11-06T13:44:22+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/a090dfb0-d9d0-11f1-9e5a-c30c5e3d8c85.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Has Anderson lived up to the hype after Man City move?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
-   "summary": "As Elliot Anderson returns to Nottingham Forest after his \u00a3116m move to Manchester City, has he lived up to the price tag?",
-   "date": "2026-11-06T12:00:18+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/2656a970-d86b-11f1-85ab-b3cc3b5498c6.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Palmer misses too many chances to impress - Tuchel",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
-   "summary": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
-   "date": "2026-11-06T11:59:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f49b/live/366055d0-d9e4-11f1-bbe5-797ee05bee69.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
-   "summary": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
-   "date": "2026-11-06T11:16:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e8/live/f9eca4e0-d9cb-11f1-bb8e-efaa31738708.png"
-  },
-  {
    "source": "The Guardian",
    "title": "Amar Dedic set to escape Newcastle sanction over carrying bow and arrow",
    "link": "https://www.theguardian.com/football/2026/nov/06/amar-dedic-set-to-escape-newcastle-sanction-over-carrying-bow-and-arrow",
@@ -457,14 +457,6 @@
    "summary": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.",
    "date": "2026-11-06T07:47:46+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a50/live/eb177540-d6af-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
-   "date": "2026-11-06T06:22:00+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png"
   },
   {
    "source": "The Guardian",
@@ -561,20 +553,46 @@
    "summary": "Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.",
    "date": "2026-11-05T12:14:33+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/e6e3eb50-d83c-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Meet Clara Serrajordi: Barcelona\u2019s midfield hope filling the void left by Alexia Putellas | Moving the Goalposts",
+   "link": "https://www.theguardian.com/football/2026/nov/05/clara-serrajordi-barcelona-midfielder-alexia-putellas-moving-the-goalposts",
+   "summary": "The 18-year-old on being thrown in at the deep end with the first team, playing with her idols and replacing a legendThe next move on the chess board could not have been clearer for Barcelona and their coach, Pere\u2026",
+   "date": "2026-11-05T11:52:22+00:00",
+   "image": "https://i.guim.co.uk/img/media/136967090df24e6874cc092bcf8178e672465daa/935_81_4514_3611/master/4514.jpg?width=140&quality=85&auto=format&fit=max&s=14a4cb8f2da6a0e6ef34b6568f102bcf"
   }
  ],
  "videos": [
+  {
+   "channel": "LaLiga",
+   "id": "z37HZVNSYcU",
+   "title": "RCD ESPANYOL 0 - 0 RC DEPORTIVO | RESUMEN LALIGA EA SPORTS",
+   "date": "2026-11-07T17:22:55+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "NiGcZSWlVUg",
+   "title": "Di Francesco Azzecca il Cambio | TORINO-LECCE | HIGHLIGHTS | SERIE A ENILIVE 2026/27 lecit",
+   "date": "2026-11-07T17:09:54+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "-COMOZxfY7U",
+   "title": "Lecce Rescue a Point With the Subs | TORINO-LECCE | HIGHLIGHTS | Serie A 2026/27",
+   "date": "2026-11-07T17:09:15+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "hvRu8DvfKqY",
+   "title": "Pisacane Torna a Vincere | CAGLIARI-FROSINONE | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-07T16:50:04+00:00"
+  },
   {
    "channel": "Serie A",
    "id": "obX7gV6L7Vk",
    "title": "Adopo Fires Stunning Winner | CAGLIARI-FROSINONE | HIGHLIGHTS | Serie A 2026/27",
    "date": "2026-11-07T16:39:18+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "kxih9DgMoWk",
-   "title": "M\u00c1LAGA CF 1 - 2 R. RACING CLUB | RESUMEN LALIGA EA SPORTS",
-   "date": "2026-11-07T15:13:30+00:00"
   },
   {
    "channel": "UEFA",
@@ -655,58 +673,40 @@
    "date": "2026-11-06T10:30:16+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "1X5pjHoTjI4",
-   "title": "EXTENDED HIGHLIGHTS | Belgium v IR Iran | 2026 World Cup",
-   "date": "2026-11-06T05:30:34+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "5MhNlWT-1jA",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0623\u0644\u0643\u0645\u0627\u0631 \u0648\u064a\u0648\u0641\u0646\u062a\u0648\u0633 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
-   "date": "2026-11-05T22:39:38+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "aZRvc8Bd57A",
-   "title": "INTER-COMO 4-0 | CLASSIC HIGHLIGHTS SERIE A 2025/26",
-   "date": "2026-11-05T16:00:25+00:00"
-  },
-  {
    "channel": "LaLiga",
-   "id": "crytTEoGD3g",
-   "title": "M\u00c1LAGA CF vs R. RACING CLUB | RUEDA DE PRENSA",
-   "date": "2026-11-07T15:45:23+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "aBW1XN7PhZw",
-   "title": "Champions League PRICELESS MOMENTS From Matchday 4",
-   "date": "2026-11-07T15:43:44+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "v2E6F7OllHo",
-   "title": "Un aplauso compartido por todo el f\u00fatbol. Minuto 9. Siempre en nuestro recuerdo Jes\u00fas de Miguel.",
-   "date": "2026-11-07T15:42:32+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "RUs08VBwPzQ",
-   "title": "Antes de que ruede el bal\u00f3n, todo el f\u00fatbol unido en memoria de Jes\u00fas de Miguel.",
-   "date": "2026-11-07T15:28:09+00:00"
+   "id": "YJYtPKKjwrw",
+   "title": "\ud83d\udd34 CA OSASUNA vs ATHLETIC CLUB - PREVIA DEL PARTIDO",
+   "date": "2026-11-07T17:30:54+00:00"
   },
   {
    "channel": "Bundesliga",
-   "id": "-C9d5yyKt6g",
-   "title": "Fabio Silva so close with an OUTRAGEOUS hit! \ud83e\udd2f",
-   "date": "2026-11-07T15:26:45+00:00"
+   "id": "IV_Fgtmmpwc",
+   "title": "Borussia Dortmund vs. SV Elversberg | Matchday 9 - Bundesliga 2026/27",
+   "date": "2026-11-07T17:09:35+00:00"
   },
   {
-   "channel": "LaLiga",
-   "id": "cr2tjFX_YZM",
-   "title": "El recuerdo de Jes\u00fas de Miguel, tambi\u00e9n presente en la celebraci\u00f3n de Iker Luque.",
-   "date": "2026-11-07T15:26:11+00:00"
+   "channel": "Bundesliga",
+   "id": "kPvU-jY1Nx4",
+   "title": "Borussia Dortmund vs. SV Elversberg | Matchday 9 - Bundesliga 2026/27",
+   "date": "2026-11-07T17:09:09+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "Vs-0_gJv4FE",
+   "title": "SC Paderborn 07 vs. Eintracht Frankfurt | Matchday 9 - Bundesliga 2026/27",
+   "date": "2026-11-07T17:07:07+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "_Qe0Ad--wsg",
+   "title": "RB Leipzig vs. FC Augsburg | Matchday 9 - Bundesliga 2026/27",
+   "date": "2026-11-07T17:06:33+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "q2Fmkk2i94E",
+   "title": "RB Leipzig vs. FC Augsburg | Matchday 9 - Bundesliga 2026/27",
+   "date": "2026-11-07T17:06:02+00:00"
   }
  ],
  "fixtures": [
@@ -959,9 +959,9 @@
    "away": "Hull City",
    "hs": "1",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "90'+2'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
    "venue": "Emirates Stadium",
    "usa": [
     "Peacock",
@@ -978,9 +978,9 @@
    "away": "Newcastle United",
    "hs": "1",
    "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "90'+4'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+8'",
    "venue": "Craven Cottage",
    "usa": [
     "Peacock",
@@ -997,9 +997,9 @@
    "away": "Deportivo",
    "hs": "0",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "76'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
    "venue": "RCDE Stadium",
    "usa": [
     "ESPN Deportes",
@@ -1016,9 +1016,9 @@
    "away": "Bologna",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+1'",
    "venue": "Ennio Tardini",
    "usa": [
     "Paramount+"
@@ -1032,11 +1032,11 @@
    "date": "2026-11-07T17:30Z",
    "home": "Nottingham Forest",
    "away": "Manchester City",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "16'",
    "venue": "The City Ground",
    "usa": [
     "NBC",
@@ -1053,9 +1053,9 @@
    "away": "Athletic Club",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "18'",
    "venue": "El Sadar",
    "usa": [
     "ESPN Deportes",
@@ -1070,11 +1070,11 @@
    "date": "2026-11-07T17:30Z",
    "home": "VfB Stuttgart",
    "away": "Werder Bremen",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "17'",
    "venue": "MHPArena",
    "usa": [
     "USA Net"
@@ -1603,12 +1603,12 @@
       "rank": "1",
       "team": "Arsenal",
       "short": "Arsenal",
-      "p": "9",
-      "w": "8",
+      "p": "10",
+      "w": "9",
       "d": "0",
       "l": "1",
-      "gd": "+9",
-      "pts": "24",
+      "gd": "+10",
+      "pts": "27",
       "zone": "#81D6AC",
       "zone_name": "Champions League"
      },
@@ -1741,6 +1741,20 @@
      {
       "group": "",
       "rank": "11",
+      "team": "Newcastle United",
+      "short": "Newcastle",
+      "p": "10",
+      "w": "3",
+      "d": "3",
+      "l": "4",
+      "gd": "-3",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "12",
       "team": "Aston Villa",
       "short": "Aston Villa",
       "p": "9",
@@ -1754,28 +1768,14 @@
      },
      {
       "group": "",
-      "rank": "12",
+      "rank": "13",
       "team": "Hull City",
       "short": "Hull",
-      "p": "9",
+      "p": "10",
       "w": "2",
       "d": "5",
-      "l": "2",
-      "gd": "+1",
-      "pts": "11",
-      "zone": "",
-      "zone_name": ""
-     },
-     {
-      "group": "",
-      "rank": "13",
-      "team": "Newcastle United",
-      "short": "Newcastle",
-      "p": "9",
-      "w": "3",
-      "d": "2",
-      "l": "4",
-      "gd": "-3",
+      "l": "3",
+      "gd": "0",
       "pts": "11",
       "zone": "",
       "zone_name": ""
@@ -1799,12 +1799,12 @@
       "rank": "15",
       "team": "Fulham",
       "short": "Fulham",
-      "p": "9",
+      "p": "10",
       "w": "2",
-      "d": "3",
+      "d": "4",
       "l": "4",
       "gd": "-2",
-      "pts": "9",
+      "pts": "10",
       "zone": "",
       "zone_name": ""
      },
@@ -2084,12 +2084,12 @@
       "rank": "8",
       "team": "Deportivo",
       "short": "Deportivo",
-      "p": "11",
+      "p": "12",
       "w": "3",
-      "d": "5",
+      "d": "6",
       "l": "3",
       "gd": "+1",
-      "pts": "14",
+      "pts": "15",
       "zone": "",
       "zone_name": ""
      },
@@ -2152,6 +2152,20 @@
      {
       "group": "",
       "rank": "13",
+      "team": "Espanyol",
+      "short": "Espanyol",
+      "p": "12",
+      "w": "3",
+      "d": "3",
+      "l": "6",
+      "gd": "-1",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "14",
       "team": "Rayo Vallecano",
       "short": "Rayo",
       "p": "10",
@@ -2165,7 +2179,7 @@
      },
      {
       "group": "",
-      "rank": "14",
+      "rank": "15",
       "team": "Getafe",
       "short": "Getafe",
       "p": "11",
@@ -2174,20 +2188,6 @@
       "l": "5",
       "gd": "-8",
       "pts": "12",
-      "zone": "",
-      "zone_name": ""
-     },
-     {
-      "group": "",
-      "rank": "15",
-      "team": "Espanyol",
-      "short": "Espanyol",
-      "p": "11",
-      "w": "3",
-      "d": "2",
-      "l": "6",
-      "gd": "-1",
-      "pts": "11",
       "zone": "",
       "zone_name": ""
      },
@@ -4503,6 +4503,15 @@
    },
    {
     "l": "eng",
+    "name": "Newcastle United",
+    "short": "Newcastle",
+    "keys": [
+     "newcastle",
+     "newcastle united"
+    ]
+   },
+   {
+    "l": "eng",
     "name": "Aston Villa",
     "short": "Aston Villa",
     "keys": [
@@ -4516,15 +4525,6 @@
     "keys": [
      "hull",
      "hull city"
-    ]
-   },
-   {
-    "l": "eng",
-    "name": "Newcastle United",
-    "short": "Newcastle",
-    "keys": [
-     "newcastle",
-     "newcastle united"
     ]
    },
    {
@@ -4697,6 +4697,14 @@
    },
    {
     "l": "esp",
+    "name": "Espanyol",
+    "short": "Espanyol",
+    "keys": [
+     "espanyol"
+    ]
+   },
+   {
+    "l": "esp",
     "name": "Rayo Vallecano",
     "short": "Rayo",
     "keys": [
@@ -4710,14 +4718,6 @@
     "short": "Getafe",
     "keys": [
      "getafe"
-    ]
-   },
-   {
-    "l": "esp",
-    "name": "Espanyol",
-    "short": "Espanyol",
-    "keys": [
-     "espanyol"
     ]
    },
    {
@@ -6262,9 +6262,9 @@
    "away": "Hull City",
    "hs": "1",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "90'+2'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
    "venue": "Emirates Stadium",
    "usa": [
     "Peacock",
@@ -6281,9 +6281,9 @@
    "away": "Newcastle United",
    "hs": "1",
    "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "90'+4'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+8'",
    "venue": "Craven Cottage",
    "usa": [
     "Peacock",
@@ -6300,9 +6300,9 @@
    "away": "Deportivo",
    "hs": "0",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "76'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
    "venue": "RCDE Stadium",
    "usa": [
     "ESPN Deportes",
@@ -6319,9 +6319,9 @@
    "away": "Bologna",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+1'",
    "venue": "Ennio Tardini",
    "usa": [
     "Paramount+"
@@ -6335,11 +6335,11 @@
    "date": "2026-11-07T17:30Z",
    "home": "Nottingham Forest",
    "away": "Manchester City",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "16'",
    "venue": "The City Ground",
    "usa": [
     "NBC",
@@ -6356,9 +6356,9 @@
    "away": "Athletic Club",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "18'",
    "venue": "El Sadar",
    "usa": [
     "ESPN Deportes",
@@ -6373,11 +6373,11 @@
    "date": "2026-11-07T17:30Z",
    "home": "VfB Stuttgart",
    "away": "Werder Bremen",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "17'",
    "venue": "MHPArena",
    "usa": [
     "USA Net"
