@@ -1,20 +1,36 @@
 {
  "news": [
   {
-   "source": "The Guardian",
-   "title": "Arsenal and Manchester City in action, FA Cup first round news and more \u2013 matchday live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-and-manchester-city-in-action-fa-cup-first-round-news-and-more-matchday-live",
-   "summary": "\u26bd All the latest news before a busy day of football kicks off\u26bd Today\u2019s fixtures | Latest tables | Mail us at matchday.liveAn email. Krishnamoorthy v has been pondering today\u2019s games.Hello David. Would Leeds be able to\u2026",
-   "date": "2026-11-07T11:31:28+00:00",
-   "image": "https://i.guim.co.uk/img/media/e3bcdef9e27c01a754224976aff93a6e302eba4c/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6c0f897c094a91ec02ab68c6966cff00"
+   "source": "BBC Sport",
+   "title": "Listen to Off The Ball",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+   "summary": "The most petty and ill-informed football show on radio.",
+   "date": "2026-11-07T14:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
   },
   {
    "source": "The Guardian",
    "title": "Leeds United v Tottenham Hotspur: Premier League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
-   "summary": "\u26bd\ufe0f Premier League updates from the 12.30pm GMT kick-off\u26bd\ufe0f Live scores | Top scorers | Follow us on TikTok | Mail ScottTottenham make one change from last weekend\u2019s 2-0 win over Crystal Palace. Pedro Porro replaces the\u2026",
-   "date": "2026-11-07T11:31:27+00:00",
-   "image": "https://i.guim.co.uk/img/media/8a3e11b0920cf236be2ad80822fcb2103ccb79bc/359_0_4925_3940/master/4925.jpg?width=140&quality=85&auto=format&fit=max&s=7a49beba1deb5eeff764a3b19d8a956f"
+   "summary": "\u26bd\ufe0f Premier League updates from the 12.30pm GMT kick-off\u26bd\ufe0f Live scores | Top scorers | Follow us on TikTok | Mail ScottA different fanfare for the common man \u2013 the Last Post \u2013 sounds poignantly. Silent, solemn\u2026",
+   "date": "2026-11-07T12:49:39+00:00",
+   "image": "https://i.guim.co.uk/img/media/02a94fd5ec91781c777c950c79ef9f2531190b22/0_0_4185_3347/master/4185.jpg?width=140&quality=85&auto=format&fit=max&s=44e0f901c59a53d28f193cd44e5a5a18"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "My dream is to win Ballon d'Or - Gabriel",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
+   "date": "2026-11-07T12:25:14+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a16/live/eaf4a7b0-daa4-11f1-9da2-b11e4d68c08e.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018A footballing alien\u2019: Mamadou Sangar\u00e9 soars to Premier League heights",
+   "link": "https://www.theguardian.com/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league",
+   "summary": "Brentford\u2019s Mali midfielder stood out when he was six and has shone in the Premier League since \u00a339m transfer\u201cWhen I first saw him, I thought to myself: \u2018Who on earth is this player?\u2019 laughs Youness Bengelloun as he\u2026",
+   "date": "2026-11-07T12:00:13+00:00",
+   "image": "https://i.guim.co.uk/img/media/e735d39c230e213e1ed1955930cc9c1477060973/0_122_3671_2937/master/3671.jpg?width=140&quality=85&auto=format&fit=max&s=dd6cbfa69cde7d0b39277b660005b4fc"
   },
   {
    "source": "The Guardian",
@@ -63,40 +79,40 @@
    "summary": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
    "date": "2026-11-07T07:16:37+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o?at_medium=RSS&at_campaign=rss",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "date": "2026-11-07T06:53:35+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Non-league's greatest giant-killers eye another scalp",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.",
-   "date": "2026-11-07T06:45:56+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e68/live/669c60c0-d9d2-11f1-9e5a-c30c5e3d8c85.jpg"
   }
  ],
  "news_all": [
   {
-   "source": "The Guardian",
-   "title": "Arsenal and Manchester City in action, FA Cup first round news and more \u2013 matchday live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-and-manchester-city-in-action-fa-cup-first-round-news-and-more-matchday-live",
-   "summary": "\u26bd All the latest news before a busy day of football kicks off\u26bd Today\u2019s fixtures | Latest tables | Mail us at matchday.liveAn email. Krishnamoorthy v has been pondering today\u2019s games.Hello David. Would Leeds be able to\u2026",
-   "date": "2026-11-07T11:31:28+00:00",
-   "image": "https://i.guim.co.uk/img/media/e3bcdef9e27c01a754224976aff93a6e302eba4c/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6c0f897c094a91ec02ab68c6966cff00"
+   "source": "BBC Sport",
+   "title": "Listen to Off The Ball",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+   "summary": "The most petty and ill-informed football show on radio.",
+   "date": "2026-11-07T14:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
   },
   {
    "source": "The Guardian",
    "title": "Leeds United v Tottenham Hotspur: Premier League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
-   "summary": "\u26bd\ufe0f Premier League updates from the 12.30pm GMT kick-off\u26bd\ufe0f Live scores | Top scorers | Follow us on TikTok | Mail ScottTottenham make one change from last weekend\u2019s 2-0 win over Crystal Palace. Pedro Porro replaces the\u2026",
-   "date": "2026-11-07T11:31:27+00:00",
-   "image": "https://i.guim.co.uk/img/media/8a3e11b0920cf236be2ad80822fcb2103ccb79bc/359_0_4925_3940/master/4925.jpg?width=140&quality=85&auto=format&fit=max&s=7a49beba1deb5eeff764a3b19d8a956f"
+   "summary": "\u26bd\ufe0f Premier League updates from the 12.30pm GMT kick-off\u26bd\ufe0f Live scores | Top scorers | Follow us on TikTok | Mail ScottA different fanfare for the common man \u2013 the Last Post \u2013 sounds poignantly. Silent, solemn\u2026",
+   "date": "2026-11-07T12:49:39+00:00",
+   "image": "https://i.guim.co.uk/img/media/02a94fd5ec91781c777c950c79ef9f2531190b22/0_0_4185_3347/master/4185.jpg?width=140&quality=85&auto=format&fit=max&s=44e0f901c59a53d28f193cd44e5a5a18"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "My dream is to win Ballon d'Or - Gabriel",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
+   "date": "2026-11-07T12:25:14+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a16/live/eaf4a7b0-daa4-11f1-9da2-b11e4d68c08e.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018A footballing alien\u2019: Mamadou Sangar\u00e9 soars to Premier League heights",
+   "link": "https://www.theguardian.com/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league",
+   "summary": "Brentford\u2019s Mali midfielder stood out when he was six and has shone in the Premier League since \u00a339m transfer\u201cWhen I first saw him, I thought to myself: \u2018Who on earth is this player?\u2019 laughs Youness Bengelloun as he\u2026",
+   "date": "2026-11-07T12:00:13+00:00",
+   "image": "https://i.guim.co.uk/img/media/e735d39c230e213e1ed1955930cc9c1477060973/0_122_3671_2937/master/3671.jpg?width=140&quality=85&auto=format&fit=max&s=dd6cbfa69cde7d0b39277b660005b4fc"
   },
   {
    "source": "The Guardian",
@@ -161,6 +177,14 @@
    "summary": "Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.",
    "date": "2026-11-07T06:45:56+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e68/live/669c60c0-d9d2-11f1-9e5a-c30c5e3d8c85.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Can we play you every week? The day Southend toppled Man United",
+   "link": "https://www.bbc.co.uk/news/articles/cwm266zkz8ggo?at_medium=RSS&at_campaign=rss",
+   "summary": "Southend United's heroes remember their famous victory against Manchester United 20 years on.",
+   "date": "2026-11-07T06:22:41+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c4/live/2e6d6b50-d9ef-11f1-bb10-cdca6001fbcf.jpg"
   },
   {
    "source": "The Guardian",
@@ -307,14 +331,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5cf/live/b6d6f4d0-d9fd-11f1-84c1-dbcae60402d7.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Premier League team news: predicted lineups for the weekend action",
-   "link": "https://www.theguardian.com/football/2026/nov/06/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-   "summary": "Manchester United host Aston Villa seeking a first league win in eight games to ease pressure on Michael CarrickSaturday 12.30pm TNT Sports 1 Venue Elland Road Continue reading...",
-   "date": "2026-11-06T16:43:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/88abdde0c3dcf239bd407ec2936ca22e1af89179/791_126_2080_1664/master/2080.jpg?width=140&quality=85&auto=format&fit=max&s=fbc68ebd9882d3b214fb6511c80922a5"
-  },
-  {
    "source": "BBC Sport",
    "title": "Is Palmer's England career over under Tuchel?",
    "link": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
@@ -372,14 +388,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Preston sign ex-Charlton captain Docherty",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq8ezzx6pz6yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Preston North End sign experienced midfielder Greg Docherty on a deal until the end of the season.",
-   "date": "2026-11-06T12:02:35+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d799/live/eb894040-d9d8-11f1-9e5a-c30c5e3d8c85.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Has Anderson lived up to the hype after Man City move?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
    "summary": "As Elliot Anderson returns to Nottingham Forest after his \u00a3116m move to Manchester City, has he lived up to the price tag?",
@@ -412,14 +420,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Championship preview: Contenders, pretenders and strugglers",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport highlights five things to look out for across Saturday's Championship action.",
-   "date": "2026-11-06T09:22:00+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e7/live/faa1da30-d9c2-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Diamonds are forever - phoenix club seek FA Cup upset",
    "link": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o?at_medium=RSS&at_campaign=rss",
    "summary": "Eighth-tier AFC Rushden & Diamonds travel to Burton Albion looking to add a glorious chapter to their FA Cup fairytale.",
@@ -433,14 +433,6 @@
    "summary": "Can Celtic build on their European comeback as another huge Premiership weekend looms?",
    "date": "2026-11-06T08:00:00+00:00",
    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pll46p.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "How much prize money can teams win in FA Cup?",
-   "link": "https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Our Ask Me Anything team look at what teams could be set to earn from the 2026-27 FA Cup.",
-   "date": "2026-11-06T07:50:11+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e4/live/5a50dcb0-d6cb-11f1-a701-fddedf244c16.png"
   },
   {
    "source": "BBC Sport",
@@ -539,6 +531,14 @@
    "image": "https://i.guim.co.uk/img/media/eea7928b70b174eebe5b6e5016c4356c4b57a54c/385_0_5850_4680/master/5850.jpg?width=140&quality=85&auto=format&fit=max&s=524992fc8ec9ac2a017351caae7c5b97"
   },
   {
+   "source": "The Guardian",
+   "title": "Kamada\u2019s late leveller rescues point for 10-man Crystal Palace and denies Hoffenheim",
+   "link": "https://www.theguardian.com/football/2026/nov/05/kamadas-late-leveller-rescues-point-for-10-man-crystal-palace-and-denies-hoffenheim",
+   "summary": "A late, late strike from Daichi Kamada saved Crystal Palace from embarrassment and another round of navel gazing as they snatched a Europa League draw with Hoffenheim against the odds.After being outplayed by a side\u2026",
+   "date": "2026-11-05T19:56:39+00:00",
+   "image": "https://i.guim.co.uk/img/media/6ef706b212a1c610e4ad6d3311740787c0983d16/119_0_2189_1751/master/2189.jpg?width=140&quality=85&auto=format&fit=max&s=14cf0e032796735b82a2c2e065f4eb15"
+  },
+  {
    "source": "BBC Sport",
    "title": "Sutton's predictions v Football Manager, the game",
    "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
@@ -556,14 +556,20 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Emery close to agreeing new Aston Villa contract",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno?at_medium=RSS&at_campaign=rss",
-   "summary": "Aston Villa manager Unai Emery is close to agreeing a contract extension at the club.",
-   "date": "2026-11-05T15:45:22+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410d/live/f2a1a650-d92a-11f1-bd1d-4f4c8335e0ab.jpg"
+   "title": "What new Kane deal means for England and the Premier League record",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+   "summary": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
+   "date": "2026-11-05T14:44:34+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2669/live/3768f3a0-d91d-11f1-ad94-e17fee4cd332.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "FIFA",
+   "id": "gCsb63pIvIQ",
+   "title": "UNBEATEN Cabo Verde Progress To Knockouts | Saudi Arabia Bow Out | 2026 World Cup Match Highlights",
+   "date": "2026-11-07T12:30:15+00:00"
+  },
   {
    "channel": "Serie A",
    "id": "o_2axSItZKM",
@@ -667,10 +673,16 @@
    "date": "2026-11-05T21:06:25+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "DGv3GDhIpbo",
-   "title": "8 Goals In 3 Minutes | Germany v Curacao Match Highlights | 2026 World Cup",
-   "date": "2026-11-05T20:30:02+00:00"
+   "channel": "LaLiga",
+   "id": "-Cn2Ecd-Lvk",
+   "title": "\ud83d\udd34 M\u00c1LAGA CF vs R. RACING CLUB - PREVIA DEL PARTIDO",
+   "date": "2026-11-07T13:01:17+00:00"
+  },
+  {
+   "channel": "UEFA",
+   "id": "FkO2aTndkt8",
+   "title": "The game has glitched",
+   "date": "2026-11-07T12:00:01+00:00"
   },
   {
    "channel": "Bundesliga",
@@ -695,18 +707,6 @@
    "id": "8EuxIaFqKuE",
    "title": "KIKE PEREZ FIRES THE WINNER \ud83e\udee8\ud83d\udd25",
    "date": "2026-11-07T09:00:24+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "Yh_0LpI4yAg",
-   "title": "Did You Guess Correctly? \ud83d\ude0f",
-   "date": "2026-11-07T09:00:13+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "GEevvSIxfPE",
-   "title": "CHAOS In The Box! \ud83d\ude31",
-   "date": "2026-11-07T07:00:23+00:00"
   }
  ],
  "fixtures": [
@@ -813,9 +813,9 @@
    "away": "Tottenham Hotspur",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "36'",
    "venue": "Elland Road",
    "usa": [
     "USA Net",
@@ -832,9 +832,9 @@
    "away": "Racing Santander",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "5'",
    "venue": "La Rosaleda",
    "usa": [
     "ESPN Deportes",
@@ -6116,9 +6116,9 @@
    "away": "Tottenham Hotspur",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "36'",
    "venue": "Elland Road",
    "usa": [
     "USA Net",
@@ -6135,9 +6135,9 @@
    "away": "Racing Santander",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "5'",
    "venue": "La Rosaleda",
    "usa": [
     "ESPN Deportes",
