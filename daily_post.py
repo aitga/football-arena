@@ -52,7 +52,7 @@ def prepare():
             f.write(f"## 📝 Today's Football Arena posts (preview) – {len(posts)} posts\n\n")
             for i, p in enumerate(posts, 1):
                 f.write(f"### Post {i}\n```\n{p['message']}\n```\nLink: {p['link']}\n\n")
-            f.write("If they look good: **Review deployments → approval → Approve and deploy**.\n")
+            f.write("**Facebook posting is paused:** copy these posts and paste them on your Football Arena page.\n")
     for p in posts:
         print(p["message"], "\n->", p["link"], "\n")
 
