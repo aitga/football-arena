@@ -1,20 +1,28 @@
 {
  "news": [
   {
-   "source": "BBC Sport",
-   "title": "Listen to Off The Ball",
-   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-   "summary": "The most petty and ill-informed football show on radio.",
-   "date": "2026-11-07T14:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Leeds United v Tottenham Hotspur: Premier League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
    "summary": "\u26bd\ufe0f Premier League updates from the 12.30pm GMT kick-off\u26bd\ufe0f Live scores | Top scorers | Follow us on TikTok | Mail ScottA different fanfare for the common man \u2013 the Last Post \u2013 sounds poignantly. Silent, solemn\u2026",
-   "date": "2026-11-07T12:49:39+00:00",
-   "image": "https://i.guim.co.uk/img/media/02a94fd5ec91781c777c950c79ef9f2531190b22/0_0_4185_3347/master/4185.jpg?width=140&quality=85&auto=format&fit=max&s=44e0f901c59a53d28f193cd44e5a5a18"
+   "date": "2026-11-07T13:48:51+00:00",
+   "image": "https://i.guim.co.uk/img/media/c8a3016b2844a42347f75fcafe06831c03d880d2/852_0_4234_3388/master/4234.jpg?width=140&quality=85&auto=format&fit=max&s=e672a846dfbf36326ddf8d1b244905c9"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Arsenal v Hull City, Fulham v Newcastle United, FA Cup and more: football \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-v-hull-city-fulham-v-newcastle-united-fa-cup-and-more-football-live",
+   "summary": "\u26bd\ufe0f Follow live updates from all of Saturday\u2019s football action\u26bd\ufe0f Live scores | Full tables | Follow us on TikTok | Mail BarryChampionship: Andre Brooks scores Norwich\u2019s second goal in three second-half minutes to make it\u2026",
+   "date": "2026-11-07T13:45:57+00:00",
+   "image": "https://i.guim.co.uk/img/media/8b30349f7ca057ba07ae1b11062c327f1bab37a7/889_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=ea628c327aa8cfd5f03280a7dd6ecd85"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Listen to Off The Ball",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+   "summary": "The most petty and ill-informed football show on radio.",
+   "date": "2026-11-07T13:30:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
   },
   {
    "source": "BBC Sport",
@@ -71,32 +79,32 @@
    "summary": "Leeds United's James Trafford opens up on his struggles at Manchester City last season that were behind his summer transfer.",
    "date": "2026-11-07T07:27:40+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2925/live/81cc9190-da12-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "I left Man City for my mental wellbeing - Trafford",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
-   "summary": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
-   "date": "2026-11-07T07:16:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg"
   }
  ],
  "news_all": [
-  {
-   "source": "BBC Sport",
-   "title": "Listen to Off The Ball",
-   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-   "summary": "The most petty and ill-informed football show on radio.",
-   "date": "2026-11-07T14:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
-  },
   {
    "source": "The Guardian",
    "title": "Leeds United v Tottenham Hotspur: Premier League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
    "summary": "\u26bd\ufe0f Premier League updates from the 12.30pm GMT kick-off\u26bd\ufe0f Live scores | Top scorers | Follow us on TikTok | Mail ScottA different fanfare for the common man \u2013 the Last Post \u2013 sounds poignantly. Silent, solemn\u2026",
-   "date": "2026-11-07T12:49:39+00:00",
-   "image": "https://i.guim.co.uk/img/media/02a94fd5ec91781c777c950c79ef9f2531190b22/0_0_4185_3347/master/4185.jpg?width=140&quality=85&auto=format&fit=max&s=44e0f901c59a53d28f193cd44e5a5a18"
+   "date": "2026-11-07T13:48:51+00:00",
+   "image": "https://i.guim.co.uk/img/media/c8a3016b2844a42347f75fcafe06831c03d880d2/852_0_4234_3388/master/4234.jpg?width=140&quality=85&auto=format&fit=max&s=e672a846dfbf36326ddf8d1b244905c9"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Arsenal v Hull City, Fulham v Newcastle United, FA Cup and more: football \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-v-hull-city-fulham-v-newcastle-united-fa-cup-and-more-football-live",
+   "summary": "\u26bd\ufe0f Follow live updates from all of Saturday\u2019s football action\u26bd\ufe0f Live scores | Full tables | Follow us on TikTok | Mail BarryChampionship: Andre Brooks scores Norwich\u2019s second goal in three second-half minutes to make it\u2026",
+   "date": "2026-11-07T13:45:57+00:00",
+   "image": "https://i.guim.co.uk/img/media/8b30349f7ca057ba07ae1b11062c327f1bab37a7/889_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=ea628c327aa8cfd5f03280a7dd6ecd85"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Listen to Off The Ball",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+   "summary": "The most petty and ill-informed football show on radio.",
+   "date": "2026-11-07T13:30:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
   },
   {
    "source": "BBC Sport",
@@ -315,14 +323,6 @@
    "image": "https://i.guim.co.uk/img/media/b0d33f547e93a4f8986eec3da7a3b51410509f44/403_296_4404_3521/master/4404.jpg?width=140&quality=85&auto=format&fit=max&s=4818222d57b045523fe9fb2226f98c49"
   },
   {
-   "source": "The Guardian",
-   "title": "Matthias Jaissle caught in the storm as Newcastle struggle without European fix",
-   "link": "https://www.theguardian.com/football/2026/nov/06/matthias-jaissle-caught-in-the-storm-as-newcastle-struggle-without-european-fix",
-   "summary": "Panic building among fans as club visit Craven Cottage but head coach has resolute support of hierarchyAt least Matthias Jaissle has a sense of humour. \u201cThere\u2019s a lot of storm at the moment,\u201d reflected Newcastle\u2019s head\u2026",
-   "date": "2026-11-06T19:00:49+00:00",
-   "image": "https://i.guim.co.uk/img/media/c717e2120fab72d06aef2a949d19473e652e16f9/0_0_6776_5421/master/6776.jpg?width=140&quality=85&auto=format&fit=max&s=f6228c00937b0dc76cc87934d24d4a69"
-  },
-  {
    "source": "BBC Sport",
    "title": "James out for minimum of five games - Bompastor",
    "link": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&at_campaign=rss",
@@ -417,6 +417,14 @@
    "summary": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
    "date": "2026-11-06T11:16:07+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e8/live/f9eca4e0-d9cb-11f1-bb8e-efaa31738708.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Amar Dedic set to escape Newcastle sanction over carrying bow and arrow",
+   "link": "https://www.theguardian.com/football/2026/nov/06/amar-dedic-set-to-escape-newcastle-sanction-over-carrying-bow-and-arrow",
+   "summary": "Right-back sparked armed police response over incidentExpected to start Newcastle\u2019s trip to Fulham on SaturdayNewcastle\u2019s Amar Dedic is unlikely to face a club sanction after being spotted holding a bow and arrow in the\u2026",
+   "date": "2026-11-06T10:38:34+00:00",
+   "image": "https://i.guim.co.uk/img/media/b2fe462d00ac1cf8c8c41cba79d95da9ab3d7317/26_42_4148_3317/master/4148.jpg?width=140&quality=85&auto=format&fit=max&s=d619fc2153c7a856110f425770d28690"
   },
   {
    "source": "BBC Sport",
@@ -531,14 +539,6 @@
    "image": "https://i.guim.co.uk/img/media/eea7928b70b174eebe5b6e5016c4356c4b57a54c/385_0_5850_4680/master/5850.jpg?width=140&quality=85&auto=format&fit=max&s=524992fc8ec9ac2a017351caae7c5b97"
   },
   {
-   "source": "The Guardian",
-   "title": "Kamada\u2019s late leveller rescues point for 10-man Crystal Palace and denies Hoffenheim",
-   "link": "https://www.theguardian.com/football/2026/nov/05/kamadas-late-leveller-rescues-point-for-10-man-crystal-palace-and-denies-hoffenheim",
-   "summary": "A late, late strike from Daichi Kamada saved Crystal Palace from embarrassment and another round of navel gazing as they snatched a Europa League draw with Hoffenheim against the odds.After being outplayed by a side\u2026",
-   "date": "2026-11-05T19:56:39+00:00",
-   "image": "https://i.guim.co.uk/img/media/6ef706b212a1c610e4ad6d3311740787c0983d16/119_0_2189_1751/master/2189.jpg?width=140&quality=85&auto=format&fit=max&s=14cf0e032796735b82a2c2e065f4eb15"
-  },
-  {
    "source": "BBC Sport",
    "title": "Sutton's predictions v Football Manager, the game",
    "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
@@ -564,6 +564,12 @@
   }
  ],
  "videos": [
+  {
+   "channel": "FIFA",
+   "id": "SF8zTuzElNY",
+   "title": "Underrated World Cup Goal? Summerville's Stunner \ud83e\udd29",
+   "date": "2026-11-07T13:30:05+00:00"
+  },
   {
    "channel": "FIFA",
    "id": "gCsb63pIvIQ",
@@ -667,10 +673,16 @@
    "date": "2026-11-05T21:31:36+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "jawU9m1b4DM",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0637\u0631\u0627\u0628\u0632\u0648\u0646 \u0633\u0628\u0648\u0631 \u0648\u0641\u0631\u0627\u064a\u0628\u0648\u0631\u063a | \u062f\u0648\u0631\u064a \u0627\u0644\u0645\u0624\u062a\u0645\u0631 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
-   "date": "2026-11-05T21:06:25+00:00"
+   "channel": "LaLiga",
+   "id": "itmM7F15q20",
+   "title": "En el minuto 9, un mismo recuerdo nos une a todos. Por Jes\u00fas de Miguel.",
+   "date": "2026-11-07T13:38:22+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "kvXRNPjyKV8",
+   "title": "Un mismo sentimiento. Un mismo recuerdo. El f\u00fatbol, unido por Jes\u00fas de Miguel.",
+   "date": "2026-11-07T13:15:29+00:00"
   },
   {
    "channel": "LaLiga",
@@ -695,18 +707,6 @@
    "id": "4oMtG6zzxp4",
    "title": "POURQUOI LA LIGUE 1 CRAQUE POUR LES JOUEURS DANOIS ? \ud83c\udde9\ud83c\uddf0",
    "date": "2026-11-07T10:00:09+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "pypE4hUCCNQ",
-   "title": "Neymar \u2728",
-   "date": "2026-11-07T09:29:56+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "8EuxIaFqKuE",
-   "title": "KIKE PEREZ FIRES THE WINNER \ud83e\udee8\ud83d\udd25",
-   "date": "2026-11-07T09:00:24+00:00"
   }
  ],
  "fixtures": [
@@ -815,7 +815,7 @@
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "36'",
+   "clock": "67'",
    "venue": "Elland Road",
    "usa": [
     "USA Net",
@@ -830,11 +830,11 @@
    "date": "2026-11-07T13:00Z",
    "home": "M\u00e1laga",
    "away": "Racing Santander",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "5'",
+   "clock": "45'+5'",
    "venue": "La Rosaleda",
    "usa": [
     "ESPN Deportes",
@@ -6118,7 +6118,7 @@
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "36'",
+   "clock": "67'",
    "venue": "Elland Road",
    "usa": [
     "USA Net",
@@ -6133,11 +6133,11 @@
    "date": "2026-11-07T13:00Z",
    "home": "M\u00e1laga",
    "away": "Racing Santander",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "5'",
+   "clock": "45'+5'",
    "venue": "La Rosaleda",
    "usa": [
     "ESPN Deportes",
