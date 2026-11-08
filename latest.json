@@ -1,20 +1,68 @@
 {
  "news": [
   {
-   "source": "BBC Sport",
-   "title": "Watch Sportscene highlights of Sunday's Premiership action",
-   "link": "https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&at_campaign=rss",
-   "summary": "Highlights of Hearts v Falkirk and Celtic v Kilmarnock.",
-   "date": "2026-11-08T20:00:24+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ply9jw.jpg"
+   "source": "The Guardian",
+   "title": "FA Cup roundup: Seventh-tier Wimborne shock Crawley to reach second round",
+   "link": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
+   "summary": "Grimsby and Stockport survive scares but Wednesday outExeter upset League One leaders HuddersfieldSeventh-tier Wimborne heaped more misery on Crawley as the bottom side in the Football League lost 2-0 in the biggest\u2026",
+   "date": "2026-11-08T20:15:53+00:00",
+   "image": "https://i.guim.co.uk/img/media/2c990ebb871871e96a08404f81431493fda8ea94/450_0_3614_2891/master/3614.jpg?width=140&quality=85&auto=format&fit=max&s=ad2b948bc69612f848dc8337ba240951"
   },
   {
-   "source": "ESPN",
-   "title": "Poor starts have Man United facing relegation battle",
-   "link": "https://www.espn.com/soccer/story/_/id/50422311/man-united-poor-starts-premier-league-relegation-looking-more-likely",
-   "summary": "Sunday again showed that the Old Trafford club have a penchant for waking up *after* games have already begun -- and that is why why they face dropping out of the Premier League.",
-   "date": "2026-11-08T19:40:42+00:00",
-   "image": null
+   "source": "BBC Sport",
+   "title": "Where does Man Utd 4-4 Villa rank among best Premier League games?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Where does Manchester United 4-4 Aston Villa rank among the Premier League's greatest games?",
+   "date": "2026-11-08T20:05:53+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/910b/live/15fd4900-da13-11f0-a8dc-93c15fe68710.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation\u2026",
+   "date": "2026-11-08T20:01:16+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f78/live/514a5d20-dba9-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Brighton breeze past 10-man Brentford to move up to second",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
+   "summary": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
+   "date": "2026-11-08T20:00:21+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8967/live/b01c8b60-dbaa-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Bournemouth beat Ipswich to extend winning streak",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss",
+   "summary": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
+   "date": "2026-11-08T19:59:53+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f40/live/739a24b0-dba3-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Liverpool dispatch Palace to pile pressure on Sage",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
+   "date": "2026-11-08T19:58:46+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd96/live/6ce7c2c0-dba9-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
+   "summary": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
+   "date": "2026-11-08T19:58:31+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cb/live/72a12510-dbab-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Scottish roundup: Flying Falkirk hit five to shatter Hearts\u2019 long unbeaten home run",
+   "link": "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone",
+   "summary": "Falkirk leapfrog their hosts with 5-2 rout at TynecastleLiam Scales gives Celtic 1-0 home win over Kilmarnock Rampant Falkirk obliterated Hearts\u2019 18-month unbeaten home record in the Scottish Premiership with a stunning\u2026",
+   "date": "2026-11-08T19:54:56+00:00",
+   "image": "https://i.guim.co.uk/img/media/41b53954ff443f38469c5b2eeff9f482e25d28d5/592_195_4396_3517/master/4396.jpg?width=140&quality=85&auto=format&fit=max&s=aef740d86c94d6a28fd53513a64b7d10"
   },
   {
    "source": "BBC Sport",
@@ -31,72 +79,72 @@
    "summary": "Aston Villa manager Unai Emery was a frustrated figure after his side surrendered a two goal lead against Manchester United twice, leaving Old Trafford with a point from their 4-4 draw.",
    "date": "2026-11-08T19:39:24+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d367/live/1f25a4c0-dbaa-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "ESPN",
-   "title": "Anthony Gordon left the Premier League for Barcelona to get 'respect' -- he's got it now",
-   "link": "https://www.espn.com/soccer/story/_/id/50377434/anthony-gordon-barcelona-england-premier-league-respect",
-   "summary": "Anthony Gordon's move to Barcelona was a surprise to some, but he's become an instant fan favorite at Camp Nou as well as a key player for England.",
-   "date": "2026-11-08T19:37:01+00:00",
-   "image": null
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss",
-   "summary": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?",
-   "date": "2026-11-08T19:24:36+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/2f31e2f0-db93-11f1-9029-d35c55297624.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Man Utd making it 'hard on ourselves' - Carrick",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United head coach Michael Carrick admits his side \"made it hard on themselves\" after they twice came back from two goals down to earn a 4-4 draw at home to Aston Villa.",
-   "date": "2026-11-08T19:13:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/464b/live/95b255f0-dba7-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Leeds condemn racist abuse of Bogle after Tel incident",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn1zzyr2jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Leeds United condemn the \"disgusting\" online racist abuse directed towards defender Jayden Bogle following Saturday's 1-0 win against Tottenham.",
-   "date": "2026-11-08T19:12:01+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/680c/live/40978c40-dba0-11f1-81e8-61c133a2b43c.jpg"
-  },
-  {
-   "source": "ESPN",
-   "title": "Are Liverpool's big-money forwards finally starting to click?",
-   "link": "https://www.espn.com/soccer/story/_/id/50418964/liverpool-bradley-barcola-alexander-isak-florian-wirtz-crystal-palace",
-   "summary": "\"Poetry in motion\" was the serenade from the Liverpool fans at Crystal Palace. And for a moment in their 3-1 victory, that's exactly what the Reds were.",
-   "date": "2026-11-08T18:58:38+00:00",
-   "image": null
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Seventh-tier Wimborne knock out League Two Crawley in FA Cup upset",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Seventh-tier Wimborne Town beat League Two Crawley in a huge FA Cup upset, to reach round two of the competition for the first time in their history.",
-   "date": "2026-11-08T18:56:55+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3b/live/3c193440-db99-11f1-b441-2b33b063138f.jpg"
   }
  ],
  "news_all": [
   {
-   "source": "BBC Sport",
-   "title": "Watch Sportscene highlights of Sunday's Premiership action",
-   "link": "https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&at_campaign=rss",
-   "summary": "Highlights of Hearts v Falkirk and Celtic v Kilmarnock.",
-   "date": "2026-11-08T20:00:24+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ply9jw.jpg"
+   "source": "The Guardian",
+   "title": "FA Cup roundup: Seventh-tier Wimborne shock Crawley to reach second round",
+   "link": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
+   "summary": "Grimsby and Stockport survive scares but Wednesday outExeter upset League One leaders HuddersfieldSeventh-tier Wimborne heaped more misery on Crawley as the bottom side in the Football League lost 2-0 in the biggest\u2026",
+   "date": "2026-11-08T20:15:53+00:00",
+   "image": "https://i.guim.co.uk/img/media/2c990ebb871871e96a08404f81431493fda8ea94/450_0_3614_2891/master/3614.jpg?width=140&quality=85&auto=format&fit=max&s=ad2b948bc69612f848dc8337ba240951"
   },
   {
-   "source": "ESPN",
-   "title": "Poor starts have Man United facing relegation battle",
-   "link": "https://www.espn.com/soccer/story/_/id/50422311/man-united-poor-starts-premier-league-relegation-looking-more-likely",
-   "summary": "Sunday again showed that the Old Trafford club have a penchant for waking up *after* games have already begun -- and that is why why they face dropping out of the Premier League.",
-   "date": "2026-11-08T19:40:42+00:00",
-   "image": null
+   "source": "BBC Sport",
+   "title": "Where does Man Utd 4-4 Villa rank among best Premier League games?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Where does Manchester United 4-4 Aston Villa rank among the Premier League's greatest games?",
+   "date": "2026-11-08T20:05:53+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/910b/live/15fd4900-da13-11f0-a8dc-93c15fe68710.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation\u2026",
+   "date": "2026-11-08T20:01:16+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f78/live/514a5d20-dba9-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Brighton breeze past 10-man Brentford to move up to second",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
+   "summary": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
+   "date": "2026-11-08T20:00:21+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8967/live/b01c8b60-dbaa-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Bournemouth beat Ipswich to extend winning streak",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss",
+   "summary": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
+   "date": "2026-11-08T19:59:53+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f40/live/739a24b0-dba3-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Liverpool dispatch Palace to pile pressure on Sage",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
+   "date": "2026-11-08T19:58:46+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd96/live/6ce7c2c0-dba9-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
+   "summary": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
+   "date": "2026-11-08T19:58:31+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cb/live/72a12510-dbab-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Scottish roundup: Flying Falkirk hit five to shatter Hearts\u2019 long unbeaten home run",
+   "link": "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone",
+   "summary": "Falkirk leapfrog their hosts with 5-2 rout at TynecastleLiam Scales gives Celtic 1-0 home win over Kilmarnock Rampant Falkirk obliterated Hearts\u2019 18-month unbeaten home record in the Scottish Premiership with a stunning\u2026",
+   "date": "2026-11-08T19:54:56+00:00",
+   "image": "https://i.guim.co.uk/img/media/41b53954ff443f38469c5b2eeff9f482e25d28d5/592_195_4396_3517/master/4396.jpg?width=140&quality=85&auto=format&fit=max&s=aef740d86c94d6a28fd53513a64b7d10"
   },
   {
    "source": "BBC Sport",
@@ -113,14 +161,6 @@
    "summary": "Aston Villa manager Unai Emery was a frustrated figure after his side surrendered a two goal lead against Manchester United twice, leaving Old Trafford with a point from their 4-4 draw.",
    "date": "2026-11-08T19:39:24+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d367/live/1f25a4c0-dbaa-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "ESPN",
-   "title": "Anthony Gordon left the Premier League for Barcelona to get 'respect' -- he's got it now",
-   "link": "https://www.espn.com/soccer/story/_/id/50377434/anthony-gordon-barcelona-england-premier-league-respect",
-   "summary": "Anthony Gordon's move to Barcelona was a surprise to some, but he's become an instant fan favorite at Camp Nou as well as a key player for England.",
-   "date": "2026-11-08T19:37:01+00:00",
-   "image": null
   },
   {
    "source": "BBC Sport",
@@ -145,14 +185,6 @@
    "summary": "Leeds United condemn the \"disgusting\" online racist abuse directed towards defender Jayden Bogle following Saturday's 1-0 win against Tottenham.",
    "date": "2026-11-08T19:12:01+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/680c/live/40978c40-dba0-11f1-81e8-61c133a2b43c.jpg"
-  },
-  {
-   "source": "ESPN",
-   "title": "Are Liverpool's big-money forwards finally starting to click?",
-   "link": "https://www.espn.com/soccer/story/_/id/50418964/liverpool-bradley-barcola-alexander-isak-florian-wirtz-crystal-palace",
-   "summary": "\"Poetry in motion\" was the serenade from the Liverpool fans at Crystal Palace. And for a moment in their 3-1 victory, that's exactly what the Reds were.",
-   "date": "2026-11-08T18:58:38+00:00",
-   "image": null
   },
   {
    "source": "BBC Sport",
@@ -166,7 +198,7 @@
    "source": "The Guardian",
    "title": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
    "link": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report",
-   "summary": "Does this late, late comeback draw keep Michael Carrick in his job? He urged United to back Tuesday\u2019s breathless Roma comeback victory by building momentum and they did \u2013 kind of, by avoiding defeat.Patrick Dorgu\u2019s\u2026",
+   "summary": "Does this late, late comeback draw keep Michael Carrick in his job? He urged United to back up their breathless Roma comeback victory on Tuesday by building momentum and they did, kind of, by avoiding defeat.Patrick\u2026",
    "date": "2026-11-08T18:54:23+00:00",
    "image": "https://i.guim.co.uk/img/media/0aa088aa46fa510182e5835b6b1d067143e90c4f/325_0_3707_2967/master/3707.jpg?width=140&quality=85&auto=format&fit=max&s=aade0e16a816760ff2cb4902ebca9c02"
   },
@@ -177,70 +209,6 @@
    "summary": "Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?",
    "date": "2026-11-08T18:46:45+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6507/live/8fdebc40-dba2-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "ESPN",
-   "title": "Alonso's Chelsea fall to defeat at PL strugglers Sunderland",
-   "link": "https://www.espn.com/soccer/report/_/gameId/401879239",
-   "summary": "Sunderland ended their winless run in the Premier League with a hard-fought 1-0 win over Chelsea at the Stadium of Light.",
-   "date": "2026-11-08T18:41:23+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Stadium stand gives way during Troms\u00f8-Bod\u00f8/Glimt game, some fans injured",
-   "link": "https://www.espn.com/soccer/story/_/id/50421403/tromso-bodo-glimt-stadium-stand-fans-norway",
-   "summary": "A top-flight Norwegian match between Arctic Circle club Troms\u00f8 and Bod\u00f8/Glimt was interrupted on Sunday when a panel in the away fans' stand gave way.",
-   "date": "2026-11-08T18:41:23+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Iraola: Liverpool 'needed' Palace win after back-to-back defeats",
-   "link": "https://www.espn.com/soccer/story/_/id/50421984/andoni-iraola-liverpool-crystal-palace",
-   "summary": "Andoni Iraola admitted Liverpool \"needed\" their 3-1 victory over Crystal Palace after a disappointing week for his team.",
-   "date": "2026-11-08T18:41:23+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Tenerife vow to financially support De Miguel's daughter after tragic death",
-   "link": "https://www.espn.com/soccer/story/_/id/50420092/tenerife-jesus-de-miguel-daughter",
-   "summary": "Tenerife have committed to supporting Jes\u00fas de Miguel's one-year-old daughter until she turns 18 following the forward's tragic death.",
-   "date": "2026-11-08T18:41:23+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Dutch derby canceled after fans block own team's bus from leaving",
-   "link": "https://www.espn.com/soccer/story/_/id/50419754/vitesse-de-graafschap-cancelled-bus",
-   "summary": "Vitesse's derby against visiting De Graafschap was called off on Sunday after away supporters blocked their team's bus from leaving for the game.",
-   "date": "2026-11-08T18:41:23+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Carrick's United rescue 4-4 draw vs. Villa but remain in PL relegation zone",
-   "link": "https://www.espn.com/soccer/story/_/id/50421297/man-united-aston-villa-premier-league",
-   "summary": "Manchester United fought back for a chaotic 4-4 draw against Aston Villa on Sunday after twice going two goals down at Old Trafford.",
-   "date": "2026-11-08T18:41:22+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Pulisic scores again as Amorim's Milan bounce back with Genoa win",
-   "link": "https://www.espn.com/soccer/report/_/gameId/401875018",
-   "summary": "Christian Pulisic scored as AC Milan bounced back from a shock Europa League defeat with a 2-1 victory away at Genoa on Sunday.",
-   "date": "2026-11-08T18:41:22+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Champions, for a few minutes: Rosario cele blunder as Boca win title",
-   "link": "https://www.espn.com/soccer/story/_/id/50419937/rosario-central-boca-juniors-title-argentina",
-   "summary": "Rosario Central players and fans celebrated winning Argentina's annual title, only to discover a dramatic late Boca Juniors goal had denied them.",
-   "date": "2026-11-08T18:41:22+00:00",
-   "image": null
   },
   {
    "source": "BBC Sport",
@@ -267,14 +235,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bfb/live/d0b51af0-db81-11f1-93e1-3b657b665bcf.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "FA Cup roundup: Seventh-tier Wimborne shock Crawley to reach second round",
-   "link": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
-   "summary": "Grimsby and Stockport survive scaresExeter upset League One leaders HuddersfieldSeventh-tier Wimborne heaped more misery on Crawley as the bottom side in the Football League lost 2-0 in the biggest upset of the FA Cup\u2026",
-   "date": "2026-11-08T17:41:47+00:00",
-   "image": "https://i.guim.co.uk/img/media/2c990ebb871871e96a08404f81431493fda8ea94/450_0_3614_2891/master/3614.jpg?width=140&quality=85&auto=format&fit=max&s=ad2b948bc69612f848dc8337ba240951"
-  },
-  {
    "source": "BBC Sport",
    "title": "10-man Stockport come from behind to survive huge scare at Cray",
    "link": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&at_campaign=rss",
@@ -297,14 +257,6 @@
    "summary": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
    "date": "2026-11-08T17:06:21+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab49/live/a17f5c70-db93-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "ESPN",
-   "title": "If Arsenal find attacking spark, they could run away with title",
-   "link": "https://www.espn.com/soccer/story/_/id/50409867/if-arsenal-find-attacking-spark-run-away-premier-league",
-   "summary": "Arsenal's attack lacked a focal point vs. Hull, but Martin \u00d8degaard delivered a winner that should have the champions' Premier League rivals worried.",
-   "date": "2026-11-08T17:03:24+00:00",
-   "image": null
   },
   {
    "source": "BBC Sport",
@@ -348,9 +300,9 @@
   },
   {
    "source": "The Guardian",
-   "title": "Evanilson launches eighth straight Bournemouth win at blundering Ipswich",
+   "title": "Evanilson ignites eighth straight Bournemouth win at blundering Ipswich",
    "link": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report",
-   "summary": "Another Evanilson goal helped fire Marco Rose\u2019s Bournemouth to an eighth straight victory with a hard-fought 2-1 win at Ipswich.Evanilson failed to score in his first six appearances of the season but found the net for\u2026",
+   "summary": "Marco Rose paid tribute to his Bournemouth side after a hard\u2011fought 2-1 victory at Ipswich equalled the club\u2019s record of eight consecutive wins.Evanilson got the ball rolling after five minutes, scoring for a fifth\u2026",
    "date": "2026-11-08T16:14:31+00:00",
    "image": "https://i.guim.co.uk/img/media/3a9051327a06c71de5586088eef6a4488e7826e7/435_0_3996_3197/master/3996.jpg?width=140&quality=85&auto=format&fit=max&s=7ec7f16a3e2428ca1c5a392ed0a1c8cf"
   },
@@ -387,14 +339,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1da8/live/ac3bb310-db7b-11f1-b1f1-3be4e895d0fe.jpg"
   },
   {
-   "source": "ESPN",
-   "title": "Transfer rumors, news: Man United scout defender Mahamadou Nagida",
-   "link": "https://www.espn.com/soccer/story/_/id/50418356/transfer-rumors-news-man-united-rennes-defender-mahamadou-nagida",
-   "summary": "Rennes left-back Mahamadou Nagida is being monitored by Manchester United. Transfer Talk has the latest.",
-   "date": "2026-11-08T14:51:58+00:00",
-   "image": null
-  },
-  {
    "source": "BBC Sport",
    "title": "Chengdu blow 12-point lead to miss out on Chinese title on final day",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo?at_medium=RSS&at_campaign=rss",
@@ -411,20 +355,20 @@
    "image": "https://i.guim.co.uk/img/media/93eceff8fc1e7ac44ead734c851694cd0b5befed/273_0_3541_2832/master/3541.jpg?width=140&quality=85&auto=format&fit=max&s=3ef80469639a3fe051fbd935461f25d6"
   },
   {
-   "source": "ESPN",
-   "title": "Gio Reyna was fit, firing for Strasbourg. His latest injury is a heartbreaker",
-   "link": "https://www.espn.com/soccer/story/_/id/50410844/gio-reyna-was-fit-firing-strasbourg-latest-injury-heartbreaker-usmnt-star",
-   "summary": "Frequently injured and inconsistent, Reyna hadn't played much in recent years. That was changing at Strasbourg before another injury struck.",
-   "date": "2026-11-08T12:57:48+00:00",
-   "image": null
-  },
-  {
    "source": "BBC Sport",
    "title": "Last season difficult with injury and miscarriage - Muniz",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rss",
    "summary": "Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.",
    "date": "2026-11-08T11:56:01+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/e39102a0-db64-11f1-adda-c54f54e3ce6a.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Watch: Saturday's Scottish Premiership highlights",
+   "link": "https://www.bbc.co.uk/sport/videos/ck3r5g1j97nno?at_medium=RSS&at_campaign=rss",
+   "summary": "Watch Saturday's Scottish Premiership highlights on Sportscene as Rangers beat St Mirren, Hibernian thump Aberdeen, St Johnstone edge Dundee, while Dundee United and Motherwell share the points.",
+   "date": "2026-11-08T10:29:54+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fe2/live/46f4f230-db5f-11f1-b441-2b33b063138f.jpg"
   },
   {
    "source": "The Guardian",
@@ -561,9 +505,95 @@
    "summary": "Michelle Cooper strikes in extra time to lift CurrentKansas City extend unbeaten home record with 1-0 winSeventh-seeded Utah Royals upset San Diego WaveMichelle Cooper converted an extra-time penalty to give the Kansas\u2026",
    "date": "2026-11-07T20:40:37+00:00",
    "image": "https://i.guim.co.uk/img/media/48b3cdb4bb2f7340f1b73e4d0dcb201e52d42592/463_0_4082_3266/master/4082.jpg?width=140&quality=85&auto=format&fit=max&s=0446cc1d4ab659573ed301669c09de27"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Championship roundup: Birmingham go top, Cardiff stun Burnley from 4-1 down",
+   "link": "https://www.theguardian.com/football/2026/nov/07/championship-roundup-stoke-norwich-wrexham-wolves",
+   "summary": "Jay Stansfield earns Birmingham 2-1 win against SwanseaCardiff stage remarkable fightback to beat Burnley 5-4Jay Stansfield grabbed a late winner to fire Birmingham top of the Championship with a 2-1 win against 10-man\u2026",
+   "date": "2026-11-07T19:20:34+00:00",
+   "image": "https://i.guim.co.uk/img/media/75958675b4bcc7e2ba144deb1b92268975be5ed6/673_81_2868_2294/master/2868.jpg?width=140&quality=85&auto=format&fit=max&s=0a24a1df6371bd2544fa6261e70723ab"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Title race hots up before Chelsea-Man City showdown",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
+   "summary": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
+   "date": "2026-11-07T18:27:46+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d30/live/e8938990-dacd-11f1-bda8-29fb69dbc026.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Muniz rescues late point for Fulham against Newcastle after Murphy stunner",
+   "link": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
+   "summary": "Questions over whether \u00c1lvaro Arbeloa and Matthias Jaissle have what it takes to succeed in the Premier League remain unanswered after these two young foreign managers watched their sides grind out a 1-1 draw at Craven\u2026",
+   "date": "2026-11-07T17:00:54+00:00",
+   "image": "https://i.guim.co.uk/img/media/0524118fb7d7482c664b87701841e19090a63c3b/314_0_2767_2214/master/2767.jpg?width=140&quality=85&auto=format&fit=max&s=a015403979f624d0d97296506cd810ec"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Tottenham set to complain to Pro Ref after Bogle escapes red card",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss",
+   "summary": "Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.",
+   "date": "2026-11-07T16:35:26+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester City break clear of Chelsea in WSL after Bronze\u2019s freak own goal",
+   "link": "https://www.theguardian.com/football/2026/nov/07/manchester-city-chelsea-everton-west-ham-wsl-roundup",
+   "summary": "Khadija Shaw hits hat-trick in City\u2019s 5-0 rout of West HamChelsea held 1-1 by Everton after Lucy Bronze own goalAn own goal by defender Lucy Bronze \u2060against Everton cost Chelsea top spot in the Women\u2019s \u2060Super League as\u2026",
+   "date": "2026-11-07T15:11:59+00:00",
+   "image": "https://i.guim.co.uk/img/media/2077977fb558e58597559a7d6a4a907b79f10264/810_0_3856_3085/master/3856.jpg?width=140&quality=85&auto=format&fit=max&s=554673fe873178418bcee7a59d2ed53a"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Chelsea\u2019s Alonso identity still to form in a midfield that remains a problem",
+   "link": "https://www.theguardian.com/football/2026/nov/07/chelsea-xabi-alonso-midfield-problem-area",
+   "summary": "Rom\u00e9o Lavia\u2019s resurgence is not enough as injuries to other key players such as Mois\u00e9s Caicedo are proving disruptiveXabi Alonso played for Pep Guardiola at Bayern Munich and was a key figure for Spain when their\u2026",
+   "date": "2026-11-07T10:31:05+00:00",
+   "image": "https://i.guim.co.uk/img/media/c200b2a8ebccfb6d7865c50f44c130e8f8794205/215_0_2526_2021/master/2526.jpg?width=140&quality=85&auto=format&fit=max&s=552c60f780d2bd2723a4468e1a0426b7"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay",
+   "link": "https://www.theguardian.com/football/2026/nov/07/gianni-infantino-fifa-donald-trump-democrats-republicans",
+   "summary": "Trump Exposed Reactor Core Syndrome very much in play after Democrat landslide \u2013 and Fifa\u2019s president may pay a priceOh baby, clamp me in your repulsive mouthparts. Sink your unusually large and venomous fangs into my\u2026",
+   "date": "2026-11-07T08:00:05+00:00",
+   "image": "https://i.guim.co.uk/img/media/9e7ae405facd7fe96282352c135e94adb050c653/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=38906b7b587387cc7c955c209ace0e04"
   }
  ],
  "videos": [
+  {
+   "channel": "beIN SPORTS",
+   "id": "fcpuh0FA7m4",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u064a\u0648\u0646\u0627\u064a\u062a\u062f \u0648\u0623\u0633\u062a\u0648\u0646 \u0641\u064a\u0644\u0627 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0627\u0644\u0645\u0645\u062a\u0627\u0632 - \u0627\u0644\u062c\u0648\u0644\u0629  10",
+   "date": "2026-11-08T20:13:14+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "aoG8_sU5rmM",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0645\u0627\u0645\u064a\u0644\u0648\u062f\u064a \u0635\u0646\u062f\u0627\u0648\u0646\u0632 \u0648\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u062c\u0632\u0627\u0626\u0631 |  \u0643\u0623\u0633 \u0627\u0644\u0633\u0648\u0628\u0631 \u0627\u0644\u0625\u0641\u0631\u064a\u0642\u064a\u0629",
+   "date": "2026-11-08T20:05:44+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "GZWtPYjFtok",
+   "title": "La Dea Torna a Vincere | MONZA-ATALANTA | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-08T19:59:10+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "OTc8pvlWbVI",
+   "title": "Il Grifone Cade in Casa | GENOA-MILAN | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-08T19:59:06+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "k_jDElRbJzQ",
+   "title": "Due Gol in Sette Minuti per i Nerazzurri | INTER-COMO | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-08T19:51:01+00:00"
+  },
   {
    "channel": "LaLiga",
    "id": "uGNrR6OzKUo",
@@ -601,24 +631,6 @@
    "date": "2026-11-08T17:29:08+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "OTc8pvlWbVI",
-   "title": "Il Grifone Cade in Casa | GENOA-MILAN | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-08T16:53:17+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "uYtOT5EUDMc",
-   "title": "Pulisic On Target Again | GENOA-MILAN | HIGHLIGHTS | Serie A 2026/27",
-   "date": "2026-11-08T16:50:01+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "GZWtPYjFtok",
-   "title": "La Dea Torna a Vincere | MONZA-ATALANTA | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-08T16:42:44+00:00"
-  },
-  {
    "channel": "Bundesliga",
    "id": "6DEh00JjkmE",
    "title": "Crazy Freekick Opens Score! | 1. FC K\u00d6LN - BAYER 04 LEVERKUSEN | Highlights | Matchday 9 Bundesliga",
@@ -635,18 +647,6 @@
    "id": "IY--4U28qGE",
    "title": "\u0645\u0644\u062e\u0635 \u0645\u0648\u0627\u062c\u0647\u0629 \u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646 \u0648\u0625\u0633\u0628\u0627\u0646\u064a\u0627 - \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u062b\u0627\u0646\u064a\u0629 | \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0628\u0627\u062f\u0644 \u0642\u0637\u0631 2026 - \u0646\u0647\u0627\u0626\u064a \u0627\u0644\u0631\u062c\u0627\u0644",
    "date": "2026-11-07T23:16:09+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "h03gaodl8k4",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0648\u0627\u062c\u0647\u0629 \u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646 \u0648\u0625\u0633\u0628\u0627\u0646\u064a\u0627 - \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 | \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0628\u0627\u062f\u0644 \u0642\u0637\u0631 2026 - \u0646\u0647\u0627\u0626\u064a \u0627\u0644\u0631\u062c\u0627\u0644",
-   "date": "2026-11-07T23:14:55+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "vaBrYylT_wQ",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0641\u0627\u0644\u0646\u0633\u064a\u0627 \u0648\u064a\u0627\u0644 \u0645\u062f\u0631\u064a\u062f | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 12",
-   "date": "2026-11-07T22:56:24+00:00"
   },
   {
    "channel": "Premier League",
@@ -673,40 +673,40 @@
    "date": "2026-11-07T15:00:31+00:00"
   },
   {
+   "channel": "LaLiga",
+   "id": "MspVUwWFaJo",
+   "title": "CELTA vs LEVANTE UD | RUEDA DE PRENSA",
+   "date": "2026-11-08T20:39:21+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "iLfFCf2OhCs",
+   "title": "Minuto 9. El #AtletiBar\u00e7a se detiene para recordar a Jes\u00fas de Miguel.",
+   "date": "2026-11-08T20:36:46+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "Q4gOLNdt9_8",
+   "title": "VILLARREAL CF vs GETAFE CF | RUEDA DE PRENSA",
+   "date": "2026-11-08T20:13:03+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "XagmGSX1tVc",
+   "title": "\ud83d\ude4f Dani Carvajal recuerda a Jes\u00fas de Miguel tras el #VillarrealGetafe en los micr\u00f3fonos de DAZN.",
+   "date": "2026-11-08T20:04:17+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "99Ubgt8uhco",
+   "title": "\ud83d\udd34 ATL\u00c9TICO DE MADRID vs FC BARCELONA - PREVIA DEL PARTIDO",
+   "date": "2026-11-08T20:01:09+00:00"
+  },
+  {
    "channel": "Serie A",
-   "id": "JSKDBm5cIj4",
-   "title": "\ud83d\udd34 PRE-MATCH LIVE | FIORENTINA-JUVENTUS | Serie A Enilive 2026/27",
-   "date": "2026-11-08T19:44:31+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "5gb-2tVSQ_4",
-   "title": "Sport-Club Freiburg vs. 1. FC Union Berlin | Matchday 9 - Bundesliga 2026/27",
-   "date": "2026-11-08T18:36:57+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "lnViUFJ0cVI",
-   "title": "El #CeltaLevanteUD recuerda en el minuto 9 a Jes\u00fas de Miguel Alameda.",
-   "date": "2026-11-08T18:30:30+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "udCzS5bsx-w",
-   "title": "NOSLIN \ud83e\udd1d FRATTESI",
-   "date": "2026-11-08T18:26:59+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "UQyOEhjoZfo",
-   "title": "El bal\u00f3n se detiene. El recuerdo permanece.Minuto 9. Por Jes\u00fas de Miguel.",
-   "date": "2026-11-08T18:12:14+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "gys9hltUvqA",
-   "title": "\ud83d\udd34 VILLARREAL CF vs GETAFE CF - PREVIA DEL PARTIDO",
-   "date": "2026-11-08T18:00:14+00:00"
+   "id": "mg6bX5tHPmc",
+   "title": "CAPTAIN AMERICA Scores Again \ud83e\udd29\ud83c\uddfa\ud83c\uddf8",
+   "date": "2026-11-08T20:00:14+00:00"
   }
  ],
  "fixtures": [
@@ -1432,10 +1432,10 @@
    "home": "TSG Hoffenheim",
    "away": "Schalke 04",
    "hs": "2",
-   "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "67'",
+   "as": "1",
+   "live": false,
+   "state": "post",
+   "clock": "90'+10'",
    "venue": "PreZero Arena",
    "usa": [
     "Fandango"
@@ -1450,10 +1450,10 @@
    "home": "Fiorentina",
    "away": "Juventus",
    "hs": "1",
-   "as": "0",
+   "as": "1",
    "live": true,
    "state": "in",
-   "clock": "6'",
+   "clock": "45'+2'",
    "venue": "Stadio Artemio Franchi",
    "usa": [
     "Paramount+"
@@ -1467,11 +1467,11 @@
    "date": "2026-11-08T19:45Z",
    "home": "Lens",
    "away": "Marseille",
-   "hs": "0",
+   "hs": "1",
    "as": "1",
    "live": true,
    "state": "in",
-   "clock": "10'",
+   "clock": "46'",
    "venue": "Stade Bollaert-Delelis",
    "usa": [
     "beIn Sports"
@@ -1485,11 +1485,11 @@
    "date": "2026-11-08T20:00Z",
    "home": "Atl\u00e9tico Madrid",
    "away": "Barcelona",
-   "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "hs": "1",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "45'+4'",
    "venue": "Riyadh Air Metropolitano",
    "usa": [
     "ESPN Deportes",
@@ -2769,6 +2769,20 @@
      {
       "group": "",
       "rank": "9",
+      "team": "TSG Hoffenheim",
+      "short": "Hoffenheim",
+      "p": "9",
+      "w": "4",
+      "d": "0",
+      "l": "5",
+      "gd": "-1",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "10",
       "team": "Eintracht Frankfurt",
       "short": "Frankfurt",
       "p": "9",
@@ -2782,7 +2796,7 @@
      },
      {
       "group": "",
-      "rank": "10",
+      "rank": "11",
       "team": "Hamburg SV",
       "short": "Hamburg",
       "p": "9",
@@ -2796,7 +2810,7 @@
      },
      {
       "group": "",
-      "rank": "11",
+      "rank": "12",
       "team": "Mainz",
       "short": "Mainz",
       "p": "9",
@@ -2810,7 +2824,7 @@
      },
      {
       "group": "",
-      "rank": "12",
+      "rank": "13",
       "team": "SC Paderborn 07",
       "short": "Paderborn",
       "p": "9",
@@ -2824,7 +2838,7 @@
      },
      {
       "group": "",
-      "rank": "13",
+      "rank": "14",
       "team": "FC Augsburg",
       "short": "Augsburg",
       "p": "9",
@@ -2832,20 +2846,6 @@
       "d": "3",
       "l": "4",
       "gd": "0",
-      "pts": "9",
-      "zone": "",
-      "zone_name": ""
-     },
-     {
-      "group": "",
-      "rank": "14",
-      "team": "TSG Hoffenheim",
-      "short": "Hoffenheim",
-      "p": "8",
-      "w": "3",
-      "d": "0",
-      "l": "5",
-      "gd": "-2",
       "pts": "9",
       "zone": "",
       "zone_name": ""
@@ -2883,11 +2883,11 @@
       "rank": "17",
       "team": "Schalke 04",
       "short": "Schalke",
-      "p": "8",
+      "p": "9",
       "w": "1",
       "d": "3",
-      "l": "4",
-      "gd": "-5",
+      "l": "5",
+      "gd": "-6",
       "pts": "6",
       "zone": "#FF7F84",
       "zone_name": "Relegation"
@@ -4908,6 +4908,15 @@
    },
    {
     "l": "ger",
+    "name": "TSG Hoffenheim",
+    "short": "Hoffenheim",
+    "keys": [
+     "hoffenheim",
+     "tsg hoffenheim"
+    ]
+   },
+   {
+    "l": "ger",
     "name": "Eintracht Frankfurt",
     "short": "Frankfurt",
     "keys": [
@@ -4949,15 +4958,6 @@
     "keys": [
      "augsburg",
      "fc augsburg"
-    ]
-   },
-   {
-    "l": "ger",
-    "name": "TSG Hoffenheim",
-    "short": "Hoffenheim",
-    "keys": [
-     "hoffenheim",
-     "tsg hoffenheim"
     ]
    },
    {
@@ -6735,10 +6735,10 @@
    "home": "TSG Hoffenheim",
    "away": "Schalke 04",
    "hs": "2",
-   "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "67'",
+   "as": "1",
+   "live": false,
+   "state": "post",
+   "clock": "90'+10'",
    "venue": "PreZero Arena",
    "usa": [
     "Fandango"
@@ -6753,10 +6753,10 @@
    "home": "Fiorentina",
    "away": "Juventus",
    "hs": "1",
-   "as": "0",
+   "as": "1",
    "live": true,
    "state": "in",
-   "clock": "6'",
+   "clock": "45'+2'",
    "venue": "Stadio Artemio Franchi",
    "usa": [
     "Paramount+"
@@ -6770,11 +6770,11 @@
    "date": "2026-11-08T19:45Z",
    "home": "Lens",
    "away": "Marseille",
-   "hs": "0",
+   "hs": "1",
    "as": "1",
    "live": true,
    "state": "in",
-   "clock": "10'",
+   "clock": "46'",
    "venue": "Stade Bollaert-Delelis",
    "usa": [
     "beIn Sports"
@@ -6788,11 +6788,11 @@
    "date": "2026-11-08T20:00Z",
    "home": "Atl\u00e9tico Madrid",
    "away": "Barcelona",
-   "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "hs": "1",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "45'+4'",
    "venue": "Riyadh Air Metropolitano",
    "usa": [
     "ESPN Deportes",
