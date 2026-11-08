@@ -1,12 +1,28 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Listen to Off The Ball",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+   "summary": "The most petty and ill-informed football show on radio.",
+   "date": "2026-11-08T14:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Liverpool v Arsenal: Women\u2019s Super League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/08/liverpool-v-arsenal-womens-super-league-live",
-   "summary": "\u26bd\ufe0f Women\u2019s Super League updates from 12pm GMT\u26bd\ufe0f Oc\u00e9ane Hurtr\u00e9 making waves at Birmingham | Email EmilliaA look at the WSL table\u2026Liverpool starting line-up: Khiara Keating; Sam Kerr, Grace Fisk (C), Jenna Clark,\u2026",
-   "date": "2026-11-08T11:40:01+00:00",
-   "image": "https://i.guim.co.uk/img/media/136e4be72d3daeb75612db1f5168fcb9d1bb7922/0_41_3101_2480/master/3101.jpg?width=140&quality=85&auto=format&fit=max&s=f487c13a30472f64748a147dc8949611"
+   "summary": "\u26bd\ufe0f Women\u2019s Super League updates from 12pm GMT\u26bd\ufe0f Oc\u00e9ane Hurtr\u00e9 making waves at Birmingham | Email Emillia3 min: Endemann looks to send a cross towards the back post from the right but the ball runs behind.2 min: Arsenal\u2026",
+   "date": "2026-11-08T12:54:25+00:00",
+   "image": "https://i.guim.co.uk/img/media/6dc5dfb05ff7d98a5c82c5e322237460f46b73b4/203_0_2534_2027/master/2534.jpg?width=140&quality=85&auto=format&fit=max&s=fc6a99c726eb93d89ced1e7942fc80bf"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Last season difficult with injury and miscarriage - Muniz",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rss",
+   "summary": "Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.",
+   "date": "2026-11-08T11:56:01+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/e39102a0-db64-11f1-adda-c54f54e3ce6a.jpg"
   },
   {
    "source": "BBC Sport",
@@ -63,32 +79,32 @@
    "summary": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
    "date": "2026-11-08T07:30:01+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Messi makes history with MLS Golden Boot",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Inter Miami forward Lionel Messi becomes the first player in MLS history to win the Golden Boot in consecutive seasons.",
-   "date": "2026-11-08T07:23:50+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b3/live/47a9f080-db42-11f1-96fa-a5a773d1f96a.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who am I? Guess WSL star No 11",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cgqdv8lexl1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Work out the identity of today's player in as few attempts as possible.",
-   "date": "2026-11-08T06:51:06+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Listen to Off The Ball",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+   "summary": "The most petty and ill-informed football show on radio.",
+   "date": "2026-11-08T14:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Liverpool v Arsenal: Women\u2019s Super League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/08/liverpool-v-arsenal-womens-super-league-live",
-   "summary": "\u26bd\ufe0f Women\u2019s Super League updates from 12pm GMT\u26bd\ufe0f Oc\u00e9ane Hurtr\u00e9 making waves at Birmingham | Email EmilliaA look at the WSL table\u2026Liverpool starting line-up: Khiara Keating; Sam Kerr, Grace Fisk (C), Jenna Clark,\u2026",
-   "date": "2026-11-08T11:40:01+00:00",
-   "image": "https://i.guim.co.uk/img/media/136e4be72d3daeb75612db1f5168fcb9d1bb7922/0_41_3101_2480/master/3101.jpg?width=140&quality=85&auto=format&fit=max&s=f487c13a30472f64748a147dc8949611"
+   "summary": "\u26bd\ufe0f Women\u2019s Super League updates from 12pm GMT\u26bd\ufe0f Oc\u00e9ane Hurtr\u00e9 making waves at Birmingham | Email Emillia3 min: Endemann looks to send a cross towards the back post from the right but the ball runs behind.2 min: Arsenal\u2026",
+   "date": "2026-11-08T12:54:25+00:00",
+   "image": "https://i.guim.co.uk/img/media/6dc5dfb05ff7d98a5c82c5e322237460f46b73b4/203_0_2534_2027/master/2534.jpg?width=140&quality=85&auto=format&fit=max&s=fc6a99c726eb93d89ced1e7942fc80bf"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Last season difficult with injury and miscarriage - Muniz",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rss",
+   "summary": "Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.",
+   "date": "2026-11-08T11:56:01+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/e39102a0-db64-11f1-adda-c54f54e3ce6a.jpg"
   },
   {
    "source": "BBC Sport",
@@ -545,22 +561,6 @@
    "summary": "Pointless after eight games, Karen Hills\u2019 team are struggling to compete against clubs with chunkier walletsPlayed eight, lost eight. Welcome to the Women\u2019s Super League, Charlton Athletic, a club in danger of being\u2026",
    "date": "2026-11-06T20:49:00+00:00",
    "image": "https://i.guim.co.uk/img/media/77f2c43d685a0ecc6dac85eb0a0f2fe9493eabb1/779_0_5087_4070/master/5087.jpg?width=140&quality=85&auto=format&fit=max&s=0fe1a53acfea57fb0b09ebdf8444cf4c"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Bellinghams celebrate \u2018beautiful story\u2019 as Jobe joins Jude in Tuchel\u2019s England 2.0",
-   "link": "https://www.theguardian.com/football/2026/nov/06/jude-jobe-bellingham-thomas-tuchel-england-croatia-spain-nations-league",
-   "summary": "Jude had asked head coach to scout Dortmund midfielder\u2018It will be beautiful for Jude to have his brother close\u2019Thomas Tuchel has given a first England call-up to Jobe Bellingham, admitting the midfielder\u2019s older\u2026",
-   "date": "2026-11-06T19:00:50+00:00",
-   "image": "https://i.guim.co.uk/img/media/b0d33f547e93a4f8986eec3da7a3b51410509f44/403_296_4404_3521/master/4404.jpg?width=140&quality=85&auto=format&fit=max&s=4818222d57b045523fe9fb2226f98c49"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "James out for minimum of five games - Bompastor",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.",
-   "date": "2026-11-06T16:44:44+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5cf/live/b6d6f4d0-d9fd-11f1-84c1-dbcae60402d7.jpg"
   }
  ],
  "videos": [
@@ -673,6 +673,24 @@
    "date": "2026-11-07T17:45:32+00:00"
   },
   {
+   "channel": "LaLiga",
+   "id": "9XsI8afLmfw",
+   "title": "\ud83d\udd34 ELCHE CF vs REAL BETIS - PREVIA DEL PARTIDO",
+   "date": "2026-11-08T13:00:37+00:00"
+  },
+  {
+   "channel": "UEFA",
+   "id": "VFmqaNj09b0",
+   "title": "BEST Europa League & Conference League Saves From Matchday 4",
+   "date": "2026-11-08T12:00:24+00:00"
+  },
+  {
+   "channel": "UEFA",
+   "id": "fyvV5h5n_Rw",
+   "title": "Jude Bellingham\u2019s finish \ud83d\ude2e\u200d\ud83d\udca8",
+   "date": "2026-11-08T12:00:14+00:00"
+  },
+  {
    "channel": "Bundesliga",
    "id": "oylpIrYPJ9s",
    "title": "A moment that made everyone stand still \ud83d\ude32",
@@ -689,24 +707,6 @@
    "id": "vuVDWvXBEdQ",
    "title": "Fede VALVERDE es omnipresente",
    "date": "2026-11-08T03:00:27+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "KYsuqeGSzVk",
-   "title": "Josk King Was In SHOCK! \ud83d\ude06",
-   "date": "2026-11-07T23:59:01+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "GSZltCXHiG0",
-   "title": "A tournament to remember. The moves that inspire.\u2728\u26bd #U17WWC #Kia #MovementThatInspires",
-   "date": "2026-11-07T23:50:00+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "0Sw5EAu5UaY",
-   "title": "VALENCIA CF vs REAL MADRID | RUEDA DE PRENSA",
-   "date": "2026-11-07T22:48:12+00:00"
   }
  ],
  "fixtures": [
@@ -1068,11 +1068,11 @@
    "date": "2026-11-08T11:30Z",
    "home": "Napoli",
    "away": "Lazio",
-   "hs": "0",
-   "as": "0",
+   "hs": "1",
+   "as": "1",
    "live": true,
    "state": "in",
-   "clock": "18'",
+   "clock": "77'",
    "venue": "Stadio Diego Armando Maradona",
    "usa": [
     "Paramount+"
@@ -1088,9 +1088,9 @@
    "away": "Real Betis",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "7'",
    "venue": "Estadio Mart\u00ednez Valero",
    "usa": [
     "ESPN+"
@@ -6371,11 +6371,11 @@
    "date": "2026-11-08T11:30Z",
    "home": "Napoli",
    "away": "Lazio",
-   "hs": "0",
-   "as": "0",
+   "hs": "1",
+   "as": "1",
    "live": true,
    "state": "in",
-   "clock": "18'",
+   "clock": "77'",
    "venue": "Stadio Diego Armando Maradona",
    "usa": [
     "Paramount+"
@@ -6391,9 +6391,9 @@
    "away": "Real Betis",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "7'",
    "venue": "Estadio Mart\u00ednez Valero",
    "usa": [
     "ESPN+"
