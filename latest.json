@@ -2,11 +2,11 @@
  "news": [
   {
    "source": "The Guardian",
-   "title": "Premier League buildup, FA Cup first round, WSL and more \u2013 matchday live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/08/premier-league-buildup-fa-cup-first-round-wsl-and-more-matchday-live",
-   "summary": "\u26bd All the news ahead of Sunday\u2019s action \u26bd Sign up to Football Daily | Email SimonRodrigo Muniz rescued a late point for Fulham in a 1-1 draw against Newcastle at Craven Cottage. It came after Jacob Murphy broke the\u2026",
-   "date": "2026-11-08T10:31:31+00:00",
-   "image": "https://i.guim.co.uk/img/media/5d199b4fa08291a9b54820a4f8b61ee1939b43a2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b9898a8240edc2e2ec3f8ac74b1410f0"
+   "title": "Liverpool v Arsenal: Women\u2019s Super League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/08/liverpool-v-arsenal-womens-super-league-live",
+   "summary": "\u26bd\ufe0f Women\u2019s Super League updates from 12pm GMT\u26bd\ufe0f Oc\u00e9ane Hurtr\u00e9 making waves at Birmingham | Email EmilliaA look at the WSL table\u2026Liverpool starting line-up: Khiara Keating; Sam Kerr, Grace Fisk (C), Jenna Clark,\u2026",
+   "date": "2026-11-08T11:40:01+00:00",
+   "image": "https://i.guim.co.uk/img/media/136e4be72d3daeb75612db1f5168fcb9d1bb7922/0_41_3101_2480/master/3101.jpg?width=140&quality=85&auto=format&fit=max&s=f487c13a30472f64748a147dc8949611"
   },
   {
    "source": "BBC Sport",
@@ -84,11 +84,11 @@
  "news_all": [
   {
    "source": "The Guardian",
-   "title": "Premier League buildup, FA Cup first round, WSL and more \u2013 matchday live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/08/premier-league-buildup-fa-cup-first-round-wsl-and-more-matchday-live",
-   "summary": "\u26bd All the news ahead of Sunday\u2019s action \u26bd Sign up to Football Daily | Email SimonRodrigo Muniz rescued a late point for Fulham in a 1-1 draw against Newcastle at Craven Cottage. It came after Jacob Murphy broke the\u2026",
-   "date": "2026-11-08T10:31:31+00:00",
-   "image": "https://i.guim.co.uk/img/media/5d199b4fa08291a9b54820a4f8b61ee1939b43a2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b9898a8240edc2e2ec3f8ac74b1410f0"
+   "title": "Liverpool v Arsenal: Women\u2019s Super League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/08/liverpool-v-arsenal-womens-super-league-live",
+   "summary": "\u26bd\ufe0f Women\u2019s Super League updates from 12pm GMT\u26bd\ufe0f Oc\u00e9ane Hurtr\u00e9 making waves at Birmingham | Email EmilliaA look at the WSL table\u2026Liverpool starting line-up: Khiara Keating; Sam Kerr, Grace Fisk (C), Jenna Clark,\u2026",
+   "date": "2026-11-08T11:40:01+00:00",
+   "image": "https://i.guim.co.uk/img/media/136e4be72d3daeb75612db1f5168fcb9d1bb7922/0_41_3101_2480/master/3101.jpg?width=140&quality=85&auto=format&fit=max&s=f487c13a30472f64748a147dc8949611"
   },
   {
    "source": "BBC Sport",
@@ -188,7 +188,7 @@
   },
   {
    "source": "The Guardian",
-   "title": "Messi claims second straight Golden Boot as Nashville sets points record on MLS Decision Day",
+   "title": "Messi claims second straight Golden Boot as Nashville set points record on MLS Decision Day",
    "link": "https://www.theguardian.com/football/2026/nov/07/lionel-messi-mls-golden-boot-inter-miami-charlotte-nashville-playoffs",
    "summary": "Messi first to win consecutive MLS Golden BootsInter Miami surrender 3-0 lead in dramatic draw Nashville set new league record with 77 pointsLionel Messi won his second consecutive MLS Golden Boot award on Saturday, but\u2026",
    "date": "2026-11-08T03:31:47+00:00",
@@ -667,10 +667,16 @@
    "date": "2026-11-07T19:32:01+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "rlPXGA_rhNs",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0622\u0631\u0633\u0646\u0627\u0644 \u0648\u0647\u0627\u0644 \u0633\u064a\u062a\u064a | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0627\u0644\u0645\u0645\u062a\u0627\u0632 - \u0627\u0644\u062c\u0648\u0644\u0629 10",
-   "date": "2026-11-07T18:55:02+00:00"
+   "channel": "FIFA",
+   "id": "nbJzleYMVH0",
+   "title": "DPR Korea vs Brazil Highlights | FIFA U-17 Women's World Cup 2026\u2122",
+   "date": "2026-11-07T17:45:32+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "oylpIrYPJ9s",
+   "title": "A moment that made everyone stand still \ud83d\ude32",
+   "date": "2026-11-08T11:00:02+00:00"
   },
   {
    "channel": "Premier League",
@@ -701,12 +707,6 @@
    "id": "0Sw5EAu5UaY",
    "title": "VALENCIA CF vs REAL MADRID | RUEDA DE PRENSA",
    "date": "2026-11-07T22:48:12+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "dCs2VOUeq68",
-   "title": "Hertha BSC vs. VfL Wolfsburg | Matchday 11 - Bundesliga 2 2026/27",
-   "date": "2026-11-07T22:08:18+00:00"
   }
  ],
  "fixtures": [
@@ -1070,9 +1070,9 @@
    "away": "Lazio",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "18'",
    "venue": "Stadio Diego Armando Maradona",
    "usa": [
     "Paramount+"
@@ -6373,9 +6373,9 @@
    "away": "Lazio",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "18'",
    "venue": "Stadio Diego Armando Maradona",
    "usa": [
     "Paramount+"
