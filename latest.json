@@ -1,28 +1,20 @@
 {
  "news": [
   {
-   "source": "BBC Sport",
-   "title": "Listen to Off The Ball",
-   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-   "summary": "The most petty and ill-informed football show on radio.",
-   "date": "2026-11-08T14:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Liverpool v Arsenal: Women\u2019s Super League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/08/liverpool-v-arsenal-womens-super-league-live",
-   "summary": "\u26bd\ufe0f Women\u2019s Super League updates from 12pm GMT\u26bd\ufe0f Oc\u00e9ane Hurtr\u00e9 making waves at Birmingham | Email Emillia3 min: Endemann looks to send a cross towards the back post from the right but the ball runs behind.2 min: Arsenal\u2026",
-   "date": "2026-11-08T13:49:27+00:00",
-   "image": "https://i.guim.co.uk/img/media/327980227f201b98bd6d8d6b2b423a917a9d8870/141_0_2802_2243/master/2802.jpg?width=140&quality=85&auto=format&fit=max&s=c803c98fe8d0af37402a68be7ebf0376"
-  },
-  {
    "source": "The Guardian",
    "title": "Crystal Palace v Liverpool, Sunderland v Chelsea, and more: Premier League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
-   "summary": "\u26bd\ufe0f Premier League updates from 2pm GMT kick-offs \u26bd\ufe0f Live scoreboard | Tables | Email SimonWeather update! It\u2019s sunny in Brighton \u2026\u2026 cloudy in Ipswich \u2026 Continue reading...",
-   "date": "2026-11-08T13:37:06+00:00",
-   "image": "https://i.guim.co.uk/img/media/95c2267bf2bc9ec2f5e927767053f914096e1883/1_0_4519_3616/master/4519.jpg?width=140&quality=85&auto=format&fit=max&s=886e6b135edc20eea92cd20a0ececbda"
+   "summary": "\u26bd\ufe0f Premier League updates from 2pm GMT kick-offs \u26bd\ufe0f Live scoreboard | Tables | Email SimonA disastrous goal for Ipswich! Chris Walton, the home side\u2019s keeper, tries to take the ball past the onrushing Evanilson, fails,\u2026",
+   "date": "2026-11-08T14:43:24+00:00",
+   "image": "https://i.guim.co.uk/img/media/f3c7b10a987f14fbe3e07b463d5ca1486403597e/679_188_5339_4273/master/5339.jpg?width=140&quality=85&auto=format&fit=max&s=805b92f4aed0ac87ecfa883679150989"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
+   "link": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
+   "summary": "Alessia Russo scored twice at Anfield to provide the under-pressure Arsenal head coach, Ren\u00e9e Slegers, with some brief respite but it was another unconvincing display from the north Londoners despite their much-needed\u2026",
+   "date": "2026-11-08T14:13:00+00:00",
+   "image": "https://i.guim.co.uk/img/media/93eceff8fc1e7ac44ead734c851694cd0b5befed/273_0_3541_2832/master/3541.jpg?width=140&quality=85&auto=format&fit=max&s=3ef80469639a3fe051fbd935461f25d6"
   },
   {
    "source": "BBC Sport",
@@ -79,32 +71,32 @@
    "summary": "New Wales call-up Joe Duncan might be unknown to many, but some of the world's best goalkeepers have benefitted from non-league loans.",
    "date": "2026-11-08T09:57:58+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a233/live/973f4f90-d9db-11f1-b4ca-fd31344b71b9.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Juli\u00e1n Alvarez\u2019s Atl\u00e9tico redemption arc in full focus for visit of Barcelona",
+   "link": "https://www.theguardian.com/football/2026/nov/08/julian-alvarezs-atletico-redemption-arc-in-full-focus-for-visit-of-barcelona",
+   "summary": "Top spot is up for grabs in Sunday\u2019s heavyweight clash as the Spider faces the team that tried to trap him last summerJuli\u00e1n Alvarez said sorry but forgiveness must be earned on the field and Sunday would be the perfect\u2026",
+   "date": "2026-11-08T08:00:35+00:00",
+   "image": "https://i.guim.co.uk/img/media/7e005c7e2a701ce37dfeba77dbce68ddab412682/180_418_5141_4113/master/5141.jpg?width=140&quality=85&auto=format&fit=max&s=c9ecbf9d5af5ec2508ede2534bda9637"
   }
  ],
  "news_all": [
   {
-   "source": "BBC Sport",
-   "title": "Listen to Off The Ball",
-   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-   "summary": "The most petty and ill-informed football show on radio.",
-   "date": "2026-11-08T14:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Liverpool v Arsenal: Women\u2019s Super League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/08/liverpool-v-arsenal-womens-super-league-live",
-   "summary": "\u26bd\ufe0f Women\u2019s Super League updates from 12pm GMT\u26bd\ufe0f Oc\u00e9ane Hurtr\u00e9 making waves at Birmingham | Email Emillia3 min: Endemann looks to send a cross towards the back post from the right but the ball runs behind.2 min: Arsenal\u2026",
-   "date": "2026-11-08T13:49:27+00:00",
-   "image": "https://i.guim.co.uk/img/media/327980227f201b98bd6d8d6b2b423a917a9d8870/141_0_2802_2243/master/2802.jpg?width=140&quality=85&auto=format&fit=max&s=c803c98fe8d0af37402a68be7ebf0376"
-  },
-  {
    "source": "The Guardian",
    "title": "Crystal Palace v Liverpool, Sunderland v Chelsea, and more: Premier League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
-   "summary": "\u26bd\ufe0f Premier League updates from 2pm GMT kick-offs \u26bd\ufe0f Live scoreboard | Tables | Email SimonWeather update! It\u2019s sunny in Brighton \u2026\u2026 cloudy in Ipswich \u2026 Continue reading...",
-   "date": "2026-11-08T13:37:06+00:00",
-   "image": "https://i.guim.co.uk/img/media/95c2267bf2bc9ec2f5e927767053f914096e1883/1_0_4519_3616/master/4519.jpg?width=140&quality=85&auto=format&fit=max&s=886e6b135edc20eea92cd20a0ececbda"
+   "summary": "\u26bd\ufe0f Premier League updates from 2pm GMT kick-offs \u26bd\ufe0f Live scoreboard | Tables | Email SimonA disastrous goal for Ipswich! Chris Walton, the home side\u2019s keeper, tries to take the ball past the onrushing Evanilson, fails,\u2026",
+   "date": "2026-11-08T14:43:24+00:00",
+   "image": "https://i.guim.co.uk/img/media/f3c7b10a987f14fbe3e07b463d5ca1486403597e/679_188_5339_4273/master/5339.jpg?width=140&quality=85&auto=format&fit=max&s=805b92f4aed0ac87ecfa883679150989"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
+   "link": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
+   "summary": "Alessia Russo scored twice at Anfield to provide the under-pressure Arsenal head coach, Ren\u00e9e Slegers, with some brief respite but it was another unconvincing display from the north Londoners despite their much-needed\u2026",
+   "date": "2026-11-08T14:13:00+00:00",
+   "image": "https://i.guim.co.uk/img/media/93eceff8fc1e7ac44ead734c851694cd0b5befed/273_0_3541_2832/master/3541.jpg?width=140&quality=85&auto=format&fit=max&s=3ef80469639a3fe051fbd935461f25d6"
   },
   {
    "source": "BBC Sport",
@@ -539,14 +531,6 @@
    "image": "https://i.guim.co.uk/img/media/9e7ae405facd7fe96282352c135e94adb050c653/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=38906b7b587387cc7c955c209ace0e04"
   },
   {
-   "source": "BBC Sport",
-   "title": "I left Man City for my mental wellbeing - Trafford",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
-   "summary": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
-   "date": "2026-11-07T07:16:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Rise of the \u2018schooligans\u2019: how a wave of antisocial behaviour threatens non-league football",
    "link": "https://www.theguardian.com/football/2026/nov/07/antisocial-behaviour-non-league-football-youth-hooligans-police",
@@ -561,9 +545,37 @@
    "summary": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
    "date": "2026-11-06T22:30:12+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Charlton\u2019s struggles expose \u2018absolute ocean\u2019 between WSL and second tier",
+   "link": "https://www.theguardian.com/football/2026/nov/06/charlton-risk-being-chewed-up-wsl-karen-hills",
+   "summary": "Pointless after eight games, Karen Hills\u2019 team are struggling to compete against clubs with chunkier walletsPlayed eight, lost eight. Welcome to the Women\u2019s Super League, Charlton Athletic, a club in danger of being\u2026",
+   "date": "2026-11-06T20:49:00+00:00",
+   "image": "https://i.guim.co.uk/img/media/77f2c43d685a0ecc6dac85eb0a0f2fe9493eabb1/779_0_5087_4070/master/5087.jpg?width=140&quality=85&auto=format&fit=max&s=0fe1a53acfea57fb0b09ebdf8444cf4c"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Bellinghams celebrate \u2018beautiful story\u2019 as Jobe joins Jude in Tuchel\u2019s England 2.0",
+   "link": "https://www.theguardian.com/football/2026/nov/06/jude-jobe-bellingham-thomas-tuchel-england-croatia-spain-nations-league",
+   "summary": "Jude had asked head coach to scout Dortmund midfielder\u2018It will be beautiful for Jude to have his brother close\u2019Thomas Tuchel has given a first England call-up to Jobe Bellingham, admitting the midfielder\u2019s older\u2026",
+   "date": "2026-11-06T19:00:50+00:00",
+   "image": "https://i.guim.co.uk/img/media/b0d33f547e93a4f8986eec3da7a3b51410509f44/403_296_4404_3521/master/4404.jpg?width=140&quality=85&auto=format&fit=max&s=4818222d57b045523fe9fb2226f98c49"
   }
  ],
  "videos": [
+  {
+   "channel": "Serie A",
+   "id": "Yac2EL86ApY",
+   "title": "Un Punto a Testa al Maradona | NAPOLI-LAZIO | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-08T14:21:29+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "06di7zU4Km4",
+   "title": "Points Shared at the Maradona | NAPOLI-LAZIO | HIGHLIGHTS | Serie A 2026/27",
+   "date": "2026-11-08T14:10:18+00:00"
+  },
   {
    "channel": "beIN SPORTS",
    "id": "mhXWc_TYFdA",
@@ -649,28 +661,28 @@
    "date": "2026-11-07T19:59:09+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "hvRu8DvfKqY",
-   "title": "Pisacane Torna a Vincere | CAGLIARI-FROSINONE | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-07T19:59:08+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "NCBFBqy0INQ",
-   "title": "Two Penalties and a Red Card at the Tardini | PARMA-BOLOGNA | HIGHLIGHTS | Serie A 2026/27",
-   "date": "2026-11-07T19:45:12+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "v5O3VC_qFWA",
-   "title": "Stuttgart Stops F\u00fcllkrug! | VFB STUTTGART - WERDER BREMEN | Highlights | Matchday 9 \u2013 Bundesliga",
-   "date": "2026-11-07T19:32:01+00:00"
-  },
-  {
    "channel": "FIFA",
    "id": "nbJzleYMVH0",
    "title": "DPR Korea vs Brazil Highlights | FIFA U-17 Women's World Cup 2026\u2122",
    "date": "2026-11-07T17:45:32+00:00"
+  },
+  {
+   "channel": "UEFA",
+   "id": "uOU4E8KX1Qg",
+   "title": "Goals, celebrations, emotions \u2728",
+   "date": "2026-11-07T15:00:31+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "ylFUOeY9ceo",
+   "title": "Pusk\u00e1s Award Contender? \ud83d\ude33\ud83c\udfaf",
+   "date": "2026-11-08T14:00:59+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "BqoWh4xrhrs",
+   "title": "\ud83d\udd34 PRE-MATCH LIVE | GENOA-MILAN | Serie A Enilive 2026/27",
+   "date": "2026-11-08T14:00:31+00:00"
   },
   {
    "channel": "LaLiga",
@@ -695,18 +707,6 @@
    "id": "fyvV5h5n_Rw",
    "title": "Jude Bellingham\u2019s finish \ud83d\ude2e\u200d\ud83d\udca8",
    "date": "2026-11-08T12:00:14+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "oylpIrYPJ9s",
-   "title": "A moment that made everyone stand still \ud83d\ude32",
-   "date": "2026-11-08T11:00:02+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "BJNE5b_xE3c",
-   "title": "Who Ran Faster: Liam Delap or Oliver Glasner? \ud83d\ude02",
-   "date": "2026-11-08T10:24:08+00:00"
   }
  ],
  "fixtures": [
@@ -1087,10 +1087,10 @@
    "home": "Elche",
    "away": "Real Betis",
    "hs": "0",
-   "as": "0",
+   "as": "2",
    "live": true,
    "state": "in",
-   "clock": "45'+3'",
+   "clock": "90'+4'",
    "venue": "Estadio Mart\u00ednez Valero",
    "usa": [
     "ESPN+"
@@ -1104,11 +1104,11 @@
    "date": "2026-11-08T14:00Z",
    "home": "Brighton & Hove Albion",
    "away": "Brentford",
-   "hs": "0",
+   "hs": "2",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+5'",
    "venue": "American Express Stadium",
    "usa": [
     "Peacock"
@@ -1123,10 +1123,10 @@
    "home": "Crystal Palace",
    "away": "Liverpool",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "45'+4'",
    "venue": "Selhurst Park",
    "usa": [
     "Peacock"
@@ -1141,10 +1141,10 @@
    "home": "Ipswich Town",
    "away": "AFC Bournemouth",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "45'+2'",
    "venue": "Portman Road",
    "usa": [
     "Peacock"
@@ -1158,11 +1158,11 @@
    "date": "2026-11-08T14:00Z",
    "home": "Sunderland",
    "away": "Chelsea",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+5'",
    "venue": "Stadium of Light",
    "usa": [
     "Tele",
@@ -1178,10 +1178,10 @@
    "home": "Genoa",
    "away": "AC Milan",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "2",
+   "live": true,
+   "state": "in",
+   "clock": "45'+1'",
    "venue": "Stadio Luigi Ferraris",
    "usa": [
     "Paramount+"
@@ -1197,9 +1197,9 @@
    "away": "Atalanta",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+1'",
    "venue": "U-Power Stadium",
    "usa": [
     "CBSSN",
@@ -1214,11 +1214,11 @@
    "date": "2026-11-08T14:00Z",
    "home": "Stade Rennais",
    "away": "Lille",
-   "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "hs": "1",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "45'+2'",
    "venue": "Roazhon Park",
    "usa": [
     "beIn Sports"
@@ -1233,10 +1233,10 @@
    "home": "FC Cologne",
    "away": "Bayer Leverkusen",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "22'",
    "venue": "RheinEnergieStadion",
    "usa": [
     "Fandango"
@@ -6390,10 +6390,10 @@
    "home": "Elche",
    "away": "Real Betis",
    "hs": "0",
-   "as": "0",
+   "as": "2",
    "live": true,
    "state": "in",
-   "clock": "45'+3'",
+   "clock": "90'+4'",
    "venue": "Estadio Mart\u00ednez Valero",
    "usa": [
     "ESPN+"
@@ -6407,11 +6407,11 @@
    "date": "2026-11-08T14:00Z",
    "home": "Brighton & Hove Albion",
    "away": "Brentford",
-   "hs": "0",
+   "hs": "2",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+5'",
    "venue": "American Express Stadium",
    "usa": [
     "Peacock"
@@ -6426,10 +6426,10 @@
    "home": "Crystal Palace",
    "away": "Liverpool",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "45'+4'",
    "venue": "Selhurst Park",
    "usa": [
     "Peacock"
@@ -6444,10 +6444,10 @@
    "home": "Ipswich Town",
    "away": "AFC Bournemouth",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "45'+2'",
    "venue": "Portman Road",
    "usa": [
     "Peacock"
@@ -6461,11 +6461,11 @@
    "date": "2026-11-08T14:00Z",
    "home": "Sunderland",
    "away": "Chelsea",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+5'",
    "venue": "Stadium of Light",
    "usa": [
     "Tele",
@@ -6481,10 +6481,10 @@
    "home": "Genoa",
    "away": "AC Milan",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "2",
+   "live": true,
+   "state": "in",
+   "clock": "45'+1'",
    "venue": "Stadio Luigi Ferraris",
    "usa": [
     "Paramount+"
@@ -6500,9 +6500,9 @@
    "away": "Atalanta",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+1'",
    "venue": "U-Power Stadium",
    "usa": [
     "CBSSN",
@@ -6517,11 +6517,11 @@
    "date": "2026-11-08T14:00Z",
    "home": "Stade Rennais",
    "away": "Lille",
-   "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "hs": "1",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "45'+2'",
    "venue": "Roazhon Park",
    "usa": [
     "beIn Sports"
@@ -6536,10 +6536,10 @@
    "home": "FC Cologne",
    "away": "Bayer Leverkusen",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "22'",
    "venue": "RheinEnergieStadion",
    "usa": [
     "Fandango"
