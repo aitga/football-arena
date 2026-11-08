@@ -1,6 +1,14 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
+   "summary": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.",
+   "date": "2026-11-08T23:41:30+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d549/live/c3231170-dbcd-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Barcelona move clear at the top after Ferm\u00edn L\u00f3pez\u2019s double stuns Atl\u00e9tico Madrid",
    "link": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
@@ -34,19 +42,11 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo",
+   "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
    "link": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
    "summary": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
    "date": "2026-11-08T21:50:05+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf2/live/f5d8ac10-dbb4-11f1-b35d-8ff000e4934a.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Bundesliga",
-   "link": "https://www.bbc.co.uk/iplayer/episode/l00591pp?at_medium=RSS&at_campaign=rss",
-   "summary": "Watch highlights from matchday nine in the Bundesliga.",
-   "date": "2026-11-08T21:45:31+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8slj9.jpg"
   },
   {
    "source": "The Guardian",
@@ -83,6 +83,14 @@
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
+   "summary": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.",
+   "date": "2026-11-08T23:41:30+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d549/live/c3231170-dbcd-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Barcelona move clear at the top after Ferm\u00edn L\u00f3pez\u2019s double stuns Atl\u00e9tico Madrid",
    "link": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
@@ -116,19 +124,11 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo",
+   "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
    "link": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
    "summary": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
    "date": "2026-11-08T21:50:05+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf2/live/f5d8ac10-dbb4-11f1-b35d-8ff000e4934a.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Bundesliga",
-   "link": "https://www.bbc.co.uk/iplayer/episode/l00591pp?at_medium=RSS&at_campaign=rss",
-   "summary": "Watch highlights from matchday nine in the Bundesliga.",
-   "date": "2026-11-08T21:45:31+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8slj9.jpg"
   },
   {
    "source": "The Guardian",
@@ -189,7 +189,7 @@
   {
    "source": "BBC Sport",
    "title": "Watch: Sunday's Scottish Premiership highlights",
-   "link": "https://www.bbc.co.uk/iplayer/episode/m003468d?at_medium=RSS&at_campaign=rss",
+   "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
    "summary": "With Kilmarnock v Celtic and Hearts welcoming the season's surprise package Falkirk",
    "date": "2026-11-08T20:00:24+00:00",
    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ply9jw.jpg"
@@ -500,14 +500,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup.",
-   "date": "2026-11-08T00:13:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fe/live/d3069860-dafa-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "'Curtains for Robinson', or can foundering Aberdeen boss survive?",
    "link": "https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o?at_medium=RSS&at_campaign=rss",
    "summary": "Will the \"unacceptable\" 4-0 home defeat to fellow strugglers Hibernian signal the end of Stephen Robinson's Aberdeen tenure?",
@@ -561,111 +553,17 @@
    "summary": "Questions over whether \u00c1lvaro Arbeloa and Matthias Jaissle have what it takes to succeed in the Premier League remain unanswered after these two young foreign managers watched their sides grind out a 1-1 draw at Craven\u2026",
    "date": "2026-11-07T17:00:54+00:00",
    "image": "https://i.guim.co.uk/img/media/0524118fb7d7482c664b87701841e19090a63c3b/314_0_2767_2214/master/2767.jpg?width=140&quality=85&auto=format&fit=max&s=a015403979f624d0d97296506cd810ec"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Tottenham set to complain to Pro Ref after Bogle escapes red card",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss",
+   "summary": "Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.",
+   "date": "2026-11-07T16:35:26+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg"
   }
  ],
  "videos": [
-  {
-   "channel": "beIN SPORTS",
-   "id": "z05Utm_Hmxg",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629  \u0623\u0644\u0627\u0646\u064a\u0627 \u0633\u0628\u0648\u0631 \u0648\u0637\u0631\u0627\u0628\u0632\u0648\u0646 \u0633\u0628\u0648\u0631 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u062a\u0631\u0643\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 11",
-   "date": "2026-11-08T22:36:39+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "gdRtRsSLbOU",
-   "title": "Due Reti a Testa al Franchi | FIORENTINA-JUVENTUS | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-08T22:36:23+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "M1SdXxdgC_Q",
-   "title": "Thrilling Draw in Florence | FIORENTINA-JUVENTUS | HIGHLIGHTS | Serie A 2026/27",
-   "date": "2026-11-08T22:29:09+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "p4aNGqai4ec",
-   "title": "EVERY Goal | Matchweek 10 | 2026/27 Premier League Highlights",
-   "date": "2026-11-08T22:10:20+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "wdtYGRqHv-M",
-   "title": "ATL\u00c9TICO DE MADRID 1 - 2 FC BARCELONA | RESUMEN LALIGA EA SPORTS",
-   "date": "2026-11-08T22:07:57+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "EZqNl13QxIk",
-   "title": "HOFFENHEIM - SCHALKE 04 | Highlights | Matchday 9 \u2013 Bundesliga 2026/27",
-   "date": "2026-11-08T21:13:11+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "fcpuh0FA7m4",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u064a\u0648\u0646\u0627\u064a\u062a\u062f \u0648\u0623\u0633\u062a\u0648\u0646 \u0641\u064a\u0644\u0627 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0627\u0644\u0645\u0645\u062a\u0627\u0632 - \u0627\u0644\u062c\u0648\u0644\u0629  10",
-   "date": "2026-11-08T20:13:14+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "aoG8_sU5rmM",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0645\u0627\u0645\u064a\u0644\u0648\u062f\u064a \u0635\u0646\u062f\u0627\u0648\u0646\u0632 \u0648\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u062c\u0632\u0627\u0626\u0631 |  \u0643\u0623\u0633 \u0627\u0644\u0633\u0648\u0628\u0631 \u0627\u0644\u0625\u0641\u0631\u064a\u0642\u064a\u0629",
-   "date": "2026-11-08T20:05:44+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "GZWtPYjFtok",
-   "title": "La Dea Torna a Vincere | MONZA-ATALANTA | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-08T19:59:10+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "OTc8pvlWbVI",
-   "title": "Il Grifone Cade in Casa | GENOA-MILAN | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-08T19:59:06+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "k_jDElRbJzQ",
-   "title": "Due Gol in Sette Minuti per i Nerazzurri | INTER-COMO | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-08T19:51:01+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "uGNrR6OzKUo",
-   "title": "CELTA 0 - 0 LEVANTE UD | RESUMEN LALIGA EA SPORTS",
-   "date": "2026-11-08T19:45:13+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "uhbkwX0B_YY",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0643\u0631\u064a\u0633\u062a\u0627\u0644 \u0628\u0627\u0644\u0627\u0633 \u0648\u0644\u064a\u0641\u0631\u0628\u0648\u0644 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0627\u0644\u0645\u0645\u062a\u0627\u0632 - \u0627\u0644\u062c\u0648\u0644\u0629 10",
-   "date": "2026-11-08T19:33:59+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "k6NFICckV3g",
-   "title": "Two Goals in Seven Minutes at San Siro | INTER-COMO | HIGHLIGHTS | Serie A 2026/27",
-   "date": "2026-11-08T19:33:42+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "sffelp70dxE",
-   "title": "Suzuki Became Man of the Match! | SC FREIBURG - UNION BERLIN | Highlights | Matchday 9 \u2013 Bundesliga",
-   "date": "2026-11-08T18:57:50+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "6DEh00JjkmE",
-   "title": "Crazy Freekick Opens Score! | 1. FC K\u00d6LN - BAYER 04 LEVERKUSEN | Highlights | Matchday 9 Bundesliga",
-   "date": "2026-11-08T16:32:43+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "-qlzBL66Ges",
-   "title": "Liam Delap WONDERGOAL + Ronaldo SIU \ud83e\udd2f",
-   "date": "2026-11-07T22:20:31+00:00"
-  },
   {
    "channel": "FIFA",
    "id": "OFrsybPMGSw",
@@ -673,40 +571,46 @@
    "date": "2026-11-07T21:56:32+00:00"
   },
   {
-   "channel": "LaLiga",
-   "id": "pW7O0UDtKaM",
-   "title": "ATL\u00c9TICO DE MADRID vs FC BARCELONA | RUEDA DE PRENSA",
-   "date": "2026-11-08T22:34:31+00:00"
+   "channel": "FIFA",
+   "id": "nbJzleYMVH0",
+   "title": "DPR Korea vs Brazil Highlights | FIFA U-17 Women's World Cup 2026\u2122",
+   "date": "2026-11-07T17:45:32+00:00"
   },
   {
-   "channel": "Ligue 1",
-   "id": "odu5lUz0j0I",
-   "title": "Le TOP BUTS d'octobre en Ligue 1 McDonald's \ud83d\udd25",
-   "date": "2026-11-08T22:30:27+00:00"
+   "channel": "FIFA",
+   "id": "SF8zTuzElNY",
+   "title": "Underrated World Cup Goal? Summerville's Stunner \ud83e\udd29",
+   "date": "2026-11-07T13:30:05+00:00"
   },
   {
-   "channel": "Premier League",
-   "id": "d7_qPI7LUEY",
-   "title": "Man Utd 4-4 Aston Villa \ud83e\udd2f LAST-MINUTE SCENES!",
-   "date": "2026-11-08T22:00:32+00:00"
+   "channel": "FIFA",
+   "id": "gCsb63pIvIQ",
+   "title": "UNBEATEN Cabo Verde Progress To Knockouts | Saudi Arabia Bow Out | 2026 World Cup Match Highlights",
+   "date": "2026-11-07T12:30:15+00:00"
   },
   {
-   "channel": "Bundesliga",
-   "id": "Ha7CMMG4GY0",
-   "title": "TSG Hoffenheim vs. FC Schalke 04 | Matchday 9 - Bundesliga 2026/27",
-   "date": "2026-11-08T21:52:03+00:00"
+   "channel": "FIFA",
+   "id": "LSkz9G5AT8I",
+   "title": "Lamine Yamal SCORES | Spain 4-0 Saudi Arabia | 2026 World Cup EXTENDED HIGHLIGHTS",
+   "date": "2026-11-06T17:30:15+00:00"
   },
   {
-   "channel": "Bundesliga",
-   "id": "R6a4MGz5Rro",
-   "title": "Goalie played this one really cool \ud83e\uddca\ud83d\ude2e\u200d\ud83d\udca8",
-   "date": "2026-11-08T21:03:00+00:00"
+   "channel": "FIFA",
+   "id": "GSZltCXHiG0",
+   "title": "A tournament to remember. The moves that inspire.\u2728\u26bd #U17WWC #Kia #MovementThatInspires",
+   "date": "2026-11-07T23:50:00+00:00"
   },
   {
-   "channel": "LaLiga",
-   "id": "MspVUwWFaJo",
-   "title": "CELTA vs LEVANTE UD | RUEDA DE PRENSA",
-   "date": "2026-11-08T20:39:21+00:00"
+   "channel": "FIFA",
+   "id": "Tpsd7mM8wYY",
+   "title": "FULL MATCH | Spain v Netherlands | Quarter-Finals | FIFA Women's World Cup 2023\u2122",
+   "date": "2026-11-06T16:51:36+00:00"
+  },
+  {
+   "channel": "FIFA",
+   "id": "GaTEA7oKFZM",
+   "title": "First Save Or Second Save? Back-To-Back Blocks From Johny Placide",
+   "date": "2026-11-06T15:30:34+00:00"
   }
  ],
  "fixtures": [
