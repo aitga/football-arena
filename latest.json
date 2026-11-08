@@ -1,12 +1,68 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Seventh-tier Wimborne knock out League Two Crawley in FA Cup upset",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo?at_medium=RSS&at_campaign=rss",
+   "summary": "Seventh-tier Wimborne Town beat League Two Crawley in a huge FA Cup upset, to reach round two of the competition for the first time in their history.",
+   "date": "2026-11-08T18:56:55+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3b/live/3c193440-db99-11f1-b441-2b33b063138f.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Manchester United v Aston Villa: Premier League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
    "summary": "\u26bd\ufe0f Premier League updates from 4.30pm GMT\u26bd\ufe0f Jonathan Wilson: There are few reasons for Emery to leave Villa for United\u26bd\ufe0f Today\u2019s results | Mail TimSunderland have clung on to beat Chelsea 1-0, which is a great result\u2026",
-   "date": "2026-11-08T17:39:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/ed07e52ff754268fb3b5250db6cd1498be4d27a9/1553_811_3293_2634/master/3293.jpg?width=140&quality=85&auto=format&fit=max&s=1f6a9ad07cd34fe3b7f9ea7d603a1275"
+   "date": "2026-11-08T18:48:27+00:00",
+   "image": "https://i.guim.co.uk/img/media/cc286f76b106b1405721751101d7dcbb6bca0f11/514_278_3239_2591/master/3239.jpg?width=140&quality=85&auto=format&fit=max&s=b11c98b6be45ab64b8fe46f8ed673b36"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&at_campaign=rss",
+   "summary": "Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?",
+   "date": "2026-11-08T18:46:45+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6507/live/8fdebc40-dba2-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Reaction as Falkirk hammer Hearts & Celtic beat Kilmarnock",
+   "link": "https://www.bbc.co.uk/sounds/play/p0plyj8g?at_medium=RSS&at_campaign=rss",
+   "summary": "Richard Gordon and the team review Hearts 2-5 Falkirk and Celtic 1-0 Kilmarnock",
+   "date": "2026-11-08T18:35:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
+   "date": "2026-11-08T18:20:56+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Russo double gives Arsenal win over Liverpool at Anfield",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Alessia Russo scores twice to give Arsenal a much-needed 2-1 win over Liverpool at Anfield, to move up to seventh place in the WSL.",
+   "date": "2026-11-08T17:45:27+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bfb/live/d0b51af0-db81-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "FA Cup roundup: Seventh-tier Wimborne shock Crawley to reach second round",
+   "link": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
+   "summary": "Grimsby and Stockport survive scaresExeter upset HuddersfieldSeventh-tier Wimborne heaped more misery on Crawley as the bottom side in the Football League lost 2-0 in the biggest upset of the FA Cup first round.The\u2026",
+   "date": "2026-11-08T17:41:47+00:00",
+   "image": "https://i.guim.co.uk/img/media/2c990ebb871871e96a08404f81431493fda8ea94/450_0_3614_2891/master/3614.jpg?width=140&quality=85&auto=format&fit=max&s=ad2b948bc69612f848dc8337ba240951"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "10-man Stockport come from behind to survive huge scare at Cray",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&at_campaign=rss",
+   "summary": "League One Stockport County survive a scare to beat Isthmian League side Cray Wanderers 3-2 after extra time in the FA Cup first round.",
+   "date": "2026-11-08T17:39:15+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75bc/live/f85f7240-db99-11f1-a701-fddedf244c16.jpg"
   },
   {
    "source": "The Guardian",
@@ -18,77 +74,77 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Fan injured after falling through hole in stand",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o?at_medium=RSS&at_campaign=rss",
-   "summary": "One fan is taken to hospital after a number of Bodo/Glimt supporters fall through a hole in the away stand at Tromso.",
-   "date": "2026-11-08T16:53:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb05/live/a92d9140-db92-11f1-9029-d35c55297624.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Diego G\u00f3mez hits another stunner as Brighton beat 10-man Brentford to go second",
-   "link": "https://www.theguardian.com/football/2026/nov/08/brighton-brentford-premier-league-match-report",
-   "summary": "Who can stop Brighton\u2019s ascension in English and European football? They continue to set standards, practices that leave almost everybody else trailing in their wake. Their second-place position in the Premier League\u2026",
-   "date": "2026-11-08T16:17:32+00:00",
-   "image": "https://i.guim.co.uk/img/media/61cf20a5674cb26120baf602dce2d24ec9686c6d/73_0_2854_2283/master/2854.jpg?width=140&quality=85&auto=format&fit=max&s=cc7edd8137e60395bb6e88408af5e03a"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Le F\u00e9e\u2019s penalty stuns Chelsea and breathes life into defiant Sunderland",
-   "link": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
-   "summary": "A lot can change in five-and-half months, but as an early winter chill descended on Wearside this week \u2013 both meteorologically and metaphorically \u2013 Sunderland were determined that some things should remain the same.Just\u2026",
-   "date": "2026-11-08T16:16:34+00:00",
-   "image": "https://i.guim.co.uk/img/media/3af2f1b92a97f12785b61aabdc522fe2f1de8b48/77_0_2140_1711/master/2140.jpg?width=140&quality=85&auto=format&fit=max&s=7dec08707150e9e39a7a28424b65abf7"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Wirtz provides quality to seal Liverpool win over lacklustre Crystal Palace",
-   "link": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-liverpool-premier-league-match-report",
-   "summary": "It was the moment when Liverpool knew they would win here in south London and so move on from the Premier League loss to Arsenal at Anfield last Sunday and the one in midweek at Fenerbahce in the Champions\u2026",
-   "date": "2026-11-08T16:16:18+00:00",
-   "image": "https://i.guim.co.uk/img/media/c43b7a633b7fb9b801887562874dfd92bc1dd12c/977_0_4883_3907/master/4883.jpg?width=140&quality=85&auto=format&fit=max&s=ea803d7b7b56781d8c2d1f4b5c2011d0"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Evanilson launches eighth straight Bournemouth win at blundering Ipswich",
-   "link": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report",
-   "summary": "Another Evanilson goal helped fire Marco Rose\u2019s Bournemouth to an eighth straight victory with a hard-fought 2-1 win at Ipswich.Evanilson failed to score in his first six appearances of the season but found the net for\u2026",
-   "date": "2026-11-08T16:14:31+00:00",
-   "image": "https://i.guim.co.uk/img/media/3a9051327a06c71de5586088eef6a4488e7826e7/435_0_3996_3197/master/3996.jpg?width=140&quality=85&auto=format&fit=max&s=7ec7f16a3e2428ca1c5a392ed0a1c8cf"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Failed to deal with Brobbey - player ratings for Sunderland v Chelsea",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
-   "summary": "Enzo Le Fee's penalty is the difference as Sunderland climb off the bottom of the table but how did the players rate against Chelsea?",
-   "date": "2026-11-08T16:13:36+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/414a/live/54cb1080-db8a-11f1-ab1c-6b6075dcdfe1.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who was back to his best? Player ratings for Crystal Palace v Liverpool",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o?at_medium=RSS&at_campaign=rss",
-   "summary": "How Crystal Palace and Liverpool's players rated following their Premier League match.",
-   "date": "2026-11-08T16:04:18+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1b/live/abeecdc0-db8a-11f1-ab1c-6b6075dcdfe1.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Dreamland!' - Cray score brilliant free-kick as Stockport down to 10",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Stockport goalkeeper Luca Ashby-Hammond is given a straight red card after a challenge on the edge of the box and from the subsequent free-kick Alex Hernandez doubles Cray Wanderers' lead with a fantastic free-kick.",
-   "date": "2026-11-08T15:31:43+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e26/live/01e0be90-db87-11f1-a701-fddedf244c16.jpg"
+   "title": "London City thump Birmingham to close gap on second",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
+   "summary": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
+   "date": "2026-11-08T17:06:21+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab49/live/a17f5c70-db93-11f1-a701-fddedf244c16.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Seventh-tier Wimborne knock out League Two Crawley in FA Cup upset",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo?at_medium=RSS&at_campaign=rss",
+   "summary": "Seventh-tier Wimborne Town beat League Two Crawley in a huge FA Cup upset, to reach round two of the competition for the first time in their history.",
+   "date": "2026-11-08T18:56:55+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3b/live/3c193440-db99-11f1-b441-2b33b063138f.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Manchester United v Aston Villa: Premier League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
    "summary": "\u26bd\ufe0f Premier League updates from 4.30pm GMT\u26bd\ufe0f Jonathan Wilson: There are few reasons for Emery to leave Villa for United\u26bd\ufe0f Today\u2019s results | Mail TimSunderland have clung on to beat Chelsea 1-0, which is a great result\u2026",
-   "date": "2026-11-08T17:39:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/ed07e52ff754268fb3b5250db6cd1498be4d27a9/1553_811_3293_2634/master/3293.jpg?width=140&quality=85&auto=format&fit=max&s=1f6a9ad07cd34fe3b7f9ea7d603a1275"
+   "date": "2026-11-08T18:48:27+00:00",
+   "image": "https://i.guim.co.uk/img/media/cc286f76b106b1405721751101d7dcbb6bca0f11/514_278_3239_2591/master/3239.jpg?width=140&quality=85&auto=format&fit=max&s=b11c98b6be45ab64b8fe46f8ed673b36"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&at_campaign=rss",
+   "summary": "Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?",
+   "date": "2026-11-08T18:46:45+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6507/live/8fdebc40-dba2-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Reaction as Falkirk hammer Hearts & Celtic beat Kilmarnock",
+   "link": "https://www.bbc.co.uk/sounds/play/p0plyj8g?at_medium=RSS&at_campaign=rss",
+   "summary": "Richard Gordon and the team review Hearts 2-5 Falkirk and Celtic 1-0 Kilmarnock",
+   "date": "2026-11-08T18:35:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
+   "date": "2026-11-08T18:20:56+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Russo double gives Arsenal win over Liverpool at Anfield",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Alessia Russo scores twice to give Arsenal a much-needed 2-1 win over Liverpool at Anfield, to move up to seventh place in the WSL.",
+   "date": "2026-11-08T17:45:27+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bfb/live/d0b51af0-db81-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "FA Cup roundup: Seventh-tier Wimborne shock Crawley to reach second round",
+   "link": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
+   "summary": "Grimsby and Stockport survive scaresExeter upset HuddersfieldSeventh-tier Wimborne heaped more misery on Crawley as the bottom side in the Football League lost 2-0 in the biggest upset of the FA Cup first round.The\u2026",
+   "date": "2026-11-08T17:41:47+00:00",
+   "image": "https://i.guim.co.uk/img/media/2c990ebb871871e96a08404f81431493fda8ea94/450_0_3614_2891/master/3614.jpg?width=140&quality=85&auto=format&fit=max&s=ad2b948bc69612f848dc8337ba240951"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "10-man Stockport come from behind to survive huge scare at Cray",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&at_campaign=rss",
+   "summary": "League One Stockport County survive a scare to beat Isthmian League side Cray Wanderers 3-2 after extra time in the FA Cup first round.",
+   "date": "2026-11-08T17:39:15+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75bc/live/f85f7240-db99-11f1-a701-fddedf244c16.jpg"
   },
   {
    "source": "The Guardian",
@@ -97,6 +153,22 @@
    "summary": "Bethany England scores late to give Palace 3-2 winLondon City, Spurs and Manchester United all winIt was heartbreak for Charlton on Sunday, after Bethany England\u2019s 90th-minute winner for Crystal Palace denied them a\u2026",
    "date": "2026-11-08T17:10:11+00:00",
    "image": "https://i.guim.co.uk/img/media/d9f49e8cd168b5d12b5624d5f537df04191e34af/0_205_2229_1783/master/2229.jpg?width=140&quality=85&auto=format&fit=max&s=d589e4331ef0bb38496e673f0701c7c8"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "London City thump Birmingham to close gap on second",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
+   "summary": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
+   "date": "2026-11-08T17:06:21+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab49/live/a17f5c70-db93-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Grimsby fight back from two goals down to edge Stafford on penalties",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o?at_medium=RSS&at_campaign=rss",
+   "summary": "League Two side Grimsby Town recover from a two-goal deficit against the FA Cup first round's lowest-ranked team, Stafford Rangers. Grimsby battled back to level the tie at 3-3 before winning 3-2 in the penalty shootout\u2026",
+   "date": "2026-11-08T17:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55a/live/11e79f60-db8d-11f1-93e1-3b657b665bcf.jpg"
   },
   {
    "source": "BBC Sport",
@@ -110,7 +182,7 @@
    "source": "The Guardian",
    "title": "Diego G\u00f3mez hits another stunner as Brighton beat 10-man Brentford to go second",
    "link": "https://www.theguardian.com/football/2026/nov/08/brighton-brentford-premier-league-match-report",
-   "summary": "Who can stop Brighton\u2019s ascension in English and European football? They continue to set standards, practices that leave almost everybody else trailing in their wake. Their second-place position in the Premier League\u2026",
+   "summary": "Who can stop Brighton\u2019s \u00adascension in English and European football? They are setting standards, \u00adpractices \u00adleaving almost everybody else \u00adtrailing in their wake. A \u00adsecond\u2011place position in the \u00adPremier\u00a0League would\u2026",
    "date": "2026-11-08T16:17:32+00:00",
    "image": "https://i.guim.co.uk/img/media/61cf20a5674cb26120baf602dce2d24ec9686c6d/73_0_2854_2283/master/2854.jpg?width=140&quality=85&auto=format&fit=max&s=cc7edd8137e60395bb6e88408af5e03a"
   },
@@ -118,7 +190,7 @@
    "source": "The Guardian",
    "title": "Le F\u00e9e\u2019s penalty stuns Chelsea and breathes life into defiant Sunderland",
    "link": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
-   "summary": "A lot can change in five-and-half months, but as an early winter chill descended on Wearside this week \u2013 both meteorologically and metaphorically \u2013 Sunderland were determined that some things should remain the same.Just\u2026",
+   "summary": "A lot can change in five\u2011and\u2011a\u2011half months, but as an early winter chill descended on Wearside last week \u2013 both meteorologically and \u00admetaphorically \u2013 Sunderland were determined that some things should remain the same.\u2026",
    "date": "2026-11-08T16:16:34+00:00",
    "image": "https://i.guim.co.uk/img/media/3af2f1b92a97f12785b61aabdc522fe2f1de8b48/77_0_2140_1711/master/2140.jpg?width=140&quality=85&auto=format&fit=max&s=7dec08707150e9e39a7a28424b65abf7"
   },
@@ -284,14 +356,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup.",
-   "date": "2026-11-08T00:13:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fe/live/d3069860-dafa-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "'Wonderful goal' - Crewe's McNeill scores from halfway line",
    "link": "https://www.bbc.co.uk/sport/football/videos/cmkgekn1007qo?at_medium=RSS&at_campaign=rss",
    "summary": "Charlie McNeill scores from the halfway line in the 12th minute to open the scoring for Crewe Alexandra against AFC Wimbledon in the first round of the FA Cup.",
@@ -308,22 +372,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Was Leeds' Bogle lucky to escape red card?",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo?at_medium=RSS&at_campaign=rss",
-   "summary": "Match of the Day's Steph Houghton and Danny Murphy assess whether a challenge from Leeds United's Jayden Bogle on Tottenham's Mathys Tel was worthy of a red card.",
-   "date": "2026-11-08T00:00:26+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a1/live/ae222e20-dafe-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Forest win over Man City 'a turning point' - Murphy",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be \"a turning point\" in Forest's first season under Oliver Glasner.",
-   "date": "2026-11-08T00:00:14+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a390/live/b108e540-dafc-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Arsenal should have been awarded penalty against Hull - Cann",
    "link": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss",
    "summary": "Former Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1-0 win over Hull City.",
@@ -337,30 +385,6 @@
    "summary": "Ollie Pearce scores after 10 seconds as York City see off Northampton Town in a 4-0  win to reach the second round of the FA Cup.",
    "date": "2026-11-07T23:38:38+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a54/live/c702b650-db01-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "FA Cup roundup: Charlie Savage gets one over dad Robbie as Reading thrash Peterborough",
-   "link": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
-   "summary": "Non-league Kidderminster stun DoncasterExeter upset Huddersfield in first roundCharlie Savage scored against his father\u2019s team as Reading eased into the second round of the FA Cup with a 5-0 rout of Peterborough at the\u2026",
-   "date": "2026-11-07T23:11:27+00:00",
-   "image": "https://i.guim.co.uk/img/media/b1278165e67ecb59a15196ee5072c60292e0b09c/103_0_2003_1602/master/2003.jpg?width=140&quality=85&auto=format&fit=max&s=d86161f646fbbea6c3b8096c7a821850"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "McNeill's superb halfway goal sparks Crewe upset over Wimbledon",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o?at_medium=RSS&at_campaign=rss",
-   "summary": "Charlie McNeill's strike from the halfway line helps League Two frontrunners Crewe progress to the second round of the FA Cup, with a 2-1 win over League One AFC Wimbledon.",
-   "date": "2026-11-07T23:05:36+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f76b/live/d5470b20-dafd-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Liverpool considering Verbruggen move - Sunday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o?at_medium=RSS&at_campaign=rss",
-   "summary": "Liverpool consider move for Brighton keeper Bart Verbruggen, Bayern Munich remain in talks with Rio Ngumoha's camp, Tottenham midfielder Conor Gallagher monitored by rival Premier League clubs, plus more.",
-   "date": "2026-11-07T22:05:40+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1f/live/461973d0-daf2-11f1-b441-2b33b063138f.png"
   },
   {
    "source": "BBC Sport",
@@ -467,14 +491,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d30/live/e8938990-dacd-11f1-bda8-29fb69dbc026.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
-   "summary": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
-   "date": "2026-11-07T17:23:20+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b477/live/b17159f0-dace-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Muniz rescues late point for Fulham against Newcastle after Murphy stunner",
    "link": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
@@ -545,25 +561,15 @@
    "summary": "Jude had asked head coach to scout Dortmund midfielder\u2018It will be beautiful for Jude to have his brother close\u2019Thomas Tuchel has given a first England call-up to Jobe Bellingham, admitting the midfielder\u2019s older\u2026",
    "date": "2026-11-06T19:00:50+00:00",
    "image": "https://i.guim.co.uk/img/media/b0d33f547e93a4f8986eec3da7a3b51410509f44/403_296_4404_3521/master/4404.jpg?width=140&quality=85&auto=format&fit=max&s=4818222d57b045523fe9fb2226f98c49"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | You want proper football? Here are the FA Cup first-round ties to look out for",
-   "link": "https://www.theguardian.com/football/2026/nov/06/fa-cup-first-round-ties-to-look-out-for-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!For the FA Cup, the early rounds are the juice. The first round proper to be played out over the long weekend is looking, well, proper. And on Saturday at 3pm GMT, a\u2026",
-   "date": "2026-11-06T14:55:19+00:00",
-   "image": "https://i.guim.co.uk/img/media/0764787a3c80e8b2763ec5e0848c037293306c8b/0_0_4998_3998/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=148bdf72eb39cc1aecc69b384e177d7f"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'A beautiful story' as Bellingham brothers called up",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
-   "summary": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
-   "date": "2026-11-06T14:16:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e1/live/6e8557d0-d9d5-11f1-9e5a-c30c5e3d8c85.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "Bundesliga",
+   "id": "sffelp70dxE",
+   "title": "Suzuki Became Man of the Match! | SC FREIBURG - UNION BERLIN | Highlights | Matchday 9 \u2013 Bundesliga",
+   "date": "2026-11-08T18:57:50+00:00"
+  },
   {
    "channel": "Serie A",
    "id": "Yac2EL86ApY",
@@ -607,18 +613,6 @@
    "date": "2026-11-08T16:32:43+00:00"
   },
   {
-   "channel": "LaLiga",
-   "id": "WaYSXFW8KOY",
-   "title": "ELCHE CF 0 - 2 REAL BETIS | RESUMEN LALIGA EA SPORTS",
-   "date": "2026-11-08T15:07:02+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "06di7zU4Km4",
-   "title": "Points Shared at the Maradona | NAPOLI-LAZIO | HIGHLIGHTS | Serie A 2026/27",
-   "date": "2026-11-08T14:10:18+00:00"
-  },
-  {
    "channel": "beIN SPORTS",
    "id": "mhXWc_TYFdA",
    "title": "\u0645\u0644\u062e\u0635 \u0645\u0648\u0627\u062c\u0647\u0629 \u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646 \u0648\u0625\u0633\u0628\u0627\u0646\u064a\u0627 - \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629 | \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0628\u0627\u062f\u0644 \u0642\u0637\u0631 2026 - \u0646\u0647\u0627\u0626\u064a \u0627\u0644\u0631\u062c\u0627\u0644",
@@ -649,12 +643,6 @@
    "date": "2026-11-07T22:50:38+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "3gXY8s0N8S8",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0646\u0648\u062a\u0646\u063a\u0647\u0627\u0645 \u0641\u0648\u0631\u0633\u062a \u0648\u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u0633\u064a\u062a\u064a | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0627\u0644\u0645\u0645\u062a\u0627\u0632 - \u0627\u0644\u062c\u0648\u0644\u0629 10",
-   "date": "2026-11-07T22:39:51+00:00"
-  },
-  {
    "channel": "Premier League",
    "id": "-qlzBL66Ges",
    "title": "Liam Delap WONDERGOAL + Ronaldo SIU \ud83e\udd2f",
@@ -673,40 +661,52 @@
    "date": "2026-11-07T17:45:32+00:00"
   },
   {
-   "channel": "LaLiga",
-   "id": "k61kSc5JMPc",
-   "title": "\ud83d\udd34 CELTA vs LEVANTE UD - PREVIA DEL PARTIDO",
-   "date": "2026-11-08T17:36:05+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "SaFc_nKgQ8M",
-   "title": "\ud83d\udd34 PRE-MATCH LIVE | INTER-COMO | Serie A Enilive 2026/27",
-   "date": "2026-11-08T17:01:12+00:00"
-  },
-  {
    "channel": "UEFA",
-   "id": "Mw9_D8R3XfU",
-   "title": "Lamine Yamal was lurking",
-   "date": "2026-11-08T17:00:00+00:00"
+   "id": "uOU4E8KX1Qg",
+   "title": "Goals, celebrations, emotions \u2728",
+   "date": "2026-11-07T15:00:31+00:00"
+  },
+  {
+   "channel": "FIFA",
+   "id": "SF8zTuzElNY",
+   "title": "Underrated World Cup Goal? Summerville's Stunner \ud83e\udd29",
+   "date": "2026-11-07T13:30:05+00:00"
   },
   {
    "channel": "Bundesliga",
-   "id": "WqFA-DvB4f4",
-   "title": "1. FC K\u00f6ln vs. Bayer 04 Leverkusen | Matchday 9 - Bundesliga 2026/27",
-   "date": "2026-11-08T16:53:59+00:00"
+   "id": "5gb-2tVSQ_4",
+   "title": "Sport-Club Freiburg vs. 1. FC Union Berlin | Matchday 9 - Bundesliga 2026/27",
+   "date": "2026-11-08T18:36:57+00:00"
   },
   {
    "channel": "LaLiga",
-   "id": "dZgq4yM2LOE",
-   "title": "ELCHE CF vs REAL BETIS | RUEDA DE PRENSA",
-   "date": "2026-11-08T16:19:59+00:00"
+   "id": "lnViUFJ0cVI",
+   "title": "El #CeltaLevanteUD recuerda en el minuto 9 a Jes\u00fas de Miguel Alameda.",
+   "date": "2026-11-08T18:30:30+00:00"
   },
   {
-   "channel": "UEFA",
-   "id": "6lhXHwyBBts",
-   "title": "Enjoy the best action from Matchday 4 \ud83d\udcf9",
-   "date": "2026-11-08T16:00:13+00:00"
+   "channel": "Serie A",
+   "id": "udCzS5bsx-w",
+   "title": "NOSLIN \ud83e\udd1d FRATTESI",
+   "date": "2026-11-08T18:26:59+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "UQyOEhjoZfo",
+   "title": "El bal\u00f3n se detiene. El recuerdo permanece.Minuto 9. Por Jes\u00fas de Miguel.",
+   "date": "2026-11-08T18:12:14+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "gys9hltUvqA",
+   "title": "\ud83d\udd34 VILLARREAL CF vs GETAFE CF - PREVIA DEL PARTIDO",
+   "date": "2026-11-08T18:00:14+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "ON_IFDevnAQ",
+   "title": "REAL SOCIEDAD vs RAYO VALLECANO | RUEDA DE PRENSA",
+   "date": "2026-11-08T17:58:40+00:00"
   }
  ],
  "fixtures": [
@@ -1269,10 +1269,10 @@
    "home": "Angers",
    "away": "Nice",
    "hs": "0",
-   "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "73'",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+6'",
    "venue": "Stade Raymond Kopa",
    "usa": [
     "beIn Sports"
@@ -1286,11 +1286,11 @@
    "date": "2026-11-08T16:15Z",
    "home": "Brest",
    "away": "Lyon",
-   "hs": "1",
+   "hs": "2",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "76'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+6'",
    "venue": "Stade Francis-Le Bl\u00e9",
    "usa": [
     "beIn Sports"
@@ -1305,10 +1305,10 @@
    "home": "Le Havre AC",
    "away": "Lorient",
    "hs": "0",
-   "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "73'",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+7'",
    "venue": "Stade Oc\u00e9ane",
    "usa": [
     "beIn Sports"
@@ -1322,11 +1322,11 @@
    "date": "2026-11-08T16:15Z",
    "home": "Le Mans",
    "away": "AS Monaco",
-   "hs": "0",
+   "hs": "1",
    "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "74'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+9'",
    "venue": "Stade Marie-Marvingt",
    "usa": [
     "beIn Sports"
@@ -1340,11 +1340,11 @@
    "date": "2026-11-08T16:30Z",
    "home": "Manchester United",
    "away": "Aston Villa",
-   "hs": "2",
+   "hs": "4",
    "as": "4",
-   "live": true,
-   "state": "in",
-   "clock": "57'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+9'",
    "venue": "Old Trafford",
    "usa": [
     "Tele",
@@ -1359,11 +1359,11 @@
    "date": "2026-11-08T16:30Z",
    "home": "SC Freiburg",
    "away": "1. FC Union Berlin",
-   "hs": "1",
+   "hs": "2",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "59'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+6'",
    "venue": "Europa-Park Stadion",
    "usa": [
     "Fandango"
@@ -1379,9 +1379,9 @@
    "away": "Como",
    "hs": "2",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "43'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
    "venue": "San Siro",
    "usa": [
     "Paramount+"
@@ -1399,7 +1399,7 @@
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "13'",
+   "clock": "64'",
    "venue": "Balaidos",
    "usa": [
     "ESPN+"
@@ -1417,7 +1417,7 @@
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "16'",
+   "clock": "70'",
    "venue": "Estadio de la Cer\u00e1mica",
    "usa": [
     "ESPN+"
@@ -1431,11 +1431,11 @@
    "date": "2026-11-08T18:30Z",
    "home": "TSG Hoffenheim",
    "away": "Schalke 04",
-   "hs": "0",
+   "hs": "2",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "29'",
    "venue": "PreZero Arena",
    "usa": [
     "Fandango"
@@ -1634,6 +1634,20 @@
      {
       "group": "",
       "rank": "10",
+      "team": "Aston Villa",
+      "short": "Aston Villa",
+      "p": "10",
+      "w": "3",
+      "d": "4",
+      "l": "3",
+      "gd": "-3",
+      "pts": "13",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "11",
       "team": "Tottenham Hotspur",
       "short": "Spurs",
       "p": "10",
@@ -1647,27 +1661,13 @@
      },
      {
       "group": "",
-      "rank": "11",
+      "rank": "12",
       "team": "Newcastle United",
       "short": "Newcastle",
       "p": "10",
       "w": "3",
       "d": "3",
       "l": "4",
-      "gd": "-3",
-      "pts": "12",
-      "zone": "",
-      "zone_name": ""
-     },
-     {
-      "group": "",
-      "rank": "12",
-      "team": "Aston Villa",
-      "short": "Aston Villa",
-      "p": "9",
-      "w": "3",
-      "d": "3",
-      "l": "3",
       "gd": "-3",
       "pts": "12",
       "zone": "",
@@ -1746,6 +1746,20 @@
      {
       "group": "",
       "rank": "18",
+      "team": "Manchester United",
+      "short": "Man Utd",
+      "p": "10",
+      "w": "1",
+      "d": "5",
+      "l": "4",
+      "gd": "-5",
+      "pts": "8",
+      "zone": "#FF7F84",
+      "zone_name": "Relegation"
+     },
+     {
+      "group": "",
+      "rank": "19",
       "team": "Sunderland",
       "short": "Sunderland",
       "p": "10",
@@ -1754,20 +1768,6 @@
       "l": "6",
       "gd": "-9",
       "pts": "8",
-      "zone": "#FF7F84",
-      "zone_name": "Relegation"
-     },
-     {
-      "group": "",
-      "rank": "19",
-      "team": "Manchester United",
-      "short": "Man Utd",
-      "p": "9",
-      "w": "1",
-      "d": "4",
-      "l": "4",
-      "gd": "-5",
-      "pts": "7",
       "zone": "#FF7F84",
       "zone_name": "Relegation"
      },
@@ -2685,6 +2685,20 @@
      {
       "group": "",
       "rank": "3",
+      "team": "SC Freiburg",
+      "short": "Freiburg",
+      "p": "9",
+      "w": "6",
+      "d": "1",
+      "l": "2",
+      "gd": "+10",
+      "pts": "19",
+      "zone": "#81D6AC",
+      "zone_name": "Champions League"
+     },
+     {
+      "group": "",
+      "rank": "4",
       "team": "RB Leipzig",
       "short": "RB Leipzig",
       "p": "9",
@@ -2693,20 +2707,6 @@
       "l": "3",
       "gd": "+14",
       "pts": "18",
-      "zone": "#81D6AC",
-      "zone_name": "Champions League"
-     },
-     {
-      "group": "",
-      "rank": "4",
-      "team": "SC Freiburg",
-      "short": "Freiburg",
-      "p": "8",
-      "w": "5",
-      "d": "1",
-      "l": "2",
-      "gd": "+8",
-      "pts": "16",
       "zone": "#81D6AC",
       "zone_name": "Champions League"
      },
@@ -2869,11 +2869,11 @@
       "rank": "16",
       "team": "1. FC Union Berlin",
       "short": "Union Berlin",
-      "p": "8",
+      "p": "9",
       "w": "1",
       "d": "4",
-      "l": "3",
-      "gd": "-12",
+      "l": "4",
+      "gd": "-14",
       "pts": "7",
       "zone": "#FEB4B5",
       "zone_name": "Relegation playoff"
@@ -3056,11 +3056,11 @@
       "rank": "4",
       "team": "Lyon",
       "short": "Lyon",
-      "p": "9",
+      "p": "10",
       "w": "5",
       "d": "2",
-      "l": "2",
-      "gd": "+8",
+      "l": "3",
+      "gd": "+6",
       "pts": "17",
       "zone": "#B5E7CE",
       "zone_name": "Champions League qualifying"
@@ -3068,6 +3068,34 @@
      {
       "group": "",
       "rank": "5",
+      "team": "Nice",
+      "short": "Nice",
+      "p": "10",
+      "w": "5",
+      "d": "2",
+      "l": "3",
+      "gd": "+3",
+      "pts": "17",
+      "zone": "#B2BFD0",
+      "zone_name": "Europa League"
+     },
+     {
+      "group": "",
+      "rank": "6",
+      "team": "AS Monaco",
+      "short": "Monaco",
+      "p": "10",
+      "w": "4",
+      "d": "4",
+      "l": "2",
+      "gd": "+2",
+      "pts": "16",
+      "zone": "#B2BFD0",
+      "zone_name": "Europa League"
+     },
+     {
+      "group": "",
+      "rank": "7",
       "team": "Stade Rennais",
       "short": "Rennes",
       "p": "10",
@@ -3077,11 +3105,11 @@
       "gd": "0",
       "pts": "16",
       "zone": "#B2BFD0",
-      "zone_name": "Europa League"
+      "zone_name": "Conference League qualifying"
      },
      {
       "group": "",
-      "rank": "6",
+      "rank": "8",
       "team": "Marseille",
       "short": "Marseille",
       "p": "9",
@@ -3090,40 +3118,40 @@
       "l": "4",
       "gd": "+7",
       "pts": "15",
-      "zone": "#B2BFD0",
-      "zone_name": "Europa League"
-     },
-     {
-      "group": "",
-      "rank": "7",
-      "team": "AS Monaco",
-      "short": "Monaco",
-      "p": "9",
-      "w": "4",
-      "d": "3",
-      "l": "2",
-      "gd": "+2",
-      "pts": "15",
-      "zone": "#B2BFD0",
-      "zone_name": "Conference League qualifying"
-     },
-     {
-      "group": "",
-      "rank": "8",
-      "team": "Nice",
-      "short": "Nice",
-      "p": "9",
-      "w": "4",
-      "d": "2",
-      "l": "3",
-      "gd": "+1",
-      "pts": "14",
       "zone": "",
       "zone_name": ""
      },
      {
       "group": "",
       "rank": "9",
+      "team": "Brest",
+      "short": "Brest",
+      "p": "10",
+      "w": "4",
+      "d": "3",
+      "l": "3",
+      "gd": "+6",
+      "pts": "15",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "10",
+      "team": "Lorient",
+      "short": "Lorient",
+      "p": "10",
+      "w": "4",
+      "d": "3",
+      "l": "3",
+      "gd": "+1",
+      "pts": "15",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "11",
       "team": "Lens",
       "short": "Lens",
       "p": "9",
@@ -3137,7 +3165,7 @@
      },
      {
       "group": "",
-      "rank": "10",
+      "rank": "12",
       "team": "Toulouse",
       "short": "Toulouse",
       "p": "10",
@@ -3146,34 +3174,6 @@
       "l": "3",
       "gd": "+1",
       "pts": "13",
-      "zone": "",
-      "zone_name": ""
-     },
-     {
-      "group": "",
-      "rank": "11",
-      "team": "Brest",
-      "short": "Brest",
-      "p": "9",
-      "w": "3",
-      "d": "3",
-      "l": "3",
-      "gd": "+4",
-      "pts": "12",
-      "zone": "",
-      "zone_name": ""
-     },
-     {
-      "group": "",
-      "rank": "12",
-      "team": "Lorient",
-      "short": "Lorient",
-      "p": "9",
-      "w": "3",
-      "d": "3",
-      "l": "3",
-      "gd": "-1",
-      "pts": "12",
       "zone": "",
       "zone_name": ""
      },
@@ -3208,13 +3208,13 @@
      {
       "group": "",
       "rank": "15",
-      "team": "Angers",
-      "short": "Angers",
-      "p": "9",
-      "w": "2",
-      "d": "2",
-      "l": "5",
-      "gd": "-8",
+      "team": "Le Mans",
+      "short": "Le Mans",
+      "p": "10",
+      "w": "1",
+      "d": "5",
+      "l": "4",
+      "gd": "-7",
       "pts": "8",
       "zone": "",
       "zone_name": ""
@@ -3222,8 +3222,8 @@
      {
       "group": "",
       "rank": "16",
-      "team": "Troyes",
-      "short": "Troyes",
+      "team": "Angers",
+      "short": "Angers",
       "p": "10",
       "w": "2",
       "d": "2",
@@ -3236,14 +3236,14 @@
      {
       "group": "",
       "rank": "17",
-      "team": "Le Mans",
-      "short": "Le Mans",
-      "p": "9",
-      "w": "1",
-      "d": "4",
-      "l": "4",
-      "gd": "-7",
-      "pts": "7",
+      "team": "Troyes",
+      "short": "Troyes",
+      "p": "10",
+      "w": "2",
+      "d": "2",
+      "l": "6",
+      "gd": "-10",
+      "pts": "8",
       "zone": "#FF7F84",
       "zone_name": "Relegation"
      },
@@ -3252,11 +3252,11 @@
       "rank": "18",
       "team": "Le Havre AC",
       "short": "Le Havre AC",
-      "p": "9",
+      "p": "10",
       "w": "0",
       "d": "2",
-      "l": "7",
-      "gd": "-11",
+      "l": "8",
+      "gd": "-13",
       "pts": "2",
       "zone": "#FF7F84",
       "zone_name": "Relegation"
@@ -4400,6 +4400,14 @@
    },
    {
     "l": "eng",
+    "name": "Aston Villa",
+    "short": "Aston Villa",
+    "keys": [
+     "aston villa"
+    ]
+   },
+   {
+    "l": "eng",
     "name": "Tottenham Hotspur",
     "short": "Spurs",
     "keys": [
@@ -4415,14 +4423,6 @@
     "keys": [
      "newcastle",
      "newcastle united"
-    ]
-   },
-   {
-    "l": "eng",
-    "name": "Aston Villa",
-    "short": "Aston Villa",
-    "keys": [
-     "aston villa"
     ]
    },
    {
@@ -4472,14 +4472,6 @@
    },
    {
     "l": "eng",
-    "name": "Sunderland",
-    "short": "Sunderland",
-    "keys": [
-     "sunderland"
-    ]
-   },
-   {
-    "l": "eng",
     "name": "Manchester United",
     "short": "Man Utd",
     "keys": [
@@ -4487,6 +4479,14 @@
      "man utd",
      "manchester united",
      "manchester utd"
+    ]
+   },
+   {
+    "l": "eng",
+    "name": "Sunderland",
+    "short": "Sunderland",
+    "keys": [
+     "sunderland"
     ]
    },
    {
@@ -4853,20 +4853,20 @@
    },
    {
     "l": "ger",
-    "name": "RB Leipzig",
-    "short": "RB Leipzig",
-    "keys": [
-     "leipzig",
-     "rb leipzig"
-    ]
-   },
-   {
-    "l": "ger",
     "name": "SC Freiburg",
     "short": "Freiburg",
     "keys": [
      "freiburg",
      "sc freiburg"
+    ]
+   },
+   {
+    "l": "ger",
+    "name": "RB Leipzig",
+    "short": "RB Leipzig",
+    "keys": [
+     "leipzig",
+     "rb leipzig"
     ]
    },
    {
@@ -5034,6 +5034,23 @@
    },
    {
     "l": "fra",
+    "name": "Nice",
+    "short": "Nice",
+    "keys": [
+     "nice"
+    ]
+   },
+   {
+    "l": "fra",
+    "name": "AS Monaco",
+    "short": "Monaco",
+    "keys": [
+     "as monaco",
+     "monaco"
+    ]
+   },
+   {
+    "l": "fra",
     "name": "Stade Rennais",
     "short": "Rennes",
     "keys": [
@@ -5052,19 +5069,18 @@
    },
    {
     "l": "fra",
-    "name": "AS Monaco",
-    "short": "Monaco",
+    "name": "Brest",
+    "short": "Brest",
     "keys": [
-     "as monaco",
-     "monaco"
+     "brest"
     ]
    },
    {
     "l": "fra",
-    "name": "Nice",
-    "short": "Nice",
+    "name": "Lorient",
+    "short": "Lorient",
     "keys": [
-     "nice"
+     "lorient"
     ]
    },
    {
@@ -5081,22 +5097,6 @@
     "short": "Toulouse",
     "keys": [
      "toulouse"
-    ]
-   },
-   {
-    "l": "fra",
-    "name": "Brest",
-    "short": "Brest",
-    "keys": [
-     "brest"
-    ]
-   },
-   {
-    "l": "fra",
-    "name": "Lorient",
-    "short": "Lorient",
-    "keys": [
-     "lorient"
     ]
    },
    {
@@ -5118,6 +5118,14 @@
    },
    {
     "l": "fra",
+    "name": "Le Mans",
+    "short": "Le Mans",
+    "keys": [
+     "le mans"
+    ]
+   },
+   {
+    "l": "fra",
     "name": "Angers",
     "short": "Angers",
     "keys": [
@@ -5130,14 +5138,6 @@
     "short": "Troyes",
     "keys": [
      "troyes"
-    ]
-   },
-   {
-    "l": "fra",
-    "name": "Le Mans",
-    "short": "Le Mans",
-    "keys": [
-     "le mans"
     ]
    },
    {
@@ -6572,10 +6572,10 @@
    "home": "Angers",
    "away": "Nice",
    "hs": "0",
-   "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "73'",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+6'",
    "venue": "Stade Raymond Kopa",
    "usa": [
     "beIn Sports"
@@ -6589,11 +6589,11 @@
    "date": "2026-11-08T16:15Z",
    "home": "Brest",
    "away": "Lyon",
-   "hs": "1",
+   "hs": "2",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "76'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+6'",
    "venue": "Stade Francis-Le Bl\u00e9",
    "usa": [
     "beIn Sports"
@@ -6608,10 +6608,10 @@
    "home": "Le Havre AC",
    "away": "Lorient",
    "hs": "0",
-   "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "73'",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+7'",
    "venue": "Stade Oc\u00e9ane",
    "usa": [
     "beIn Sports"
@@ -6625,11 +6625,11 @@
    "date": "2026-11-08T16:15Z",
    "home": "Le Mans",
    "away": "AS Monaco",
-   "hs": "0",
+   "hs": "1",
    "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "74'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+9'",
    "venue": "Stade Marie-Marvingt",
    "usa": [
     "beIn Sports"
@@ -6643,11 +6643,11 @@
    "date": "2026-11-08T16:30Z",
    "home": "Manchester United",
    "away": "Aston Villa",
-   "hs": "2",
+   "hs": "4",
    "as": "4",
-   "live": true,
-   "state": "in",
-   "clock": "57'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+9'",
    "venue": "Old Trafford",
    "usa": [
     "Tele",
@@ -6662,11 +6662,11 @@
    "date": "2026-11-08T16:30Z",
    "home": "SC Freiburg",
    "away": "1. FC Union Berlin",
-   "hs": "1",
+   "hs": "2",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "59'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+6'",
    "venue": "Europa-Park Stadion",
    "usa": [
     "Fandango"
@@ -6682,9 +6682,9 @@
    "away": "Como",
    "hs": "2",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "43'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
    "venue": "San Siro",
    "usa": [
     "Paramount+"
@@ -6702,7 +6702,7 @@
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "13'",
+   "clock": "64'",
    "venue": "Balaidos",
    "usa": [
     "ESPN+"
@@ -6720,7 +6720,7 @@
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "16'",
+   "clock": "70'",
    "venue": "Estadio de la Cer\u00e1mica",
    "usa": [
     "ESPN+"
@@ -6734,11 +6734,11 @@
    "date": "2026-11-08T18:30Z",
    "home": "TSG Hoffenheim",
    "away": "Schalke 04",
-   "hs": "0",
+   "hs": "2",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "29'",
    "venue": "PreZero Arena",
    "usa": [
     "Fandango"
