@@ -2,6 +2,38 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Who am I? Guess WSL star No 11",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cgqdv8lexl1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Work out the identity of today's player in as few attempts as possible.",
+   "date": "2026-11-08T06:51:06+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr20wvgx2q27o?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-08T06:47:58+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Why unique Brighton defence is so tricky to unpick",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po?at_medium=RSS&at_campaign=rss",
+   "summary": "Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.",
+   "date": "2026-11-08T06:41:37+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/0e138ac0-d90d-11f1-94c6-3f8050561bf5.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "The oldest club in London making FA Cup history",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss",
+   "summary": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
+   "date": "2026-11-08T06:28:56+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f765/live/7f024030-d860-11f1-85ab-b3cc3b5498c6.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&at_campaign=rss",
    "summary": "BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.",
@@ -47,41 +79,41 @@
    "summary": "Match of the Day's Steph Houghton and Danny Murphy assess whether a challenge from Leeds United's Jayden Bogle on Tottenham's Mathys Tel was worthy of a red card.",
    "date": "2026-11-08T00:00:26+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a1/live/ae222e20-dafe-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Forest win over Man City 'a turning point' - Murphy",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be \"a turning point\" in Forest's first season under Oliver Glasner.",
-   "date": "2026-11-08T00:00:14+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a390/live/b108e540-dafc-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Arsenal should have been awarded penalty against Hull - Cann",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss",
-   "summary": "Former Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1-0 win over Hull City.",
-   "date": "2026-11-08T00:00:09+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8601/live/81888e60-dafc-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "York score after 10 seconds against Northampton following unique kick-off",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c893zrl4p7npo?at_medium=RSS&at_campaign=rss",
-   "summary": "Ollie Pearce scores after 10 seconds as York City see off Northampton Town in a 4-0  win to reach the second round of the FA Cup.",
-   "date": "2026-11-07T23:38:38+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a54/live/c702b650-db01-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Listen: Premiership reaction as pressure mounts on Robinson",
-   "link": "https://www.bbc.co.uk/sounds/play/p0plvx32?at_medium=RSS&at_campaign=rss",
-   "summary": "Big wins for Rangers, St Johnstone and Hibs as Robinson's Aberdeen ship 4 goals at home.",
-   "date": "2026-11-07T23:15:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Guess WSL star No 11",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cgqdv8lexl1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Work out the identity of today's player in as few attempts as possible.",
+   "date": "2026-11-08T06:51:06+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr20wvgx2q27o?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-08T06:47:58+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Why unique Brighton defence is so tricky to unpick",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po?at_medium=RSS&at_campaign=rss",
+   "summary": "Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.",
+   "date": "2026-11-08T06:41:37+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/0e138ac0-d90d-11f1-94c6-3f8050561bf5.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "The oldest club in London making FA Cup history",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss",
+   "summary": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
+   "date": "2026-11-08T06:28:56+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f765/live/7f024030-d860-11f1-85ab-b3cc3b5498c6.jpg"
+  },
   {
    "source": "BBC Sport",
    "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
@@ -529,100 +561,56 @@
    "summary": "Right-back sparked armed police response over incidentExpected to start Newcastle\u2019s trip to Fulham on SaturdayNewcastle\u2019s Amar Dedic is unlikely to face a club sanction after being spotted holding a bow and arrow in the\u2026",
    "date": "2026-11-06T10:38:34+00:00",
    "image": "https://i.guim.co.uk/img/media/b2fe462d00ac1cf8c8c41cba79d95da9ab3d7317/26_42_4148_3317/master/4148.jpg?width=140&quality=85&auto=format&fit=max&s=d619fc2153c7a856110f425770d28690"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "How to follow the FA Cup on the BBC this weekend",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Our Ask Me Anything experts explain how to follow the FA Cup first round on TV and radio this weekend.",
-   "date": "2026-11-06T07:47:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a50/live/eb177540-d6af-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Cape Verde captain Ryan Mendes cleared of rape allegation as woman charged with false statement",
-   "link": "https://www.theguardian.com/football/2026/nov/06/cape-verde-football-ryan-mendes-sexual-assault-allegation-dismissed-ntwnfb",
-   "summary": "New Zealand police dismiss claim of sexual assault at Auckland hotelIncident alleged to have occurred after football friendly in MarchNew Zealand police have dismissed a rape allegation against Cape Verde football\u2026",
-   "date": "2026-11-06T03:37:32+00:00",
-   "image": "https://i.guim.co.uk/img/media/dac8f928ed495dc64c04dadf7755a53757e88716/0_369_3172_2538/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=eccff75f803004d6008e2c528c930d24"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Europa League: Sunderland lose at home to Zagreb while Celtic enjoy first win",
-   "link": "https://www.theguardian.com/football/2026/nov/05/europa-league-roundup-sparta-prague-bournemouth-ferencvaros-milanstay-perfect-while-milan-sunderland-dinamo-zagreb",
-   "summary": "Evanilson helps Bournemouth to 3-1 win at Sparta PragueFerencvaros prevail 2-0 at Milan to keep 100% recordSunderland\u2019s unbeaten run in the Europa League came to an end as they were beaten 2-0 by Dinamo Zagreb at the\u2026",
-   "date": "2026-11-05T23:27:14+00:00",
-   "image": "https://i.guim.co.uk/img/media/4718194e042b637ce1e14510eea795bf0b2a463e/675_50_1865_1493/master/1865.jpg?width=140&quality=85&auto=format&fit=max&s=35ecdc7b0f795720f644b261349aeb2a"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Scott Parker\u2019s dramatic West Ham return leaves him struggling for words",
-   "link": "https://www.theguardian.com/football/2026/nov/05/scott-parkers-dramatic-west-ham-return-leaves-him-struggling-for-words",
-   "summary": "The former midfielder with impressive managerial promotion record began with a thrilling comeback in draw at CardiffThree days in and Scott Parker has already lost his voice. West Ham\u2019s head coach arrived on Tuesday,\u2026",
-   "date": "2026-11-05T22:30:35+00:00",
-   "image": "https://i.guim.co.uk/img/media/59dbef7c403bddefffc473d430bd22a167dabef0/300_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=77e903ae88841d2abe35d4b530b867b0"
   }
  ],
  "videos": [
   {
-   "channel": "LaLiga",
-   "id": "r1e4tsIHeAo",
-   "title": "VALENCIA CF 0 - 3 REAL MADRID | RESUMEN LALIGA EA SPORTS",
-   "date": "2026-11-07T23:00:15+00:00"
+   "channel": "Serie A",
+   "id": "oRjvY0kXefs",
+   "title": "Giallorossi in Controllo all\u2019Olimpico | ROMA-SASSUOLO | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-08T01:44:09+00:00"
   },
   {
-   "channel": "Premier League",
-   "id": "-qlzBL66Ges",
-   "title": "Liam Delap WONDERGOAL + Ronaldo SIU \ud83e\udd2f",
-   "date": "2026-11-07T22:20:31+00:00"
+   "channel": "Serie A",
+   "id": "9DuhqHmOiAc",
+   "title": "Due Rigori e un Rosso al Tardini | PARMA-BOLOGNA | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-07T22:59:08+00:00"
   },
   {
-   "channel": "LaLiga",
-   "id": "6UAAqizm2r8",
-   "title": "VALENCIA CF 0 - 3 REAL MADRID | RESUMEN LALIGA EA SPORTS",
-   "date": "2026-11-07T22:08:36+00:00"
+   "channel": "Serie A",
+   "id": "l2Ei1viCaro",
+   "title": "Roma Dominant at Home | ROMA-SASSUOLO | HIGHLIGHTS | Serie A 2026/27",
+   "date": "2026-11-07T22:27:05+00:00"
   },
   {
-   "channel": "Bundesliga",
-   "id": "v5O3VC_qFWA",
-   "title": "Stuttgart Stops F\u00fcllkrug! | VFB STUTTGART - WERDER BREMEN | Highlights | Matchday 9 \u2013 Bundesliga",
-   "date": "2026-11-07T19:32:01+00:00"
+   "channel": "Serie A",
+   "id": "NiGcZSWlVUg",
+   "title": "Di Francesco Azzecca il Cambio | TORINO-LECCE | HIGHLIGHTS | SERIE A ENILIVE 2026/27 lecit",
+   "date": "2026-11-07T19:59:09+00:00"
   },
   {
-   "channel": "Premier League",
-   "id": "KYsuqeGSzVk",
-   "title": "Josk King Was In SHOCK! \ud83d\ude06",
-   "date": "2026-11-07T23:59:01+00:00"
+   "channel": "Serie A",
+   "id": "hvRu8DvfKqY",
+   "title": "Pisacane Torna a Vincere | CAGLIARI-FROSINONE | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-07T19:59:08+00:00"
   },
   {
-   "channel": "LaLiga",
-   "id": "0Sw5EAu5UaY",
-   "title": "VALENCIA CF vs REAL MADRID | RUEDA DE PRENSA",
-   "date": "2026-11-07T22:48:12+00:00"
+   "channel": "Serie A",
+   "id": "NCBFBqy0INQ",
+   "title": "Two Penalties and a Red Card at the Tardini | PARMA-BOLOGNA | HIGHLIGHTS | Serie A 2026/27",
+   "date": "2026-11-07T19:45:12+00:00"
   },
   {
-   "channel": "Bundesliga",
-   "id": "dCs2VOUeq68",
-   "title": "Hertha BSC vs. VfL Wolfsburg | Matchday 11 - Bundesliga 2 2026/27",
-   "date": "2026-11-07T22:08:18+00:00"
+   "channel": "Serie A",
+   "id": "-COMOZxfY7U",
+   "title": "Lecce Rescue a Point With the Subs | TORINO-LECCE | HIGHLIGHTS | Serie A 2026/27",
+   "date": "2026-11-07T17:09:15+00:00"
   },
   {
-   "channel": "LaLiga",
-   "id": "QRnN0qnP4NA",
-   "title": "En el minuto 9, un mismo recuerdo nos une a todos. Por Jes\u00fas de Miguel.",
-   "date": "2026-11-07T20:27:08+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "_9gN4zMNbIM",
-   "title": "CA OSASUNA vs ATHLETIC CLUB | RUEDA DE PRENSA",
-   "date": "2026-11-07T20:14:22+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "2YELtRFiTEM",
-   "title": "VfB Stuttgart vs. SV Werder Bremen | Matchday 9 - Bundesliga 2026/27",
-   "date": "2026-11-07T20:13:06+00:00"
+   "channel": "Serie A",
+   "id": "8EHfZOi2gYk",
+   "title": "Outside the Box \u27a1\ufe0f TOP CORNER \ud83d\ude2e\u200d\ud83d\udca8",
+   "date": "2026-11-07T20:00:13+00:00"
   }
  ],
  "fixtures": [
