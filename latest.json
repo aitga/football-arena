@@ -2,6 +2,14 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Which Premier League players are set for yellow card suspensions?",
+   "link": "https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Thirteen players are on the brink of a one-match ban in the 2026-27 Premier League season.",
+   "date": "2026-11-09T10:33:57+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4573/live/ecda7500-dc20-11f1-a701-fddedf244c16.png"
+  },
+  {
+   "source": "BBC Sport",
    "title": "SPFL round-up: Morton stun Stenny, Cove humble Accies & Clyde keep pace",
    "link": "https://www.bbc.co.uk/sport/football/videos/c6x292y37g59o?at_medium=RSS&at_campaign=rss",
    "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
@@ -71,17 +79,17 @@
    "summary": "Adam Crafton joins Rick and Lloyd to discuss Brighton, Man City and Man Utd.",
    "date": "2026-11-09T00:30:00+00:00",
    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
-   "summary": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day.",
-   "date": "2026-11-08T23:53:20+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a524/live/05c078e0-dbcb-11f1-93e1-3b657b665bcf.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Which Premier League players are set for yellow card suspensions?",
+   "link": "https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Thirteen players are on the brink of a one-match ban in the 2026-27 Premier League season.",
+   "date": "2026-11-09T10:33:57+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4573/live/ecda7500-dc20-11f1-a701-fddedf244c16.png"
+  },
   {
    "source": "BBC Sport",
    "title": "SPFL round-up: Morton stun Stenny, Cove humble Accies & Clyde keep pace",
@@ -380,14 +388,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&at_campaign=rss",
-   "summary": "Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?",
-   "date": "2026-11-08T18:46:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6507/live/8fdebc40-dba2-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
    "link": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
    "summary": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
@@ -674,6 +674,24 @@
   },
   {
    "channel": "LaLiga",
+   "id": "QgA0vVRUNMs",
+   "title": "La DEFINICI\u00d3N cl\u00e1sica de LAMINE YAMAL \ud83c\udfaf |  \u00a1Los 10 MEJORES GOLES de OCTUBRE!",
+   "date": "2026-11-09T11:00:21+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "P8ZZf7WxXIg",
+   "title": "Goalkeeper Atubolu assists for Burkardt\u2018s backheel \ud83e\udd2f\ud83d\udd25\ud83d\ude32",
+   "date": "2026-11-09T11:00:03+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "c_V7am9WHm0",
+   "title": "What a game! \ud83e\udd2f #FiorentinaJuve",
+   "date": "2026-11-09T10:49:06+00:00"
+  },
+  {
+   "channel": "LaLiga",
    "id": "PibZ4Sg2fb4",
    "title": "La presi\u00f3n del Real Madrid de Mourinho",
    "date": "2026-11-09T09:04:24+00:00"
@@ -689,24 +707,6 @@
    "id": "NGFVd9xwnp4",
    "title": "RC LENS - OLYMPIQUE DE MARSEILLE (1-2) | Week 10 - Ligue 1 McDonald's 26/27",
    "date": "2026-11-09T00:45:51+00:00"
-  },
-  {
-   "channel": "Ligue 1",
-   "id": "lIDnR6JMn1o",
-   "title": "Le TOP ARR\u00caTS de la 10\u00e8me journ\u00e9e | Ligue 1 McDonald's 26/27",
-   "date": "2026-11-09T00:08:21+00:00"
-  },
-  {
-   "channel": "Ligue 1",
-   "id": "sAvL_g2Xfk8",
-   "title": "LE HAVRE AC - FC LORIENT (0-2) | Week 10 - Ligue 1 McDonald's 26/27",
-   "date": "2026-11-09T00:08:18+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "63a6T2voSw0",
-   "title": "Michael Carrick's Reaction To 96th-Minute Equaliser",
-   "date": "2026-11-08T23:59:15+00:00"
   }
  ],
  "fixtures": [
