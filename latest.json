@@ -651,6 +651,79 @@
    ]
   },
   {
+   "id": "401879244",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T14:00Z",
+   "home": "Brighton & Hove Albion",
+   "away": "Brentford",
+   "hs": "2",
+   "as": "0",
+   "live": false,
+   "state": "post",
+   "clock": "90'+6'",
+   "venue": "American Express Stadium",
+   "usa": [
+    "Peacock"
+   ]
+  },
+  {
+   "id": "401879243",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T14:00Z",
+   "home": "Crystal Palace",
+   "away": "Liverpool",
+   "hs": "1",
+   "as": "3",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
+   "venue": "Selhurst Park",
+   "usa": [
+    "Peacock"
+   ]
+  },
+  {
+   "id": "401878759",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T14:00Z",
+   "home": "Ipswich Town",
+   "away": "AFC Bournemouth",
+   "hs": "1",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+10'",
+   "venue": "Portman Road",
+   "usa": [
+    "Peacock"
+   ]
+  },
+  {
+   "id": "401879239",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T14:00Z",
+   "home": "Sunderland",
+   "away": "Chelsea",
+   "hs": "1",
+   "as": "0",
+   "live": false,
+   "state": "post",
+   "clock": "90'+7'",
+   "venue": "Stadium of Light",
+   "usa": [
+    "Tele",
+    "USA Net"
+   ]
+  },
+  {
    "id": "401875018",
    "code": "ita.1",
    "l": "ita",
@@ -811,6 +884,25 @@
    "venue": "Stade Marie-Marvingt",
    "usa": [
     "beIn Sports"
+   ]
+  },
+  {
+   "id": "401879240",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-08T16:30Z",
+   "home": "Manchester United",
+   "away": "Aston Villa",
+   "hs": "4",
+   "as": "4",
+   "live": false,
+   "state": "post",
+   "clock": "90'+9'",
+   "venue": "Old Trafford",
+   "usa": [
+    "Tele",
+    "USA Net"
    ]
   },
   {
