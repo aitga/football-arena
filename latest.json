@@ -1,6 +1,54 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "NI's O'Neill ruled out of Nations League matches",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynylnd71yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsenal forward Ceadach O'Neill is ruled out of Northern Ireland's final two Nations League fixtures against Ukraine in Belfast and Hungary in Budapest.",
+   "date": "2026-11-09T21:44:23+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e548/live/515bf500-dc88-11f1-851a-19e868620cad.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester\u2019s soulless content machine football clubs sum up post-imperial Britain | Barney Ronay",
+   "link": "https://www.theguardian.com/football/2026/nov/09/manchester-united-city-soulless-content-machines-premier-league",
+   "summary": "United and City dominate the news cycle with stories so strange and vast they threaten to consume the rest of the leagueIn Manchester this weekend it was possible to bookend your Thursday\u2011to\u2011Sunday entertainment with\u2026",
+   "date": "2026-11-09T21:40:16+00:00",
+   "image": "https://i.guim.co.uk/img/media/96db3ba40b7a8e3f419b2a5abfd1bab89cefcb18/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bd3abb0fd99b1b67d04f3bb9737b989f"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'Aberdeen hunt yet another manager after ill-fated Robinson reign'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr0qkq8pnx4ko?at_medium=RSS&at_campaign=rss",
+   "summary": "Stephen Robinson's tenure as head coach panned out as many Aberdeen fans feared it would, writes BBC Scotland's Liam McLeod.",
+   "date": "2026-11-09T21:39:37+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adbd/live/6fcf45b0-dc82-11f1-ba95-5f07efd49f42.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pm5xwv?at_medium=RSS&at_campaign=rss",
+   "summary": "White opens up about his England departure, will Sage get sacked & will Frank come in?",
+   "date": "2026-11-09T21:33:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm5xxr.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Michael Carrick facing Manchester United axe amid review by Jason Wilcox",
+   "link": "https://www.theguardian.com/football/2026/nov/09/manchester-united-michael-carrick-jason-wilcox-review-sacking",
+   "summary": "Director of football in discussions with Omar BerradaRecommendation will be made to Sir Jim RatcliffeManchester United are moving towards sacking Michael Carrick, though no final decision has been made by Jason Wilcox,\u2026",
+   "date": "2026-11-09T21:17:45+00:00",
+   "image": "https://i.guim.co.uk/img/media/aa5f66bf31a9f0e3d260508cad3a19dfbe9427f2/181_0_3539_2831/master/3539.jpg?width=140&quality=85&auto=format&fit=max&s=21df3318b577629a128431a6d336a356"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Atletico target Zubimendi move - Tuesday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsenal midfielder Martin Zubimendi is a target for Atletico Madrid, Leeds United plan to step up contract talks with striker Dominic Calvert-Lewin, Barcelona are keen on Bayern Munich defender Jonathan Tah, plus more.",
+   "date": "2026-11-09T21:13:37+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7979/live/f8476210-dc78-11f1-b441-2b33b063138f.png"
+  },
+  {
    "source": "The Guardian",
    "title": "NWSL playoffs scheduling snafu: Washington Spirit keep Audi Field; Gotham move to Icahn",
    "link": "https://www.theguardian.com/football/2026/nov/08/washington-spirit-semifinal-audi-field-gotham-nwsl-playoffs",
@@ -31,57 +79,57 @@
    "summary": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
    "date": "2026-11-09T19:00:10+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ef/live/13e8f0c0-dc55-11f1-8fe6-5becaee5408f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Man Utd yet to make decision on Carrick's future",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United's board are yet to make a final decision on Michael Carrick's future, despite the club's worst start to a campaign in 40 years.",
-   "date": "2026-11-09T17:49:05+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/188e/live/21402470-dc67-11f1-8fe6-5becaee5408f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Kane and Bellingham air strong views in England World Cup review",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
-   "summary": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
-   "date": "2026-11-09T17:30:23+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d453cf00-dc51-11f1-a869-656dc96bd12d.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Wilson eyeing survival step as Wales tackle Norway",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck3r5rwdpjj7o?at_medium=RSS&at_campaign=rss",
-   "summary": "Harry Wilson believes Wales can shock Norway again in Oslo on Saturday and move a step closer to survival in Nations League A.",
-   "date": "2026-11-09T17:21:28+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cf/live/8ab51890-dc29-11f1-a5b1-adf9c8e8d692.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "The heavy defeat that ended Robinson's Aberdeen tenure",
-   "link": "https://www.bbc.co.uk/sport/videos/c3dxw181eqejo?at_medium=RSS&at_campaign=rss",
-   "summary": "Watch the best of the action as Hibernian thrash Aberdeen 4-0 in what would proved to be Stephen Robinson's final match in charge.",
-   "date": "2026-11-09T17:10:00+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e765/live/de171de0-dbb0-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'I believe in my ability' - Robinson's final interview as Aberdeen boss",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqzjxrwgnlr1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Head coach Stephen Robinson vowed to \"keep fighting until told otherwise\" after Aberdeen's 4-0 home mauling by Hibernian - but it proved to be his final game as he has now been sacked.",
-   "date": "2026-11-09T17:04:36+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2628/live/94da1b00-db7e-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Aberdeen sack Robinson after league slump",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
-   "summary": "Aberdeen sack head coach Stephen Robinson after dropping to second bottom of the Scottish Premiership.",
-   "date": "2026-11-09T16:46:11+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9ae/live/de60fa10-dc5e-11f1-b441-2b33b063138f.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "NI's O'Neill ruled out of Nations League matches",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynylnd71yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsenal forward Ceadach O'Neill is ruled out of Northern Ireland's final two Nations League fixtures against Ukraine in Belfast and Hungary in Budapest.",
+   "date": "2026-11-09T21:44:23+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e548/live/515bf500-dc88-11f1-851a-19e868620cad.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester\u2019s soulless content machine football clubs sum up post-imperial Britain | Barney Ronay",
+   "link": "https://www.theguardian.com/football/2026/nov/09/manchester-united-city-soulless-content-machines-premier-league",
+   "summary": "United and City dominate the news cycle with stories so strange and vast they threaten to consume the rest of the leagueIn Manchester this weekend it was possible to bookend your Thursday\u2011to\u2011Sunday entertainment with\u2026",
+   "date": "2026-11-09T21:40:16+00:00",
+   "image": "https://i.guim.co.uk/img/media/96db3ba40b7a8e3f419b2a5abfd1bab89cefcb18/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bd3abb0fd99b1b67d04f3bb9737b989f"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'Aberdeen hunt yet another manager after ill-fated Robinson reign'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr0qkq8pnx4ko?at_medium=RSS&at_campaign=rss",
+   "summary": "Stephen Robinson's tenure as head coach panned out as many Aberdeen fans feared it would, writes BBC Scotland's Liam McLeod.",
+   "date": "2026-11-09T21:39:37+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adbd/live/6fcf45b0-dc82-11f1-ba95-5f07efd49f42.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pm5xwv?at_medium=RSS&at_campaign=rss",
+   "summary": "White opens up about his England departure, will Sage get sacked & will Frank come in?",
+   "date": "2026-11-09T21:33:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm5xxr.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Michael Carrick facing Manchester United axe amid review by Jason Wilcox",
+   "link": "https://www.theguardian.com/football/2026/nov/09/manchester-united-michael-carrick-jason-wilcox-review-sacking",
+   "summary": "Director of football in discussions with Omar BerradaRecommendation will be made to Sir Jim RatcliffeManchester United are moving towards sacking Michael Carrick, though no final decision has been made by Jason Wilcox,\u2026",
+   "date": "2026-11-09T21:17:45+00:00",
+   "image": "https://i.guim.co.uk/img/media/aa5f66bf31a9f0e3d260508cad3a19dfbe9427f2/181_0_3539_2831/master/3539.jpg?width=140&quality=85&auto=format&fit=max&s=21df3318b577629a128431a6d336a356"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Atletico target Zubimendi move - Tuesday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsenal midfielder Martin Zubimendi is a target for Atletico Madrid, Leeds United plan to step up contract talks with striker Dominic Calvert-Lewin, Barcelona are keen on Bayern Munich defender Jonathan Tah, plus more.",
+   "date": "2026-11-09T21:13:37+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7979/live/f8476210-dc78-11f1-b441-2b33b063138f.png"
+  },
   {
    "source": "The Guardian",
    "title": "NWSL playoffs scheduling snafu: Washington Spirit keep Audi Field; Gotham move to Icahn",
@@ -187,14 +235,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5e1/live/724f1e20-dc53-11f1-a869-656dc96bd12d.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Manchester United weighing up Michael Carrick sacking as Wilcox leads review",
-   "link": "https://www.theguardian.com/football/2026/nov/09/manchester-united-michael-carrick-jason-wilcox-review-sacking",
-   "summary": "Carrick given time after Como and Bournemouth defeatsRecommendation will be made to Sir Jim RatcliffeManchester United are deciding whether Michael Carrick should be sacked, with Jason Wilcox, the director of football,\u2026",
-   "date": "2026-11-09T16:21:31+00:00",
-   "image": "https://i.guim.co.uk/img/media/aa5f66bf31a9f0e3d260508cad3a19dfbe9427f2/181_0_3539_2831/master/3539.jpg?width=140&quality=85&auto=format&fit=max&s=21df3318b577629a128431a6d336a356"
-  },
-  {
    "source": "BBC Sport",
    "title": "Real Madrid legend Raul named Real Oviedo manager",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwnv0v1yj585o?at_medium=RSS&at_campaign=rss",
@@ -260,14 +300,6 @@
   },
   {
    "source": "The Guardian",
-   "title": "Lens were humiliated by Como. The pain continued against Marseille",
-   "link": "https://www.theguardian.com/football/2026/nov/09/lens-como-marseille-pierre-sage-coupe-de-france-ligue-1",
-   "summary": "Pierre Sage led Lens to second and glory in the Coupe de France last season. A lot has changed in the last six monthsThe Lens striker, Florian Sotoca, was completely motionless as he looked into the middle space from\u2026",
-   "date": "2026-11-09T13:37:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/53b5b89f8aabc1e0f4a493e03871042823313ccb/1221_217_5006_4005/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=551b930c759dd800ec05ae3436ec0183"
-  },
-  {
-   "source": "The Guardian",
    "title": "Could Old Trafford chaos keep Michael Carrick in the job? Football Weekly \u2013 video",
    "link": "https://www.theguardian.com/football/video/2026/nov/09/could-old-trafford-chaos-keep-michael-carrick-in-the-job-football-weekly-video",
    "summary": "Max Rushden is joined by Barney Ronay, Jonathan Wilson and Dan Bardell as Manchester United twice come back from two goals down to draw 4-4 with Aston Villa, while trouble looms for Pierre Sage Continue reading...",
@@ -281,14 +313,6 @@
    "summary": "Shrewsbury Town's American takeover deal is done, allowing owner Roland Wycherley to retire, reports BBC Radio Shropshire.",
    "date": "2026-11-09T13:07:29+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e689/live/3cd3dc00-dc39-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Why are Manchester United fans wearing green and gold?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwe8l8y2egk2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Our Ask Me Anything team explain why some Manchester United fans are wearing green and gold to matches.",
-   "date": "2026-11-09T12:54:09+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4d/live/a91bf2e0-dc33-11f1-93e1-3b657b665bcf.jpg"
   },
   {
    "source": "BBC Sport",
@@ -537,30 +561,6 @@
    "summary": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
    "date": "2026-11-08T18:20:56+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Fan injured after falling through hole in stand",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o?at_medium=RSS&at_campaign=rss",
-   "summary": "One fan is taken to hospital after a number of Bodo/Glimt supporters fall through a hole in the away stand at Tromso.",
-   "date": "2026-11-08T16:53:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb05/live/a92d9140-db92-11f1-9029-d35c55297624.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Diego G\u00f3mez hits another stunner as Brighton beat 10-man Brentford to go second",
-   "link": "https://www.theguardian.com/football/2026/nov/08/brighton-brentford-premier-league-match-report",
-   "summary": "Who can stop Brighton\u2019s \u00adascension in English and European football? They are setting standards, \u00adpractices \u00adleaving almost everybody else \u00adtrailing in their wake. A \u00adsecond\u2011place position in the \u00adPremier\u00a0League would\u2026",
-   "date": "2026-11-08T16:17:32+00:00",
-   "image": "https://i.guim.co.uk/img/media/f738e8780e54890b9bab98eb39c5265cb9c87a5d/404_0_3722_2977/master/3722.jpg?width=140&quality=85&auto=format&fit=max&s=5980c2d80a0f14afaab42a4937afd0bb"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Le F\u00e9e\u2019s penalty stuns Chelsea and breathes life into defiant Sunderland",
-   "link": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
-   "summary": "A lot can change in five\u2011and\u2011a\u2011half months, but as an early winter chill descended on Wearside last week \u2013 both meteorologically and \u00admetaphorically \u2013 Sunderland were determined that some things should remain the same.\u2026",
-   "date": "2026-11-08T16:16:34+00:00",
-   "image": "https://i.guim.co.uk/img/media/3af2f1b92a97f12785b61aabdc522fe2f1de8b48/77_0_2140_1711/master/2140.jpg?width=140&quality=85&auto=format&fit=max&s=7dec08707150e9e39a7a28424b65abf7"
   }
  ],
  "videos": [
