@@ -2,6 +2,62 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Bronze named in World 11 for record ninth time",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo?at_medium=RSS&at_campaign=rss",
+   "summary": "Lucy Bronze is one of five England players named in the Fifpro Women's World 11.",
+   "date": "2026-11-09T14:55:32+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89c7/live/8800f540-dc4e-11f1-a869-656dc96bd12d.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Incident-by-incident: Was it a bad weekend for VAR?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
+   "summary": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
+   "date": "2026-11-09T14:34:19+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de64/live/33dca940-dc36-11f1-95cf-a38331e6cb4b.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "That\u2019s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life",
+   "link": "https://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-a",
+   "summary": "Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a ScudettoAfter nine games in 28 days, Gian Piero Gasperini finally got a moment to pause and reflect on\u2026",
+   "date": "2026-11-09T14:18:45+00:00",
+   "image": "https://i.guim.co.uk/img/media/06366d0f66316c50750ddcdb8ecdafbc70842ecd/0_0_4604_3684/master/4604.jpg?width=140&quality=85&auto=format&fit=max&s=d4b466ce182d66ed2ca9d657ac0b0ca1"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Newport round on 'unacceptable' fan behaviour",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1g0zkgy4o?at_medium=RSS&at_campaign=rss",
+   "summary": "Newport County say a list of allegations against their supporters is proving costly to their finances and reputation.",
+   "date": "2026-11-09T14:16:18+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ee/live/dc91fab0-dc43-11f1-95cf-a38331e6cb4b.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Felix Nmecha\u2019s faith is forcing Borussia Dortmund into an uncomfortable debate",
+   "link": "https://www.theguardian.com/football/2026/nov/09/felix-nmecha-faith-borussia-dortmund-debate-bundesliga",
+   "summary": "Midfielder\u2019s spectacular strikes rescued a frustrating day, only for celebrations to reignite dialogue that has followed him through his careerIt was just what they needed at just the right time. For a tricky first half\u2026",
+   "date": "2026-11-09T14:10:43+00:00",
+   "image": "https://i.guim.co.uk/img/media/3d59d7c25fe80f58c6c1abd29b6ffc95941e94f1/0_0_4253_3403/master/4253.jpg?width=140&quality=85&auto=format&fit=max&s=d6aa7c859138c61d254c0b0b3839850a"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Lens were humiliated by Como. The pain continued against Marseille",
+   "link": "https://www.theguardian.com/football/2026/nov/09/lens-como-marseille-pierre-sage-coupe-de-france-ligue-1",
+   "summary": "Pierre Sage led Lens to second and glory in the Coupe de France last season. A lot has changed in the last six monthsThe Lens striker, Florian Sotoca, was completely motionless as he looked into the middle space from\u2026",
+   "date": "2026-11-09T13:37:45+00:00",
+   "image": "https://i.guim.co.uk/img/media/53b5b89f8aabc1e0f4a493e03871042823313ccb/1221_217_5006_4005/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=551b930c759dd800ec05ae3436ec0183"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Could Old Trafford chaos keep Michael Carrick in the job? Football Weekly \u2013 video",
+   "link": "https://www.theguardian.com/football/video/2026/nov/09/could-old-trafford-chaos-keep-michael-carrick-in-the-job-football-weekly-video",
+   "summary": "Max Rushden is joined by Barney Ronay, Jonathan Wilson and Dan Bardell as Manchester United twice come back from two goals down to draw 4-4 with Aston Villa, while trouble looms for Pierre Sage Continue reading...",
+   "date": "2026-11-09T13:29:14+00:00",
+   "image": "https://i.guim.co.uk/img/media/868c99c0bfc10da57247cbaa4dfc1fb3fc275b11/720_52_1672_1337/master/1672.jpg?width=140&quality=85&auto=format&fit=max&s=aabb537a515da3aee98781ee9ad85052"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Friedel group completes Shrewsbury Town takeover",
    "link": "https://www.bbc.co.uk/sport/football/articles/c9p8grpdpp2go?at_medium=RSS&at_campaign=rss",
    "summary": "Shrewsbury Town's American takeover deal is done, allowing owner Roland Wycherley to retire, reports BBC Radio Shropshire.",
@@ -23,67 +79,67 @@
    "summary": "Chelsea warn staff to be careful about revealing team news through Fantasy Premier League after Joao Pedro's injury appeared to have been inadvertently disclosed through team selections.",
    "date": "2026-11-09T12:41:23+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/824c/live/4f7c8740-dc33-11f1-958b-3f65a8ba2dc3.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Robinson on brink as Baur injury worries O'Neill - gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6kgllzywmllo?at_medium=RSS&at_campaign=rss",
-   "summary": "Aberdeen manager on brink of sack amid Injury sweat for Celtic as Hearts boss hopeful over improved form and latest injury setback.",
-   "date": "2026-11-09T12:07:42+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8c1/live/3d073a20-dc0f-11f1-b441-2b33b063138f.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Burn replaces injured Guehi in England squad",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
-   "summary": "Newcastle's Dan Burn is added to the England squad to play Croatia and Spain in the Nations League this week after Marc Guehi pulls out with a hip injury.",
-   "date": "2026-11-09T12:06:19+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/cd34dd80-dc34-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Alisson wants to sign new Liverpool contract",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw62ypepq2m7o?at_medium=RSS&at_campaign=rss",
-   "summary": "Liverpool goalkeeper Alisson Becker wants to stay at the club beyond the end of the season, when his current contract is set to expire.",
-   "date": "2026-11-09T12:00:11+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b046/live/a4de1f60-dbb5-11f1-b35d-8ff000e4934a.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Berkhamsted players banned from watching FA Cup draw",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6j9k910l1ryo?at_medium=RSS&at_campaign=rss",
-   "summary": "The manager of seventh-tier Berkhamsted says his players will be barred from the \"distraction\" of the FA Cup second round draw.",
-   "date": "2026-11-09T11:45:08+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e7a/live/bc81e9c0-dc24-11f1-a5b1-adf9c8e8d692.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "WSL talking points: Tullis-Joyce takes charge and is Shaw the perfect striker?",
-   "link": "https://www.theguardian.com/football/2026/nov/09/wsl-talking-points-khadija-shaw-manchester-city-phallon-tullis-joyce",
-   "summary": "The City striker hit a WSL hat-trick for the ninth time while Eva Olid\u2019s United have found defensive stabilityNot only did Khadija \u201cBunny\u201d Shaw score a record-extending ninth WSL hat-trick, she scored a \u201cperfect\u2026",
-   "date": "2026-11-09T11:24:37+00:00",
-   "image": "https://i.guim.co.uk/img/media/bf295c07350add58ada1b0ab1859a57908f1c98a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a1510b6542a9722d6c9b2aaf643d3ba2"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Musiala may never return to his best - Hoeness",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw78p8dp0keeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Bayern Munich honorary president Uli Hoeness questions whether forward Jamal Musiala will ever \"regain the performance level he once had\".",
-   "date": "2026-11-09T11:01:09+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e7/live/0f5454a0-dc2d-11f1-958b-3f65a8ba2dc3.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football comes together across Spain to honour Jes\u00fas de Miguel: \u2018We\u2019ve seen how fragile life is\u2019",
-   "link": "https://www.theguardian.com/football/2026/nov/09/football-comes-together-spain-honour-jesus-de-miguel-tenerife",
-   "summary": "Across La Liga and beyond this weekend, footballers took to the field knowing it could have been themIn the final few minutes before stepping into the arena once more, heading out for his 199th Osasuna match on Saturday\u2026",
-   "date": "2026-11-09T11:00:13+00:00",
-   "image": "https://i.guim.co.uk/img/media/b446224064a98c05a560cdd81d8b1d688a5e85b6/662_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=e4ff9f19274f20ebc1a253c932894cb6"
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
+   "title": "Bronze named in World 11 for record ninth time",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo?at_medium=RSS&at_campaign=rss",
+   "summary": "Lucy Bronze is one of five England players named in the Fifpro Women's World 11.",
+   "date": "2026-11-09T14:55:32+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89c7/live/8800f540-dc4e-11f1-a869-656dc96bd12d.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Incident-by-incident: Was it a bad weekend for VAR?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
+   "summary": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
+   "date": "2026-11-09T14:34:19+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de64/live/33dca940-dc36-11f1-95cf-a38331e6cb4b.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "That\u2019s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life",
+   "link": "https://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-a",
+   "summary": "Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a ScudettoAfter nine games in 28 days, Gian Piero Gasperini finally got a moment to pause and reflect on\u2026",
+   "date": "2026-11-09T14:18:45+00:00",
+   "image": "https://i.guim.co.uk/img/media/06366d0f66316c50750ddcdb8ecdafbc70842ecd/0_0_4604_3684/master/4604.jpg?width=140&quality=85&auto=format&fit=max&s=d4b466ce182d66ed2ca9d657ac0b0ca1"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Newport round on 'unacceptable' fan behaviour",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1g0zkgy4o?at_medium=RSS&at_campaign=rss",
+   "summary": "Newport County say a list of allegations against their supporters is proving costly to their finances and reputation.",
+   "date": "2026-11-09T14:16:18+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ee/live/dc91fab0-dc43-11f1-95cf-a38331e6cb4b.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Felix Nmecha\u2019s faith is forcing Borussia Dortmund into an uncomfortable debate",
+   "link": "https://www.theguardian.com/football/2026/nov/09/felix-nmecha-faith-borussia-dortmund-debate-bundesliga",
+   "summary": "Midfielder\u2019s spectacular strikes rescued a frustrating day, only for celebrations to reignite dialogue that has followed him through his careerIt was just what they needed at just the right time. For a tricky first half\u2026",
+   "date": "2026-11-09T14:10:43+00:00",
+   "image": "https://i.guim.co.uk/img/media/3d59d7c25fe80f58c6c1abd29b6ffc95941e94f1/0_0_4253_3403/master/4253.jpg?width=140&quality=85&auto=format&fit=max&s=d6aa7c859138c61d254c0b0b3839850a"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Lens were humiliated by Como. The pain continued against Marseille",
+   "link": "https://www.theguardian.com/football/2026/nov/09/lens-como-marseille-pierre-sage-coupe-de-france-ligue-1",
+   "summary": "Pierre Sage led Lens to second and glory in the Coupe de France last season. A lot has changed in the last six monthsThe Lens striker, Florian Sotoca, was completely motionless as he looked into the middle space from\u2026",
+   "date": "2026-11-09T13:37:45+00:00",
+   "image": "https://i.guim.co.uk/img/media/53b5b89f8aabc1e0f4a493e03871042823313ccb/1221_217_5006_4005/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=551b930c759dd800ec05ae3436ec0183"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Could Old Trafford chaos keep Michael Carrick in the job? Football Weekly \u2013 video",
+   "link": "https://www.theguardian.com/football/video/2026/nov/09/could-old-trafford-chaos-keep-michael-carrick-in-the-job-football-weekly-video",
+   "summary": "Max Rushden is joined by Barney Ronay, Jonathan Wilson and Dan Bardell as Manchester United twice come back from two goals down to draw 4-4 with Aston Villa, while trouble looms for Pierre Sage Continue reading...",
+   "date": "2026-11-09T13:29:14+00:00",
+   "image": "https://i.guim.co.uk/img/media/868c99c0bfc10da57247cbaa4dfc1fb3fc275b11/720_52_1672_1337/master/1672.jpg?width=140&quality=85&auto=format&fit=max&s=aabb537a515da3aee98781ee9ad85052"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Friedel group completes Shrewsbury Town takeover",
    "link": "https://www.bbc.co.uk/sport/football/articles/c9p8grpdpp2go?at_medium=RSS&at_campaign=rss",
    "summary": "Shrewsbury Town's American takeover deal is done, allowing owner Roland Wycherley to retire, reports BBC Radio Shropshire.",
@@ -161,6 +217,14 @@
    "summary": "Across La Liga and beyond this weekend, footballers took to the field knowing it could have been themIn the final few minutes before stepping into the arena once more, heading out for his 199th Osasuna match on Saturday\u2026",
    "date": "2026-11-09T11:00:13+00:00",
    "image": "https://i.guim.co.uk/img/media/b446224064a98c05a560cdd81d8b1d688a5e85b6/662_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=e4ff9f19274f20ebc1a253c932894cb6"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "When is the FA Cup second round draw?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6wydypkgdjlo?at_medium=RSS&at_campaign=rss",
+   "summary": "Our Ask Me Anything team tell you all you need to know about the FA Cup second round draw.",
+   "date": "2026-11-09T10:54:10+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aed8/live/9e83fce0-dc3a-11f1-95cf-a38331e6cb4b.jpg"
   },
   {
    "source": "BBC Sport",
@@ -497,70 +561,6 @@
    "summary": "A lot can change in five\u2011and\u2011a\u2011half months, but as an early winter chill descended on Wearside last week \u2013 both meteorologically and \u00admetaphorically \u2013 Sunderland were determined that some things should remain the same.\u2026",
    "date": "2026-11-08T16:16:34+00:00",
    "image": "https://i.guim.co.uk/img/media/3af2f1b92a97f12785b61aabdc522fe2f1de8b48/77_0_2140_1711/master/2140.jpg?width=140&quality=85&auto=format&fit=max&s=7dec08707150e9e39a7a28424b65abf7"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Evanilson ignites eighth straight Bournemouth win at blundering Ipswich",
-   "link": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report",
-   "summary": "Marco Rose paid tribute to his Bournemouth side after a hard\u2011fought 2-1 victory at Ipswich equalled the club\u2019s record of eight consecutive wins.Evanilson got the ball rolling after five minutes, scoring for a fifth\u2026",
-   "date": "2026-11-08T16:14:31+00:00",
-   "image": "https://i.guim.co.uk/img/media/3a9051327a06c71de5586088eef6a4488e7826e7/435_0_3996_3197/master/3996.jpg?width=140&quality=85&auto=format&fit=max&s=7ec7f16a3e2428ca1c5a392ed0a1c8cf"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Chengdu blow 12-point lead to miss out on Chinese title on final day",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Chengdu Rongcheng lose their final four matches of the season to give up a 12-point lead and throw away the Chinese Super League title.",
-   "date": "2026-11-08T14:41:04+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c114/live/cd79c2e0-db7d-11f1-ab1c-6b6075dcdfe1.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
-   "link": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
-   "summary": "If a good striker can always get their team out of a hole, Alessia Russo is doing her best to drag Arsenal out of a deep chasm of uncertainty. Her two goals gave the \u00adunder\u2011pressure Arsenal head coach, Ren\u00e9e Slegers,\u2026",
-   "date": "2026-11-08T14:13:00+00:00",
-   "image": "https://i.guim.co.uk/img/media/93eceff8fc1e7ac44ead734c851694cd0b5befed/273_0_3541_2832/master/3541.jpg?width=140&quality=85&auto=format&fit=max&s=3ef80469639a3fe051fbd935461f25d6"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "A shock departure and key results - inside Wrexham's seismic week",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqrkyg434y84o?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport Wales addresses the key changes made at Wrexham in what was a seismic week for the Championship club as CEO Michael Williamson departed.",
-   "date": "2026-11-08T13:19:22+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde1/live/4a0a6a30-db4c-11f1-b441-2b33b063138f.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Last season difficult with injury and miscarriage - Muniz",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rss",
-   "summary": "Fulham striker Rodrigo Muniz, who scored for his side in a 1-1 draw against Newcastle United, speaks of the struggles he endured last season.",
-   "date": "2026-11-08T11:56:01+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/e39102a0-db64-11f1-adda-c54f54e3ce6a.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "John Aloisi\u2019s Chengdu choke to blow title chances on final day of Chinese season",
-   "link": "https://www.theguardian.com/football/2026/nov/08/john-aloisi-chengdu-choke-chinese-super-league-final-day-of-season",
-   "summary": "Chengdu lose their final four games to give up a 12-point leadDalian Yingbo FC claim title on drama-laden day in ChinaJohn Aloisi\u2019s Chengdu Rongcheng let the Chinese Super League title slip from their grasp on the last\u2026",
-   "date": "2026-11-08T10:10:43+00:00",
-   "image": "https://i.guim.co.uk/img/media/459bc8f4be1c20cd56517d09887268ea0404183f/647_0_4485_3588/master/4485.jpg?width=140&quality=85&auto=format&fit=max&s=405acce254f2fb183f113adbde24f198"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Is there something missing despite Rangers' impressive form?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno?at_medium=RSS&at_campaign=rss",
-   "summary": "Rangers made it 12 games without defeat in all competitions with a 2-0 win at St Mirren on Saturday, but Ibrox legend Kris Boyd believes there is \"something missing\".",
-   "date": "2026-11-08T10:10:27+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/df39e250-db08-11f1-97a6-7f91220beb58.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
-   "date": "2026-11-08T07:30:01+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg"
   }
  ],
  "videos": [
@@ -649,12 +649,6 @@
    "date": "2026-11-08T23:00:12+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "k_jDElRbJzQ",
-   "title": "Due Gol in Sette Minuti per i Nerazzurri | INTER-COMO | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-08T22:59:09+00:00"
-  },
-  {
    "channel": "beIN SPORTS",
    "id": "ClWLtwz1MW8",
    "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0623\u062a\u0644\u064a\u062a\u064a\u0643\u0648 \u0645\u062f\u0631\u064a\u062f \u0648\u0628\u0631\u0634\u0644\u0648\u0646\u0629 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 12",
@@ -667,46 +661,52 @@
    "date": "2026-11-08T22:36:39+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "M1SdXxdgC_Q",
-   "title": "Thrilling Draw in Florence | FIORENTINA-JUVENTUS | HIGHLIGHTS | Serie A 2026/27",
-   "date": "2026-11-08T22:29:09+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "_mJDuPeaLJ8",
-   "title": "THURAM vs KEMPF \ud83d\udc80 #InterComo",
-   "date": "2026-11-09T12:15:15+00:00"
+   "channel": "Premier League",
+   "id": "p4aNGqai4ec",
+   "title": "EVERY Goal | Matchweek 10 | 2026/27 Premier League Highlights",
+   "date": "2026-11-08T22:10:20+00:00"
   },
   {
    "channel": "LaLiga",
-   "id": "QgA0vVRUNMs",
-   "title": "La DEFINICI\u00d3N cl\u00e1sica de LAMINE YAMAL \ud83c\udfaf |  \u00a1Los 10 MEJORES GOLES de OCTUBRE!",
-   "date": "2026-11-09T11:00:21+00:00"
+   "id": "wdtYGRqHv-M",
+   "title": "ATL\u00c9TICO DE MADRID 1 - 2 FC BARCELONA | RESUMEN LALIGA EA SPORTS",
+   "date": "2026-11-08T22:07:57+00:00"
   },
   {
-   "channel": "Bundesliga",
-   "id": "P8ZZf7WxXIg",
-   "title": "Goalkeeper Atubolu assists for Burkardt\u2018s backheel \ud83e\udd2f\ud83d\udd25\ud83d\ude32",
-   "date": "2026-11-09T11:00:03+00:00"
+   "channel": "UEFA",
+   "id": "zyaBT9HHDno",
+   "title": "Nico Paz \ud83d\ude31",
+   "date": "2026-11-09T15:00:04+00:00"
+  },
+  {
+   "channel": "FIFA",
+   "id": "1MYIJcWS8UU",
+   "title": "The control. The finish. \ud83d\udc4f\ud83c\udde6\ud83c\uddf7 #FIFAWorldCup",
+   "date": "2026-11-09T14:39:15+00:00"
   },
   {
    "channel": "Serie A",
-   "id": "c_V7am9WHm0",
-   "title": "What a game! \ud83e\udd2f #FiorentinaJuve",
-   "date": "2026-11-09T10:49:06+00:00"
+   "id": "B1ZSZzp9ynM",
+   "title": "A FRATTESI Moment In Maradona \u26a1",
+   "date": "2026-11-09T14:30:00+00:00"
   },
   {
-   "channel": "LaLiga",
-   "id": "PibZ4Sg2fb4",
-   "title": "La presi\u00f3n del Real Madrid de Mourinho",
-   "date": "2026-11-09T09:04:24+00:00"
+   "channel": "Ligue 1",
+   "id": "oMW_0Zlt2pU",
+   "title": "\ud83d\udcfa LE ZAPPING LIGUE 1+ : LE MEILLEUR DE LA 10e JOURN\u00c9E !",
+   "date": "2026-11-09T14:13:12+00:00"
   },
   {
-   "channel": "LaLiga",
-   "id": "WGbN7Ss07s0",
-   "title": "Ferm\u00edn \ud83c\udfb8",
-   "date": "2026-11-09T03:00:19+00:00"
+   "channel": "Premier League",
+   "id": "RPHaUoTVNKc",
+   "title": "Evanilson With The No-Look Finish \ud83e\udee3\ud83c\udde7\ud83c\uddf7",
+   "date": "2026-11-09T13:57:43+00:00"
+  },
+  {
+   "channel": "UEFA",
+   "id": "RAMXVXG-Ltw",
+   "title": "Rolling back the years!",
+   "date": "2026-11-09T13:54:32+00:00"
   }
  ],
  "fixtures": [
