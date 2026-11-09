@@ -1,11 +1,27 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Tom Brady ends tenure as investor in Birmingham City after three years",
+   "link": "https://www.theguardian.com/football/2026/nov/09/tom-brady-birmingham-city-investor-sale-exit",
+   "summary": "Former NFL quarterback invested in 2023Club did not give a reason for Brady\u2019s departureTom Brady has ended his three-year involvement as a \u2060minority investor in Birmingham City, the English second-tier club said on\u2026",
+   "date": "2026-11-09T23:30:38+00:00",
+   "image": "https://i.guim.co.uk/img/media/397f576383cf9ee33130bfc2a0fb8a79c1531e29/225_0_2384_1908/master/2384.jpg?width=140&quality=85&auto=format&fit=max&s=b54f55ac12c87ac700caea61fd10a8e7"
+  },
+  {
+   "source": "The Guardian",
+   "title": "CF Montreal are for sale: What it means, how much it could cost, and what\u2019s next for the MLS club",
+   "link": "https://www.theguardian.com/sport/2026/nov/09/cf-montreal-sale-mls-joey-saputo",
+   "summary": "In an emotional press conference, CF Montreal\u2019s founder and owner Joey Saputo refused to rule out relocationIn a rare press conference, CF Montreal owner Joey Saputo announced that his family was beginning the process\u2026",
+   "date": "2026-11-09T23:18:47+00:00",
+   "image": "https://i.guim.co.uk/img/media/f0e8b1ef699e64c320da955ba9f63ec75d944ef9/0_0_6118_4894/master/6118.jpg?width=140&quality=85&auto=format&fit=max&s=2cf7572df99e4f3450c467ff945509ec"
+  },
+  {
    "source": "BBC Sport",
    "title": "Man Utd expected to sack head coach Carrick",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
    "summary": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years.",
-   "date": "2026-11-09T22:46:43+00:00",
+   "date": "2026-11-09T23:13:31+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dcf/live/306777b0-dc8e-11f1-8a0c-79d3a3fe49e0.jpg"
   },
   {
@@ -63,31 +79,31 @@
    "summary": "United and City dominate the news cycle with stories so strange and vast they threaten to consume the rest of the leagueIn Manchester this weekend it was possible to bookend your Thursday\u2011to\u2011Sunday entertainment with\u2026",
    "date": "2026-11-09T21:40:16+00:00",
    "image": "https://i.guim.co.uk/img/media/96db3ba40b7a8e3f419b2a5abfd1bab89cefcb18/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bd3abb0fd99b1b67d04f3bb9737b989f"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Aberdeen hunt yet another manager after ill-fated Robinson reign'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr0qkq8pnx4ko?at_medium=RSS&at_campaign=rss",
-   "summary": "Stephen Robinson's tenure as head coach panned out as many Aberdeen fans feared it would, writes BBC Scotland's Liam McLeod.",
-   "date": "2026-11-09T21:39:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adbd/live/6fcf45b0-dc82-11f1-ba95-5f07efd49f42.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pm5xwv?at_medium=RSS&at_campaign=rss",
-   "summary": "White opens up about his England departure, will Sage get sacked & will Frank come in?",
-   "date": "2026-11-09T21:33:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm5xxr.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Tom Brady ends tenure as investor in Birmingham City after three years",
+   "link": "https://www.theguardian.com/football/2026/nov/09/tom-brady-birmingham-city-investor-sale-exit",
+   "summary": "Former NFL quarterback invested in 2023Club did not give a reason for Brady\u2019s departureTom Brady has ended his three-year involvement as a \u2060minority investor in Birmingham City, the English second-tier club said on\u2026",
+   "date": "2026-11-09T23:30:38+00:00",
+   "image": "https://i.guim.co.uk/img/media/397f576383cf9ee33130bfc2a0fb8a79c1531e29/225_0_2384_1908/master/2384.jpg?width=140&quality=85&auto=format&fit=max&s=b54f55ac12c87ac700caea61fd10a8e7"
+  },
+  {
+   "source": "The Guardian",
+   "title": "CF Montreal are for sale: What it means, how much it could cost, and what\u2019s next for the MLS club",
+   "link": "https://www.theguardian.com/sport/2026/nov/09/cf-montreal-sale-mls-joey-saputo",
+   "summary": "In an emotional press conference, CF Montreal\u2019s founder and owner Joey Saputo refused to rule out relocationIn a rare press conference, CF Montreal owner Joey Saputo announced that his family was beginning the process\u2026",
+   "date": "2026-11-09T23:18:47+00:00",
+   "image": "https://i.guim.co.uk/img/media/f0e8b1ef699e64c320da955ba9f63ec75d944ef9/0_0_6118_4894/master/6118.jpg?width=140&quality=85&auto=format&fit=max&s=2cf7572df99e4f3450c467ff945509ec"
+  },
   {
    "source": "BBC Sport",
    "title": "Man Utd expected to sack head coach Carrick",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
    "summary": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years.",
-   "date": "2026-11-09T22:46:43+00:00",
+   "date": "2026-11-09T23:13:31+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dcf/live/306777b0-dc8e-11f1-8a0c-79d3a3fe49e0.jpg"
   },
   {
@@ -220,14 +236,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "'I believe in my ability' - Robinson's final interview as Aberdeen boss",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqzjxrwgnlr1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Head coach Stephen Robinson vowed to \"keep fighting until told otherwise\" after Aberdeen's 4-0 home mauling by Hibernian - but it proved to be his final game as he has now been sacked.",
-   "date": "2026-11-09T17:04:36+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2628/live/94da1b00-db7e-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Aberdeen sack Robinson after league slump",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
    "summary": "Aberdeen sack head coach Stephen Robinson after dropping to second bottom of the Scottish Premiership.",
@@ -321,6 +329,14 @@
    "summary": "Midfielder\u2019s spectacular strikes rescued a frustrating day, only for celebrations to reignite dialogue that has followed him through his careerIt was just what they needed at just the right time. For a tricky first half\u2026",
    "date": "2026-11-09T14:10:43+00:00",
    "image": "https://i.guim.co.uk/img/media/3d59d7c25fe80f58c6c1abd29b6ffc95941e94f1/0_0_4253_3403/master/4253.jpg?width=140&quality=85&auto=format&fit=max&s=d6aa7c859138c61d254c0b0b3839850a"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Lens were humiliated by Como. The pain continued against Marseille",
+   "link": "https://www.theguardian.com/football/2026/nov/09/lens-como-marseille-pierre-sage-coupe-de-france-ligue-1",
+   "summary": "Pierre Sage led Lens to second and glory in the Coupe de France last season. A lot has changed in the last six monthsThe Lens striker, Florian Sotoca, was completely motionless as he looked into the middle space from\u2026",
+   "date": "2026-11-09T13:37:45+00:00",
+   "image": "https://i.guim.co.uk/img/media/53b5b89f8aabc1e0f4a493e03871042823313ccb/1221_217_5006_4005/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=551b930c759dd800ec05ae3436ec0183"
   },
   {
    "source": "The Guardian",
@@ -545,73 +561,9 @@
    "summary": "Manchester United head coach Michael Carrick admits his side \"made it hard on themselves\" after they twice came back from two goals down to earn a 4-4 draw at home to Aston Villa.",
    "date": "2026-11-08T19:13:46+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/464b/live/95b255f0-dba7-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Seventh-tier Wimborne knock out League Two Crawley in FA Cup upset",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Seventh-tier Wimborne Town beat League Two Crawley in a huge FA Cup upset, to reach round two of the competition for the first time in their history.",
-   "date": "2026-11-08T18:56:55+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3b/live/3c193440-db99-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
-   "date": "2026-11-08T18:20:56+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg"
   }
  ],
  "videos": [
-  {
-   "channel": "Serie A",
-   "id": "c63lGITjmSg",
-   "title": "TOP GOALS \u26bd\ufe0f From Serie A Round 11 | 2026/27",
-   "date": "2026-11-09T18:11:06+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "tgciuOIn7o8",
-   "title": "What A Goal This Would Have Been \ud83d\ude32",
-   "date": "2026-11-09T17:31:24+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "SkeFMwnSwQM",
-   "title": "The BEST Champions League Goals So Far In 2026/27",
-   "date": "2026-11-09T17:00:05+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "O2vD7ciyg6c",
-   "title": "INTER-COMO 2-0 | EXTENDED HIGHLIGHTS | SERIE A 2026/27",
-   "date": "2026-11-09T16:00:10+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "NwPJl5fxfL8",
-   "title": "MAXI SINTESI INTER-COMO 2-0 | EXTENDED HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-09T16:00:00+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "YZiXT-VvWcM",
-   "title": "Woltemade's FIRST Serie A Enilive GOAL \ud83c\udfd4\ufe0f\ud83c\udde9\ud83c\uddea | Fiorentina-Juventus | Serie A Enilive 2026/27",
-   "date": "2026-11-09T15:30:20+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "XJuu6rSL0og",
-   "title": "Diego Gomez's Goal Shocked EVERYONE \ud83d\ude31",
-   "date": "2026-11-09T11:52:18+00:00"
-  },
-  {
-   "channel": "Ligue 1",
-   "id": "MZ3PJZEqvMo",
-   "title": "R\u00e9sum\u00e9 10\u00e8me journ\u00e9e | Ligue 1 McDonald's 26/27",
-   "date": "2026-11-09T02:10:55+00:00"
-  },
   {
    "channel": "Bundesliga",
    "id": "ecqOQWXUHT4",
@@ -655,22 +607,10 @@
    "date": "2026-11-08T23:00:12+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "ClWLtwz1MW8",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0623\u062a\u0644\u064a\u062a\u064a\u0643\u0648 \u0645\u062f\u0631\u064a\u062f \u0648\u0628\u0631\u0634\u0644\u0648\u0646\u0629 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 12",
-   "date": "2026-11-08T22:51:50+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "z05Utm_Hmxg",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629  \u0623\u0644\u0627\u0646\u064a\u0627 \u0633\u0628\u0648\u0631 \u0648\u0637\u0631\u0627\u0628\u0632\u0648\u0646 \u0633\u0628\u0648\u0631 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u062a\u0631\u0643\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 11",
-   "date": "2026-11-08T22:36:39+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "p4aNGqai4ec",
-   "title": "EVERY Goal | Matchweek 10 | 2026/27 Premier League Highlights",
-   "date": "2026-11-08T22:10:20+00:00"
+   "channel": "LaLiga",
+   "id": "wdtYGRqHv-M",
+   "title": "ATL\u00c9TICO DE MADRID 1 - 2 FC BARCELONA | RESUMEN LALIGA EA SPORTS",
+   "date": "2026-11-08T22:07:57+00:00"
   },
   {
    "channel": "Bundesliga",
@@ -679,34 +619,34 @@
    "date": "2026-11-09T20:38:37+00:00"
   },
   {
-   "channel": "UEFA",
-   "id": "pfhxwHJKMX4",
-   "title": "Three perfect passes from Reichmuth, Weidmann and Holly \ud83d\udcab",
-   "date": "2026-11-09T20:00:05+00:00"
-  },
-  {
-   "channel": "Ligue 1",
-   "id": "qM0TQyYZqe4",
-   "title": "Payet ou Drogba qui est la plus grande l\u00e9gende de l'OM ? - Le SAV de la Ligue 1 avec Johan Micoud",
-   "date": "2026-11-09T19:45:25+00:00"
-  },
-  {
    "channel": "LaLiga",
    "id": "_omVGRNuPz8",
    "title": "Hace dos a\u00f1os Lunin se invent\u00f3 esta asistencia a Vini",
    "date": "2026-11-09T19:00:08+00:00"
   },
   {
-   "channel": "Ligue 1",
-   "id": "hT2m9e1zxQc",
-   "title": "OM : LES V\u00c9RIT\u00c9S D\u2019AMINE GOUIRI \ud83e\udee1\u200b",
-   "date": "2026-11-09T18:00:11+00:00"
+   "channel": "LaLiga",
+   "id": "QgA0vVRUNMs",
+   "title": "La DEFINICI\u00d3N cl\u00e1sica de LAMINE YAMAL \ud83c\udfaf |  \u00a1Los 10 MEJORES GOLES de OCTUBRE!",
+   "date": "2026-11-09T11:00:21+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "3sMu-NAdcbs",
-   "title": "\"I DIDN'T TOUCH HIM I SWEAR!\" | The Best REFCAM Clips From Round 11 | Serie A 2026/27",
-   "date": "2026-11-09T18:00:01+00:00"
+   "channel": "Bundesliga",
+   "id": "P8ZZf7WxXIg",
+   "title": "Goalkeeper Atubolu assists for Burkardt\u2018s backheel \ud83e\udd2f\ud83d\udd25\ud83d\ude32",
+   "date": "2026-11-09T11:00:03+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "PibZ4Sg2fb4",
+   "title": "La presi\u00f3n del Real Madrid de Mourinho",
+   "date": "2026-11-09T09:04:24+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "WGbN7Ss07s0",
+   "title": "Ferm\u00edn \ud83c\udfb8",
+   "date": "2026-11-09T03:00:19+00:00"
   }
  ],
  "fixtures": [
