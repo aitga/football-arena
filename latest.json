@@ -1,12 +1,12 @@
 {
  "news": [
   {
-   "source": "BBC Sport",
-   "title": "Listen to Monday Night Club",
-   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
-   "summary": "Mark Chapman and guests debate the weekend's football.",
-   "date": "2026-11-09T21:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0n3mq8q.jpg"
+   "source": "The Guardian",
+   "title": "NWSL playoffs scheduling snafu: Washington Spirit keep Audi Field; Gotham move to Icahn",
+   "link": "https://www.theguardian.com/football/2026/nov/08/washington-spirit-semifinal-audi-field-gotham-nwsl-playoffs",
+   "summary": "Washington to play in Saturday noon broadcast windowShift to Northwest Stadium was reportedly in playGotham move to Icahn amid \u2018atrocious\u2019 pitch conditionsThe Washington Spirit will play their NWSL semi-final at Audi\u2026",
+   "date": "2026-11-09T20:51:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/e079dfd567b2d1cf2a6ad7f5ab5f35d6622d9793/168_0_5893_4720/master/5893.jpg?width=140&quality=85&auto=format&fit=max&s=ce7e3a46bbb16e6ae37cf08ae555ccf1"
   },
   {
    "source": "The Guardian",
@@ -83,12 +83,12 @@
  ],
  "news_all": [
   {
-   "source": "BBC Sport",
-   "title": "Listen to Monday Night Club",
-   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
-   "summary": "Mark Chapman and guests debate the weekend's football.",
-   "date": "2026-11-09T21:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0n3mq8q.jpg"
+   "source": "The Guardian",
+   "title": "NWSL playoffs scheduling snafu: Washington Spirit keep Audi Field; Gotham move to Icahn",
+   "link": "https://www.theguardian.com/football/2026/nov/08/washington-spirit-semifinal-audi-field-gotham-nwsl-playoffs",
+   "summary": "Washington to play in Saturday noon broadcast windowShift to Northwest Stadium was reportedly in playGotham move to Icahn amid \u2018atrocious\u2019 pitch conditionsThe Washington Spirit will play their NWSL semi-final at Audi\u2026",
+   "date": "2026-11-09T20:51:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/e079dfd567b2d1cf2a6ad7f5ab5f35d6622d9793/168_0_5893_4720/master/5893.jpg?width=140&quality=85&auto=format&fit=max&s=ce7e3a46bbb16e6ae37cf08ae555ccf1"
   },
   {
    "source": "The Guardian",
@@ -491,14 +491,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b69/live/01cb00f0-dbb9-11f1-86cb-c1d83392da32.png"
   },
   {
-   "source": "The Guardian",
-   "title": "FA Cup roundup: Seventh-tier Wimborne shock Crawley to reach second round",
-   "link": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
-   "summary": "Grimsby and Stockport survive scares but Wednesday outExeter upset League One leaders HuddersfieldSeventh-tier Wimborne heaped more misery on Crawley as the bottom side in the Football League lost 2-0 in the biggest\u2026",
-   "date": "2026-11-08T20:15:53+00:00",
-   "image": "https://i.guim.co.uk/img/media/2c990ebb871871e96a08404f81431493fda8ea94/450_0_3614_2891/master/3614.jpg?width=140&quality=85&auto=format&fit=max&s=ad2b948bc69612f848dc8337ba240951"
-  },
-  {
    "source": "BBC Sport",
    "title": "Where does Man Utd 4-4 Villa rank among best Premier League games?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo?at_medium=RSS&at_campaign=rss",
@@ -561,6 +553,14 @@
    "summary": "Who can stop Brighton\u2019s \u00adascension in English and European football? They are setting standards, \u00adpractices \u00adleaving almost everybody else \u00adtrailing in their wake. A \u00adsecond\u2011place position in the \u00adPremier\u00a0League would\u2026",
    "date": "2026-11-08T16:17:32+00:00",
    "image": "https://i.guim.co.uk/img/media/f738e8780e54890b9bab98eb39c5265cb9c87a5d/404_0_3722_2977/master/3722.jpg?width=140&quality=85&auto=format&fit=max&s=5980c2d80a0f14afaab42a4937afd0bb"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Le F\u00e9e\u2019s penalty stuns Chelsea and breathes life into defiant Sunderland",
+   "link": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
+   "summary": "A lot can change in five\u2011and\u2011a\u2011half months, but as an early winter chill descended on Wearside last week \u2013 both meteorologically and \u00admetaphorically \u2013 Sunderland were determined that some things should remain the same.\u2026",
+   "date": "2026-11-08T16:16:34+00:00",
+   "image": "https://i.guim.co.uk/img/media/3af2f1b92a97f12785b61aabdc522fe2f1de8b48/77_0_2140_1711/master/2140.jpg?width=140&quality=85&auto=format&fit=max&s=7dec08707150e9e39a7a28424b65abf7"
   }
  ],
  "videos": [
@@ -655,12 +655,6 @@
    "date": "2026-11-08T23:00:12+00:00"
   },
   {
-   "channel": "Bundesliga",
-   "id": "n3ICQ_r1pWw",
-   "title": "ALL HIGHLIGHTS | BUNDESLIGA | MATCHDAY 09",
-   "date": "2026-11-08T23:00:12+00:00"
-  },
-  {
    "channel": "beIN SPORTS",
    "id": "ClWLtwz1MW8",
    "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0623\u062a\u0644\u064a\u062a\u064a\u0643\u0648 \u0645\u062f\u0631\u064a\u062f \u0648\u0628\u0631\u0634\u0644\u0648\u0646\u0629 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 12",
@@ -671,6 +665,18 @@
    "id": "z05Utm_Hmxg",
    "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629  \u0623\u0644\u0627\u0646\u064a\u0627 \u0633\u0628\u0648\u0631 \u0648\u0637\u0631\u0627\u0628\u0632\u0648\u0646 \u0633\u0628\u0648\u0631 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u062a\u0631\u0643\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 11",
    "date": "2026-11-08T22:36:39+00:00"
+  },
+  {
+   "channel": "Premier League",
+   "id": "p4aNGqai4ec",
+   "title": "EVERY Goal | Matchweek 10 | 2026/27 Premier League Highlights",
+   "date": "2026-11-08T22:10:20+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "WRojwwCdCpc",
+   "title": "Schick from the skies \ud83c\udfdf\ufe0f",
+   "date": "2026-11-09T20:38:37+00:00"
   },
   {
    "channel": "UEFA",
@@ -701,12 +707,6 @@
    "id": "3sMu-NAdcbs",
    "title": "\"I DIDN'T TOUCH HIM I SWEAR!\" | The Best REFCAM Clips From Round 11 | Serie A 2026/27",
    "date": "2026-11-09T18:00:01+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "7UxLhz2K-Kc",
-   "title": "FULL MATCH | Brazil v Norway | Round of 16 | FIFA World Cup 2026\u2122",
-   "date": "2026-11-09T17:57:49+00:00"
   }
  ],
  "fixtures": [
