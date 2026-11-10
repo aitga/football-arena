@@ -1,6 +1,14 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
+   "link": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
+   "summary": "Coach\u2019s contract has release clause of about $10mUnited expected to sack Michael Carrick after awful startUS men\u2019s national team head coach Mauricio Pochettino is interested in a move to Manchester United, multiple\u2026",
+   "date": "2026-11-10T17:40:40+00:00",
+   "image": "https://i.guim.co.uk/img/media/3cc99fc110813bdce8e26eca468776c682bebc79/241_0_3848_3079/master/3848.jpg?width=140&quality=85&auto=format&fit=max&s=cb1644159c61e6d1bce7a9d58421d3e9"
+  },
+  {
    "source": "BBC Sport",
    "title": "McTominay reveals heart treatment at World Cup",
    "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
@@ -31,14 +39,6 @@
    "summary": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
    "date": "2026-11-10T16:17:10+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d7/live/8668d6c0-dd17-11f1-b441-2b33b063138f.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
-   "link": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
-   "summary": "Coach\u2019s contract has release clause of about $10mUnited expected to sack Michael Carrick after awful startUS men\u2019s national team head coach Mauricio Pochettino is interested in a move to Manchester United, multiple\u2026",
-   "date": "2026-11-10T16:10:38+00:00",
-   "image": "https://i.guim.co.uk/img/media/3cc99fc110813bdce8e26eca468776c682bebc79/241_0_3848_3079/master/3848.jpg?width=140&quality=85&auto=format&fit=max&s=cb1644159c61e6d1bce7a9d58421d3e9"
   },
   {
    "source": "The Guardian",
@@ -83,6 +83,14 @@
  ],
  "news_all": [
   {
+   "source": "The Guardian",
+   "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
+   "link": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
+   "summary": "Coach\u2019s contract has release clause of about $10mUnited expected to sack Michael Carrick after awful startUS men\u2019s national team head coach Mauricio Pochettino is interested in a move to Manchester United, multiple\u2026",
+   "date": "2026-11-10T17:40:40+00:00",
+   "image": "https://i.guim.co.uk/img/media/3cc99fc110813bdce8e26eca468776c682bebc79/241_0_3848_3079/master/3848.jpg?width=140&quality=85&auto=format&fit=max&s=cb1644159c61e6d1bce7a9d58421d3e9"
+  },
+  {
    "source": "BBC Sport",
    "title": "McTominay reveals heart treatment at World Cup",
    "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
@@ -113,14 +121,6 @@
    "summary": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
    "date": "2026-11-10T16:17:10+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d7/live/8668d6c0-dd17-11f1-b441-2b33b063138f.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
-   "link": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
-   "summary": "Coach\u2019s contract has release clause of about $10mUnited expected to sack Michael Carrick after awful startUS men\u2019s national team head coach Mauricio Pochettino is interested in a move to Manchester United, multiple\u2026",
-   "date": "2026-11-10T16:10:38+00:00",
-   "image": "https://i.guim.co.uk/img/media/3cc99fc110813bdce8e26eca468776c682bebc79/241_0_3848_3079/master/3848.jpg?width=140&quality=85&auto=format&fit=max&s=cb1644159c61e6d1bce7a9d58421d3e9"
   },
   {
    "source": "The Guardian",
@@ -244,9 +244,9 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Carrick's Man Utd future to be decided at Wednesday meeting",
+   "title": "Carrick's Man Utd future to be decided as Berrada and Wilcox retain support",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United head coach Michael Carrick's future will be discussed at a meeting in Monaco on Wednesday.",
+   "summary": "Manchester United head coach Michael Carrick's future will be discussed at a meeting on Wednesday, but executives Omar Berrada and Jason Wilcox retain the support of minority owner Sir Jim Ratcliffe.",
    "date": "2026-11-10T11:23:43+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7fa/live/36f4e8e0-dcfe-11f1-933b-ff2499ee76f6.jpg"
   },
@@ -428,14 +428,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "BBC Women's Football Weekly",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pm60tc?at_medium=RSS&at_campaign=rss",
-   "summary": "Ellen and Ben are on location with the London City Lionesses and Spain defender!",
-   "date": "2026-11-09T21:46:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm60tt.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "NI's O'Neill ruled out of Nations League matches",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynylnd71yo?at_medium=RSS&at_campaign=rss",
    "summary": "Arsenal forward Ceadach O'Neill is ruled out of Northern Ireland's final two Nations League fixtures against Ukraine in Belfast and Hungary in Budapest.",
@@ -561,6 +553,14 @@
    "summary": "Watch every goal from across the WSL in matchweek nine, from a London City Lionesses first-half wonder goal to Khadija Shaw's first hat-trick of the Women's Super League season.",
    "date": "2026-11-09T15:25:55+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fdc/live/037938d0-dc4b-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Kettering Town 'cannot hide' from racism problem",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr0j0jnln3j0o?at_medium=RSS&at_campaign=rss",
+   "summary": "Kettering Town says it \"can no longer hide\" from the issue of racism after a visiting Redditch player was allegedly subjected to \"sickening\" abuse.",
+   "date": "2026-11-09T15:10:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/323e/live/1e5a5fe0-dc36-11f1-b441-2b33b063138f.jpg"
   }
  ],
  "videos": [
@@ -673,6 +673,12 @@
    "date": "2026-11-07T21:56:32+00:00"
   },
   {
+   "channel": "Ligue 1",
+   "id": "XMO8_14PxsI",
+   "title": "L'OM prend le contr\u00f4le de Ma Super Ligue 1 | Ma Super Ligue 1 - Saison 2, \u00e9pisode 9",
+   "date": "2026-11-10T17:00:25+00:00"
+  },
+  {
    "channel": "UEFA",
    "id": "izNyEr9Yedo",
    "title": "CRAZIEST Champions League Matches In Football History",
@@ -701,12 +707,6 @@
    "id": "u8p2V5URL6w",
    "title": "Kak\u00e1 was special",
    "date": "2026-11-10T15:19:58+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "o2qto1uuF28",
-   "title": "Brighton's Ferdi Kadioglu Reveals His BIG MOMENT Player",
-   "date": "2026-11-10T14:01:16+00:00"
   }
  ],
  "fixtures": [
