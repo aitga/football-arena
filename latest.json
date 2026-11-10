@@ -1,6 +1,14 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Two Andrew Neal penalties sew Plymouth Parkway earn a first-ever trip to the second round of the FA Cup after a coming from a goal down to beat Berkhamsted 2-1 in extra time.",
+   "date": "2026-11-10T00:13:13+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f85/live/a1c20d10-dc8b-11f1-b441-2b33b063138f.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Tom Brady ends tenure as investor in Birmingham City after three years",
    "link": "https://www.theguardian.com/football/2026/nov/09/tom-brady-birmingham-city-investor-sale-exit",
@@ -71,17 +79,17 @@
    "summary": "Arsenal forward Ceadach O'Neill is ruled out of Northern Ireland's final two Nations League fixtures against Ukraine in Belfast and Hungary in Budapest.",
    "date": "2026-11-09T21:44:23+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e548/live/515bf500-dc88-11f1-851a-19e868620cad.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Manchester\u2019s soulless content machine football clubs sum up post-imperial Britain | Barney Ronay",
-   "link": "https://www.theguardian.com/football/2026/nov/09/manchester-united-city-soulless-content-machines-premier-league",
-   "summary": "United and City dominate the news cycle with stories so strange and vast they threaten to consume the rest of the leagueIn Manchester this weekend it was possible to bookend your Thursday\u2011to\u2011Sunday entertainment with\u2026",
-   "date": "2026-11-09T21:40:16+00:00",
-   "image": "https://i.guim.co.uk/img/media/96db3ba40b7a8e3f419b2a5abfd1bab89cefcb18/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bd3abb0fd99b1b67d04f3bb9737b989f"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Two Andrew Neal penalties sew Plymouth Parkway earn a first-ever trip to the second round of the FA Cup after a coming from a goal down to beat Berkhamsted 2-1 in extra time.",
+   "date": "2026-11-10T00:13:13+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f85/live/a1c20d10-dc8b-11f1-b441-2b33b063138f.jpg"
+  },
   {
    "source": "The Guardian",
    "title": "Tom Brady ends tenure as investor in Birmingham City after three years",
@@ -515,6 +523,14 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae7f/live/bf7f5970-dbaf-11f1-b441-2b33b063138f.jpg"
   },
   {
+   "source": "The Guardian",
+   "title": "Dalot\u2019s muddled performances are just another symptom of Old Trafford chaos | Will Unwin",
+   "link": "https://www.theguardian.com/football/2026/nov/08/diogo-dalot-manchester-united-old-trafford-aston-villa",
+   "summary": "The stand-in left-back has become a pantomime villain but United fans are understandably struggling to focus their ire Sporting success is, supposedly, a nigh-on irrelevance to Manchester United\u2019s global brand. The\u2026",
+   "date": "2026-11-08T21:24:44+00:00",
+   "image": "https://i.guim.co.uk/img/media/2f3976dfc936c6990baa1fe139ca8d0122187446/785_101_1063_850/master/1063.jpg?width=140&quality=85&auto=format&fit=max&s=f2ad0a1e0ad22139c01b55dae914c830"
+  },
+  {
    "source": "BBC Sport",
    "title": "Palace consider replacing Sage, with Frank among contenders",
    "link": "https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&at_campaign=rss",
@@ -545,22 +561,6 @@
    "summary": "With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage.",
    "date": "2026-11-08T19:40:34+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2dd/live/fb15a380-db97-11f1-a42b-dbe60e973664.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss",
-   "summary": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?",
-   "date": "2026-11-08T19:24:36+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/2f31e2f0-db93-11f1-9029-d35c55297624.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Man Utd making it 'hard on ourselves' - Carrick",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United head coach Michael Carrick admits his side \"made it hard on themselves\" after they twice came back from two goals down to earn a 4-4 draw at home to Aston Villa.",
-   "date": "2026-11-08T19:13:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/464b/live/95b255f0-dba7-11f1-a701-fddedf244c16.jpg"
   }
  ],
  "videos": [
