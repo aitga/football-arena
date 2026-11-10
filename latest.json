@@ -1,12 +1,28 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "72+: The EFL Podcast",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmc96j?at_medium=RSS&at_campaign=rss",
+   "summary": "Former Bromley boss Andy Woodman joins Aaron and Jobi.",
+   "date": "2026-11-10T22:29:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Inter v Manchester City: Women\u2019s Champions League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/10/inter-v-manchester-city-womens-champions-league-live",
-   "summary": "Women\u2019s Champions League updates, 8pm GMT kick-offLive scores | Table | Kerstin Casparij interview | Mail BillyFinal scores in the early kick-offs:H\u00e4cken 0-0 ChelseaReal Madrid 3-0 Paris FC (Caruso 55, Beerensteyn 65,\u2026",
-   "date": "2026-11-10T21:43:26+00:00",
-   "image": "https://i.guim.co.uk/img/media/d5d85e4469b9094ad9cd9029c1e536a1282e1b28/0_95_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=fa0c4cebb1cd2eb0396a037987aade9c"
+   "title": "Fujino\u2019s double sparks WCL comeback win for Manchester City against Inter",
+   "link": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
+   "summary": "Manchester City\u2019s European campaign finally came roaring into life as they put four goals past Inter to record their first Women\u2019s Champions League victory of the season and greatly improve their prospects of reaching\u2026",
+   "date": "2026-11-10T22:05:43+00:00",
+   "image": "https://i.guim.co.uk/img/media/7000df5b2963b6ae848e08ba69ff3a22fba7b2ab/0_495_5471_4377/master/5471.jpg?width=140&quality=85&auto=format&fit=max&s=9ee41754da1339eb7d3d1dbe749ef999"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Man City thrash Inter to claim first CL win of season",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season.",
+   "date": "2026-11-10T22:05:15+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee5/live/a807f7e0-dd51-11f1-b441-2b33b063138f.jpg"
   },
   {
    "source": "BBC Sport",
@@ -22,7 +38,7 @@
    "link": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
    "summary": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.",
    "date": "2026-11-10T20:07:12+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5038/live/242f7a20-dd41-11f1-b441-2b33b063138f.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2945/live/0373f810-dd50-11f1-a701-fddedf244c16.jpg"
   },
   {
    "source": "The Guardian",
@@ -63,32 +79,32 @@
    "summary": "Fearless winger has forced his way into Thomas Tuchel\u2019s plans and believes he can become best player in the worldRio Ngumoha is fearless, exciting and ready to make his mark as an England player. The Liverpool winger\u2026",
    "date": "2026-11-10T19:00:17+00:00",
    "image": "https://i.guim.co.uk/img/media/674bd01f3b2b9ae7552b22d6ae6c80ca18aa9673/408_0_4410_3528/master/4410.jpg?width=140&quality=85&auto=format&fit=max&s=a6f6763895e99c4fd56bf2dbb9cf2455"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
-   "date": "2026-11-10T18:12:02+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2726/live/abc28950-dd19-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Wales' Johnson says definitely more to come after 50 caps",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Brennan Johnson says he is happy with what he has achieved in football but would like to reach more major tournaments with Wales.",
-   "date": "2026-11-10T18:01:03+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e92b/live/66e9b0b0-dc33-11f1-958b-3f65a8ba2dc3.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "72+: The EFL Podcast",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmc96j?at_medium=RSS&at_campaign=rss",
+   "summary": "Former Bromley boss Andy Woodman joins Aaron and Jobi.",
+   "date": "2026-11-10T22:29:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Inter v Manchester City: Women\u2019s Champions League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/10/inter-v-manchester-city-womens-champions-league-live",
-   "summary": "Women\u2019s Champions League updates, 8pm GMT kick-offLive scores | Table | Kerstin Casparij interview | Mail BillyFinal scores in the early kick-offs:H\u00e4cken 0-0 ChelseaReal Madrid 3-0 Paris FC (Caruso 55, Beerensteyn 65,\u2026",
-   "date": "2026-11-10T21:43:26+00:00",
-   "image": "https://i.guim.co.uk/img/media/d5d85e4469b9094ad9cd9029c1e536a1282e1b28/0_95_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=fa0c4cebb1cd2eb0396a037987aade9c"
+   "title": "Fujino\u2019s double sparks WCL comeback win for Manchester City against Inter",
+   "link": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
+   "summary": "Manchester City\u2019s European campaign finally came roaring into life as they put four goals past Inter to record their first Women\u2019s Champions League victory of the season and greatly improve their prospects of reaching\u2026",
+   "date": "2026-11-10T22:05:43+00:00",
+   "image": "https://i.guim.co.uk/img/media/7000df5b2963b6ae848e08ba69ff3a22fba7b2ab/0_495_5471_4377/master/5471.jpg?width=140&quality=85&auto=format&fit=max&s=9ee41754da1339eb7d3d1dbe749ef999"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Man City thrash Inter to claim first CL win of season",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season.",
+   "date": "2026-11-10T22:05:15+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee5/live/a807f7e0-dd51-11f1-b441-2b33b063138f.jpg"
   },
   {
    "source": "BBC Sport",
@@ -104,7 +120,7 @@
    "link": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
    "summary": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.",
    "date": "2026-11-10T20:07:12+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5038/live/242f7a20-dd41-11f1-b441-2b33b063138f.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2945/live/0373f810-dd50-11f1-a701-fddedf244c16.jpg"
   },
   {
    "source": "The Guardian",
@@ -545,22 +561,6 @@
    "summary": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
    "date": "2026-11-09T17:30:23+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d453cf00-dc51-11f1-a869-656dc96bd12d.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Wilson eyeing survival step as Wales tackle Norway",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck3r5rwdpjj7o?at_medium=RSS&at_campaign=rss",
-   "summary": "Harry Wilson believes Wales can shock Norway again in Oslo on Saturday and move a step closer to survival in Nations League A.",
-   "date": "2026-11-09T17:21:28+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cf/live/8ab51890-dc29-11f1-a5b1-adf9c8e8d692.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "The heavy defeat that ended Robinson's Aberdeen tenure",
-   "link": "https://www.bbc.co.uk/sport/videos/c3dxw181eqejo?at_medium=RSS&at_campaign=rss",
-   "summary": "Watch the best of the action as Hibernian thrash Aberdeen 4-0 in what would proved to be Stephen Robinson's final match in charge.",
-   "date": "2026-11-09T17:10:00+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e765/live/de171de0-dbb0-11f1-a701-fddedf244c16.png"
   }
  ],
  "videos": [
