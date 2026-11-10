@@ -1,12 +1,36 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Crystal Palace could avoid significant compensation if Pierre Sage rejoins Lens",
+   "link": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
+   "summary": "Sage\u2019s exit from Premier League club still not confirmedManager\u2019s potential return to France could benefit PalaceCrystal Palace could avoid having to pay Pierre Sage significant compensation if he is re-appointed by\u2026",
+   "date": "2026-11-10T15:08:24+00:00",
+   "image": "https://i.guim.co.uk/img/media/1b38025050d4189522a619410f97e42dd75d68dd/506_0_7088_5670/master/7088.jpg?width=140&quality=85&auto=format&fit=max&s=d9f4191fe06d58d410e6c681aab94ca6"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Birthdays and broken lamps - at home with the Charles brothers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c615je0lgleqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Before Northern Ireland's Nations League matches, BBC Sport joins Shea and Pierce Charles at their London home to discuss birthdays, steak sandwiches and starring for Michael O'Neill's young team.",
+   "date": "2026-11-10T14:36:21+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf74/live/c70f0210-dd14-11f1-9ee9-1b95b66787ea.jpg"
+  },
+  {
    "source": "BBC Sport",
    "title": "Kompany back at Bayern training after collapse",
    "link": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno?at_medium=RSS&at_campaign=rss",
    "summary": "Bayern Munich say head coach Vincent Kompany is \"on the road to recovery\" following his recent collapse and treatment in hospital.",
    "date": "2026-11-10T14:17:04+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d47/live/6d849eb0-dd0c-11f1-97df-bd0937690c4d.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Managerial 'inconsistency' hurting Ghana - Hughton",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd09pkg2ev9o?at_medium=RSS&at_campaign=rss",
+   "summary": "As Ghana head into crucial Afcon 2027 qualifiers with women's coach Kim Bjorkegren in charge, former boss Chris Hughton says constant changes in the dugout are hurting the Black Stars.",
+   "date": "2026-11-10T14:14:26+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9235/live/d3b23a40-d6df-11f1-b441-2b33b063138f.png"
   },
   {
    "source": "The Guardian",
@@ -55,33 +79,25 @@
    "summary": "A dinner-party question, a Sunday kickabout and an idea that snowballed. Nine years on, Tanvie Hans and Swetha Subbiah have taken sporting sisterhood to 10 citiesOn a breezy evening in 2017, as conversations flowed and\u2026",
    "date": "2026-11-10T12:00:51+00:00",
    "image": "https://i.guim.co.uk/img/media/8b9d0965acc0ef1eea103567b93ef586f2fee635/173_22_939_752/master/939.jpg?width=140&quality=85&auto=format&fit=max&s=06b8b24347489afb77efa8df9e52d6e7"
-  },
-  {
-   "source": "The Guardian",
-   "title": "From W-M to the No 10, shirt numbers tell a story of football\u2019s tactical evolution",
-   "link": "https://www.theguardian.com/football/2026/nov/10/shirt-numbers-tell-story-football-tactical-evolution",
-   "summary": "In the days before squad numbers, the number on a shirt was an indicator of position, as well as the attributes a player was supposed to demonstrateUltimate 1-50: check out our complete list of playersNumbers have a\u2026",
-   "date": "2026-11-10T12:00:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/c21f57c8e352902d57fa9da6c6812586e3139312/23_21_2580_2064/master/2580.jpg?width=140&quality=85&auto=format&fit=max&s=18377859c063fa0f9202c31836ab1f94"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Wales call up MK Dons' Collins as Moore withdraws",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c62l4l2k0lyro?at_medium=RSS&at_campaign=rss",
-   "summary": "Wales have called up MK Dons striker Aaron Collins for this month's Nations League matches following Wrexham frontman Kieffer Moore's withdrawal due to injury.",
-   "date": "2026-11-10T11:47:59+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b4/live/2d264c70-dcfc-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Hill gets first England call-up as Konsa cover",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
-   "summary": "Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley.",
-   "date": "2026-11-10T11:41:27+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e9/live/842dfd90-dcf9-11f1-9ef0-4b5930e2f80e.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Crystal Palace could avoid significant compensation if Pierre Sage rejoins Lens",
+   "link": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
+   "summary": "Sage\u2019s exit from Premier League club still not confirmedManager\u2019s potential return to France could benefit PalaceCrystal Palace could avoid having to pay Pierre Sage significant compensation if he is re-appointed by\u2026",
+   "date": "2026-11-10T15:08:24+00:00",
+   "image": "https://i.guim.co.uk/img/media/1b38025050d4189522a619410f97e42dd75d68dd/506_0_7088_5670/master/7088.jpg?width=140&quality=85&auto=format&fit=max&s=d9f4191fe06d58d410e6c681aab94ca6"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Birthdays and broken lamps - at home with the Charles brothers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c615je0lgleqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Before Northern Ireland's Nations League matches, BBC Sport joins Shea and Pierce Charles at their London home to discuss birthdays, steak sandwiches and starring for Michael O'Neill's young team.",
+   "date": "2026-11-10T14:36:21+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf74/live/c70f0210-dd14-11f1-9ee9-1b95b66787ea.jpg"
+  },
   {
    "source": "BBC Sport",
    "title": "Kompany back at Bayern training after collapse",
@@ -89,6 +105,14 @@
    "summary": "Bayern Munich say head coach Vincent Kompany is \"on the road to recovery\" following his recent collapse and treatment in hospital.",
    "date": "2026-11-10T14:17:04+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d47/live/6d849eb0-dd0c-11f1-97df-bd0937690c4d.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Managerial 'inconsistency' hurting Ghana - Hughton",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd09pkg2ev9o?at_medium=RSS&at_campaign=rss",
+   "summary": "As Ghana head into crucial Afcon 2027 qualifiers with women's coach Kim Bjorkegren in charge, former boss Chris Hughton says constant changes in the dugout are hurting the Black Stars.",
+   "date": "2026-11-10T14:14:26+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9235/live/d3b23a40-d6df-11f1-b441-2b33b063138f.png"
   },
   {
    "source": "The Guardian",
@@ -188,7 +212,7 @@
   },
   {
    "source": "The Guardian",
-   "title": "Rui Pinto\u2019s lawyers in talks with UK authorities over cooperation deal for whistleblower",
+   "title": "Rui Pinto\u2019s lawyers in talks with UK authorities over deal for Manchester City whistleblower",
    "link": "https://www.theguardian.com/football/2026/nov/10/rui-pinto-lawyers-talks-uk-authorities-cooperation-deal-whistleblower",
    "summary": "Serious Fraud Office has contacted PintoHe is willing to assist in exchange for protectionRui Pinto\u2019s lawyers are in talks with British authorities over a potential cooperation agreement under which the Manchester City\u2026",
    "date": "2026-11-10T10:30:35+00:00",
@@ -531,39 +555,21 @@
    "image": "https://i.guim.co.uk/img/media/3d59d7c25fe80f58c6c1abd29b6ffc95941e94f1/0_0_4253_3403/master/4253.jpg?width=140&quality=85&auto=format&fit=max&s=d6aa7c859138c61d254c0b0b3839850a"
   },
   {
-   "source": "The Guardian",
-   "title": "Lens were humiliated by Como. The pain continued against Marseille",
-   "link": "https://www.theguardian.com/football/2026/nov/09/lens-como-marseille-pierre-sage-coupe-de-france-ligue-1",
-   "summary": "Pierre Sage led Lens to second and glory in the Coupe de France last season. A lot has changed in the last six monthsThe Lens striker, Florian Sotoca, was completely motionless as he looked into the middle space from\u2026",
-   "date": "2026-11-09T13:37:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/53b5b89f8aabc1e0f4a493e03871042823313ccb/1221_217_5006_4005/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=551b930c759dd800ec05ae3436ec0183"
-  },
-  {
    "source": "BBC Sport",
    "title": "Chelsea staff warned over Fantasy Premier League use",
    "link": "https://www.bbc.co.uk/sport/football/articles/c98rzr51rlvpo?at_medium=RSS&at_campaign=rss",
    "summary": "Chelsea warn staff to be careful about revealing team news through Fantasy Premier League after Joao Pedro's injury appeared to have been inadvertently disclosed through team selections.",
    "date": "2026-11-09T12:41:23+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/824c/live/4f7c8740-dc33-11f1-958b-3f65a8ba2dc3.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Burn replaces injured Guehi in England squad",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
-   "summary": "Newcastle's Dan Burn is added to the England squad to play Croatia and Spain in the Nations League this week after Marc Guehi pulls out with a hip injury.",
-   "date": "2026-11-09T12:06:19+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/cd34dd80-dc34-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Alisson wants to sign new Liverpool contract",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw62ypepq2m7o?at_medium=RSS&at_campaign=rss",
-   "summary": "Liverpool goalkeeper Alisson Becker wants to stay at the club beyond the end of the season, when his current contract is set to expire.",
-   "date": "2026-11-09T12:00:11+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b046/live/a4de1f60-dbb5-11f1-b35d-8ff000e4934a.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "Serie A",
+   "id": "Iazh_BIa7Aw",
+   "title": "DOUBLE JUVE COMEBACK \ud83d\ude31 | FIORENTINA-JUVENTUS CINEMATIC HIGHLIGHTS | Serie A 2026/27",
+   "date": "2026-11-10T15:00:11+00:00"
+  },
   {
    "channel": "Serie A",
    "id": "15hGtRJ3aFk",
@@ -599,18 +605,6 @@
    "id": "O2vD7ciyg6c",
    "title": "INTER-COMO 2-0 | EXTENDED HIGHLIGHTS | SERIE A 2026/27",
    "date": "2026-11-09T16:00:10+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "NwPJl5fxfL8",
-   "title": "MAXI SINTESI INTER-COMO 2-0 | EXTENDED HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-09T16:00:00+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "YZiXT-VvWcM",
-   "title": "Woltemade's FIRST Serie A Enilive GOAL \ud83c\udfd4\ufe0f\ud83c\udde9\ud83c\uddea | Fiorentina-Juventus | Serie A Enilive 2026/27",
-   "date": "2026-11-09T15:30:20+00:00"
   },
   {
    "channel": "Premier League",
@@ -673,6 +667,24 @@
    "date": "2026-11-08T20:13:14+00:00"
   },
   {
+   "channel": "beIN SPORTS",
+   "id": "aoG8_sU5rmM",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0645\u0627\u0645\u064a\u0644\u0648\u062f\u064a \u0635\u0646\u062f\u0627\u0648\u0646\u0632 \u0648\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u062c\u0632\u0627\u0626\u0631 |  \u0643\u0623\u0633 \u0627\u0644\u0633\u0648\u0628\u0631 \u0627\u0644\u0625\u0641\u0631\u064a\u0642\u064a\u0629",
+   "date": "2026-11-08T20:05:44+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "2CIiz-4rJMA",
+   "title": "Pure class on the ball \ud83d\udc8e",
+   "date": "2026-11-10T15:47:54+00:00"
+  },
+  {
+   "channel": "UEFA",
+   "id": "u8p2V5URL6w",
+   "title": "Kak\u00e1 was special",
+   "date": "2026-11-10T15:19:58+00:00"
+  },
+  {
    "channel": "Premier League",
    "id": "o2qto1uuF28",
    "title": "Brighton's Ferdi Kadioglu Reveals His BIG MOMENT Player",
@@ -695,18 +707,6 @@
    "id": "RruJDQTo8BA",
    "title": "Madueke Made Things HAPPEN! \u26a1\ufe0f",
    "date": "2026-11-10T13:30:16+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "2xvgFgb7Pnk",
-   "title": "Ferm\u00edn en modo imparable",
-   "date": "2026-11-10T13:00:10+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "Ta5nbigtLUs",
-   "title": "TOP SAVES \ud83e\udde4 From the Serie A Round 11 | 2026/27",
-   "date": "2026-11-10T13:00:05+00:00"
   }
  ],
  "fixtures": [
