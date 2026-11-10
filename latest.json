@@ -1,6 +1,30 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Hill gets first England call-up as Konsa cover",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
+   "summary": "Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley.",
+   "date": "2026-11-10T11:41:27+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e9/live/842dfd90-dcf9-11f1-9ef0-4b5930e2f80e.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Bunny Shaw shines again for five star Manchester City \u2013 Women\u2019s Football Weekly",
+   "link": "https://www.theguardian.com/football/audio/2026/nov/10/bunny-shaw-shines-again-for-five-star-manchester-city-womens-football-weekly",
+   "summary": "Faye Carruthers is joined by Suzanne Wrack, Sophie Downey and Marva Kreel to discuss the weekend\u2019s WSL actionOn the podcast today: It is a five-star performance from Manchester City as Bunny Shaw shines again, but a\u2026",
+   "date": "2026-11-10T11:24:58+00:00",
+   "image": "https://i.guim.co.uk/img/media/96a35e6731277b6fb4dbda552e4543cf4acf1aba/350_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=6d8c69265401838cb88dbbdc8ac1cb3f"
+  },
+  {
+   "source": "The Guardian",
+   "title": "David Squires on \u2026 You Can MUFC Everything",
+   "link": "https://www.theguardian.com/football/picture/2026/nov/10/david-squires-on-you-can-mufc-everything-manchester-united",
+   "summary": "Our cartoonist takes us behind the scenes as Manchester United\u2019s leading minds try to control the narrative Buy a cartoon | Some of David\u2019s favourite worksAnd his latest book, Chaos in the Box: get it now Continue\u2026",
+   "date": "2026-11-10T11:02:54+00:00",
+   "image": "https://i.guim.co.uk/img/media/e30f2ec391a020cbfae4a0a9309e790763ef9934/1042_1889_892_713/master/892.jpg?width=140&quality=85&auto=format&fit=max&s=09ce9dc1720394c630cb2fc115cc6080"
+  },
+  {
    "source": "The Guardian",
    "title": "Rui Pinto\u2019s lawyers in talks with UK authorities over cooperation deal for whistleblower",
    "link": "https://www.theguardian.com/football/2026/nov/10/rui-pinto-lawyers-talks-uk-authorities-cooperation-deal-whistleblower",
@@ -15,14 +39,6 @@
    "summary": "Celebrations linked to ultra-conservative Christian group\u2018Our message is of love\u2019 Nmecha says in reply to criticismBorussia Dortmund and Germany midfielder Felix Nmecha has responded to criticism of goal celebrations\u2026",
    "date": "2026-11-10T10:06:06+00:00",
    "image": "https://i.guim.co.uk/img/media/c36c77761e2647160b6ac2c215e6a3532b3c461c/474_250_4220_3376/master/4220.jpg?width=140&quality=85&auto=format&fit=max&s=6fad82a5d4d73c877d7fc2cbda4b7d54"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Wilcox and Berrada poised to tell Ratcliffe in Monaco that Carrick should be sacked",
-   "link": "https://www.theguardian.com/football/2026/nov/10/manchester-united-jason-wilcox-omar-berrada-jim-ratcliffe-michael-carrick-should-be-sacked",
-   "summary": "Manchester United executives to settle head coach\u2019s fateMauricio Pochettino a strong candidate to take overManchester United\u2019s director of football, Jason Wilcox, and chief executive, Omar Berrada, are expected to meet\u2026",
-   "date": "2026-11-10T09:01:09+00:00",
-   "image": "https://i.guim.co.uk/img/media/f561d70bdb8e218f1a537c02925adeb04dec26cc/284_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=56e76060ec2eb314b82aa771595e4f24"
   },
   {
    "source": "BBC Sport",
@@ -63,25 +79,33 @@
    "summary": "Early names in the frame for Aberdeen job as Celtic midfielder withdraws from international duty.",
    "date": "2026-11-10T07:25:56+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/ef09eb00-dcd7-11f1-b441-2b33b063138f.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vwr0zm2ro?at_medium=RSS&at_campaign=rss",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "date": "2026-11-10T06:40:56+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro?at_medium=RSS&at_campaign=rss",
-   "summary": "Relive all the best goals from the first round of the FA Cup, including Seung-woo Yang's goal for Wimborne Town and an effort from the halfway line by Crewe's Charlie McNeill.",
-   "date": "2026-11-10T06:35:30+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/fd81f310-dc5c-11f1-b441-2b33b063138f.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Hill gets first England call-up as Konsa cover",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
+   "summary": "Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley.",
+   "date": "2026-11-10T11:41:27+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e9/live/842dfd90-dcf9-11f1-9ef0-4b5930e2f80e.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Bunny Shaw shines again for five star Manchester City \u2013 Women\u2019s Football Weekly",
+   "link": "https://www.theguardian.com/football/audio/2026/nov/10/bunny-shaw-shines-again-for-five-star-manchester-city-womens-football-weekly",
+   "summary": "Faye Carruthers is joined by Suzanne Wrack, Sophie Downey and Marva Kreel to discuss the weekend\u2019s WSL actionOn the podcast today: It is a five-star performance from Manchester City as Bunny Shaw shines again, but a\u2026",
+   "date": "2026-11-10T11:24:58+00:00",
+   "image": "https://i.guim.co.uk/img/media/96a35e6731277b6fb4dbda552e4543cf4acf1aba/350_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=6d8c69265401838cb88dbbdc8ac1cb3f"
+  },
+  {
+   "source": "The Guardian",
+   "title": "David Squires on \u2026 You Can MUFC Everything",
+   "link": "https://www.theguardian.com/football/picture/2026/nov/10/david-squires-on-you-can-mufc-everything-manchester-united",
+   "summary": "Our cartoonist takes us behind the scenes as Manchester United\u2019s leading minds try to control the narrative Buy a cartoon | Some of David\u2019s favourite worksAnd his latest book, Chaos in the Box: get it now Continue\u2026",
+   "date": "2026-11-10T11:02:54+00:00",
+   "image": "https://i.guim.co.uk/img/media/e30f2ec391a020cbfae4a0a9309e790763ef9934/1042_1889_892_713/master/892.jpg?width=140&quality=85&auto=format&fit=max&s=09ce9dc1720394c630cb2fc115cc6080"
+  },
   {
    "source": "The Guardian",
    "title": "Rui Pinto\u2019s lawyers in talks with UK authorities over cooperation deal for whistleblower",
@@ -97,14 +121,6 @@
    "summary": "Celebrations linked to ultra-conservative Christian group\u2018Our message is of love\u2019 Nmecha says in reply to criticismBorussia Dortmund and Germany midfielder Felix Nmecha has responded to criticism of goal celebrations\u2026",
    "date": "2026-11-10T10:06:06+00:00",
    "image": "https://i.guim.co.uk/img/media/c36c77761e2647160b6ac2c215e6a3532b3c461c/474_250_4220_3376/master/4220.jpg?width=140&quality=85&auto=format&fit=max&s=6fad82a5d4d73c877d7fc2cbda4b7d54"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Wilcox and Berrada poised to tell Ratcliffe in Monaco that Carrick should be sacked",
-   "link": "https://www.theguardian.com/football/2026/nov/10/manchester-united-jason-wilcox-omar-berrada-jim-ratcliffe-michael-carrick-should-be-sacked",
-   "summary": "Manchester United executives to settle head coach\u2019s fateMauricio Pochettino a strong candidate to take overManchester United\u2019s director of football, Jason Wilcox, and chief executive, Omar Berrada, are expected to meet\u2026",
-   "date": "2026-11-10T09:01:09+00:00",
-   "image": "https://i.guim.co.uk/img/media/f561d70bdb8e218f1a537c02925adeb04dec26cc/284_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=56e76060ec2eb314b82aa771595e4f24"
   },
   {
    "source": "BBC Sport",
@@ -545,22 +561,6 @@
    "summary": "Delap\u2019s talents resurface in style, G\u00f3mez delights Brighton with more fireworks, and hair-pulling confusion at EvertonIt would have been very easy for Oliver Glasner to lose patience with Liam Delap. The forward is\u2026",
    "date": "2026-11-09T08:00:04+00:00",
    "image": "https://i.guim.co.uk/img/media/57cfc5f46ac89a85759f5f4c1495da03a497df06/0_1_5000_3998/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=eb911f23ebd12d9433ac49de44608287"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Fishlock retires after record-breaking career",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq98z8401zz8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Wales' record cap-holder and goalscorer, Jess Fishlock, hangs up her boots after Seattle Reign were beaten in the NWSL play-offs.",
-   "date": "2026-11-09T06:32:11+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c6/live/46624bb0-dbfa-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
-   "summary": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day.",
-   "date": "2026-11-08T23:53:20+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a524/live/05c078e0-dbcb-11f1-93e1-3b657b665bcf.jpg"
   }
  ],
  "videos": [
@@ -655,12 +655,6 @@
    "date": "2026-11-08T23:00:14+00:00"
   },
   {
-   "channel": "Bundesliga",
-   "id": "SaUfb91EbFA",
-   "title": "Mittelst\u00e4dt Fires One In! | VFB STUTTGART - WERDER BREMEN | Highlights | Matchday 9 \u2013 Bundesliga",
-   "date": "2026-11-08T23:00:12+00:00"
-  },
-  {
    "channel": "beIN SPORTS",
    "id": "ClWLtwz1MW8",
    "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0623\u062a\u0644\u064a\u062a\u064a\u0643\u0648 \u0645\u062f\u0631\u064a\u062f \u0648\u0628\u0631\u0634\u0644\u0648\u0646\u0629 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 12",
@@ -671,6 +665,30 @@
    "id": "z05Utm_Hmxg",
    "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629  \u0623\u0644\u0627\u0646\u064a\u0627 \u0633\u0628\u0648\u0631 \u0648\u0637\u0631\u0627\u0628\u0632\u0648\u0646 \u0633\u0628\u0648\u0631 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u062a\u0631\u0643\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 11",
    "date": "2026-11-08T22:36:39+00:00"
+  },
+  {
+   "channel": "Premier League",
+   "id": "p4aNGqai4ec",
+   "title": "EVERY Goal | Matchweek 10 | 2026/27 Premier League Highlights",
+   "date": "2026-11-08T22:10:20+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "4cVxcGFeLFI",
+   "title": "Kimmich wants to do Gnabry\u2018s chef celly one day \ud83d\udc68\u200d\ud83c\udf73\ud83d\ude02",
+   "date": "2026-11-10T11:00:19+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "J-DnBMJ02p8",
+   "title": "TODOS LOS GOLES de la JORNADA 12 | LALIGA EA SPORTS 2026/27",
+   "date": "2026-11-10T11:00:16+00:00"
+  },
+  {
+   "channel": "Premier League",
+   "id": "iA-kVTj98PQ",
+   "title": "SIUUU! Premier League Has Caught Ronaldo Fever \ud83d\udd25",
+   "date": "2026-11-10T11:00:01+00:00"
   },
   {
    "channel": "Ligue 1",
@@ -689,24 +707,6 @@
    "id": "aqMFGtBGHRc",
    "title": "El gol del mes, al estilo Lamine \u2728",
    "date": "2026-11-10T03:00:36+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "WRojwwCdCpc",
-   "title": "Schick from the skies \ud83c\udfdf\ufe0f",
-   "date": "2026-11-09T20:38:37+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "pfhxwHJKMX4",
-   "title": "Three perfect passes from Reichmuth, Weidmann and Holly \ud83d\udcab",
-   "date": "2026-11-09T20:00:05+00:00"
-  },
-  {
-   "channel": "Ligue 1",
-   "id": "qM0TQyYZqe4",
-   "title": "Payet ou Drogba qui est la plus grande l\u00e9gende de l'OM ? - Le SAV de la Ligue 1 avec Johan Micoud",
-   "date": "2026-11-09T19:45:25+00:00"
   }
  ],
  "fixtures": [
