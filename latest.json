@@ -1,12 +1,36 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Pocognoli to lean on Scotland's 'captain group of five'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach.",
+   "date": "2026-11-10T20:49:11+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a3/live/94ca09f0-dd35-11f1-ab86-698de9f28d28.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Inter v Manchester City: Women\u2019s Champions League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/10/inter-v-manchester-city-womens-champions-league-live",
    "summary": "Women\u2019s Champions League updates, 8pm GMT kick-offLive scores | Table | Kerstin Casparij interview | Mail BillyFinal scores in the early kick-offs:H\u00e4cken 0-0 ChelseaReal Madrid 3-0 Paris FC (Caruso 55, Beerensteyn 65,\u2026",
-   "date": "2026-11-10T19:58:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/413f3f392c1ce637f991c6493060cd4afcb53294/1917_1136_4608_3687/master/4608.jpg?width=140&quality=85&auto=format&fit=max&s=ac768886d8f6653e256131db4b41082d"
+   "date": "2026-11-10T20:43:56+00:00",
+   "image": "https://i.guim.co.uk/img/media/555e5a3f540ace79cee6f3642a41b0973b4e319e/730_218_4865_3891/master/4865.jpg?width=140&quality=85&auto=format&fit=max&s=be891492ea8cc77000e419670915017e"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Chelsea play out goalless draw with Hacken",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
+   "summary": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.",
+   "date": "2026-11-10T20:07:12+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5038/live/242f7a20-dd41-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "McTominay reveals heart treatment two days before Scotland\u2019s World Cup opener",
+   "link": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
+   "summary": "Midfielder was in hospital before Haiti match\u2018I had to get the shock on my heart,\u2019 says McTominayScott McTominay has revealed he was in hospital under sedation to have a \u201cshock on my heart\u201d just 48 hours before Scotland\u2026",
+   "date": "2026-11-10T19:54:51+00:00",
+   "image": "https://i.guim.co.uk/img/media/e9685665919ccffa3ac3c626e25909ba4672d0cc/186_0_3467_2773/master/3467.jpg?width=140&quality=85&auto=format&fit=max&s=2ea786c0bfd131e45d6af0e962cbb513"
   },
   {
    "source": "BBC Sport",
@@ -55,40 +79,40 @@
    "summary": "Brennan Johnson says he is happy with what he has achieved in football but would like to reach more major tournaments with Wales.",
    "date": "2026-11-10T18:01:03+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e92b/live/66e9b0b0-dc33-11f1-958b-3f65a8ba2dc3.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
-   "link": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
-   "summary": "Coach\u2019s contract has release clause of about $10mUnited expected to sack Michael Carrick after awful startUS men\u2019s national team head coach Mauricio Pochettino is interested in a move to Manchester United, multiple\u2026",
-   "date": "2026-11-10T17:40:40+00:00",
-   "image": "https://i.guim.co.uk/img/media/3cc99fc110813bdce8e26eca468776c682bebc79/241_0_3848_3079/master/3848.jpg?width=140&quality=85&auto=format&fit=max&s=cb1644159c61e6d1bce7a9d58421d3e9"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "McTominay reveals heart treatment at World Cup",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
-   "date": "2026-11-10T16:46:31+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eae/live/09084700-dd22-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Oldham boss Mellon charged by FA following red card",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6e3x3xz33njo?at_medium=RSS&at_campaign=rss",
-   "summary": "Oldham Athletic manager Micky Mellon is charged by the FA following his red card during his side's FA Cup win over Sheffield Wednesday.",
-   "date": "2026-11-10T16:41:54+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7304/live/75840950-dd22-11f1-ab46-9fae224bbf6f.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Pocognoli to lean on Scotland's 'captain group of five'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach.",
+   "date": "2026-11-10T20:49:11+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a3/live/94ca09f0-dd35-11f1-ab86-698de9f28d28.jpg"
+  },
   {
    "source": "The Guardian",
    "title": "Inter v Manchester City: Women\u2019s Champions League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/10/inter-v-manchester-city-womens-champions-league-live",
    "summary": "Women\u2019s Champions League updates, 8pm GMT kick-offLive scores | Table | Kerstin Casparij interview | Mail BillyFinal scores in the early kick-offs:H\u00e4cken 0-0 ChelseaReal Madrid 3-0 Paris FC (Caruso 55, Beerensteyn 65,\u2026",
-   "date": "2026-11-10T19:58:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/413f3f392c1ce637f991c6493060cd4afcb53294/1917_1136_4608_3687/master/4608.jpg?width=140&quality=85&auto=format&fit=max&s=ac768886d8f6653e256131db4b41082d"
+   "date": "2026-11-10T20:43:56+00:00",
+   "image": "https://i.guim.co.uk/img/media/555e5a3f540ace79cee6f3642a41b0973b4e319e/730_218_4865_3891/master/4865.jpg?width=140&quality=85&auto=format&fit=max&s=be891492ea8cc77000e419670915017e"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Chelsea play out goalless draw with Hacken",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
+   "summary": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.",
+   "date": "2026-11-10T20:07:12+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5038/live/242f7a20-dd41-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "McTominay reveals heart treatment two days before Scotland\u2019s World Cup opener",
+   "link": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
+   "summary": "Midfielder was in hospital before Haiti match\u2018I had to get the shock on my heart,\u2019 says McTominayScott McTominay has revealed he was in hospital under sedation to have a \u201cshock on my heart\u201d just 48 hours before Scotland\u2026",
+   "date": "2026-11-10T19:54:51+00:00",
+   "image": "https://i.guim.co.uk/img/media/e9685665919ccffa3ac3c626e25909ba4672d0cc/186_0_3467_2773/master/3467.jpg?width=140&quality=85&auto=format&fit=max&s=2ea786c0bfd131e45d6af0e962cbb513"
   },
   {
    "source": "BBC Sport",
@@ -260,19 +284,19 @@
   },
   {
    "source": "The Guardian",
-   "title": "Sisters in Sweat: how a former Spurs player got 20,000 Indian women into sport",
-   "link": "https://www.theguardian.com/football/2026/nov/10/sisters-in-sweat-indian-women-sport-moving-the-goalposts",
-   "summary": "A dinner-party question, a Sunday kickabout and an idea that snowballed. Nine years on, Tanvie Hans and Swetha Subbiah have taken sporting sisterhood to 10 citiesOn a breezy evening in 2017, as conversations flowed and\u2026",
-   "date": "2026-11-10T12:00:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/8b9d0965acc0ef1eea103567b93ef586f2fee635/173_22_939_752/master/939.jpg?width=140&quality=85&auto=format&fit=max&s=06b8b24347489afb77efa8df9e52d6e7"
-  },
-  {
-   "source": "The Guardian",
    "title": "From W-M to the No 10, shirt numbers tell a story of football\u2019s tactical evolution",
    "link": "https://www.theguardian.com/football/2026/nov/10/shirt-numbers-tell-story-football-tactical-evolution",
    "summary": "In the days before squad numbers, the number on a shirt was an indicator of position, as well as the attributes a player was supposed to demonstrateUltimate 1-50: check out our complete list of playersNumbers have a\u2026",
    "date": "2026-11-10T12:00:51+00:00",
    "image": "https://i.guim.co.uk/img/media/c21f57c8e352902d57fa9da6c6812586e3139312/23_21_2580_2064/master/2580.jpg?width=140&quality=85&auto=format&fit=max&s=18377859c063fa0f9202c31836ab1f94"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Sisters in Sweat: how a former Spurs player got 20,000 Indian women into sport",
+   "link": "https://www.theguardian.com/football/2026/nov/10/sisters-in-sweat-indian-women-sport-moving-the-goalposts",
+   "summary": "A dinner-party question, a Sunday kickabout and an idea that snowballed. Nine years on, Tanvie Hans and Swetha Subbiah have taken sporting sisterhood to 10 citiesOn a breezy evening in 2017, as conversations flowed and\u2026",
+   "date": "2026-11-10T12:00:51+00:00",
+   "image": "https://i.guim.co.uk/img/media/8b9d0965acc0ef1eea103567b93ef586f2fee635/173_22_939_752/master/939.jpg?width=140&quality=85&auto=format&fit=max&s=06b8b24347489afb77efa8df9e52d6e7"
   },
   {
    "source": "BBC Sport",
@@ -500,14 +524,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "'Aberdeen hunt yet another manager after ill-fated Robinson reign'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr0qkq8pnx4ko?at_medium=RSS&at_campaign=rss",
-   "summary": "Stephen Robinson's tenure as head coach panned out as many Aberdeen fans feared it would, writes BBC Scotland's Liam McLeod.",
-   "date": "2026-11-09T21:39:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adbd/live/6fcf45b0-dc82-11f1-ba95-5f07efd49f42.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Atletico target Zubimendi move - Tuesday's gossip",
    "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
    "summary": "Arsenal midfielder Martin Zubimendi is a target for Atletico Madrid, Leeds United plan to step up contract talks with striker Dominic Calvert-Lewin, Barcelona are keen on Bayern Munich defender Jonathan Tah, plus more.",
@@ -545,22 +561,6 @@
    "summary": "Watch the best of the action as Hibernian thrash Aberdeen 4-0 in what would proved to be Stephen Robinson's final match in charge.",
    "date": "2026-11-09T17:10:00+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e765/live/de171de0-dbb0-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | Manchester United, Aston Villa and the unseriousness of a 4-4 draw",
-   "link": "https://www.theguardian.com/football/2026/nov/09/football-daily-email-manchester-united-aston-villa-4-4",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Precisely 13,266 games have been played since the inception of the Premier League, and 19 of those matches have finished 4-4 (0.1%), a rarity in a division dominated by\u2026",
-   "date": "2026-11-09T16:40:21+00:00",
-   "image": "https://i.guim.co.uk/img/media/8f66f6cbb1890d5cc0cb476c7614bef001205e50/180_316_2804_2242/master/2804.jpg?width=140&quality=85&auto=format&fit=max&s=b1410b4ce0d016426b57ada7c849348a"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Manchester City\u2019s weaknesses under Enzo Maresca are being exposed",
-   "link": "https://www.theguardian.com/football/2026/nov/09/manchester-city-enzo-maresca-premier-league",
-   "summary": "After three straight defeats, City\u2019s manager says he will use the international break to reassess. Their problems may go beyond tacticsSign up for our free newsletter hereEnzo Maresca seemed, if not quite baffled by his\u2026",
-   "date": "2026-11-09T16:30:13+00:00",
-   "image": "https://i.guim.co.uk/img/media/b133b75a4f8ea4aba670cc67dd8a4a7d2315133d/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9c5d66f7b30851a87398473bfa46afbf"
   }
  ],
  "videos": [
@@ -673,6 +673,12 @@
    "date": "2026-11-07T21:56:32+00:00"
   },
   {
+   "channel": "LaLiga",
+   "id": "wBh3pzebX6g",
+   "title": "El SHOW de FERM\u00cdN L\u00d3PEZ en LALIGA \u26bd",
+   "date": "2026-11-10T20:00:18+00:00"
+  },
+  {
    "channel": "FIFA",
    "id": "w9Ta9Sf_R8g",
    "title": "FULL MATCH | Sweden v USA | Round of 16 | FIFA Women's World Cup 2023\u2122",
@@ -697,16 +703,10 @@
    "date": "2026-11-10T18:00:36+00:00"
   },
   {
-   "channel": "Ligue 1",
-   "id": "XMO8_14PxsI",
-   "title": "L'OM prend le contr\u00f4le de Ma Super Ligue 1 | Ma Super Ligue 1 - Saison 2, \u00e9pisode 9",
-   "date": "2026-11-10T17:00:25+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "izNyEr9Yedo",
-   "title": "CRAZIEST Champions League Matches In Football History",
-   "date": "2026-11-10T17:00:14+00:00"
+   "channel": "LaLiga",
+   "id": "Y3mjg1pChqU",
+   "title": "El partidazo entre ATLETI y BAR\u00c7A desde la REFCAM",
+   "date": "2026-11-10T17:00:33+00:00"
   }
  ],
  "fixtures": [
