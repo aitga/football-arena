@@ -1,6 +1,14 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Wilcox and Berrada poised to tell Ratcliffe in Monaco that Carrick should be sacked",
+   "link": "https://www.theguardian.com/football/2026/nov/10/manchester-united-jason-wilcox-omar-berrada-jim-ratcliffe-michael-carrick-should-be-sacked",
+   "summary": "Manchester United executives to settle head coach\u2019s fateMauricio Pochettino a strong candidate to take overManchester United\u2019s director of football, Jason Wilcox, and chief executive, Omar Berrada, are expected to meet\u2026",
+   "date": "2026-11-10T09:01:09+00:00",
+   "image": "https://i.guim.co.uk/img/media/f561d70bdb8e218f1a537c02925adeb04dec26cc/284_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=56e76060ec2eb314b82aa771595e4f24"
+  },
+  {
    "source": "BBC Sport",
    "title": "Wenger considers standing against Infantino",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo?at_medium=RSS&at_campaign=rss",
@@ -71,17 +79,17 @@
    "summary": "The five nominees have been announced for the BBC World Service award",
    "date": "2026-11-10T06:30:00+00:00",
    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm1c2j.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
-   "summary": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
-   "date": "2026-11-10T06:24:50+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Wilcox and Berrada poised to tell Ratcliffe in Monaco that Carrick should be sacked",
+   "link": "https://www.theguardian.com/football/2026/nov/10/manchester-united-jason-wilcox-omar-berrada-jim-ratcliffe-michael-carrick-should-be-sacked",
+   "summary": "Manchester United executives to settle head coach\u2019s fateMauricio Pochettino a strong candidate to take overManchester United\u2019s director of football, Jason Wilcox, and chief executive, Omar Berrada, are expected to meet\u2026",
+   "date": "2026-11-10T09:01:09+00:00",
+   "image": "https://i.guim.co.uk/img/media/f561d70bdb8e218f1a537c02925adeb04dec26cc/284_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=56e76060ec2eb314b82aa771595e4f24"
+  },
   {
    "source": "BBC Sport",
    "title": "Wenger considers standing against Infantino",
@@ -172,6 +180,14 @@
   },
   {
    "source": "BBC Sport",
+   "title": "The fans at the FA Cup game no-one could see",
+   "link": "https://www.bbc.co.uk/news/articles/cmqjnjvld27yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Thick fog left Notts County fans unable to see parts of the Magpies' FA Cup win over Altrincham.",
+   "date": "2026-11-10T06:00:05+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8923/live/7ae38780-dc42-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Injuries, noise & scalps - Wrexham's season so far",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8x232yy5494o?at_medium=RSS&at_campaign=rss",
    "summary": "Wrexham have had a slow start to the season and some off-field turbulence but having steadied the ship could they be on track for the play-offs?",
@@ -217,14 +233,6 @@
    "summary": "Armed with an impressive academic record and experience as a rugby fly-half, the teenager is anything but typicalJosh King is talking with pride about how his mother, Michelle, a university lecturer, has almost finished\u2026",
    "date": "2026-11-09T22:30:20+00:00",
    "image": "https://i.guim.co.uk/img/media/71c04f1052fc590a431b459f2ee3d460029fd8fc/456_0_4050_3240/master/4050.jpg?width=140&quality=85&auto=format&fit=max&s=c3415689b6da1bba6aacbf34c524c22e"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Michael Carrick facing Manchester United axe amid review by Jason Wilcox",
-   "link": "https://www.theguardian.com/football/2026/nov/09/manchester-united-michael-carrick-jason-wilcox-review-sacking",
-   "summary": "Director of football in discussions with Omar BerradaPochettino and Howe on radar as possible replacementsManchester United are moving towards sacking Michael Carrick, though no final decision has been made by Jason\u2026",
-   "date": "2026-11-09T22:19:09+00:00",
-   "image": "https://i.guim.co.uk/img/media/aa5f66bf31a9f0e3d260508cad3a19dfbe9427f2/181_0_3539_2831/master/3539.jpg?width=140&quality=85&auto=format&fit=max&s=21df3318b577629a128431a6d336a356"
   },
   {
    "source": "BBC Sport",
@@ -417,14 +425,6 @@
    "summary": "Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a ScudettoAfter nine games in 28 days, Gian Piero Gasperini finally got a moment to pause and reflect on\u2026",
    "date": "2026-11-09T14:18:45+00:00",
    "image": "https://i.guim.co.uk/img/media/06366d0f66316c50750ddcdb8ecdafbc70842ecd/0_0_4604_3684/master/4604.jpg?width=140&quality=85&auto=format&fit=max&s=d4b466ce182d66ed2ca9d657ac0b0ca1"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Newport round on 'unacceptable' fan behaviour",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1g0zkgy4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Newport County say a list of allegations against their supporters is proving costly to their finances and reputation.",
-   "date": "2026-11-09T14:16:18+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ee/live/dc91fab0-dc43-11f1-95cf-a38331e6cb4b.jpg"
   },
   {
    "source": "The Guardian",
@@ -667,10 +667,22 @@
    "date": "2026-11-08T22:10:20+00:00"
   },
   {
+   "channel": "beIN SPORTS",
+   "id": "fcpuh0FA7m4",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u064a\u0648\u0646\u0627\u064a\u062a\u062f \u0648\u0623\u0633\u062a\u0648\u0646 \u0641\u064a\u0644\u0627 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0627\u0644\u0645\u0645\u062a\u0627\u0632 - \u0627\u0644\u062c\u0648\u0644\u0629  10",
+   "date": "2026-11-08T20:13:14+00:00"
+  },
+  {
+   "channel": "Ligue 1",
+   "id": "hf4etOqzrZo",
+   "title": "Quand Hugo Magnetti SE PREND pour Zidane \ud83c\udf2a\ufe0f| Top Skills 10e journ\u00e9e - Ligue1McDonald's 26/27",
+   "date": "2026-11-10T09:00:24+00:00"
+  },
+  {
    "channel": "LaLiga",
-   "id": "wdtYGRqHv-M",
-   "title": "ATL\u00c9TICO DE MADRID 1 - 2 FC BARCELONA | RESUMEN LALIGA EA SPORTS",
-   "date": "2026-11-08T22:07:57+00:00"
+   "id": "yiyqN5DGzes",
+   "title": "Otro m\u00e1s de FEDE VALVERDE desde fuera del \u00e1rea",
+   "date": "2026-11-10T09:00:12+00:00"
   },
   {
    "channel": "LaLiga",
@@ -695,18 +707,6 @@
    "id": "qM0TQyYZqe4",
    "title": "Payet ou Drogba qui est la plus grande l\u00e9gende de l'OM ? - Le SAV de la Ligue 1 avec Johan Micoud",
    "date": "2026-11-09T19:45:25+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "_omVGRNuPz8",
-   "title": "Hace dos a\u00f1os Lunin se invent\u00f3 esta asistencia a Vini",
-   "date": "2026-11-09T19:00:08+00:00"
-  },
-  {
-   "channel": "Ligue 1",
-   "id": "hT2m9e1zxQc",
-   "title": "OM : LES V\u00c9RIT\u00c9S D\u2019AMINE GOUIRI \ud83e\udee1\u200b",
-   "date": "2026-11-09T18:00:11+00:00"
   }
  ],
  "fixtures": [
