@@ -2,6 +2,54 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vwr0zm2ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-10T06:40:56+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Relive all the best goals from the first round of the FA Cup, including Seung-woo Yang's goal for Wimborne Town and an effort from the halfway line by Crewe's Charlie McNeill.",
+   "date": "2026-11-10T06:35:30+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/fd81f310-dc5c-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Listen: Who is your BBC Women's Footballer of the Year?",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct9tpb?at_medium=RSS&at_campaign=rss",
+   "summary": "The five nominees have been announced for the BBC award",
+   "date": "2026-11-10T06:30:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm1c2j.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+   "summary": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+   "date": "2026-11-10T06:24:50+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Ultimate 1-50: the male footballers best associated with each squad number",
+   "link": "https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number",
+   "summary": "Who is football\u2019s most legendary No 9? Has there ever been a legendary No 28? And why exactly does Mario Balotelli love wearing No 45 so much? Here\u2019s our list and the stories behind itThe relationship between players\u2026",
+   "date": "2026-11-10T06:00:30+00:00",
+   "image": "https://i.guim.co.uk/img/media/8b8266c11f37f734cb122e22b6d3815075a4a4ee/2_0_4936_3951/master/4936.jpg?width=140&quality=85&auto=format&fit=max&s=ad8c86a5ab1a698cbdc76b640ce1194b"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Injuries, noise & scalps - Wrexham's season so far",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8x232yy5494o?at_medium=RSS&at_campaign=rss",
+   "summary": "Wrexham have had a slow start to the season and some off-field turbulence but having steadied the ship could they be on track for the play-offs?",
+   "date": "2026-11-10T04:13:48+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89d9/live/db5672a0-dc31-11f1-958b-3f65a8ba2dc3.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
    "link": "https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&at_campaign=rss",
    "summary": "Two Andrew Neal penalties sew Plymouth Parkway earn a first-ever trip to the second round of the FA Cup after a coming from a goal down to beat Berkhamsted 2-1 in extra time.",
@@ -31,57 +79,57 @@
    "summary": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years.",
    "date": "2026-11-09T23:13:31+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dcf/live/306777b0-dc8e-11f1-8a0c-79d3a3fe49e0.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Cerebral Josh King plots unusual route into Tuchel\u2019s England plans",
-   "link": "https://www.theguardian.com/football/2026/nov/09/cerebral-josh-king-plots-unusual-route-into-tuchels-england-plans",
-   "summary": "Armed with an impressive academic record and experience as a rugby fly-half, the teenager is anything but typicalJosh King is talking with pride about how his mother, Michelle, a university lecturer, has almost finished\u2026",
-   "date": "2026-11-09T22:30:20+00:00",
-   "image": "https://i.guim.co.uk/img/media/71c04f1052fc590a431b459f2ee3d460029fd8fc/456_0_4050_3240/master/4050.jpg?width=140&quality=85&auto=format&fit=max&s=c3415689b6da1bba6aacbf34c524c22e"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Michael Carrick facing Manchester United axe amid review by Jason Wilcox",
-   "link": "https://www.theguardian.com/football/2026/nov/09/manchester-united-michael-carrick-jason-wilcox-review-sacking",
-   "summary": "Director of football in discussions with Omar BerradaPochettino and Howe on radar as possible replacementsManchester United are moving towards sacking Michael Carrick, though no final decision has been made by Jason\u2026",
-   "date": "2026-11-09T22:19:09+00:00",
-   "image": "https://i.guim.co.uk/img/media/aa5f66bf31a9f0e3d260508cad3a19dfbe9427f2/181_0_3539_2831/master/3539.jpg?width=140&quality=85&auto=format&fit=max&s=21df3318b577629a128431a6d336a356"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Brady ends association with Birmingham City",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss",
-   "summary": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years.",
-   "date": "2026-11-09T22:18:17+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e9a/live/f4e649d0-dc85-11f1-851a-19e868620cad.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Wimborne to host Bradford in FA Cup second round - see the full draw",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6wyrynd848jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Seventh-tier side Wimborne Town will host League One Bradford City in the second round of the FA Cup, while former winners Leicester City will visit National League South side Dover Athletic.",
-   "date": "2026-11-09T22:10:22+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/d7ef1b30-dc72-11f1-92b6-7dd459918707.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "BBC Women's Football Weekly",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pm60tc?at_medium=RSS&at_campaign=rss",
-   "summary": "Ellen and Ben are on location with the London City Lionesses and Spain defender!",
-   "date": "2026-11-09T21:46:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm60tt.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "NI's O'Neill ruled out of Nations League matches",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynylnd71yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal forward Ceadach O'Neill is ruled out of Northern Ireland's final two Nations League fixtures against Ukraine in Belfast and Hungary in Budapest.",
-   "date": "2026-11-09T21:44:23+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e548/live/515bf500-dc88-11f1-851a-19e868620cad.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vwr0zm2ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-10T06:40:56+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Relive all the best goals from the first round of the FA Cup, including Seung-woo Yang's goal for Wimborne Town and an effort from the halfway line by Crewe's Charlie McNeill.",
+   "date": "2026-11-10T06:35:30+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/fd81f310-dc5c-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Listen: Who is your BBC Women's Footballer of the Year?",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct9tpb?at_medium=RSS&at_campaign=rss",
+   "summary": "The five nominees have been announced for the BBC award",
+   "date": "2026-11-10T06:30:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm1c2j.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+   "summary": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+   "date": "2026-11-10T06:24:50+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Ultimate 1-50: the male footballers best associated with each squad number",
+   "link": "https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number",
+   "summary": "Who is football\u2019s most legendary No 9? Has there ever been a legendary No 28? And why exactly does Mario Balotelli love wearing No 45 so much? Here\u2019s our list and the stories behind itThe relationship between players\u2026",
+   "date": "2026-11-10T06:00:30+00:00",
+   "image": "https://i.guim.co.uk/img/media/8b8266c11f37f734cb122e22b6d3815075a4a4ee/2_0_4936_3951/master/4936.jpg?width=140&quality=85&auto=format&fit=max&s=ad8c86a5ab1a698cbdc76b640ce1194b"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Injuries, noise & scalps - Wrexham's season so far",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8x232yy5494o?at_medium=RSS&at_campaign=rss",
+   "summary": "Wrexham have had a slow start to the season and some off-field turbulence but having steadied the ship could they be on track for the play-offs?",
+   "date": "2026-11-10T04:13:48+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89d9/live/db5672a0-dc31-11f1-958b-3f65a8ba2dc3.jpg"
+  },
   {
    "source": "BBC Sport",
    "title": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
@@ -332,7 +380,7 @@
   },
   {
    "source": "The Guardian",
-   "title": "Felix Nmecha\u2019s faith is forcing Borussia Dortmund into an uncomfortable debate | Andy Brassell",
+   "title": "Felix Nmecha\u2019s faith is forcing Borussia Dortmund into an uncomfortable debate",
    "link": "https://www.theguardian.com/football/2026/nov/09/felix-nmecha-faith-borussia-dortmund-debate-bundesliga",
    "summary": "Midfielder\u2019s spectacular strikes rescued a frustrating day, only for celebrations to reignite dialogue that has followed him through his careerIt was just what they needed at just the right time. For a tricky first half\u2026",
    "date": "2026-11-09T14:10:43+00:00",
@@ -395,14 +443,6 @@
    "image": "https://i.guim.co.uk/img/media/bf295c07350add58ada1b0ab1859a57908f1c98a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a1510b6542a9722d6c9b2aaf643d3ba2"
   },
   {
-   "source": "BBC Sport",
-   "title": "Musiala may never return to his best - Hoeness",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw78p8dp0keeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Bayern Munich honorary president Uli Hoeness questions whether forward Jamal Musiala will ever \"regain the performance level he once had\".",
-   "date": "2026-11-09T11:01:09+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e7/live/0f5454a0-dc2d-11f1-958b-3f65a8ba2dc3.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Football comes together across Spain to honour Jes\u00fas de Miguel: \u2018We\u2019ve seen how fragile life is\u2019",
    "link": "https://www.theguardian.com/football/2026/nov/09/football-comes-together-spain-honour-jesus-de-miguel-tenerife",
@@ -457,14 +497,6 @@
    "summary": "Wales' record cap-holder and goalscorer, Jess Fishlock, hangs up her boots after Seattle Reign were beaten in the NWSL play-offs.",
    "date": "2026-11-09T06:32:11+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c6/live/46624bb0-dbfa-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6ly0w4n7d91o?at_medium=RSS&at_campaign=rss",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "date": "2026-11-09T06:25:16+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
   },
   {
    "source": "BBC Sport",
@@ -529,38 +561,6 @@
    "summary": "The stand-in left-back has become a pantomime villain but United fans are understandably struggling to focus their ire Sporting success is, supposedly, a nigh-on irrelevance to Manchester United\u2019s global brand. The\u2026",
    "date": "2026-11-08T21:24:44+00:00",
    "image": "https://i.guim.co.uk/img/media/2f3976dfc936c6990baa1fe139ca8d0122187446/785_101_1063_850/master/1063.jpg?width=140&quality=85&auto=format&fit=max&s=f2ad0a1e0ad22139c01b55dae914c830"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Palace consider replacing Sage, with Frank among contenders",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Crystal Palace manager Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him.",
-   "date": "2026-11-08T20:49:40+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/76bb35a0-dbb5-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who has made Troy's Premier League team of the week?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw98z7vdg546o?at_medium=RSS&at_campaign=rss",
-   "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-   "date": "2026-11-08T20:18:01+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b69/live/01cb00f0-dbb9-11f1-86cb-c1d83392da32.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Where does Man Utd 4-4 Villa rank among best Premier League games?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo?at_medium=RSS&at_campaign=rss",
-   "summary": "Where does Manchester United 4-4 Aston Villa rank among the Premier League's greatest games?",
-   "date": "2026-11-08T20:05:53+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/910b/live/15fd4900-da13-11f0-a8dc-93c15fe68710.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "What can you read into Premier League table after 10 games?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c91463n3mlzlo?at_medium=RSS&at_campaign=rss",
-   "summary": "With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage.",
-   "date": "2026-11-08T19:40:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2dd/live/fb15a380-db97-11f1-a42b-dbe60e973664.jpg"
   }
  ],
  "videos": [
