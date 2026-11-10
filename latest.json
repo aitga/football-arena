@@ -2,6 +2,14 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
+   "summary": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus\u2026",
+   "date": "2026-11-10T23:08:35+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad9/live/ac0a3550-dd48-11f1-aeb2-6bd34b8670af.png"
+  },
+  {
+   "source": "BBC Sport",
    "title": "72+: The EFL Podcast",
    "link": "https://www.bbc.co.uk/sounds/play/p0pmc96j?at_medium=RSS&at_campaign=rss",
    "summary": "Former Bromley boss Andy Woodman joins Aaron and Jobi.",
@@ -9,12 +17,20 @@
    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
   },
   {
+   "source": "BBC Sport",
+   "title": "Leicester and Brentford U21 into EFL Trophy knockout stages",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories.",
+   "date": "2026-11-10T22:17:53+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ec/live/48ff4c20-dd57-11f1-acd1-a78ce9f5fae0.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Fujino\u2019s double sparks WCL comeback win for Manchester City against Inter",
    "link": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
-   "summary": "Manchester City\u2019s European campaign finally came roaring into life as they put four goals past Inter to record their first Women\u2019s Champions League victory of the season and greatly improve their prospects of reaching\u2026",
+   "summary": "On a very satisfying night for Manchester City, perhaps the most pleasing element was that they did not even need to call on Khadija \u2018Bunny\u2019 Shaw.While giving their talismanic striker some precious rest, Manchester\u2026",
    "date": "2026-11-10T22:05:43+00:00",
-   "image": "https://i.guim.co.uk/img/media/7000df5b2963b6ae848e08ba69ff3a22fba7b2ab/0_495_5471_4377/master/5471.jpg?width=140&quality=85&auto=format&fit=max&s=9ee41754da1339eb7d3d1dbe749ef999"
+   "image": "https://i.guim.co.uk/img/media/7000df5b2963b6ae848e08ba69ff3a22fba7b2ab/908_394_5774_4619/master/5774.jpg?width=140&quality=85&auto=format&fit=max&s=6b134fa779c198816409f404ad66d100"
   },
   {
    "source": "BBC Sport",
@@ -63,25 +79,17 @@
    "summary": "University lecturer Peter Auf der Heyde is seeking to be nominated to take on Gianni Infantino for the Fifa presidency.",
    "date": "2026-11-10T19:14:14+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2b5/live/d9f18dc0-dd29-11f1-ab46-9fae224bbf6f.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Firing a manager is often more about maintaining the illusion of control",
-   "link": "https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league",
-   "summary": "In an era of advanced analytics, deciding when to move on from a manager still seems to come down to vibes rather than logicHe just had to go.His position had become untenable.Leander Schaerlaeckens is the author of The\u2026",
-   "date": "2026-11-10T19:03:04+00:00",
-   "image": "https://i.guim.co.uk/img/media/f5fc5e216788663c63a4855eae3efd684e3f1755/205_0_1435_1148/master/1435.jpg?width=140&quality=85&auto=format&fit=max&s=472682f084253969868dfa7463a1c7bc"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Rio Ngumoha ready to make England splash as he spells out Ballon d\u2019Or ambition",
-   "link": "https://www.theguardian.com/football/2026/nov/10/rio-ngumoha-ready-to-make-england-splash-as-he-spells-out-ballon-dor-ambition",
-   "summary": "Fearless winger has forced his way into Thomas Tuchel\u2019s plans and believes he can become best player in the worldRio Ngumoha is fearless, exciting and ready to make his mark as an England player. The Liverpool winger\u2026",
-   "date": "2026-11-10T19:00:17+00:00",
-   "image": "https://i.guim.co.uk/img/media/674bd01f3b2b9ae7552b22d6ae6c80ca18aa9673/408_0_4410_3528/master/4410.jpg?width=140&quality=85&auto=format&fit=max&s=a6f6763895e99c4fd56bf2dbb9cf2455"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
+   "summary": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus\u2026",
+   "date": "2026-11-10T23:08:35+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad9/live/ac0a3550-dd48-11f1-aeb2-6bd34b8670af.png"
+  },
   {
    "source": "BBC Sport",
    "title": "72+: The EFL Podcast",
@@ -91,12 +99,20 @@
    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
   },
   {
+   "source": "BBC Sport",
+   "title": "Leicester and Brentford U21 into EFL Trophy knockout stages",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories.",
+   "date": "2026-11-10T22:17:53+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ec/live/48ff4c20-dd57-11f1-acd1-a78ce9f5fae0.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Fujino\u2019s double sparks WCL comeback win for Manchester City against Inter",
    "link": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
-   "summary": "Manchester City\u2019s European campaign finally came roaring into life as they put four goals past Inter to record their first Women\u2019s Champions League victory of the season and greatly improve their prospects of reaching\u2026",
+   "summary": "On a very satisfying night for Manchester City, perhaps the most pleasing element was that they did not even need to call on Khadija \u2018Bunny\u2019 Shaw.While giving their talismanic striker some precious rest, Manchester\u2026",
    "date": "2026-11-10T22:05:43+00:00",
-   "image": "https://i.guim.co.uk/img/media/7000df5b2963b6ae848e08ba69ff3a22fba7b2ab/0_495_5471_4377/master/5471.jpg?width=140&quality=85&auto=format&fit=max&s=9ee41754da1339eb7d3d1dbe749ef999"
+   "image": "https://i.guim.co.uk/img/media/7000df5b2963b6ae848e08ba69ff3a22fba7b2ab/908_394_5774_4619/master/5774.jpg?width=140&quality=85&auto=format&fit=max&s=6b134fa779c198816409f404ad66d100"
   },
   {
    "source": "BBC Sport",
@@ -531,14 +547,6 @@
    "image": "https://i.guim.co.uk/img/media/96db3ba40b7a8e3f419b2a5abfd1bab89cefcb18/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bd3abb0fd99b1b67d04f3bb9737b989f"
   },
   {
-   "source": "BBC Sport",
-   "title": "Atletico target Zubimendi move - Tuesday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal midfielder Martin Zubimendi is a target for Atletico Madrid, Leeds United plan to step up contract talks with striker Dominic Calvert-Lewin, Barcelona are keen on Bayern Munich defender Jonathan Tah, plus more.",
-   "date": "2026-11-09T21:13:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7979/live/f8476210-dc78-11f1-b441-2b33b063138f.png"
-  },
-  {
    "source": "The Guardian",
    "title": "NWSL playoffs scheduling snafu: Washington Spirit keep Audi Field; Gotham move to Icahn",
    "link": "https://www.theguardian.com/football/2026/nov/08/washington-spirit-semifinal-audi-field-gotham-nwsl-playoffs",
@@ -553,14 +561,6 @@
    "summary": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
    "date": "2026-11-09T19:00:10+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ef/live/13e8f0c0-dc55-11f1-8fe6-5becaee5408f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Kane and Bellingham air strong views in England World Cup review",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
-   "summary": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
-   "date": "2026-11-09T17:30:23+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d453cf00-dc51-11f1-a869-656dc96bd12d.jpg"
   }
  ],
  "videos": [
