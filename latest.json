@@ -1,6 +1,14 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
+   "link": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
+   "summary": "USSF cites state department advisory about QatarCompetition set to kick off in eight daysThe US men\u2019s national team have pulled out of the Fifa U-17 World Cup, which is due to kick off in Qatar in just over a week. In a\u2026",
+   "date": "2026-11-11T21:54:46+00:00",
+   "image": "https://i.guim.co.uk/img/media/6987ac7017788ecaf5e48c61ad55e3e00c026971/526_0_4393_3514/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=36e310889eb3cd518d09f9dbce90f937"
+  },
+  {
    "source": "BBC Sport",
    "title": "Arsenal join Scott chase - Thursday's gossip",
    "link": "https://www.bbc.co.uk/sport/football/articles/c62l51xyl98no?at_medium=RSS&at_campaign=rss",
@@ -71,17 +79,17 @@
    "summary": "Republic of Ireland defender Dara O'Shea is \"proud\" of how he and his team-mates came through a trying October international window.",
    "date": "2026-11-11T17:33:37+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bd9/live/3d547cc0-ddf1-11f1-ba1a-f14c9b2af876.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
-   "summary": "From 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
-   "date": "2026-11-11T16:44:58+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67bf/live/ee8455c0-dab2-11f1-8c3b-f3c0d6bd7c4f.png"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
+   "link": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
+   "summary": "USSF cites state department advisory about QatarCompetition set to kick off in eight daysThe US men\u2019s national team have pulled out of the Fifa U-17 World Cup, which is due to kick off in Qatar in just over a week. In a\u2026",
+   "date": "2026-11-11T21:54:46+00:00",
+   "image": "https://i.guim.co.uk/img/media/6987ac7017788ecaf5e48c61ad55e3e00c026971/526_0_4393_3514/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=36e310889eb3cd518d09f9dbce90f937"
+  },
   {
    "source": "BBC Sport",
    "title": "Arsenal join Scott chase - Thursday's gossip",
@@ -553,14 +561,6 @@
    "summary": "Wales have called up MK Dons striker Aaron Collins for this month's Nations League matches following Wrexham frontman Kieffer Moore's withdrawal due to injury.",
    "date": "2026-11-10T11:47:59+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b4/live/2d264c70-dcfc-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Hill gets first England call-up as Konsa cover",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
-   "summary": "Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley.",
-   "date": "2026-11-10T11:41:27+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e9/live/842dfd90-dcf9-11f1-9ef0-4b5930e2f80e.jpg"
   }
  ],
  "videos": [
