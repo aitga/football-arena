@@ -2,17 +2,33 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Shirt pull on Isak should have been penalty - panel",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo?at_medium=RSS&at_campaign=rss",
+   "summary": "Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel.",
+   "date": "2026-11-11T10:10:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Robinson unfazed by Pochettino departure talk",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.",
+   "date": "2026-11-11T09:54:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a0/live/d5773580-ddb3-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Man Utd open talks with Pochettino about replacing Carrick",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
    "summary": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job.",
-   "date": "2026-11-11T08:58:58+00:00",
+   "date": "2026-11-11T09:11:28+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg"
   },
   {
    "source": "The Guardian",
    "title": "Manchester United close on Mauricio Pochettino deal before settling Carrick\u2019s fate",
    "link": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
-   "summary": "Pochettino wants to leave USA role for UnitedWilcox and Berrada to recommend Carrick sackingManchester United are closing in on agreeing a deal for Mauricio Pochettino to become their head coach if Michael Carrick is\u2026",
+   "summary": "Pochettino wants to leave USA role for UnitedUnited board meeting scheduled for WednesdayManchester United are closing in on agreeing a deal for Mauricio Pochettino to become their head coach if Michael Carrick is\u2026",
    "date": "2026-11-11T08:56:37+00:00",
    "image": "https://i.guim.co.uk/img/media/d247e8b5d2c659232b96a1426ba5ad60664e4ca3/396_0_4901_3921/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=8b3432f1d37b78d276302f4270afa92a"
   },
@@ -63,38 +79,38 @@
    "summary": "Former Motherwell manager keen on Aberdeen vacancy and former Rangers loan winger keen on return to Ibrox one day...",
    "date": "2026-11-11T07:40:54+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a195/live/892eeb70-dda2-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "From Jersey to Somalia... via Liverpool & Man City",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
-   "date": "2026-11-11T07:13:52+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e425/live/60d99780-d9ef-11f1-bb10-cdca6001fbcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9en5k3lo?at_medium=RSS&at_campaign=rss",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "date": "2026-11-11T06:47:18+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
+   "title": "Shirt pull on Isak should have been penalty - panel",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo?at_medium=RSS&at_campaign=rss",
+   "summary": "Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel.",
+   "date": "2026-11-11T10:10:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Robinson unfazed by Pochettino departure talk",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.",
+   "date": "2026-11-11T09:54:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a0/live/d5773580-ddb3-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Man Utd open talks with Pochettino about replacing Carrick",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
    "summary": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job.",
-   "date": "2026-11-11T08:58:58+00:00",
+   "date": "2026-11-11T09:11:28+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg"
   },
   {
    "source": "The Guardian",
    "title": "Manchester United close on Mauricio Pochettino deal before settling Carrick\u2019s fate",
    "link": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
-   "summary": "Pochettino wants to leave USA role for UnitedWilcox and Berrada to recommend Carrick sackingManchester United are closing in on agreeing a deal for Mauricio Pochettino to become their head coach if Michael Carrick is\u2026",
+   "summary": "Pochettino wants to leave USA role for UnitedUnited board meeting scheduled for WednesdayManchester United are closing in on agreeing a deal for Mauricio Pochettino to become their head coach if Michael Carrick is\u2026",
    "date": "2026-11-11T08:56:37+00:00",
    "image": "https://i.guim.co.uk/img/media/d247e8b5d2c659232b96a1426ba5ad60664e4ca3/396_0_4901_3921/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=8b3432f1d37b78d276302f4270afa92a"
   },
@@ -297,14 +313,6 @@
    "summary": "Oldham Athletic manager Micky Mellon is charged by the FA following his red card during his side's FA Cup win over Sheffield Wednesday.",
    "date": "2026-11-10T16:41:54+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7304/live/75840950-dd22-11f1-ab46-9fae224bbf6f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "What is the Women's Champions League prize money?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw8dzdzq2zn6o?at_medium=RSS&at_campaign=rss",
-   "summary": "Our Ask Me Anything team break down the prize money on offer in the Women's Champions League.",
-   "date": "2026-11-10T16:29:16+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8d5/live/cae84b00-dd1c-11f1-93e1-3b657b665bcf.jpg"
   },
   {
    "source": "The Guardian",
@@ -553,14 +561,6 @@
    "summary": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years.",
    "date": "2026-11-09T22:18:17+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e9a/live/f4e649d0-dc85-11f1-851a-19e868620cad.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Wimborne to host Bradford in FA Cup second round - see the full draw",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6wyrynd848jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Seventh-tier side Wimborne Town will host League One Bradford City in the second round of the FA Cup, while former winners Leicester City will visit National League South side Dover Athletic.",
-   "date": "2026-11-09T22:10:22+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/d7ef1b30-dc72-11f1-92b6-7dd459918707.jpg"
   }
  ],
  "videos": [
@@ -673,6 +673,12 @@
    "date": "2026-11-07T17:45:32+00:00"
   },
   {
+   "channel": "LaLiga",
+   "id": "DJ1__FbbxsY",
+   "title": "\u00bfCu\u00e1ntas jornadas seguidas va a estar marcando gol MBAPP\u00c9?",
+   "date": "2026-11-11T09:27:39+00:00"
+  },
+  {
    "channel": "Serie A",
    "id": "TY-iGrA4sg8",
    "title": "A Calcio Journey | Episode 3 | Rossoneri like AC Milan",
@@ -701,12 +707,6 @@
    "id": "4cg2OLg51LQ",
    "title": "John McGinn Told The Referee He Was Nervous \ud83d\ude05",
    "date": "2026-11-10T18:40:02+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "q43GZ9fc0Uc",
-   "title": "Skills on show in the Champions League \ud83d\udcab",
-   "date": "2026-11-10T18:30:17+00:00"
   }
  ],
  "fixtures": [
