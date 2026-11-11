@@ -387,7 +387,7 @@ TEMPLATE = """<!doctype html>
 <meta property="og:url" content="https://www.footballarena.net/"><meta property="og:type" content="website"><meta property="og:site_name" content="Football Arena">
 {{GSV}}
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.footballarena.net/#website","name":"Football Arena","alternateName":"FootballArena.net","url":"https://www.footballarena.net/","inLanguage":["en","ar","fr","es","pt","de","it"]},{"@type":"Organization","@id":"https://www.footballarena.net/#org","name":"Football Arena","url":"https://www.footballarena.net/","logo":"https://www.footballarena.net/logo.png","sameAs":["https://www.facebook.com/1429286323597310"]}]}</script>
-<link rel="icon" href="logo.png">
+<link rel="icon" href="logo.png"><meta name="google-adsense-account" content="ca-pub-4322625633257352"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4322625633257352" crossorigin="anonymous"></script>
 <style>
 :root{--bg:#07140c;--card:#10251a;--line:#1f3d2b;--txt:#eef6f0;--mut:#9cb8a6;--acc:#2ee06f;--gold:#ffc83d}
 *{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:120px}
