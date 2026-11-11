@@ -376,10 +376,12 @@ def render(news_items, vids, fx=(), teams=(), slugs=None):
 TEMPLATE = """<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Football Arena – Football Highlights & News by League</title>
-<meta name="description" content="Latest football highlights and news sorted by country and league: Premier League, LaLiga, Serie A, Bundesliga, Ligue 1, Champions League and the World Cup. Plus football quizzes. Updated every hour.">
-<meta property="og:title" content="Football Arena – Highlights, News & Quizzes">
-<meta property="og:description" content="The latest football highlights and news by league, updated every hour. Test yourself with our football quiz.">
+<title>Football Arena – Football Highlights Today, Live Scores, Tables & News | ملخص مباريات اليوم</title>
+<meta name="description" content="Today's football highlights and goals, live scores, results, league tables and the latest football news from the Premier League, LaLiga, Serie A, Bundesliga, Ligue 1 and Champions League – in English and Arabic, updated every hour.">
+<meta name="keywords" content="football highlights today, football highlights, live football scores, football results, football news, Premier League table, LaLiga table, Champions League results, match highlights, goals today, ملخص مباريات اليوم, ملخصات المباريات, أهداف المباريات, نتائج المباريات, أخبار كرة القدم, ترتيب الدوري الإنجليزي, دوري أبطال أوروبا">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta property="og:title" content="Football Arena – Football Highlights Today, Live Scores & News">
+<meta property="og:description" content="Today's football highlights, live scores, league tables and news in English and Arabic, updated every hour.">
 <meta property="og:image" content="https://www.footballarena.net/logo.png">
 <link rel="canonical" href="https://www.footballarena.net/">
 <meta property="og:url" content="https://www.footballarena.net/"><meta property="og:type" content="website"><meta property="og:site_name" content="Football Arena">
@@ -486,6 +488,13 @@ nav a.livelink{color:#ff6b6b}nav a{display:inline-flex;align-items:center;gap:7p
 <section id="articles"><h2 data-i18n="h_art">Football Articles</h2><div class="grid">
 {{ARTICLES}}
 </div><p><a href="articles/index.html" style="color:var(--acc)" data-i18n="see_art">See all articles →</a></p></section>
+<section id="about-site" style="color:var(--mut);font-size:15px;line-height:1.7">
+<h2 style="color:var(--txt)">Football highlights today, live scores and football news</h2>
+<p>Football Arena brings you <b>today's football highlights</b> and goals from the official league channels, <a href="live.html" style="color:var(--acc)">live football scores</a>, full-time results and <a href="matches/index.html" style="color:var(--acc)">match reports</a>, plus the latest <b>football news</b> – all in one place and updated every hour. Follow the <a href="tables.html" style="color:var(--acc)">Premier League table</a>, LaLiga, Serie A, Bundesliga and Ligue 1 standings, top scorers and top assists, and every Champions League result.</p>
+<div dir="rtl" lang="ar" style="text-align:right">
+<h2 style="color:var(--txt)">ملخص مباريات اليوم ونتائج المباريات وأخبار كرة القدم</h2>
+<p>فوتبول أرينا يقدم لكم <b>ملخصات مباريات اليوم</b> وأهداف المباريات من القنوات الرسمية للدوريات، و<a href="live.html" style="color:var(--acc)">نتائج المباريات مباشرة</a>، و<b>أخبار كرة القدم</b> لحظة بلحظة. تابعوا <a href="tables.html" style="color:var(--acc)">ترتيب الدوري الإنجليزي</a> والدوري الإسباني والدوري الإيطالي والدوري الألماني والدوري الفرنسي، وهدافي الدوريات، ونتائج دوري أبطال أوروبا – مع تحديث كل ساعة، بالعربية والإنجليزية.</p>
+</div></section>
 </main>
 <footer><span data-i18n="updated">Updated</span> {{UPDATED}} · <span data-i18n="foot">Videos play on the official YouTube channels of each league. News headlines link to the original
 publishers (BBC Sport, The Guardian, ESPN). All rights belong to their owners.</span><br>
