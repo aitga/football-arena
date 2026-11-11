@@ -1,20 +1,28 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
+   "date": "2026-11-11T16:03:02+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Bristol City give Skubala opportunity to improve form",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c54gnev0ydnno?at_medium=RSS&at_campaign=rss",
+   "summary": "Bristol City chief executive Charlie Boss says head coach Michael Skubala will be given more time to improve their results.",
+   "date": "2026-11-11T15:52:30+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e945/live/300e91b0-dde0-11f1-b465-b9821c2582d4.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "\u2018Hear the goals during the afterlife\u2019: Bar\u00e7a fans get to inter ashes at club\u2019s new memorial",
    "link": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
    "summary": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashesLifelong supporters of Barcelona football club will soon be able to cheer on the club from\u2026",
    "date": "2026-11-11T14:30:15+00:00",
    "image": "https://i.guim.co.uk/img/media/3d0f09985159c25ab84505f7f01c326f3d1cb404/586_0_5892_4714/master/5892.jpg?width=140&quality=85&auto=format&fit=max&s=9908f378490f7743adcb5bc41a871a52"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | Mauricio Pochettino readies his jungle outfit for another big adventure",
-   "link": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!The journalist and broadcaster Danny Kelly, who helped define coverage of music and football in the UK for a generation, has died aged 69. Kelly edited the NME and Q\u2026",
-   "date": "2026-11-11T13:58:30+00:00",
-   "image": "https://i.guim.co.uk/img/media/e47ba54ce948abda061a27178d24a24ca9bdda24/267_0_4849_3879/master/4849.jpg?width=140&quality=85&auto=format&fit=max&s=aaa827aa54ca6d8c806138304a77864e"
   },
   {
    "source": "The Guardian",
@@ -36,7 +44,7 @@
    "source": "BBC Sport",
    "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty.",
+   "summary": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
    "date": "2026-11-11T12:58:17+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7299/live/2b5bc490-ddcb-11f1-9053-236ccb99630c.jpg"
   },
@@ -71,17 +79,25 @@
    "summary": "Danny Baker pays tribute to the \u2018funniest man I knew\u2019Kelly was former editor of the NME and Q magazinesThe journalist and broadcaster Danny Kelly, who helped define coverage of music and football in the UK for a\u2026",
    "date": "2026-11-11T11:56:39+00:00",
    "image": "https://i.guim.co.uk/img/media/e698ac834d3382ef8de08fcbffc89cddcdffc301/0_288_1676_1340/master/1676.jpg?width=140&quality=85&auto=format&fit=max&s=1979fef504647108103f083d8479f8e4"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Assessing the reasons for Man City's decline in form under Maresca",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
-   "summary": "The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
-   "date": "2026-11-11T11:47:09+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c72/live/a41350a0-dcfa-11f1-9ef0-4b5930e2f80e.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
+   "date": "2026-11-11T16:03:02+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Bristol City give Skubala opportunity to improve form",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c54gnev0ydnno?at_medium=RSS&at_campaign=rss",
+   "summary": "Bristol City chief executive Charlie Boss says head coach Michael Skubala will be given more time to improve their results.",
+   "date": "2026-11-11T15:52:30+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e945/live/300e91b0-dde0-11f1-b465-b9821c2582d4.jpg"
+  },
   {
    "source": "The Guardian",
    "title": "\u2018Hear the goals during the afterlife\u2019: Bar\u00e7a fans get to inter ashes at club\u2019s new memorial",
@@ -89,14 +105,6 @@
    "summary": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashesLifelong supporters of Barcelona football club will soon be able to cheer on the club from\u2026",
    "date": "2026-11-11T14:30:15+00:00",
    "image": "https://i.guim.co.uk/img/media/3d0f09985159c25ab84505f7f01c326f3d1cb404/586_0_5892_4714/master/5892.jpg?width=140&quality=85&auto=format&fit=max&s=9908f378490f7743adcb5bc41a871a52"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | Mauricio Pochettino readies his jungle outfit for another big adventure",
-   "link": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!The journalist and broadcaster Danny Kelly, who helped define coverage of music and football in the UK for a generation, has died aged 69. Kelly edited the NME and Q\u2026",
-   "date": "2026-11-11T13:58:30+00:00",
-   "image": "https://i.guim.co.uk/img/media/e47ba54ce948abda061a27178d24a24ca9bdda24/267_0_4849_3879/master/4849.jpg?width=140&quality=85&auto=format&fit=max&s=aaa827aa54ca6d8c806138304a77864e"
   },
   {
    "source": "The Guardian",
@@ -118,7 +126,7 @@
    "source": "BBC Sport",
    "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty.",
+   "summary": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
    "date": "2026-11-11T12:58:17+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7299/live/2b5bc490-ddcb-11f1-9053-236ccb99630c.jpg"
   },
@@ -177,14 +185,6 @@
    "summary": "Wage bills in third tier have increased by 15% this season\u2018Luxury tax\u2019 and three-year limits on losses consideredLeague One clubs want to introduce new spending restrictions to reduce losses by limiting investment from\u2026",
    "date": "2026-11-11T11:02:46+00:00",
    "image": "https://i.guim.co.uk/img/media/5760282c14299cd0abd001c8bbafa881466e4099/177_70_1965_1573/master/1965.jpg?width=140&quality=85&auto=format&fit=max&s=6010a400c1015f45712b4fc817764179"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
-   "date": "2026-11-11T10:34:01+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg"
   },
   {
    "source": "BBC Sport",
@@ -296,7 +296,7 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss",
    "summary": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
    "date": "2026-11-11T06:24:28+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a477/live/8845cf80-dd98-11f1-841d-6fd98310705b.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a04/live/fffa2640-dde1-11f1-9cf4-b188db5b2d8c.jpg"
   },
   {
    "source": "The Guardian",
@@ -308,7 +308,7 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Vin\u00edcius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
+   "title": "Vinicius Jr sends message to Sudan boy who received prosthetic legs",
    "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
    "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
    "date": "2026-11-11T00:19:42+00:00",
@@ -595,12 +595,6 @@
    "date": "2026-11-10T10:00:16+00:00"
   },
   {
-   "channel": "UEFA",
-   "id": "SkeFMwnSwQM",
-   "title": "The BEST Champions League Goals So Far In 2026/27",
-   "date": "2026-11-09T17:00:05+00:00"
-  },
-  {
    "channel": "Bundesliga",
    "id": "ecqOQWXUHT4",
    "title": "Backheel-Magic! | SC PADERBORN - EINTRACHT FRANKFURT | Highlights | Matchday 9 \u2013 Bundesliga 2026/27",
@@ -655,6 +649,12 @@
    "date": "2026-11-07T13:30:05+00:00"
   },
   {
+   "channel": "UEFA",
+   "id": "Pj3UoORXTpQ",
+   "title": "So good \ud83d\udc4f",
+   "date": "2026-11-11T15:43:10+00:00"
+  },
+  {
    "channel": "Serie A",
    "id": "b5w8v0-n1OE",
    "title": "Best of Gustavo Varela | Rising Star: October 2026 | Serie A 2026/27",
@@ -683,12 +683,6 @@
    "id": "0lgzN2UIcl4",
    "title": "Un sue\u00f1o: tener la camiseta de FERM\u00cdN",
    "date": "2026-11-11T13:00:14+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "bVDyVaT-ktI",
-   "title": "Best of Lazio: Gennaro Gattuso | Philadelphia Coach of the Month: October 2026 | Serie A 2026/27",
-   "date": "2026-11-11T12:00:15+00:00"
   }
  ],
  "fixtures": [
