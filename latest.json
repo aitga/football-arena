@@ -2,11 +2,27 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9en5k3lo?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-11T06:47:18+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Does Pickford finally face serious competition for his England place?",
    "link": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss",
    "summary": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
    "date": "2026-11-11T06:24:28+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a477/live/8845cf80-dd98-11f1-841d-6fd98310705b.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Bone broth, sweets ban and acupuncture: Harry Kane\u2019s road to record England cap",
+   "link": "https://www.theguardian.com/football/2026/nov/11/harry-kane-record-england-cap-bone-broth-sweets-ban-acupuncture",
+   "summary": "Obsessive attention to detail is helping striker to reach new heights \u2013 and a 126th international appearance on ThursdayIt was Harry Kane\u2019s dirty little secret. Something the England captain got up to after\u00a0matches. He\u2026",
+   "date": "2026-11-11T06:00:32+00:00",
+   "image": "https://i.guim.co.uk/img/media/fc8e734d3b329017fea7916ffac52e50458089e9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=821f086f77374e624c49d6cd1b7fec9e"
   },
   {
    "source": "BBC Sport",
@@ -63,32 +79,32 @@
    "summary": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.",
    "date": "2026-11-10T20:07:12+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2945/live/0373f810-dd50-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "McTominay reveals heart treatment two days before Scotland\u2019s World Cup opener",
-   "link": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
-   "summary": "Midfielder was in hospital before Haiti match\u2018I had to get the shock on my heart,\u2019 says McTominayScott McTominay has revealed he was in hospital under sedation to have a \u201cshock on my heart\u201d just 48 hours before Scotland\u2026",
-   "date": "2026-11-10T19:54:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/e9685665919ccffa3ac3c626e25909ba4672d0cc/186_0_3467_2773/master/3467.jpg?width=140&quality=85&auto=format&fit=max&s=2ea786c0bfd131e45d6af0e962cbb513"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Partick Thistle lose SWPL points for amateur player payments",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cme3x33vz0p0o?at_medium=RSS&at_campaign=rss",
-   "summary": "Partick Thistle are deducted three points and fined \u00a36,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last season.",
-   "date": "2026-11-10T19:23:42+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad2/live/eb58f280-dd3b-11f1-9ac0-6b8f7fc58221.jpg"
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9en5k3lo?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-11T06:47:18+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Does Pickford finally face serious competition for his England place?",
    "link": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss",
    "summary": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
    "date": "2026-11-11T06:24:28+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a477/live/8845cf80-dd98-11f1-841d-6fd98310705b.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Bone broth, sweets ban and acupuncture: Harry Kane\u2019s road to record England cap",
+   "link": "https://www.theguardian.com/football/2026/nov/11/harry-kane-record-england-cap-bone-broth-sweets-ban-acupuncture",
+   "summary": "Obsessive attention to detail is helping striker to reach new heights \u2013 and a 126th international appearance on ThursdayIt was Harry Kane\u2019s dirty little secret. Something the England captain got up to after\u00a0matches. He\u2026",
+   "date": "2026-11-11T06:00:32+00:00",
+   "image": "https://i.guim.co.uk/img/media/fc8e734d3b329017fea7916ffac52e50458089e9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=821f086f77374e624c49d6cd1b7fec9e"
   },
   {
    "source": "BBC Sport",
@@ -148,9 +164,9 @@
   },
   {
    "source": "The Guardian",
-   "title": "McTominay reveals heart treatment two days before Scotland\u2019s World Cup opener",
+   "title": "McTominay reveals he had heart \u2018shocked\u2019 two days before World Cup opener",
    "link": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
-   "summary": "Midfielder was in hospital before Haiti match\u2018I had to get the shock on my heart,\u2019 says McTominayScott McTominay has revealed he was in hospital under sedation to have a \u201cshock on my heart\u201d just 48 hours before Scotland\u2026",
+   "summary": "Midfielder was in hospital before Scotland v Haiti\u2018I had to get the shock on my heart,\u2019 says McTominayScott McTominay has revealed he was in hospital under sedation to have a \u201cshock on my heart\u201d just 48 hours before\u2026",
    "date": "2026-11-10T19:54:51+00:00",
    "image": "https://i.guim.co.uk/img/media/e9685665919ccffa3ac3c626e25909ba4672d0cc/186_0_3467_2773/master/3467.jpg?width=140&quality=85&auto=format&fit=max&s=2ea786c0bfd131e45d6af0e962cbb513"
   },
@@ -172,19 +188,11 @@
   },
   {
    "source": "The Guardian",
-   "title": "Firing a manager is often more about maintaining the illusion of control",
+   "title": "Firing a manager is often more about maintaining the illusion of control | Leander Schaerlaeckens",
    "link": "https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league",
    "summary": "In an era of advanced analytics, deciding when to move on from a manager still seems to come down to vibes rather than logicHe just had to go.His position had become untenable.Leander Schaerlaeckens is the author of The\u2026",
    "date": "2026-11-10T19:03:04+00:00",
    "image": "https://i.guim.co.uk/img/media/f5fc5e216788663c63a4855eae3efd684e3f1755/205_0_1435_1148/master/1435.jpg?width=140&quality=85&auto=format&fit=max&s=472682f084253969868dfa7463a1c7bc"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Rio Ngumoha ready to make England splash as he spells out Ballon d\u2019Or ambition",
-   "link": "https://www.theguardian.com/football/2026/nov/10/rio-ngumoha-ready-to-make-england-splash-as-he-spells-out-ballon-dor-ambition",
-   "summary": "Fearless winger has forced his way into Thomas Tuchel\u2019s plans and believes he can become best player in the worldRio Ngumoha is fearless, exciting and ready to make his mark as an England player. The Liverpool winger\u2026",
-   "date": "2026-11-10T19:00:17+00:00",
-   "image": "https://i.guim.co.uk/img/media/674bd01f3b2b9ae7552b22d6ae6c80ca18aa9673/408_0_4410_3528/master/4410.jpg?width=140&quality=85&auto=format&fit=max&s=a6f6763895e99c4fd56bf2dbb9cf2455"
   },
   {
    "source": "BBC Sport",
@@ -355,14 +363,6 @@
    "image": "https://i.guim.co.uk/img/media/96a35e6731277b6fb4dbda552e4543cf4acf1aba/350_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=6d8c69265401838cb88dbbdc8ac1cb3f"
   },
   {
-   "source": "BBC Sport",
-   "title": "Carrick's Man Utd future to be decided as Berrada and Wilcox retain support",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United head coach Michael Carrick's future will be discussed at a meeting on Wednesday, but executives Omar Berrada and Jason Wilcox retain the support of minority owner Sir Jim Ratcliffe.",
-   "date": "2026-11-10T11:23:43+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7fa/live/36f4e8e0-dcfe-11f1-933b-ff2499ee76f6.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "David Squires on \u2026 You Can MUFC Everything",
    "link": "https://www.theguardian.com/football/picture/2026/nov/10/david-squires-on-you-can-mufc-everything-manchester-united",
@@ -425,14 +425,6 @@
    "summary": "Early names in the frame for Aberdeen job as Celtic midfielder withdraws from international duty.",
    "date": "2026-11-10T07:25:56+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/ef09eb00-dcd7-11f1-b441-2b33b063138f.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vwr0zm2ro?at_medium=RSS&at_campaign=rss",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "date": "2026-11-10T06:40:56+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
   },
   {
    "source": "BBC Sport",
@@ -561,6 +553,14 @@
    "summary": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
    "date": "2026-11-09T19:00:10+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ef/live/13e8f0c0-dc55-11f1-8fe6-5becaee5408f.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Kane and Bellingham air strong views in England World Cup review",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
+   "summary": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
+   "date": "2026-11-09T17:30:23+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d453cf00-dc51-11f1-a869-656dc96bd12d.jpg"
   }
  ],
  "videos": [
