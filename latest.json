@@ -2,6 +2,14 @@
  "news": [
   {
    "source": "The Guardian",
+   "title": "\u2018I\u2019ve had to prove people wrong\u2019: Kane still striving before record England cap",
+   "link": "https://www.theguardian.com/football/2026/nov/11/harry-kane-england-most-capped-mens-player-peter-shilton-croatia-nations-league",
+   "summary": "Captain\u2019s 126th cap against Croatia will top Shilton\u2019s recordKane aims to increase record for younger players to catchHarry Kane says he still feels a pressure to prove his worth, even as he prepares to become England\u2019s\u2026",
+   "date": "2026-11-11T19:00:02+00:00",
+   "image": "https://i.guim.co.uk/img/media/64bb85da4b9d14bc7fd57a56da17ed89ca3e683d/101_0_2382_1905/master/2382.jpg?width=140&quality=85&auto=format&fit=max&s=36644f4c250edbea13e046598a8f55e1"
+  },
+  {
+   "source": "The Guardian",
    "title": "Complaint filed to IRS in relation to Fifa head Gianni Infantino\u2019s housekeeper",
    "link": "https://www.theguardian.com/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
    "summary": "It calls for inquiry into claims she was on Fifa payrollFifa: Infantino personally pays for \u2018any domestic staff\u2019A complaint has been filed to the United States Internal Revenue Service calling for an investigation into\u2026",
@@ -71,17 +79,17 @@
    "summary": "A Pro Ref referee observer is banned for nine weeks and fined \u00a3200 for making discriminatory remarks after a match he was working at.",
    "date": "2026-11-11T16:26:24+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638e/live/ad865850-dde8-11f1-9204-cdcddf7d901c.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Top four teams in Fifa rankings set to be kept apart until semi-finals at 2027 Women\u2019s World Cup",
-   "link": "https://www.theguardian.com/football/2026/nov/11/womens-world-cup-top-four-groups",
-   "summary": "Team must win World Cup group to trigger ruleSpain, US, Germany and England currently in top fourThe top four-ranked teams will be separated until the semi-finals at the 2027 Women\u2019s World Cup, provided they each win\u2026",
-   "date": "2026-11-11T16:03:44+00:00",
-   "image": "https://i.guim.co.uk/img/media/82f3118e9e2ca701f375c2cd024afd96a4719244/458_236_2668_2134/master/2668.jpg?width=140&quality=85&auto=format&fit=max&s=7de9ff8dd29f5098199fb99fd75f9bd0"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "\u2018I\u2019ve had to prove people wrong\u2019: Kane still striving before record England cap",
+   "link": "https://www.theguardian.com/football/2026/nov/11/harry-kane-england-most-capped-mens-player-peter-shilton-croatia-nations-league",
+   "summary": "Captain\u2019s 126th cap against Croatia will top Shilton\u2019s recordKane aims to increase record for younger players to catchHarry Kane says he still feels a pressure to prove his worth, even as he prepares to become England\u2019s\u2026",
+   "date": "2026-11-11T19:00:02+00:00",
+   "image": "https://i.guim.co.uk/img/media/64bb85da4b9d14bc7fd57a56da17ed89ca3e683d/101_0_2382_1905/master/2382.jpg?width=140&quality=85&auto=format&fit=max&s=36644f4c250edbea13e046598a8f55e1"
+  },
   {
    "source": "The Guardian",
    "title": "Complaint filed to IRS in relation to Fifa head Gianni Infantino\u2019s housekeeper",
@@ -553,14 +561,6 @@
    "summary": "Wales have called up MK Dons striker Aaron Collins for this month's Nations League matches following Wrexham frontman Kieffer Moore's withdrawal due to injury.",
    "date": "2026-11-10T11:47:59+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b4/live/2d264c70-dcfc-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Hill gets first England call-up as Konsa cover",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
-   "summary": "Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley.",
-   "date": "2026-11-10T11:41:27+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e9/live/842dfd90-dcf9-11f1-9ef0-4b5930e2f80e.jpg"
   }
  ],
  "videos": [
@@ -631,6 +631,12 @@
    "date": "2026-11-07T17:45:32+00:00"
   },
   {
+   "channel": "FIFA",
+   "id": "cju__zdjJDA",
+   "title": "FULL MATCH | Argentina v Cabo Verde | Round of 32 | FIFA World Cup 2026\u2122",
+   "date": "2026-11-11T19:38:49+00:00"
+  },
+  {
    "channel": "Serie A",
    "id": "LSSMhJ1ySI0",
    "title": "Behind The Scenes Of Inter-Como | Inside The Match | Serie A 2026/27",
@@ -659,12 +665,6 @@
    "id": "FAwJznXxSDE",
    "title": "FERRAN TORRES : SUR LES TRACES D' \u00ab EL TIBUR\u00d3N \u00bb \ud83e\udd88\u200b",
    "date": "2026-11-11T16:00:22+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "Pj3UoORXTpQ",
-   "title": "So good \ud83d\udc4f",
-   "date": "2026-11-11T15:43:10+00:00"
   }
  ],
  "fixtures": [
