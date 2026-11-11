@@ -1,10 +1,34 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Arsenal join Scott chase - Thursday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c62l51xyl98no?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsenal contact Bournemouth about midfielder Alex Scott, Manchester United add two defenders to list of potential targets, Aston Villa weigh up move for Chelsea midfielder Romeo Lavia, plus more.",
+   "date": "2026-11-11T21:38:01+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2955/live/0bc2bd20-de14-11f1-b441-2b33b063138f.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay",
+   "link": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-old-trafford-manager",
+   "summary": "Manager has been hurt by experiences at elite clubs but several players at Old Trafford could fit his playing styleWelcome, Mauricio, to the meat grinder. Or rather, welcome back. We\u2019ve been expecting you. There is\u2026",
+   "date": "2026-11-11T21:10:31+00:00",
+   "image": "https://i.guim.co.uk/img/media/44d7d263c31cab4914ec6deab195542e4a6a5c03/538_0_6524_5220/master/6524.jpg?width=140&quality=85&auto=format&fit=max&s=a482d657d67f4be7a9d3ec3aaf7b6c04"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmhwp1?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino could replace Michael Carrick at Manchester United.",
+   "date": "2026-11-11T20:53:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmhwt5.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "\u2018I\u2019ve had to prove people wrong\u2019: Kane still striving before record England cap",
    "link": "https://www.theguardian.com/football/2026/nov/11/harry-kane-england-most-capped-mens-player-peter-shilton-croatia-nations-league",
-   "summary": "Captain\u2019s 126th cap against Croatia will top Shilton\u2019s recordKane aims to increase record for younger players to catchHarry Kane says he still feels a pressure to prove his worth, even as he prepares to become England\u2019s\u2026",
+   "summary": "Captain to surpass Shilton with 126th cap against CroatiaKane aims to increase record for younger players to catchHarry Kane says he still feels a pressure to prove his worth, even as he prepares to become England\u2019s\u2026",
    "date": "2026-11-11T19:00:02+00:00",
    "image": "https://i.guim.co.uk/img/media/64bb85da4b9d14bc7fd57a56da17ed89ca3e683d/101_0_2382_1905/master/2382.jpg?width=140&quality=85&auto=format&fit=max&s=36644f4c250edbea13e046598a8f55e1"
   },
@@ -20,17 +44,9 @@
    "source": "The Guardian",
    "title": "Thomas Tuchel keeps laser focus on \u2018unfinished business\u2019 with England",
    "link": "https://www.theguardian.com/football/2026/nov/11/thomas-tuchel-unfinished-business-england-euro-2028-nations-league",
-   "summary": "Tuchel did not insert release clause into England dealCoach \u2018open to everything\u2019 including staying after EurosThomas Tuchel will not be going anywhere before Euro 2028. Mauricio Pochettino is expected to leave his role\u2026",
+   "summary": "Head coach did not insert release clause into contractTuchel \u2018open to everything\u2019 including staying after EurosThomas Tuchel will not be going anywhere before Euro 2028. Mauricio Pochettino is expected to leave his role\u2026",
    "date": "2026-11-11T19:00:00+00:00",
    "image": "https://i.guim.co.uk/img/media/92e575bd2970663d84f1087f935f5b90255645d3/348_0_3395_2716/master/3395.jpg?width=140&quality=85&auto=format&fit=max&s=4c9292d6bfd99e606c31a8bebc64894f"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pmh9w1?at_medium=RSS&at_campaign=rss",
-   "summary": "Harry Kane will make his 126th appearance for England on Thursday",
-   "date": "2026-11-11T18:15:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
   },
   {
    "source": "BBC Sport",
@@ -63,30 +79,38 @@
    "summary": "From 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
    "date": "2026-11-11T16:44:58+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67bf/live/ee8455c0-dab2-11f1-8c3b-f3c0d6bd7c4f.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "No excuses as Pocognoli seeks first Hampden victory",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6702jxw17pjo?at_medium=RSS&at_campaign=rss",
-   "summary": "Having lost his first two home matches, Scotland head coach Sebastien Pocognoli needs to deliver a convincing win against North Macedonia, writes Tom English.",
-   "date": "2026-11-11T16:38:14+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/230f/live/e48de6f0-ddda-11f1-b865-d17d8611efca.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Referee observer banned for discriminatory comments",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckedq15wq0dlo?at_medium=RSS&at_campaign=rss",
-   "summary": "A Pro Ref referee observer is banned for nine weeks and fined \u00a3200 for making discriminatory remarks after a match he was working at.",
-   "date": "2026-11-11T16:26:24+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638e/live/ad865850-dde8-11f1-9204-cdcddf7d901c.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Arsenal join Scott chase - Thursday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c62l51xyl98no?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsenal contact Bournemouth about midfielder Alex Scott, Manchester United add two defenders to list of potential targets, Aston Villa weigh up move for Chelsea midfielder Romeo Lavia, plus more.",
+   "date": "2026-11-11T21:38:01+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2955/live/0bc2bd20-de14-11f1-b441-2b33b063138f.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay",
+   "link": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-old-trafford-manager",
+   "summary": "Manager has been hurt by experiences at elite clubs but several players at Old Trafford could fit his playing styleWelcome, Mauricio, to the meat grinder. Or rather, welcome back. We\u2019ve been expecting you. There is\u2026",
+   "date": "2026-11-11T21:10:31+00:00",
+   "image": "https://i.guim.co.uk/img/media/44d7d263c31cab4914ec6deab195542e4a6a5c03/538_0_6524_5220/master/6524.jpg?width=140&quality=85&auto=format&fit=max&s=a482d657d67f4be7a9d3ec3aaf7b6c04"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmhwp1?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino could replace Michael Carrick at Manchester United.",
+   "date": "2026-11-11T20:53:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmhwt5.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "\u2018I\u2019ve had to prove people wrong\u2019: Kane still striving before record England cap",
    "link": "https://www.theguardian.com/football/2026/nov/11/harry-kane-england-most-capped-mens-player-peter-shilton-croatia-nations-league",
-   "summary": "Captain\u2019s 126th cap against Croatia will top Shilton\u2019s recordKane aims to increase record for younger players to catchHarry Kane says he still feels a pressure to prove his worth, even as he prepares to become England\u2019s\u2026",
+   "summary": "Captain to surpass Shilton with 126th cap against CroatiaKane aims to increase record for younger players to catchHarry Kane says he still feels a pressure to prove his worth, even as he prepares to become England\u2019s\u2026",
    "date": "2026-11-11T19:00:02+00:00",
    "image": "https://i.guim.co.uk/img/media/64bb85da4b9d14bc7fd57a56da17ed89ca3e683d/101_0_2382_1905/master/2382.jpg?width=140&quality=85&auto=format&fit=max&s=36644f4c250edbea13e046598a8f55e1"
   },
@@ -102,17 +126,9 @@
    "source": "The Guardian",
    "title": "Thomas Tuchel keeps laser focus on \u2018unfinished business\u2019 with England",
    "link": "https://www.theguardian.com/football/2026/nov/11/thomas-tuchel-unfinished-business-england-euro-2028-nations-league",
-   "summary": "Tuchel did not insert release clause into England dealCoach \u2018open to everything\u2019 including staying after EurosThomas Tuchel will not be going anywhere before Euro 2028. Mauricio Pochettino is expected to leave his role\u2026",
+   "summary": "Head coach did not insert release clause into contractTuchel \u2018open to everything\u2019 including staying after EurosThomas Tuchel will not be going anywhere before Euro 2028. Mauricio Pochettino is expected to leave his role\u2026",
    "date": "2026-11-11T19:00:00+00:00",
    "image": "https://i.guim.co.uk/img/media/92e575bd2970663d84f1087f935f5b90255645d3/348_0_3395_2716/master/3395.jpg?width=140&quality=85&auto=format&fit=max&s=4c9292d6bfd99e606c31a8bebc64894f"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pmh9w1?at_medium=RSS&at_campaign=rss",
-   "summary": "Harry Kane will make his 126th appearance for England on Thursday",
-   "date": "2026-11-11T18:15:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
   },
   {
    "source": "BBC Sport",
@@ -166,7 +182,7 @@
    "source": "The Guardian",
    "title": "Top four teams in Fifa rankings set to be kept apart until semi-finals at 2027 Women\u2019s World Cup",
    "link": "https://www.theguardian.com/football/2026/nov/11/womens-world-cup-top-four-groups",
-   "summary": "Team must win World Cup group to trigger ruleSpain, US, Germany and England currently in top fourThe top four-ranked teams will be separated until the semi-finals at the 2027 Women\u2019s World Cup, provided they each win\u2026",
+   "summary": "Team must win World Cup group to trigger ruleSpain, US, Germany and England currently in top fourThe top four ranked teams will be separated until the semi-finals at the 2027 Women\u2019s World Cup, \u00adprovided they each win\u2026",
    "date": "2026-11-11T16:03:44+00:00",
    "image": "https://i.guim.co.uk/img/media/82f3118e9e2ca701f375c2cd024afd96a4719244/458_236_2668_2134/master/2668.jpg?width=140&quality=85&auto=format&fit=max&s=7de9ff8dd29f5098199fb99fd75f9bd0"
   },
@@ -198,9 +214,9 @@
    "source": "The Guardian",
    "title": "Manchester United reach framework deal with Pochettino before settling Carrick\u2019s fate",
    "link": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
-   "summary": "Pochettino wants to leave USA role for UnitedUnited board meeting scheduled for WednesdayManchester United have a framework agreement with Mauricio Pochettino for him to become their head coach if Michael Carrick is\u2026",
+   "summary": "Pochettino wants to leave USA role for UnitedUnited board meeting scheduled for WednesdayManchester United have a framework agreement with Mauricio \u00adPochettino for him to become their head coach if Michael Carrick is\u2026",
    "date": "2026-11-11T13:52:39+00:00",
-   "image": "https://i.guim.co.uk/img/media/d247e8b5d2c659232b96a1426ba5ad60664e4ca3/396_0_4901_3921/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=8b3432f1d37b78d276302f4270afa92a"
+   "image": "https://i.guim.co.uk/img/media/baa3ef4b30d9b0b518b40b874f5cb47800712d2d/106_0_2286_1829/master/2286.jpg?width=140&quality=85&auto=format&fit=max&s=57682973a4ef193f1d491927b524c7b3"
   },
   {
    "source": "BBC Sport",
@@ -292,14 +308,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Wayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up",
-   "link": "https://www.bbc.co.uk/news/articles/cwj3462yz21lo?at_medium=RSS&at_campaign=rss",
-   "summary": "The football star will be joined by Gavin and Stacey star Joanna Page and YouTuber Sharky among others.",
-   "date": "2026-11-11T10:17:09+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ce9/live/e2d43030-ddb2-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Robinson unfazed by Pochettino departure talk",
    "link": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
    "summary": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.",
@@ -340,14 +348,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Podcast: What\u2019s going wrong at Hearts?",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pmdgqx?at_medium=RSS&at_campaign=rss",
-   "summary": "Why are Hearts conceding so many goals and how do they stop the slide?",
-   "date": "2026-11-11T08:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmdgtt.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "From Jersey to Somalia... via Liverpool & Man City",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
    "summary": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
@@ -385,14 +385,6 @@
    "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
    "date": "2026-11-11T00:19:42+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eec/live/34923590-d870-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus\u2026",
-   "date": "2026-11-10T23:08:35+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad9/live/ac0a3550-dd48-11f1-aeb2-6bd34b8670af.png"
   },
   {
    "source": "The Guardian",
@@ -561,6 +553,14 @@
    "summary": "Wales have called up MK Dons striker Aaron Collins for this month's Nations League matches following Wrexham frontman Kieffer Moore's withdrawal due to injury.",
    "date": "2026-11-10T11:47:59+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b4/live/2d264c70-dcfc-11f1-a701-fddedf244c16.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Hill gets first England call-up as Konsa cover",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
+   "summary": "Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley.",
+   "date": "2026-11-10T11:41:27+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e9/live/842dfd90-dcf9-11f1-9ef0-4b5930e2f80e.jpg"
   }
  ],
  "videos": [
@@ -631,6 +631,18 @@
    "date": "2026-11-07T17:45:32+00:00"
   },
   {
+   "channel": "LaLiga",
+   "id": "SP98keppTOE",
+   "title": "Desde la REFCAM el Valencia vs Real Madrid es A\u00daN MEJOR",
+   "date": "2026-11-11T21:00:05+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "PM8U2sCGDGc",
+   "title": "Solo RAPHINHA y MBAPP\u00c9 mejoran a ZABIRI en esto",
+   "date": "2026-11-11T20:20:50+00:00"
+  },
+  {
    "channel": "FIFA",
    "id": "cju__zdjJDA",
    "title": "FULL MATCH | Argentina v Cabo Verde | Round of 32 | FIFA World Cup 2026\u2122",
@@ -653,18 +665,6 @@
    "id": "tMMreFu2K08",
    "title": "What a finish!",
    "date": "2026-11-11T17:30:35+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "LcWWVJeRO60",
-   "title": "Los 3 jugadores con mejor media goleadora son...",
-   "date": "2026-11-11T17:00:34+00:00"
-  },
-  {
-   "channel": "Ligue 1",
-   "id": "FAwJznXxSDE",
-   "title": "FERRAN TORRES : SUR LES TRACES D' \u00ab EL TIBUR\u00d3N \u00bb \ud83e\udd88\u200b",
-   "date": "2026-11-11T16:00:22+00:00"
   }
  ],
  "fixtures": [
