@@ -2,86 +2,158 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Man Utd open talks with Pochettino about replacing Carrick",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job.",
+   "date": "2026-11-11T08:58:58+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester United close on Mauricio Pochettino deal before settling Carrick\u2019s fate",
+   "link": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
+   "summary": "Pochettino wants to leave USA role for UnitedWilcox and Berrada to recommend Carrick sackingManchester United are closing in on agreeing a deal for Mauricio Pochettino to become their head coach if Michael Carrick is\u2026",
+   "date": "2026-11-11T08:56:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/d247e8b5d2c659232b96a1426ba5ad60664e4ca3/396_0_4901_3921/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=8b3432f1d37b78d276302f4270afa92a"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "NI can draw on strong club form in key window",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3x2wz2kg0lno?at_medium=RSS&at_campaign=rss",
+   "summary": "Northern Ireland manager Michael O'Neill believes there are players in his squad who have the ability to become Premier League regulars.",
+   "date": "2026-11-11T08:09:02+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de06/live/30649f20-d939-11f1-95ea-8df9a040b6bf.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Which football club has had most international captains in the same team? | The Knowledge",
+   "link": "https://www.theguardian.com/football/2026/nov/11/football-club-most-international-captains-same-team-the-knowledge",
+   "summary": "Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managersMail us with all of your questions and answers\u201cWhich club team has had the most international captains playing together\u2026",
+   "date": "2026-11-11T08:00:33+00:00",
+   "image": "https://i.guim.co.uk/img/media/4f36b5618d34e3eaf77c94467afa79dfade45a2c/513_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=b3248dec59460214f85809183e1a815a"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Is No 10 still the best, or No 41? The myths and maths of Premier League shirt numbers",
+   "link": "https://www.theguardian.com/football/2026/nov/11/is-no-10-still-the-best-or-no-41-the-myths-and-maths-of-premier-league-shirt-numbers",
+   "summary": "While No 9s still score the most goals and No 1s try to stop them, trends have changed since the introduction of squad numbers in the early 1990sHow much is a shirt number worth? It costs \u00a38 if you want two digits added\u2026",
+   "date": "2026-11-11T08:00:32+00:00",
+   "image": "https://i.guim.co.uk/img/media/fbbfef5aa93239fc3fc75801c29612000172d88f/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=33aad7f78064d20b8546ef2623bdcb31"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Dalkeith to LA pays off for Porteous with Scotland recall",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5zjxjj91dn1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane.",
+   "date": "2026-11-11T08:00:14+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abc4/live/a6cbac80-dd3f-11f1-9ac0-6b8f7fc58221.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Podcast: What\u2019s going wrong at Hearts?",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmdgqx?at_medium=RSS&at_campaign=rss",
+   "summary": "Why are Hearts conceding so many goals and how do they stop the slide?",
+   "date": "2026-11-11T08:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmdgtt.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Wimmer among Aberdeen applicants - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6y97eew80p7o?at_medium=RSS&at_campaign=rss",
+   "summary": "Former Motherwell manager keen on Aberdeen vacancy and former Rangers loan winger keen on return to Ibrox one day...",
+   "date": "2026-11-11T07:40:54+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a195/live/892eeb70-dda2-11f1-a701-fddedf244c16.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "From Jersey to Somalia... via Liverpool & Man City",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
+   "date": "2026-11-11T07:13:52+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e425/live/60d99780-d9ef-11f1-bb10-cdca6001fbcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Who am I? Plus today's other quizzes",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9en5k3lo?at_medium=RSS&at_campaign=rss",
    "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
    "date": "2026-11-11T06:47:18+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Does Pickford finally face serious competition for his England place?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
-   "date": "2026-11-11T06:24:28+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a477/live/8845cf80-dd98-11f1-841d-6fd98310705b.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Bone broth, sweets ban and acupuncture: Harry Kane\u2019s road to record England cap",
-   "link": "https://www.theguardian.com/football/2026/nov/11/harry-kane-record-england-cap-bone-broth-sweets-ban-acupuncture",
-   "summary": "Obsessive attention to detail is helping striker to reach new heights \u2013 and a 126th international appearance on ThursdayIt was Harry Kane\u2019s dirty little secret. Something the England captain got up to after\u00a0matches. He\u2026",
-   "date": "2026-11-11T06:00:32+00:00",
-   "image": "https://i.guim.co.uk/img/media/fc8e734d3b329017fea7916ffac52e50458089e9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=821f086f77374e624c49d6cd1b7fec9e"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus\u2026",
-   "date": "2026-11-10T23:08:35+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad9/live/ac0a3550-dd48-11f1-aeb2-6bd34b8670af.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "72+: The EFL Podcast",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pmc96j?at_medium=RSS&at_campaign=rss",
-   "summary": "Former Bromley boss Andy Woodman joins Aaron and Jobi.",
-   "date": "2026-11-10T22:29:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Leicester and Brentford U21 into EFL Trophy knockout stages",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories.",
-   "date": "2026-11-10T22:17:53+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ec/live/48ff4c20-dd57-11f1-acd1-a78ce9f5fae0.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Fujino\u2019s double sparks WCL comeback win for Manchester City against Inter",
-   "link": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
-   "summary": "On a very satisfying night for Manchester City, perhaps the most pleasing element was that they did not even need to call on Khadija \u2018Bunny\u2019 Shaw.While giving their talismanic striker some precious rest, Manchester\u2026",
-   "date": "2026-11-10T22:05:43+00:00",
-   "image": "https://i.guim.co.uk/img/media/7000df5b2963b6ae848e08ba69ff3a22fba7b2ab/908_394_5774_4619/master/5774.jpg?width=140&quality=85&auto=format&fit=max&s=6b134fa779c198816409f404ad66d100"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Man City thrash Inter to claim first CL win of season",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season.",
-   "date": "2026-11-10T22:05:15+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee5/live/a807f7e0-dd51-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Pocognoli to lean on Scotland's 'captain group of five'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach.",
-   "date": "2026-11-10T20:49:11+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a3/live/94ca09f0-dd35-11f1-ab86-698de9f28d28.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Chelsea play out goalless draw with Hacken",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
-   "summary": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.",
-   "date": "2026-11-10T20:07:12+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2945/live/0373f810-dd50-11f1-a701-fddedf244c16.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Man Utd open talks with Pochettino about replacing Carrick",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job.",
+   "date": "2026-11-11T08:58:58+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester United close on Mauricio Pochettino deal before settling Carrick\u2019s fate",
+   "link": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
+   "summary": "Pochettino wants to leave USA role for UnitedWilcox and Berrada to recommend Carrick sackingManchester United are closing in on agreeing a deal for Mauricio Pochettino to become their head coach if Michael Carrick is\u2026",
+   "date": "2026-11-11T08:56:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/d247e8b5d2c659232b96a1426ba5ad60664e4ca3/396_0_4901_3921/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=8b3432f1d37b78d276302f4270afa92a"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "NI can draw on strong club form in key window",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3x2wz2kg0lno?at_medium=RSS&at_campaign=rss",
+   "summary": "Northern Ireland manager Michael O'Neill believes there are players in his squad who have the ability to become Premier League regulars.",
+   "date": "2026-11-11T08:09:02+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de06/live/30649f20-d939-11f1-95ea-8df9a040b6bf.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Which football club has had most international captains in the same team? | The Knowledge",
+   "link": "https://www.theguardian.com/football/2026/nov/11/football-club-most-international-captains-same-team-the-knowledge",
+   "summary": "Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managersMail us with all of your questions and answers\u201cWhich club team has had the most international captains playing together\u2026",
+   "date": "2026-11-11T08:00:33+00:00",
+   "image": "https://i.guim.co.uk/img/media/4f36b5618d34e3eaf77c94467afa79dfade45a2c/513_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=b3248dec59460214f85809183e1a815a"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Is No 10 still the best, or No 41? The myths and maths of Premier League shirt numbers",
+   "link": "https://www.theguardian.com/football/2026/nov/11/is-no-10-still-the-best-or-no-41-the-myths-and-maths-of-premier-league-shirt-numbers",
+   "summary": "While No 9s still score the most goals and No 1s try to stop them, trends have changed since the introduction of squad numbers in the early 1990sHow much is a shirt number worth? It costs \u00a38 if you want two digits added\u2026",
+   "date": "2026-11-11T08:00:32+00:00",
+   "image": "https://i.guim.co.uk/img/media/fbbfef5aa93239fc3fc75801c29612000172d88f/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=33aad7f78064d20b8546ef2623bdcb31"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Dalkeith to LA pays off for Porteous with Scotland recall",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5zjxjj91dn1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane.",
+   "date": "2026-11-11T08:00:14+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abc4/live/a6cbac80-dd3f-11f1-9ac0-6b8f7fc58221.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Podcast: What\u2019s going wrong at Hearts?",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmdgqx?at_medium=RSS&at_campaign=rss",
+   "summary": "Why are Hearts conceding so many goals and how do they stop the slide?",
+   "date": "2026-11-11T08:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmdgtt.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Wimmer among Aberdeen applicants - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6y97eew80p7o?at_medium=RSS&at_campaign=rss",
+   "summary": "Former Motherwell manager keen on Aberdeen vacancy and former Rangers loan winger keen on return to Ibrox one day...",
+   "date": "2026-11-11T07:40:54+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a195/live/892eeb70-dda2-11f1-a701-fddedf244c16.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "From Jersey to Somalia... via Liverpool & Man City",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
+   "date": "2026-11-11T07:13:52+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e425/live/60d99780-d9ef-11f1-bb10-cdca6001fbcf.jpg"
+  },
   {
    "source": "BBC Sport",
    "title": "Who am I? Plus today's other quizzes",
@@ -211,14 +283,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e92b/live/66e9b0b0-dc33-11f1-958b-3f65a8ba2dc3.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
-   "link": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
-   "summary": "Coach\u2019s contract has release clause of about $10mUnited expected to sack Michael Carrick after awful startUS men\u2019s national team head coach Mauricio Pochettino is interested in a move to Manchester United, multiple\u2026",
-   "date": "2026-11-10T17:40:40+00:00",
-   "image": "https://i.guim.co.uk/img/media/3cc99fc110813bdce8e26eca468776c682bebc79/241_0_3848_3079/master/3848.jpg?width=140&quality=85&auto=format&fit=max&s=cb1644159c61e6d1bce7a9d58421d3e9"
-  },
-  {
    "source": "BBC Sport",
    "title": "McTominay reveals heart treatment at World Cup",
    "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
@@ -241,14 +305,6 @@
    "summary": "Our Ask Me Anything team break down the prize money on offer in the Women's Champions League.",
    "date": "2026-11-10T16:29:16+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8d5/live/cae84b00-dd1c-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss",
-   "summary": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
-   "date": "2026-11-10T16:17:10+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d7/live/8668d6c0-dd17-11f1-b441-2b33b063138f.png"
   },
   {
    "source": "The Guardian",
@@ -324,19 +380,19 @@
   },
   {
    "source": "The Guardian",
-   "title": "From W-M to the No 10, shirt numbers tell a story of football\u2019s tactical evolution",
-   "link": "https://www.theguardian.com/football/2026/nov/10/shirt-numbers-tell-story-football-tactical-evolution",
-   "summary": "In the days before squad numbers, the number on a shirt was an indicator of position, as well as the attributes a player was supposed to demonstrateUltimate 1-50: check out our complete list of playersNumbers have a\u2026",
-   "date": "2026-11-10T12:00:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/c21f57c8e352902d57fa9da6c6812586e3139312/23_21_2580_2064/master/2580.jpg?width=140&quality=85&auto=format&fit=max&s=18377859c063fa0f9202c31836ab1f94"
-  },
-  {
-   "source": "The Guardian",
    "title": "Sisters in Sweat: how a former Spurs player got 20,000 Indian women into sport",
    "link": "https://www.theguardian.com/football/2026/nov/10/sisters-in-sweat-indian-women-sport-moving-the-goalposts",
    "summary": "A dinner-party question, a Sunday kickabout and an idea that snowballed. Nine years on, Tanvie Hans and Swetha Subbiah have taken sporting sisterhood to 10 citiesOn a breezy evening in 2017, as conversations flowed and\u2026",
    "date": "2026-11-10T12:00:51+00:00",
    "image": "https://i.guim.co.uk/img/media/8b9d0965acc0ef1eea103567b93ef586f2fee635/173_22_939_752/master/939.jpg?width=140&quality=85&auto=format&fit=max&s=06b8b24347489afb77efa8df9e52d6e7"
+  },
+  {
+   "source": "The Guardian",
+   "title": "From W-M to the No 10, shirt numbers tell a story of football\u2019s tactical evolution",
+   "link": "https://www.theguardian.com/football/2026/nov/10/shirt-numbers-tell-story-football-tactical-evolution",
+   "summary": "In the days before squad numbers, the number on a shirt was an indicator of position, as well as the attributes a player was supposed to demonstrateUltimate 1-50: check out our complete list of playersNumbers have a\u2026",
+   "date": "2026-11-10T12:00:51+00:00",
+   "image": "https://i.guim.co.uk/img/media/c21f57c8e352902d57fa9da6c6812586e3139312/23_21_2580_2064/master/2580.jpg?width=140&quality=85&auto=format&fit=max&s=18377859c063fa0f9202c31836ab1f94"
   },
   {
    "source": "BBC Sport",
@@ -404,27 +460,11 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Podcast: What is going wrong at Aberdeen?",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pm7gkd?at_medium=RSS&at_campaign=rss",
-   "summary": "Robinson is out, but are Aberdeen\u2019s problems much bigger than the manager?",
-   "date": "2026-11-10T08:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm7gks.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "How Germany's greatest goalscorer is guiding the next generation",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmq8nnddpllqo?at_medium=RSS&at_campaign=rss",
    "summary": "Miroslav Klose rose from amateur to World Cup winner as a player - now the German is forging a similar path as a coach.",
    "date": "2026-11-10T07:34:07+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dc1/live/d2819320-d9f8-11f1-84c1-dbcae60402d7.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Caldwell & McGlynn linked with Aberdeen job - gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8ly0y5q34pno?at_medium=RSS&at_campaign=rss",
-   "summary": "Early names in the frame for Aberdeen job as Celtic midfielder withdraws from international duty.",
-   "date": "2026-11-10T07:25:56+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/ef09eb00-dcd7-11f1-b441-2b33b063138f.png"
   },
   {
    "source": "BBC Sport",
@@ -476,14 +516,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Injuries, noise & scalps - Wrexham's season so far",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8x232yy5494o?at_medium=RSS&at_campaign=rss",
-   "summary": "Wrexham have had a slow start to the season and some off-field turbulence but having steadied the ship could they be on track for the play-offs?",
-   "date": "2026-11-10T04:13:48+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89d9/live/db5672a0-dc31-11f1-958b-3f65a8ba2dc3.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
    "link": "https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&at_campaign=rss",
    "summary": "Two Andrew Neal penalties sew Plymouth Parkway earn a first-ever trip to the second round of the FA Cup after a coming from a goal down to beat Berkhamsted 2-1 in extra time.",
@@ -529,46 +561,50 @@
    "summary": "Seventh-tier side Wimborne Town will host League One Bradford City in the second round of the FA Cup, while former winners Leicester City will visit National League South side Dover Athletic.",
    "date": "2026-11-09T22:10:22+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/d7ef1b30-dc72-11f1-92b6-7dd459918707.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Manchester\u2019s soulless content machine football clubs sum up post-imperial Britain | Barney Ronay",
-   "link": "https://www.theguardian.com/football/2026/nov/09/manchester-united-city-soulless-content-machines-premier-league",
-   "summary": "United and City dominate the news cycle with stories so strange and vast they threaten to consume the rest of the leagueIn Manchester this weekend it was possible to bookend your Thursday\u2011to\u2011Sunday entertainment with\u2026",
-   "date": "2026-11-09T21:40:16+00:00",
-   "image": "https://i.guim.co.uk/img/media/96db3ba40b7a8e3f419b2a5abfd1bab89cefcb18/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bd3abb0fd99b1b67d04f3bb9737b989f"
-  },
-  {
-   "source": "The Guardian",
-   "title": "NWSL playoffs scheduling snafu: Washington Spirit keep Audi Field; Gotham move to Icahn",
-   "link": "https://www.theguardian.com/football/2026/nov/08/washington-spirit-semifinal-audi-field-gotham-nwsl-playoffs",
-   "summary": "Washington to play in Saturday noon broadcast windowShift to Northwest Stadium was reportedly in playGotham move to Icahn amid \u2018atrocious\u2019 pitch conditionsThe Washington Spirit will play their NWSL semi-final at Audi\u2026",
-   "date": "2026-11-09T20:51:37+00:00",
-   "image": "https://i.guim.co.uk/img/media/e079dfd567b2d1cf2a6ad7f5ab5f35d6622d9793/168_0_5893_4720/master/5893.jpg?width=140&quality=85&auto=format&fit=max&s=ce7e3a46bbb16e6ae37cf08ae555ccf1"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "People don't know full story behind England exile - White",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
-   "date": "2026-11-09T19:00:10+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ef/live/13e8f0c0-dc55-11f1-8fe6-5becaee5408f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Kane and Bellingham air strong views in England World Cup review",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
-   "summary": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
-   "date": "2026-11-09T17:30:23+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d453cf00-dc51-11f1-a869-656dc96bd12d.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "LaLiga",
+   "id": "5NbPS52DETE",
+   "title": "The Highlight Hattrick of MD12 by Goalitos LALIGA!",
+   "date": "2026-11-11T03:00:00+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "Iazh_BIa7Aw",
+   "title": "DOUBLE JUVE COMEBACK \ud83d\ude31 | FIORENTINA-JUVENTUS CINEMATIC HIGHLIGHTS | Serie A 2026/27",
+   "date": "2026-11-10T15:00:11+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "15hGtRJ3aFk",
+   "title": "FIORENTINA-JUVENTUS 2-2 | EXTENDED HIGHLIGHTS | SERIE A 2026/27",
+   "date": "2026-11-10T10:00:16+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "jh3H2Mk8H60",
+   "title": "MAXI SINTESI FIORENTINA-JUVENTUS 2-2 | EXTENDED HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-10T10:00:09+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "c63lGITjmSg",
+   "title": "TOP GOALS \u26bd\ufe0f From Serie A Round 11 | 2026/27",
+   "date": "2026-11-09T18:11:06+00:00"
+  },
   {
    "channel": "Premier League",
    "id": "tgciuOIn7o8",
    "title": "What A Goal This Would Have Been \ud83d\ude32",
    "date": "2026-11-09T17:31:24+00:00"
+  },
+  {
+   "channel": "UEFA",
+   "id": "SkeFMwnSwQM",
+   "title": "The BEST Champions League Goals So Far In 2026/27",
+   "date": "2026-11-09T17:00:05+00:00"
   },
   {
    "channel": "Premier League",
@@ -577,40 +613,100 @@
    "date": "2026-11-09T11:52:18+00:00"
   },
   {
+   "channel": "Bundesliga",
+   "id": "ecqOQWXUHT4",
+   "title": "Backheel-Magic! | SC PADERBORN - EINTRACHT FRANKFURT | Highlights | Matchday 9 \u2013 Bundesliga 2026/27",
+   "date": "2026-11-08T23:00:36+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "BWT27rhlHAw",
+   "title": "Comeback After Early Shock!! | RB LEIPZIG - FC AUGSBURG | Highlights | Matchday 9 \u2013 Bundesliga 26/27",
+   "date": "2026-11-08T23:00:28+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "HYxfJfIbSvY",
+   "title": "Nmecha-BRACE! | BORUSSIA DORTMUND - SV ELVERSBERG | Highlights | Matchday 9 \u2013 Bundesliga 2026/27",
+   "date": "2026-11-08T23:00:27+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "xgcG0s8R7Os",
+   "title": "Rocket From Kimmich! | MAINZ 05 - FC BAYERN | Highlights | Matchday 9 \u2013 Bundesliga 2026/27",
+   "date": "2026-11-08T23:00:22+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "ChTwAKgrKhs",
+   "title": "Schick with the Away-Derby-Winner! | 1. FC K\u00d6LN - BAYER 04 LEVERKUSEN | Highlights | MD 9 Bundesliga",
+   "date": "2026-11-08T23:00:14+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "ClWLtwz1MW8",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0623\u062a\u0644\u064a\u062a\u064a\u0643\u0648 \u0645\u062f\u0631\u064a\u062f \u0648\u0628\u0631\u0634\u0644\u0648\u0646\u0629 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 12",
+   "date": "2026-11-08T22:51:50+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "z05Utm_Hmxg",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629  \u0623\u0644\u0627\u0646\u064a\u0627 \u0633\u0628\u0648\u0631 \u0648\u0637\u0631\u0627\u0628\u0632\u0648\u0646 \u0633\u0628\u0648\u0631 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u062a\u0631\u0643\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 11",
+   "date": "2026-11-08T22:36:39+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "fcpuh0FA7m4",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u064a\u0648\u0646\u0627\u064a\u062a\u062f \u0648\u0623\u0633\u062a\u0648\u0646 \u0641\u064a\u0644\u0627 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0627\u0644\u0645\u0645\u062a\u0627\u0632 - \u0627\u0644\u062c\u0648\u0644\u0629  10",
+   "date": "2026-11-08T20:13:14+00:00"
+  },
+  {
+   "channel": "FIFA",
+   "id": "OFrsybPMGSw",
+   "title": "Japan vs Nigeria Highlights | FIFA U-17 Women's World Cup 2026\u2122",
+   "date": "2026-11-07T21:56:32+00:00"
+  },
+  {
+   "channel": "FIFA",
+   "id": "nbJzleYMVH0",
+   "title": "DPR Korea vs Brazil Highlights | FIFA U-17 Women's World Cup 2026\u2122",
+   "date": "2026-11-07T17:45:32+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "TY-iGrA4sg8",
+   "title": "A Calcio Journey | Episode 3 | Rossoneri like AC Milan",
+   "date": "2026-11-11T09:00:01+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "msne4d-J7pI",
+   "title": "Arda G\u00fcler es una SUPERESTRELLA",
+   "date": "2026-11-10T21:00:01+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "wBh3pzebX6g",
+   "title": "El SHOW de FERM\u00cdN L\u00d3PEZ en LALIGA \u26bd",
+   "date": "2026-11-10T20:00:18+00:00"
+  },
+  {
+   "channel": "FIFA",
+   "id": "w9Ta9Sf_R8g",
+   "title": "FULL MATCH | Sweden v USA | Round of 16 | FIFA Women's World Cup 2023\u2122",
+   "date": "2026-11-10T19:43:03+00:00"
+  },
+  {
    "channel": "Premier League",
    "id": "4cg2OLg51LQ",
    "title": "John McGinn Told The Referee He Was Nervous \ud83d\ude05",
    "date": "2026-11-10T18:40:02+00:00"
   },
   {
-   "channel": "Premier League",
-   "id": "JTJkO6vaPsg",
-   "title": "McBurnie Names Hull's DJ, Chef & Pro Clubs Player \ud83d\ude05",
-   "date": "2026-11-10T16:01:13+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "o2qto1uuF28",
-   "title": "Brighton's Ferdi Kadioglu Reveals His BIG MOMENT Player",
-   "date": "2026-11-10T14:01:16+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "RruJDQTo8BA",
-   "title": "Madueke Made Things HAPPEN! \u26a1\ufe0f",
-   "date": "2026-11-10T13:30:16+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "iA-kVTj98PQ",
-   "title": "SIUUU! Premier League Has Caught Ronaldo Fever \ud83d\udd25",
-   "date": "2026-11-10T11:00:01+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "RPHaUoTVNKc",
-   "title": "Evanilson With The No-Look Finish \ud83e\udee3\ud83c\udde7\ud83c\uddf7",
-   "date": "2026-11-09T13:57:43+00:00"
+   "channel": "UEFA",
+   "id": "q43GZ9fc0Uc",
+   "title": "Skills on show in the Champions League \ud83d\udcab",
+   "date": "2026-11-10T18:30:17+00:00"
   }
  ],
  "fixtures": [
