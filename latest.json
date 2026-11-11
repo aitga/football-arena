@@ -1,6 +1,14 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Euro Leagues",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmj6yk?at_medium=RSS&at_campaign=rss",
+   "summary": "John Bennett is joined by Rafa Honigstein and Julien Laurens",
+   "date": "2026-11-11T23:08:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
    "link": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
@@ -71,17 +79,17 @@
    "summary": "An MP is calling for legal safeguards to limit repetitive heading in football training, amid growing concerns about the risk of brain injury.",
    "date": "2026-11-11T17:38:18+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2766/live/008813c0-ddf5-11f1-8445-15eb55286f71.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "O'Shea proud of how team-mates handled Israel games",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwg7l9nd0p1zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Republic of Ireland defender Dara O'Shea is \"proud\" of how he and his team-mates came through a trying October international window.",
-   "date": "2026-11-11T17:33:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bd9/live/3d547cc0-ddf1-11f1-ba1a-f14c9b2af876.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Euro Leagues",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmj6yk?at_medium=RSS&at_campaign=rss",
+   "summary": "John Bennett is joined by Rafa Honigstein and Julien Laurens",
+   "date": "2026-11-11T23:08:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
+  },
   {
    "source": "The Guardian",
    "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
@@ -553,14 +561,6 @@
    "summary": "A dinner-party question, a Sunday kickabout and an idea that snowballed. Nine years on, Tanvie Hans and Swetha Subbiah have taken sporting sisterhood to 10 citiesOn a breezy evening in 2017, as conversations flowed and\u2026",
    "date": "2026-11-10T12:00:51+00:00",
    "image": "https://i.guim.co.uk/img/media/8b9d0965acc0ef1eea103567b93ef586f2fee635/173_22_939_752/master/939.jpg?width=140&quality=85&auto=format&fit=max&s=06b8b24347489afb77efa8df9e52d6e7"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Wales call up MK Dons' Collins as Moore withdraws",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c62l4l2k0lyro?at_medium=RSS&at_campaign=rss",
-   "summary": "Wales have called up MK Dons striker Aaron Collins for this month's Nations League matches following Wrexham frontman Kieffer Moore's withdrawal due to injury.",
-   "date": "2026-11-10T11:47:59+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b4/live/2d264c70-dcfc-11f1-a701-fddedf244c16.png"
   }
  ],
  "videos": [
