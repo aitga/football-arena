@@ -36,7 +36,7 @@ def page(title, desc, body, depth, note=True, extra="", path="", jsonld=None, he
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(title)} – Football Arena</title><meta name="description" content="{e(desc)}">
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}">
-<link rel="icon" href="{up}logo.png">{seo}<style>{CSS}</style></head><body>
+<link rel="icon" href="{up}logo.png"><meta name="google-adsense-account" content="ca-pub-4322625633257352"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4322625633257352" crossorigin="anonymous"></script>{seo}<style>{CSS}</style></head><body>
 <header><div class="top"><a href="{up}index.html"><img src="{up}logo.png" alt="Football Arena"></a><b>FOOTBALL <span>ARENA</span></b>
 <nav><a href="{up}index.html#highlights" data-i18n="nav_hl">Highlights</a><a href="{up}index.html#news" data-i18n="nav_news">News</a><a href="{up}articles/index.html" data-i18n="nav_art">Articles</a><a href="{up}live.html" style="color:#ff6b6b" data-i18n="nav_live">Live</a><a href="{up}tables.html" data-i18n="nav_tables">Tables</a><a href="{up}matches/index.html" data-i18n="nav_fix">Matches</a><a href="{up}quiz.html" style="color:#ffc83d" data-i18n="nav_quiz">Quiz</a><a href="{up}about.html" data-i18n="nav_about">About</a>
 <select class="langpick" aria-label="Language"></select></nav></div></header>
