@@ -1,6 +1,30 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Scotland without captain Weir for World Cup play-off",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c64gnlevgj1zo?at_medium=RSS&at_campaign=rss",
+   "summary": "Scotland are missing the influential Caroline Weir for the World Cup play-off final with Sweden as she recovers from a muscle injury.",
+   "date": "2026-11-11T11:59:18+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52c4/live/a84cbbe0-ddbb-11f1-9582-1b529d725aaf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Psychological uncertainty and tactics - assessing the issues at Man City",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
+   "summary": "The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
+   "date": "2026-11-11T11:47:09+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c72/live/a41350a0-dcfa-11f1-9ef0-4b5930e2f80e.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "You are Scotland boss Pocognoli - what would you do?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwr7y79jm354o?at_medium=RSS&at_campaign=rss",
+   "summary": "Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the home game with North Macedonia.",
+   "date": "2026-11-11T11:33:55+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "League One clubs aim for further curbs on spending as budgets continue to spiral",
    "link": "https://www.theguardian.com/football/2026/nov/11/league-one-clubs-spending-limits-rules",
@@ -55,33 +79,33 @@
    "summary": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.",
    "date": "2026-11-11T09:54:38+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a0/live/d5773580-ddb3-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Manchester United close on Mauricio Pochettino deal before settling Carrick\u2019s fate",
-   "link": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
-   "summary": "Pochettino wants to leave USA role for UnitedUnited board meeting scheduled for WednesdayManchester United are closing in on agreeing a deal for Mauricio Pochettino to become their head coach if Michael Carrick is\u2026",
-   "date": "2026-11-11T08:56:37+00:00",
-   "image": "https://i.guim.co.uk/img/media/d247e8b5d2c659232b96a1426ba5ad60664e4ca3/396_0_4901_3921/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=8b3432f1d37b78d276302f4270afa92a"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "NI can draw on strong club form in key window",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3x2wz2kg0lno?at_medium=RSS&at_campaign=rss",
-   "summary": "Northern Ireland manager Michael O'Neill believes there are players in his squad who have the ability to become Premier League regulars.",
-   "date": "2026-11-11T08:09:02+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de06/live/30649f20-d939-11f1-95ea-8df9a040b6bf.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Which football club has had most international captains in the same team? | The Knowledge",
-   "link": "https://www.theguardian.com/football/2026/nov/11/football-club-most-international-captains-same-team-the-knowledge",
-   "summary": "Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managersMail us with all of your questions and answers\u201cWhich club team has had the most international captains playing together\u2026",
-   "date": "2026-11-11T08:00:33+00:00",
-   "image": "https://i.guim.co.uk/img/media/4f36b5618d34e3eaf77c94467afa79dfade45a2c/513_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=b3248dec59460214f85809183e1a815a"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Scotland without captain Weir for World Cup play-off",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c64gnlevgj1zo?at_medium=RSS&at_campaign=rss",
+   "summary": "Scotland are missing the influential Caroline Weir for the World Cup play-off final with Sweden as she recovers from a muscle injury.",
+   "date": "2026-11-11T11:59:18+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52c4/live/a84cbbe0-ddbb-11f1-9582-1b529d725aaf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Psychological uncertainty and tactics - assessing the issues at Man City",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
+   "summary": "The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
+   "date": "2026-11-11T11:47:09+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c72/live/a41350a0-dcfa-11f1-9ef0-4b5930e2f80e.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "You are Scotland boss Pocognoli - what would you do?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwr7y79jm354o?at_medium=RSS&at_campaign=rss",
+   "summary": "Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the home game with North Macedonia.",
+   "date": "2026-11-11T11:33:55+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
+  },
   {
    "source": "The Guardian",
    "title": "League One clubs aim for further curbs on spending as budgets continue to spiral",
@@ -324,14 +348,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
-   "date": "2026-11-10T18:12:02+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2726/live/abc28950-dd19-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Wales' Johnson says definitely more to come after 50 caps",
    "link": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo?at_medium=RSS&at_campaign=rss",
    "summary": "Brennan Johnson says he is happy with what he has achieved in football but would like to reach more major tournaments with Wales.",
@@ -545,25 +561,15 @@
    "summary": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
    "date": "2026-11-10T06:24:50+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Ultimate 1-50: the male footballers best associated with each squad number",
-   "link": "https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number",
-   "summary": "Who is football\u2019s most legendary No 9? Has there ever been a legendary No 28? And why exactly does Mario Balotelli love wearing No 45 so much? Here\u2019s our list and the stories behind itThe relationship between players\u2026",
-   "date": "2026-11-10T06:00:30+00:00",
-   "image": "https://i.guim.co.uk/img/media/8b8266c11f37f734cb122e22b6d3815075a4a4ee/2_0_4936_3951/master/4936.jpg?width=140&quality=85&auto=format&fit=max&s=ad8c86a5ab1a698cbdc76b640ce1194b"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "The fans at the foggy FA Cup game no-one could see",
-   "link": "https://www.bbc.co.uk/news/articles/cmqjnjvld27yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Thick fog left Notts County fans unable to see parts of the Magpies' FA Cup win over Altrincham.",
-   "date": "2026-11-10T06:00:05+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8923/live/7ae38780-dc42-11f1-93e1-3b657b665bcf.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "Premier League",
+   "id": "8tlswHDgab4",
+   "title": "Everyone Thought It Was A Goal... Until These Tackles!",
+   "date": "2026-11-11T11:21:55+00:00"
+  },
   {
    "channel": "LaLiga",
    "id": "5NbPS52DETE",
