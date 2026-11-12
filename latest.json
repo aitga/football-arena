@@ -1,6 +1,38 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Nations League: Italy roar back to beat France despite Donnarumma\u2019s early howler",
+   "link": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
+   "summary": "Loss is Zinedine Zidane\u2019s first as France head coachSpain beat Czechia 2-0 to maintain 100% recordFrancesco Pio Esposito struck twice to inflict a first defeat on Zinedine Zidane as France head coach as Italy stormed\u2026",
+   "date": "2026-11-12T22:31:35+00:00",
+   "image": "https://i.guim.co.uk/img/media/c383c8cbd033340ae1748689f545ed72e3b44160/358_191_2558_2046/master/2558.jpg?width=140&quality=85&auto=format&fit=max&s=cef73d375bed89d81e3ac9dc23e9077a"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Grealish apologises for absence after breach of discipline",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgp8e2ljxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Jack Grealish issues an apology to Everton fans for his recent absence due to a disciplinary issue.",
+   "date": "2026-11-12T22:10:13+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba4/live/6d670f60-dedf-11f1-a75a-dbf83836672c.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Where does Kane rank among all-time England greats?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
+   "summary": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
+   "date": "2026-11-12T22:09:59+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5525/live/60ecddc0-de97-11f1-a701-fddedf244c16.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Harry Kane spot on to seal England win over Croatia on his record-breaking night",
+   "link": "https://www.theguardian.com/football/2026/nov/12/england-croatia-nations-league-match-report",
+   "summary": "It was an historic occasion for Harry Kane, the one when he made his 126th England appearance and overtook Peter Shilton as the nation\u2019s most capped men\u2019s player. And for much of the night, it felt as though the desire\u2026",
+   "date": "2026-11-12T21:58:39+00:00",
+   "image": "https://i.guim.co.uk/img/media/c44bfd8b33945e48111834cffbbb8c102988bbca/46_301_2600_2081/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=51d1429f17fab9716769b13cb50836a9"
+  },
+  {
    "source": "BBC Sport",
    "title": "Gritty Arsenal show different side in Barcelona draw",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
@@ -15,14 +47,6 @@
    "summary": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
    "date": "2026-11-12T21:47:36+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbd/live/589bbd20-dee3-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "England 2-1 Croatia: Nations League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
-   "summary": "\u26bd\ufe0f Nations League updates from 7.45pm GMT\u26bd\ufe0f Kane sets cap record | Live scoreboard | Email ScottPre-match postbag. \u201cWith tonight\u2019s record being broken, spare a thought for the holder of a more unwanted record, Emlyn\u2026",
-   "date": "2026-11-12T21:37:24+00:00",
-   "image": "https://i.guim.co.uk/img/media/55e16f33bcb73c52dfb10c8de376b74c1ffbfca9/643_365_3304_2644/master/3304.jpg?width=140&quality=85&auto=format&fit=max&s=49977e99e330bf524fbdd78efa2e9f83"
   },
   {
    "source": "BBC Sport",
@@ -55,34 +79,42 @@
    "summary": "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. \nThe point moves Renee Slegers' side into the\u2026",
    "date": "2026-11-12T20:09:07+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17d7/live/103dfe40-ded3-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Arsenal dig deep to earn WCL draw in face of Barcelona dominance",
-   "link": "https://www.theguardian.com/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report",
-   "summary": "Arsenal continue to be a sharp thorn in the side of the European champions, Barcelona, digging deep to hold on to a draw here. Frida Maanum put the Gunners ahead despite a hugely dominant performance from Barcelona, but\u2026",
-   "date": "2026-11-12T20:00:16+00:00",
-   "image": "https://i.guim.co.uk/img/media/812d79bca9e025068e126e5736dc19839b32224a/136_104_1918_1535/master/1918.jpg?width=140&quality=85&auto=format&fit=max&s=fb8f8f3cac06faecfc805d4e746b15bf"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
-   "summary": "From the 21-year-old who scored 79 seconds into his debut to breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
-   "date": "2026-11-12T19:53:40+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f61b/live/a5f54890-ded2-11f1-86d5-71a9f29d1c99.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Quiz: Name England men's all-time leading appearance makers",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmlylv1xl9qgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Can you name every England men's player who has at least 60 caps?",
-   "date": "2026-11-12T19:47:16+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14be/live/7ef6b840-ded3-11f1-8afb-c1f8fc064db2.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "The Guardian",
+   "title": "Nations League: Italy roar back to beat France despite Donnarumma\u2019s early howler",
+   "link": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
+   "summary": "Loss is Zinedine Zidane\u2019s first as France head coachSpain beat Czechia 2-0 to maintain 100% recordFrancesco Pio Esposito struck twice to inflict a first defeat on Zinedine Zidane as France head coach as Italy stormed\u2026",
+   "date": "2026-11-12T22:31:35+00:00",
+   "image": "https://i.guim.co.uk/img/media/c383c8cbd033340ae1748689f545ed72e3b44160/358_191_2558_2046/master/2558.jpg?width=140&quality=85&auto=format&fit=max&s=cef73d375bed89d81e3ac9dc23e9077a"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Grealish apologises for absence after breach of discipline",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgp8e2ljxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Jack Grealish issues an apology to Everton fans for his recent absence due to a disciplinary issue.",
+   "date": "2026-11-12T22:10:13+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba4/live/6d670f60-dedf-11f1-a75a-dbf83836672c.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Where does Kane rank among all-time England greats?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
+   "summary": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
+   "date": "2026-11-12T22:09:59+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5525/live/60ecddc0-de97-11f1-a701-fddedf244c16.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Harry Kane spot on to seal England win over Croatia on his record-breaking night",
+   "link": "https://www.theguardian.com/football/2026/nov/12/england-croatia-nations-league-match-report",
+   "summary": "It was an historic occasion for Harry Kane, the one when he made his 126th England appearance and overtook Peter Shilton as the nation\u2019s most capped men\u2019s player. And for much of the night, it felt as though the desire\u2026",
+   "date": "2026-11-12T21:58:39+00:00",
+   "image": "https://i.guim.co.uk/img/media/c44bfd8b33945e48111834cffbbb8c102988bbca/46_301_2600_2081/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=51d1429f17fab9716769b13cb50836a9"
+  },
+  {
    "source": "BBC Sport",
    "title": "Gritty Arsenal show different side in Barcelona draw",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
@@ -97,14 +129,6 @@
    "summary": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
    "date": "2026-11-12T21:47:36+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbd/live/589bbd20-dee3-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "England 2-1 Croatia: Nations League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
-   "summary": "\u26bd\ufe0f Nations League updates from 7.45pm GMT\u26bd\ufe0f Kane sets cap record | Live scoreboard | Email ScottPre-match postbag. \u201cWith tonight\u2019s record being broken, spare a thought for the holder of a more unwanted record, Emlyn\u2026",
-   "date": "2026-11-12T21:37:24+00:00",
-   "image": "https://i.guim.co.uk/img/media/55e16f33bcb73c52dfb10c8de376b74c1ffbfca9/643_365_3304_2644/master/3304.jpg?width=140&quality=85&auto=format&fit=max&s=49977e99e330bf524fbdd78efa2e9f83"
   },
   {
    "source": "BBC Sport",
@@ -142,7 +166,7 @@
    "source": "The Guardian",
    "title": "Arsenal dig deep to earn WCL draw in face of Barcelona dominance",
    "link": "https://www.theguardian.com/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report",
-   "summary": "Arsenal continue to be a sharp thorn in the side of the European champions, Barcelona, digging deep to hold on to a draw here. Frida Maanum put the Gunners ahead despite a hugely dominant performance from Barcelona, but\u2026",
+   "summary": "Arsenal continue to be a sharp thorn in the side of the European champions, Barcelona, digging deep to hold on for a draw. Frida Maanum put the Gunners ahead despite a hugely dominant performance from Barcelona, but\u2026",
    "date": "2026-11-12T20:00:16+00:00",
    "image": "https://i.guim.co.uk/img/media/812d79bca9e025068e126e5736dc19839b32224a/136_104_1918_1535/master/1918.jpg?width=140&quality=85&auto=format&fit=max&s=fb8f8f3cac06faecfc805d4e746b15bf"
   },
@@ -395,14 +419,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc28/live/64a5da40-ddeb-11f1-9204-cdcddf7d901c.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "Euro Leagues",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pmj6yk?at_medium=RSS&at_campaign=rss",
-   "summary": "John Bennett is joined by Rafa Honigstein and Julien Laurens",
-   "date": "2026-11-11T23:08:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
    "link": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
@@ -459,14 +475,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c0/live/44690fd0-ddd3-11f1-9053-236ccb99630c.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "\u2018An eternal shame\u2019: Bilic and Croatia aim to use 7-0 humbling as fuel against England",
-   "link": "https://www.theguardian.com/football/2026/nov/11/slaven-bilic-croatia-7-0-england-nations-league-wembley",
-   "summary": "The home humiliation last month has left a scar on Croatian football but their manager wants them to use it to positive effect in the Wembley rematchAs Croatia prepare to face England at Wembley on Thursday in the\u2026",
-   "date": "2026-11-11T12:30:30+00:00",
-   "image": "https://i.guim.co.uk/img/media/b1957807226a9c146fa1bbc432d9f88769e11e69/0_0_3739_2992/master/3739.jpg?width=140&quality=85&auto=format&fit=max&s=b98161cf677c66d103df5c827cd16d92"
-  },
-  {
    "source": "BBC Sport",
    "title": "How promotion, relegation and knockouts work in Nations League",
    "link": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo?at_medium=RSS&at_campaign=rss",
@@ -508,14 +516,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Bromley signings 'not good enough' - ex-boss Woodman",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5x2wle9nnvzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Ex-Bromley boss Andy Woodman criticises the club's summer recruitment and says he is looking forward to his next challenge.",
-   "date": "2026-11-11T10:32:23+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99e4/live/ee209630-ddb8-11f1-90cd-85e940e3a009.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Robinson unfazed by Pochettino departure talk",
    "link": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
    "summary": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.",
@@ -540,14 +540,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Dalkeith to LA pays off for Porteous with Scotland recall",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5zjxjj91dn1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane.",
-   "date": "2026-11-11T08:00:14+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abc4/live/a6cbac80-dd3f-11f1-9ac0-6b8f7fc58221.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "From Jersey to Somalia... via Liverpool & Man City",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
    "summary": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
@@ -561,9 +553,35 @@
    "summary": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
    "date": "2026-11-11T06:24:28+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a04/live/fffa2640-dde1-11f1-9cf4-b188db5b2d8c.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Bone broth, sweets ban and acupuncture: Harry Kane\u2019s road to record England cap",
+   "link": "https://www.theguardian.com/football/2026/nov/11/harry-kane-record-england-cap-bone-broth-sweets-ban-acupuncture",
+   "summary": "Obsessive attention to detail is helping striker to reach new heights \u2013 and a 126th international appearance on ThursdayIt was Harry Kane\u2019s dirty little secret. Something the England captain got up to after\u00a0matches. He\u2026",
+   "date": "2026-11-11T06:00:32+00:00",
+   "image": "https://i.guim.co.uk/img/media/fc8e734d3b329017fea7916ffac52e50458089e9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=821f086f77374e624c49d6cd1b7fec9e"
   }
  ],
  "videos": [
+  {
+   "channel": "beIN SPORTS",
+   "id": "HqVg4wkk0-M",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0625\u0646\u062c\u0644\u062a\u0631\u0627 \u0648\u0643\u0631\u0648\u0627\u062a\u064a\u0627 | \u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629",
+   "date": "2026-11-12T22:32:05+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "Q1dhBbciRpQ",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062a\u0634\u064a\u0643 \u0648\u0625\u0633\u0628\u0627\u0646\u064a\u0627 | \u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629",
+   "date": "2026-11-12T22:24:15+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "CmUQW3cgotc",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0625\u064a\u0637\u0627\u0644\u064a\u0627 \u0648\u0641\u0631\u0646\u0633\u0627 | \u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629",
+   "date": "2026-11-12T22:18:59+00:00"
+  },
   {
    "channel": "beIN SPORTS",
    "id": "LzhmlbveE5A",
