@@ -1,6 +1,46 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Carrick sacked by Manchester United with team in Premier League relegation zone \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live",
+   "summary": "\u26bd\ufe0f Head coach departs after one win in 11 games\u26bd\ufe0f Carrick sacked with Pochettino poised to take over\u26bd\ufe0f Have any thoughts? Email Luke\u201cAfter going through the Moyes season,\u201d writes Hugh, \u201cthe dross football of Mourinho\u2026",
+   "date": "2026-11-12T11:49:20+00:00",
+   "image": "https://i.guim.co.uk/img/media/ab2b27d8c1ed5ef6b208cae9b564664d04276e82/597_0_3648_2918/master/3648.jpg?width=140&quality=85&auto=format&fit=max&s=00fec4dadfc6b68eda3573ed3938418f"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Spain boss denies Lamine Yamal gets 'special privileges'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm0qjekqzwp0o?at_medium=RSS&at_campaign=rss",
+   "summary": "Spain head coach Luis de la Fuente denies claims Lamine Yamal received \"special privileges\" after being allowed to join the national team later than the rest of the squad.",
+   "date": "2026-11-12T11:31:54+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7137/live/e8eba510-de85-11f1-b88b-3f1671ea859d.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Six matches that defined Carrick's Man Utd tenure",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c5ev37egv97mo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport looks back at the six Premier League matches that defined the highs and lows of Michael Carrick's 10-month spell in charge of Manchester United.",
+   "date": "2026-11-12T11:25:46+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f60a/live/0222d570-d167-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018Second ball\u2019 may be a Sunday league mantra but Yates showed its top-flight relevance",
+   "link": "https://www.theguardian.com/football/2026/nov/12/ryan-yates-nottingham-forest-manchester-city-premier-league-second-ball",
+   "summary": "Midfielder\u2019s old-school attributes came to the fore during Nottingham Forest\u2019s win against Manchester CityModern football is more systematised and data-driven than ever but some things never change. Winning the first\u2026",
+   "date": "2026-11-12T11:00:48+00:00",
+   "image": "https://i.guim.co.uk/img/media/496313a8eccf45b5f4a06b22840b625b2ac1f8eb/715_0_3710_2967/master/3710.jpg?width=140&quality=85&auto=format&fit=max&s=e4e179b1acb6978b9baf97bc40348e19"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
+   "date": "2026-11-12T10:21:29+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e373/live/dbd80f70-de86-11f1-b88b-3f1671ea859d.jpg"
+  },
+  {
    "source": "BBC Sport",
    "title": "'Unfinished business' - Tuchel committed to England",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqg7l9x9jnzko?at_medium=RSS&at_campaign=rss",
@@ -39,49 +79,49 @@
    "summary": "Scotland face North Macedonia, Aberdeen seek a manager and Hibs find form.",
    "date": "2026-11-12T08:00:00+00:00",
    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmk9d2.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Aberdeen speak to seven managerial candidates - gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvglr2g04d8ko?at_medium=RSS&at_campaign=rss",
-   "summary": "Aberdeen speak to managerial candidates and in-form Rangers forward attracts attention from English Championship.",
-   "date": "2026-11-12T07:44:49+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fdc/live/4e5f7ec0-de05-11f1-b441-2b33b063138f.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "USA withdraw from U17 World Cup",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss",
-   "summary": "The USA pull out of the Under-17 World Cup, which starts in Qatar next week, because of the risk of armed conflict.",
-   "date": "2026-11-12T07:44:21+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79aa/live/f81c7430-de6a-11f1-9115-cfe6d179af3a.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Robertson set to make history but his hero Dalglish will always be King",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cxe89dq16dp2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Ties bind Scotland captain Andy Robertson and the man whose caps record he's about to equal, Kenny Dalglish, in more ways than one, writes Tom English.",
-   "date": "2026-11-12T07:19:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e440/live/1b368480-de00-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "England's Blues brothers - how the Bellinghams helped save Birmingham",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm1j3j20r2rzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Boyhood Birmingham City fans Jude and Jobe Bellingham could become the first brothers to play for England for 19 years.",
-   "date": "2026-11-12T07:12:41+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c945/live/c3116c40-dce0-11f1-a8e1-e3454837ffc6.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "How 'Barca way' continues despite big-name exits",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
-   "date": "2026-11-12T06:41:09+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ad/live/0b486200-dddd-11f1-b465-b9821c2582d4.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Carrick sacked by Manchester United with team in Premier League relegation zone \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live",
+   "summary": "\u26bd\ufe0f Head coach departs after one win in 11 games\u26bd\ufe0f Carrick sacked with Pochettino poised to take over\u26bd\ufe0f Have any thoughts? Email Luke\u201cAfter going through the Moyes season,\u201d writes Hugh, \u201cthe dross football of Mourinho\u2026",
+   "date": "2026-11-12T11:49:20+00:00",
+   "image": "https://i.guim.co.uk/img/media/ab2b27d8c1ed5ef6b208cae9b564664d04276e82/597_0_3648_2918/master/3648.jpg?width=140&quality=85&auto=format&fit=max&s=00fec4dadfc6b68eda3573ed3938418f"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Spain boss denies Lamine Yamal gets 'special privileges'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm0qjekqzwp0o?at_medium=RSS&at_campaign=rss",
+   "summary": "Spain head coach Luis de la Fuente denies claims Lamine Yamal received \"special privileges\" after being allowed to join the national team later than the rest of the squad.",
+   "date": "2026-11-12T11:31:54+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7137/live/e8eba510-de85-11f1-b88b-3f1671ea859d.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Six matches that defined Carrick's Man Utd tenure",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c5ev37egv97mo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport looks back at the six Premier League matches that defined the highs and lows of Michael Carrick's 10-month spell in charge of Manchester United.",
+   "date": "2026-11-12T11:25:46+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f60a/live/0222d570-d167-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018Second ball\u2019 may be a Sunday league mantra but Yates showed its top-flight relevance",
+   "link": "https://www.theguardian.com/football/2026/nov/12/ryan-yates-nottingham-forest-manchester-city-premier-league-second-ball",
+   "summary": "Midfielder\u2019s old-school attributes came to the fore during Nottingham Forest\u2019s win against Manchester CityModern football is more systematised and data-driven than ever but some things never change. Winning the first\u2026",
+   "date": "2026-11-12T11:00:48+00:00",
+   "image": "https://i.guim.co.uk/img/media/496313a8eccf45b5f4a06b22840b625b2ac1f8eb/715_0_3710_2967/master/3710.jpg?width=140&quality=85&auto=format&fit=max&s=e4e179b1acb6978b9baf97bc40348e19"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
+   "date": "2026-11-12T10:21:29+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e373/live/dbd80f70-de86-11f1-b88b-3f1671ea859d.jpg"
+  },
   {
    "source": "BBC Sport",
    "title": "'Unfinished business' - Tuchel committed to England",
@@ -212,22 +252,6 @@
   },
   {
    "source": "The Guardian",
-   "title": "Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay",
-   "link": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-old-trafford-manager",
-   "summary": "Manager has been hurt by experiences at elite clubs but several players at Old Trafford could fit his playing styleWelcome, Mauricio, to the meat grinder. Or rather, welcome back. We\u2019ve been expecting you. There is\u2026",
-   "date": "2026-11-11T21:10:31+00:00",
-   "image": "https://i.guim.co.uk/img/media/44d7d263c31cab4914ec6deab195542e4a6a5c03/538_0_6524_5220/master/6524.jpg?width=140&quality=85&auto=format&fit=max&s=a482d657d67f4be7a9d3ec3aaf7b6c04"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pmhwp1?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino could replace Michael Carrick at Manchester United.",
-   "date": "2026-11-11T20:53:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmhwt5.jpg"
-  },
-  {
-   "source": "The Guardian",
    "title": "Complaint filed to IRS in relation to Fifa head Gianni Infantino\u2019s housekeeper",
    "link": "https://www.theguardian.com/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
    "summary": "It calls for inquiry into claims she was on Fifa payrollFifa: Infantino personally pays for \u2018any domestic staff\u2019A complaint has been filed to the United States Internal Revenue Service calling for an investigation into\u2026",
@@ -241,6 +265,14 @@
    "summary": "Head coach did not insert release clause into contractTuchel \u2018open to everything\u2019 including staying after EurosThomas Tuchel will not be going anywhere before Euro 2028. Mauricio Pochettino is expected to leave his role\u2026",
    "date": "2026-11-11T19:00:00+00:00",
    "image": "https://i.guim.co.uk/img/media/92e575bd2970663d84f1087f935f5b90255645d3/348_0_3395_2716/master/3395.jpg?width=140&quality=85&auto=format&fit=max&s=4c9292d6bfd99e606c31a8bebc64894f"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmh9w1?at_medium=RSS&at_campaign=rss",
+   "summary": "Harry Kane will make his 126th appearance for England on Thursday",
+   "date": "2026-11-11T18:15:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmkg7x.jpg"
   },
   {
    "source": "BBC Sport",
@@ -300,14 +332,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
-   "date": "2026-11-11T16:03:02+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Bristol City give Skubala opportunity to improve form",
    "link": "https://www.bbc.co.uk/sport/football/articles/c54gnev0ydnno?at_medium=RSS&at_campaign=rss",
    "summary": "Bristol City chief executive Charlie Boss says head coach Michael Skubala will be given more time to improve their results.",
@@ -337,14 +361,6 @@
    "summary": "David Bates has been called up to the Scotland squad as fellow defender Luis Binks drops out for the matches against North Macedonia and Switzerland.",
    "date": "2026-11-11T13:37:08+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c0/live/44690fd0-ddd3-11f1-9053-236ccb99630c.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
-   "date": "2026-11-11T12:58:17+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7299/live/2b5bc490-ddcb-11f1-9053-236ccb99630c.jpg"
   },
   {
    "source": "The Guardian",
@@ -523,28 +539,12 @@
    "image": "https://i.guim.co.uk/img/media/f5fc5e216788663c63a4855eae3efd684e3f1755/205_0_1435_1148/master/1435.jpg?width=140&quality=85&auto=format&fit=max&s=472682f084253969868dfa7463a1c7bc"
   },
   {
-   "source": "BBC Sport",
-   "title": "Wales' Johnson says definitely more to come after 50 caps",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Brennan Johnson says he is happy with what he has achieved in football but would like to reach more major tournaments with Wales.",
-   "date": "2026-11-10T18:01:03+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e92b/live/66e9b0b0-dc33-11f1-958b-3f65a8ba2dc3.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Football Daily | \u2018Where the hell is Roy Keane!\u2019 Fifty shades of great football debate",
    "link": "https://www.theguardian.com/football/2026/nov/10/ultimate-shirt-numbers-football-daily-newsletter",
    "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Forget about Michael Carrick. Don\u2019t dwell on Women\u2019s Bigger Cup. Fret not about Pierre Sage. No, the big football story of the day is Big Website\u2019s Ultimate 1-50, a\u2026",
    "date": "2026-11-10T15:26:40+00:00",
    "image": "https://i.guim.co.uk/img/media/e1edd0d834c4d0489dc34cb7ec2949a07a23fd10/101_0_1840_1471/master/1840.jpg?width=140&quality=85&auto=format&fit=max&s=faea26cf121bf5e2cd6189d2f576776a"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Crystal Palace could avoid significant compensation if Pierre Sage rejoins Lens",
-   "link": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
-   "summary": "Sage\u2019s exit from Premier League club still not confirmedManager\u2019s potential return to France could benefit PalaceCrystal Palace could avoid paying Pierre Sage significant compensation if he is reappointed by his former\u2026",
-   "date": "2026-11-10T15:08:24+00:00",
-   "image": "https://i.guim.co.uk/img/media/1b38025050d4189522a619410f97e42dd75d68dd/506_0_7088_5670/master/7088.jpg?width=140&quality=85&auto=format&fit=max&s=d9f4191fe06d58d410e6c681aab94ca6"
   },
   {
    "source": "BBC Sport",
@@ -564,6 +564,12 @@
   }
  ],
  "videos": [
+  {
+   "channel": "FIFA",
+   "id": "gtwGSfMYJJo",
+   "title": "Baena Bags Against Uruguay As Spain Top Group | 2026 World Cup EXTENDED HIGHLIGHTS",
+   "date": "2026-11-12T11:30:28+00:00"
+  },
   {
    "channel": "Premier League",
    "id": "aunhD_dAe7I",
@@ -595,22 +601,28 @@
    "date": "2026-11-08T23:00:36+00:00"
   },
   {
-   "channel": "Bundesliga",
-   "id": "BWT27rhlHAw",
-   "title": "Comeback After Early Shock!! | RB LEIPZIG - FC AUGSBURG | Highlights | Matchday 9 \u2013 Bundesliga 26/27",
-   "date": "2026-11-08T23:00:28+00:00"
-  },
-  {
    "channel": "beIN SPORTS",
    "id": "ClWLtwz1MW8",
    "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0623\u062a\u0644\u064a\u062a\u064a\u0643\u0648 \u0645\u062f\u0631\u064a\u062f \u0648\u0628\u0631\u0634\u0644\u0648\u0646\u0629 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 12",
    "date": "2026-11-08T22:51:50+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "OFrsybPMGSw",
-   "title": "Japan vs Nigeria Highlights | FIFA U-17 Women's World Cup 2026\u2122",
-   "date": "2026-11-07T21:56:32+00:00"
+   "channel": "Premier League",
+   "id": "mT3IlErUk30",
+   "title": "Why Nobody Can Stop Martin Odegaard",
+   "date": "2026-11-12T11:01:17+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "f2J50fQ88JU",
+   "title": "REFCAM Osasuna vs Athletic Club",
+   "date": "2026-11-12T11:00:33+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "wNYa8xkkMlQ",
+   "title": "Hide and Seek with Olise \ud83e\udee3\ud83e\udd23",
+   "date": "2026-11-12T11:00:22+00:00"
   },
   {
    "channel": "Serie A",
@@ -629,24 +641,6 @@
    "id": "WR_uGccpiug",
    "title": "Some tekkers on the touch! \u2728\ud83d\udd25",
    "date": "2026-11-12T08:57:17+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "Ssz1hQQf9kY",
-   "title": "10-Minute Match | Egypt v IR Iran | 2026 World Cup",
-   "date": "2026-11-12T05:30:32+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "ktdOfW55dvo",
-   "title": "\u00bfVes el parecido? \u26bd",
-   "date": "2026-11-12T03:00:27+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "SP98keppTOE",
-   "title": "Desde la REFCAM el Valencia vs Real Madrid es A\u00daN MEJOR",
-   "date": "2026-11-11T21:00:05+00:00"
   }
  ],
  "fixtures": [
