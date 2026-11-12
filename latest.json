@@ -1,12 +1,52 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Gritty Arsenal show different side in Barcelona draw",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
+   "summary": "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?",
+   "date": "2026-11-12T21:50:59+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6057/live/b497a8a0-dede-11f1-a75a-dbf83836672c.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Kane scores winner but who else made an impression? England player ratings",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
+   "summary": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
+   "date": "2026-11-12T21:47:36+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbd/live/589bbd20-dee3-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "England v Croatia: Nations League \u2013 live",
+   "title": "England 2-1 Croatia: Nations League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
    "summary": "\u26bd\ufe0f Nations League updates from 7.45pm GMT\u26bd\ufe0f Kane sets cap record | Live scoreboard | Email ScottPre-match postbag. \u201cWith tonight\u2019s record being broken, spare a thought for the holder of a more unwanted record, Emlyn\u2026",
-   "date": "2026-11-12T20:48:03+00:00",
-   "image": "https://i.guim.co.uk/img/media/90889342acb726c5bbde09f79550a535a490958a/1667_793_3079_2464/master/3079.jpg?width=140&quality=85&auto=format&fit=max&s=869978a28a28f36af0b0a47bc241737f"
+   "date": "2026-11-12T21:37:24+00:00",
+   "image": "https://i.guim.co.uk/img/media/55e16f33bcb73c52dfb10c8de376b74c1ffbfca9/643_365_3304_2644/master/3304.jpg?width=140&quality=85&auto=format&fit=max&s=49977e99e330bf524fbdd78efa2e9f83"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Ghana kick-start their Afcon 2027 qualifying campaign despite Jordan Ayew having a penalty saved, while Cameroon, Ivory Coast and Senegal register wins.",
+   "date": "2026-11-12T21:28:06+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4161/live/c73c90e0-deb8-11f1-8fb5-a771a656a227.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "SFA in talks with Boston officials over biennial friendly match",
+   "link": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.",
+   "date": "2026-11-12T21:16:56+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fa/live/0eea4910-687a-11f1-be92-f5f7087bcfc7.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Man Utd & Man City in Gusto battle - Friday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmp86enlly13o?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United and Manchester City are going head-to-head for Chelsea defender Malo Gusto and Leeds United pursue Will Lankshear, plus more.",
+   "date": "2026-11-12T21:13:59+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f120/live/31d11dd0-ded3-11f1-b441-2b33b063138f.png"
   },
   {
    "source": "BBC Sport",
@@ -34,61 +74,61 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Quiz: Name England's all-time leading appearance makers",
+   "title": "Quiz: Name England men's all-time leading appearance makers",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmlylv1xl9qgo?at_medium=RSS&at_campaign=rss",
    "summary": "Can you name every England men's player who has at least 60 caps?",
    "date": "2026-11-12T19:47:16+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14be/live/7ef6b840-ded3-11f1-8afb-c1f8fc064db2.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "SFA in talks with Boston officials over biannual friendly match",
-   "link": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.",
-   "date": "2026-11-12T18:35:31+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fa/live/0eea4910-687a-11f1-be92-f5f7087bcfc7.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Jordan Ayew has a first-half penalty saved as Ghana secure a comfortable 2-0 home win over Somalia to kick-start their Afcon 2027 qualifying campaign.",
-   "date": "2026-11-12T18:12:55+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4161/live/c73c90e0-deb8-11f1-8fb5-a771a656a227.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Robertson pays tribute to Dalglish as he matches Scotland cap record",
-   "link": "https://www.theguardian.com/football/2026/nov/12/robertson-pays-tribute-to-dalglish-as-he-matches-scotland-cap-record",
-   "summary": "Tottenham full-back will make 102nd appearance on Friday\u2018It\u2019s another reason to honour one of the greatest players\u2019Andy Robertson insists his matching of Kenny Dalglish\u2019s Scotland cap record by no means brings\u2026",
-   "date": "2026-11-12T18:06:56+00:00",
-   "image": "https://i.guim.co.uk/img/media/b3af08f7cd98e7697c111c7bb5f69cc042d60c15/483_0_4829_3863/master/4829.jpg?width=140&quality=85&auto=format&fit=max&s=ad0a37bd480d6558c50a3cb5ca16cae4"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Goodwillie prosecutors 'wrong' not to put footballer on trial for rape, court hears",
-   "link": "https://www.bbc.co.uk/news/articles/c6z9dppxxyxpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Denise Clair has brought a case for a private criminal prosecution against the footballer, who was ruled to have raped her by a civil court.",
-   "date": "2026-11-12T17:31:02+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/624c/live/20082b60-deb1-11f1-8fb5-a771a656a227.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Crystal Palace sack boss Sage after 16 games",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
-   "summary": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
-   "date": "2026-11-12T17:15:20+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73af/live/be720480-de96-11f1-9afe-1f03bfe02283.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Gritty Arsenal show different side in Barcelona draw",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
+   "summary": "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?",
+   "date": "2026-11-12T21:50:59+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6057/live/b497a8a0-dede-11f1-a75a-dbf83836672c.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Kane scores winner but who else made an impression? England player ratings",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
+   "summary": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
+   "date": "2026-11-12T21:47:36+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbd/live/589bbd20-dee3-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "England v Croatia: Nations League \u2013 live",
+   "title": "England 2-1 Croatia: Nations League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
    "summary": "\u26bd\ufe0f Nations League updates from 7.45pm GMT\u26bd\ufe0f Kane sets cap record | Live scoreboard | Email ScottPre-match postbag. \u201cWith tonight\u2019s record being broken, spare a thought for the holder of a more unwanted record, Emlyn\u2026",
-   "date": "2026-11-12T20:48:03+00:00",
-   "image": "https://i.guim.co.uk/img/media/90889342acb726c5bbde09f79550a535a490958a/1667_793_3079_2464/master/3079.jpg?width=140&quality=85&auto=format&fit=max&s=869978a28a28f36af0b0a47bc241737f"
+   "date": "2026-11-12T21:37:24+00:00",
+   "image": "https://i.guim.co.uk/img/media/55e16f33bcb73c52dfb10c8de376b74c1ffbfca9/643_365_3304_2644/master/3304.jpg?width=140&quality=85&auto=format&fit=max&s=49977e99e330bf524fbdd78efa2e9f83"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Ghana kick-start their Afcon 2027 qualifying campaign despite Jordan Ayew having a penalty saved, while Cameroon, Ivory Coast and Senegal register wins.",
+   "date": "2026-11-12T21:28:06+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4161/live/c73c90e0-deb8-11f1-8fb5-a771a656a227.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "SFA in talks with Boston officials over biennial friendly match",
+   "link": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.",
+   "date": "2026-11-12T21:16:56+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fa/live/0eea4910-687a-11f1-be92-f5f7087bcfc7.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Man Utd & Man City in Gusto battle - Friday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmp86enlly13o?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United and Manchester City are going head-to-head for Chelsea defender Malo Gusto and Leeds United pursue Will Lankshear, plus more.",
+   "date": "2026-11-12T21:13:59+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f120/live/31d11dd0-ded3-11f1-b441-2b33b063138f.png"
   },
   {
    "source": "BBC Sport",
@@ -116,27 +156,11 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Quiz: Name England's all-time leading appearance makers",
+   "title": "Quiz: Name England men's all-time leading appearance makers",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmlylv1xl9qgo?at_medium=RSS&at_campaign=rss",
    "summary": "Can you name every England men's player who has at least 60 caps?",
    "date": "2026-11-12T19:47:16+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14be/live/7ef6b840-ded3-11f1-8afb-c1f8fc064db2.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "SFA in talks with Boston officials over biannual friendly match",
-   "link": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.",
-   "date": "2026-11-12T18:35:31+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fa/live/0eea4910-687a-11f1-be92-f5f7087bcfc7.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Jordan Ayew has a first-half penalty saved as Ghana secure a comfortable 2-0 home win over Somalia to kick-start their Afcon 2027 qualifying campaign.",
-   "date": "2026-11-12T18:12:55+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4161/live/c73c90e0-deb8-11f1-8fb5-a771a656a227.jpg"
   },
   {
    "source": "The Guardian",
@@ -387,14 +411,6 @@
    "image": "https://i.guim.co.uk/img/media/6987ac7017788ecaf5e48c61ad55e3e00c026971/526_0_4393_3514/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=36e310889eb3cd518d09f9dbce90f937"
   },
   {
-   "source": "BBC Sport",
-   "title": "Arsenal join Scott chase - Thursday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c62l51xyl98no?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal contact Bournemouth about midfielder Alex Scott, Manchester United add two defenders to list of potential targets, Aston Villa weigh up move for Chelsea midfielder Romeo Lavia, plus more.",
-   "date": "2026-11-11T21:38:01+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2955/live/0bc2bd20-de14-11f1-b441-2b33b063138f.png"
-  },
-  {
    "source": "The Guardian",
    "title": "Complaint filed to IRS in relation to Fifa head Gianni Infantino\u2019s housekeeper",
    "link": "https://www.theguardian.com/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
@@ -500,14 +516,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Shirt pull on Isak should have been penalty - panel",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo?at_medium=RSS&at_campaign=rss",
-   "summary": "Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel.",
-   "date": "2026-11-11T10:23:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Robinson unfazed by Pochettino departure talk",
    "link": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
    "summary": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.",
@@ -553,17 +561,21 @@
    "summary": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
    "date": "2026-11-11T06:24:28+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a04/live/fffa2640-dde1-11f1-9cf4-b188db5b2d8c.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Bone broth, sweets ban and acupuncture: Harry Kane\u2019s road to record England cap",
-   "link": "https://www.theguardian.com/football/2026/nov/11/harry-kane-record-england-cap-bone-broth-sweets-ban-acupuncture",
-   "summary": "Obsessive attention to detail is helping striker to reach new heights \u2013 and a 126th international appearance on ThursdayIt was Harry Kane\u2019s dirty little secret. Something the England captain got up to after\u00a0matches. He\u2026",
-   "date": "2026-11-11T06:00:32+00:00",
-   "image": "https://i.guim.co.uk/img/media/fc8e734d3b329017fea7916ffac52e50458089e9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=821f086f77374e624c49d6cd1b7fec9e"
   }
  ],
  "videos": [
+  {
+   "channel": "beIN SPORTS",
+   "id": "LzhmlbveE5A",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u062a\u0631\u0643\u064a\u0627 \u0648\u0628\u0644\u062c\u064a\u0643\u0627 | \u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629",
+   "date": "2026-11-12T21:49:03+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "vDBzfJqNHbA",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u0633\u0646\u063a\u0627\u0644 \u0648\u0627\u0644\u0633\u0648\u062f\u0627\u0646 | \u062a\u0635\u0641\u064a\u0627\u062a \u0643\u0623\u0633 \u0623\u0645\u0645 \u0625\u0641\u0631\u064a\u0642\u064a\u0627 2027 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629",
+   "date": "2026-11-12T21:45:37+00:00"
+  },
   {
    "channel": "FIFA",
    "id": "LwP0TSz9zuE",
@@ -619,10 +631,10 @@
    "date": "2026-11-11T11:21:55+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "ClWLtwz1MW8",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0623\u062a\u0644\u064a\u062a\u064a\u0643\u0648 \u0645\u062f\u0631\u064a\u062f \u0648\u0628\u0631\u0634\u0644\u0648\u0646\u0629 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 12",
-   "date": "2026-11-08T22:51:50+00:00"
+   "channel": "LaLiga",
+   "id": "bCl5n_fEY7M",
+   "title": "Este momento de Carlos Esp\u00ed con sus abuelas",
+   "date": "2026-11-12T21:00:17+00:00"
   },
   {
    "channel": "FIFA",
@@ -653,12 +665,6 @@
    "id": "j09YKk9t0uU",
    "title": "ZABIRI: TOP 3 media goles",
    "date": "2026-11-12T17:00:22+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "9zqcMoRTddo",
-   "title": "Los MEJORES REGATES hasta ahora en LALIGA EA SPORTS 2026/27 \u26a1",
-   "date": "2026-11-12T17:00:07+00:00"
   }
  ],
  "fixtures": [
