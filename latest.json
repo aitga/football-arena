@@ -1,10 +1,34 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmqwrn?at_medium=RSS&at_campaign=rss",
+   "summary": "Harry Kane becomes the most-capped England men's player in history.",
+   "date": "2026-11-12T23:37:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Morgan Rogers says \u2018it\u2019s a lie\u2019 that Cole Palmer does not want to play for England",
+   "link": "https://www.theguardian.com/football/2026/nov/12/morgan-rogers-says-its-a-lie-that-cole-palmer-does-not-want-to-play-for-england",
+   "summary": "Forward springs to defence of Chelsea teammate\u2018He wanted to come and represent his country\u2019Morgan Rogers has said accusations that his Chelsea teammate Cole Palmer is not committed to playing for England are \u201ca\u2026",
+   "date": "2026-11-12T23:17:46+00:00",
+   "image": "https://i.guim.co.uk/img/media/341d5262b98afe2d4759e05dfd101cd17678b06b/91_1181_2759_2207/master/2759.jpg?width=140&quality=85&auto=format&fit=max&s=4c83e7f0fb505e181cb3e1449a33ec84"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
+   "summary": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+   "date": "2026-11-12T23:09:07+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b18/live/725b0530-dee9-11f1-8111-290450ddba8c.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Nations League: Italy roar back to beat France despite Donnarumma\u2019s early howler",
    "link": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
-   "summary": "Loss is Zinedine Zidane\u2019s first as France head coachSpain beat Czechia 2-0 to maintain 100% recordFrancesco Pio Esposito struck twice to inflict a first defeat on Zinedine Zidane as France head coach as Italy stormed\u2026",
+   "summary": "Loss is Zinedine Zidane\u2019s first as France head coachSpain beat Czechia 2-0 to maintain 100% recordPio Esposito struck twice to inflict a first defeat on Zinedine Zidane as France head coach as Italy stormed back to win\u2026",
    "date": "2026-11-12T22:31:35+00:00",
    "image": "https://i.guim.co.uk/img/media/c383c8cbd033340ae1748689f545ed72e3b44160/358_191_2558_2046/master/2558.jpg?width=140&quality=85&auto=format&fit=max&s=cef73d375bed89d81e3ac9dc23e9077a"
   },
@@ -55,38 +79,38 @@
    "summary": "Ghana kick-start their Afcon 2027 qualifying campaign despite Jordan Ayew having a penalty saved, while Cameroon, Ivory Coast and Senegal register wins.",
    "date": "2026-11-12T21:28:06+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4161/live/c73c90e0-deb8-11f1-8fb5-a771a656a227.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "SFA in talks with Boston officials over biennial friendly match",
-   "link": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.",
-   "date": "2026-11-12T21:16:56+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fa/live/0eea4910-687a-11f1-be92-f5f7087bcfc7.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Man Utd & Man City in Gusto battle - Friday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmp86enlly13o?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United and Manchester City are going head-to-head for Chelsea defender Malo Gusto and Leeds United pursue Will Lankshear, plus more.",
-   "date": "2026-11-12T21:13:59+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f120/live/31d11dd0-ded3-11f1-b441-2b33b063138f.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
-   "link": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. \nThe point moves Renee Slegers' side into the\u2026",
-   "date": "2026-11-12T20:09:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17d7/live/103dfe40-ded3-11f1-b441-2b33b063138f.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pmqwrn?at_medium=RSS&at_campaign=rss",
+   "summary": "Harry Kane becomes the most-capped England men's player in history.",
+   "date": "2026-11-12T23:37:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Morgan Rogers says \u2018it\u2019s a lie\u2019 that Cole Palmer does not want to play for England",
+   "link": "https://www.theguardian.com/football/2026/nov/12/morgan-rogers-says-its-a-lie-that-cole-palmer-does-not-want-to-play-for-england",
+   "summary": "Forward springs to defence of Chelsea teammate\u2018He wanted to come and represent his country\u2019Morgan Rogers has said accusations that his Chelsea teammate Cole Palmer is not committed to playing for England are \u201ca\u2026",
+   "date": "2026-11-12T23:17:46+00:00",
+   "image": "https://i.guim.co.uk/img/media/341d5262b98afe2d4759e05dfd101cd17678b06b/91_1181_2759_2207/master/2759.jpg?width=140&quality=85&auto=format&fit=max&s=4c83e7f0fb505e181cb3e1449a33ec84"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
+   "summary": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+   "date": "2026-11-12T23:09:07+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b18/live/725b0530-dee9-11f1-8111-290450ddba8c.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Nations League: Italy roar back to beat France despite Donnarumma\u2019s early howler",
    "link": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
-   "summary": "Loss is Zinedine Zidane\u2019s first as France head coachSpain beat Czechia 2-0 to maintain 100% recordFrancesco Pio Esposito struck twice to inflict a first defeat on Zinedine Zidane as France head coach as Italy stormed\u2026",
+   "summary": "Loss is Zinedine Zidane\u2019s first as France head coachSpain beat Czechia 2-0 to maintain 100% recordPio Esposito struck twice to inflict a first defeat on Zinedine Zidane as France head coach as Italy stormed back to win\u2026",
    "date": "2026-11-12T22:31:35+00:00",
    "image": "https://i.guim.co.uk/img/media/c383c8cbd033340ae1748689f545ed72e3b44160/358_191_2558_2046/master/2558.jpg?width=140&quality=85&auto=format&fit=max&s=cef73d375bed89d81e3ac9dc23e9077a"
   },
@@ -166,7 +190,7 @@
    "source": "The Guardian",
    "title": "Arsenal dig deep to earn WCL draw in face of Barcelona dominance",
    "link": "https://www.theguardian.com/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report",
-   "summary": "Arsenal continue to be a sharp thorn in the side of the European champions, Barcelona, digging deep to hold on for a draw. Frida Maanum put the Gunners ahead despite a hugely dominant performance from Barcelona, but\u2026",
+   "summary": "Arsenal continue to be a sharp thorn in the side of the European champions, Barcelona, and they dug deep to hold on to a draw at the Camp Nou on Thursday night. Frida Maanum put the Gunners ahead despite a hugely\u2026",
    "date": "2026-11-12T20:00:16+00:00",
    "image": "https://i.guim.co.uk/img/media/812d79bca9e025068e126e5736dc19839b32224a/136_104_1918_1535/master/1918.jpg?width=140&quality=85&auto=format&fit=max&s=fb8f8f3cac06faecfc805d4e746b15bf"
   },
@@ -228,14 +252,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/m0034dz1?at_medium=RSS&at_campaign=rss",
-   "summary": "Simon Stone, Jay Motty & Tom Allnutt join Rick & Lloyd for reaction to Carrick\u2019s sacking.",
-   "date": "2026-11-12T16:31:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Wilson and Miller score as Scotland U21s thump Ukraine",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmregjjnr1wno?at_medium=RSS&at_campaign=rss",
    "summary": "James Wilson scores a double and Lennon Miller also finds the net as Scotland Under-21s ease to a 4-0 win in the first of two friendlies against Ukraine in Spain.",
@@ -265,6 +281,14 @@
    "summary": "The Scottish Cup third-round tie between Largs Thistle and Ayr United will be shown live on the BBC Scotland channel, website and iPlayer on Friday, 27 November.",
    "date": "2026-11-12T15:00:57+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5250/live/03144960-dea4-11f1-82bd-ab0398e9e082.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Pochettino expected to lead US in Nations League games before Manchester United move",
+   "link": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-manchester-united-usmnt-nations-league",
+   "summary": "USMNT coach agreed framework of a deal with UnitedUnited have made contact with US federationBalogun: \u2018I\u2019d like to keep things the way they are\u2019Live news and reaction for Pochettino\u2019s move to Man UtdMauricio Pochettino\u2026",
+   "date": "2026-11-12T14:57:56+00:00",
+   "image": "https://i.guim.co.uk/img/media/890140e0e4f6bfab67bf2aaaa0ea3048508b9206/418_0_2542_2034/master/2542.jpg?width=140&quality=85&auto=format&fit=max&s=72dd9632fc59241cabcd18f6ecac2a76"
   },
   {
    "source": "The Guardian",
@@ -459,14 +483,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638e/live/ad865850-dde8-11f1-9204-cdcddf7d901c.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Manchester United reach framework deal with Pochettino before settling Carrick\u2019s fate",
-   "link": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
-   "summary": "Pochettino wants to leave USA role for UnitedUnited board meeting scheduled for WednesdayManchester United have a framework agreement with Mauricio \u00adPochettino for him to become their head coach if Michael Carrick is\u2026",
-   "date": "2026-11-11T13:52:39+00:00",
-   "image": "https://i.guim.co.uk/img/media/baa3ef4b30d9b0b518b40b874f5cb47800712d2d/106_0_2286_1829/master/2286.jpg?width=140&quality=85&auto=format&fit=max&s=57682973a4ef193f1d491927b524c7b3"
-  },
-  {
    "source": "BBC Sport",
    "title": "Turkey-based Bates replaces Binks in Scotland squad",
    "link": "https://www.bbc.co.uk/sport/football/articles/c539gkdrn7yeo?at_medium=RSS&at_campaign=rss",
@@ -545,22 +561,6 @@
    "summary": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
    "date": "2026-11-11T07:13:52+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e425/live/60d99780-d9ef-11f1-bb10-cdca6001fbcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Does Pickford finally face serious competition for his England place?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
-   "date": "2026-11-11T06:24:28+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a04/live/fffa2640-dde1-11f1-9cf4-b188db5b2d8c.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Bone broth, sweets ban and acupuncture: Harry Kane\u2019s road to record England cap",
-   "link": "https://www.theguardian.com/football/2026/nov/11/harry-kane-record-england-cap-bone-broth-sweets-ban-acupuncture",
-   "summary": "Obsessive attention to detail is helping striker to reach new heights \u2013 and a 126th international appearance on ThursdayIt was Harry Kane\u2019s dirty little secret. Something the England captain got up to after\u00a0matches. He\u2026",
-   "date": "2026-11-11T06:00:32+00:00",
-   "image": "https://i.guim.co.uk/img/media/fc8e734d3b329017fea7916ffac52e50458089e9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=821f086f77374e624c49d6cd1b7fec9e"
   }
  ],
  "videos": [
