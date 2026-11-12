@@ -2,6 +2,7 @@
 import html
 
 FB = "https://www.facebook.com/1429286323597310"
+TT = "https://www.tiktok.com/@monkeyunleashed"
 CSS = """:root{--bg:#07140c;--card:#10251a;--line:#1f3d2b;--txt:#eef6f0;--mut:#9cb8a6;--acc:#2ee06f}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--txt);font:17px/1.7 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
 a{color:var(--acc)}header{background:linear-gradient(135deg,#0b3d1f,#07140c 70%);border-bottom:1px solid var(--line);padding:16px}
@@ -41,7 +42,7 @@ def page(title, desc, body, depth, note=True, extra="", path="", jsonld=None, he
 <nav><a href="{up}index.html#highlights" data-i18n="nav_hl">Highlights</a><a href="{up}index.html#news" data-i18n="nav_news">News</a><a href="{up}articles/index.html" data-i18n="nav_art">Articles</a><a href="{up}live.html" style="color:#ff6b6b" data-i18n="nav_live">Live</a><a href="{up}tables.html" data-i18n="nav_tables">Tables</a><a href="{up}matches/index.html" data-i18n="nav_fix">Matches</a><a href="{up}quiz.html" style="color:#ffc83d" data-i18n="nav_quiz">Quiz</a><a href="{up}about.html" data-i18n="nav_about">About</a>
 <select class="langpick" aria-label="Language"></select></nav></div></header>
 <main>{'<p class="note" data-i18n-note style="display:none"></p>' if note else ''}{body}</main>
-<footer>© 2026 Football Arena ·<a href="{up}about.html" data-i18n="about">About</a>·<a href="{up}contact.html" data-i18n="contact">Contact</a>·<a href="{up}privacy.html" data-i18n="privacy">Privacy</a>·<a href="{FB}" target="_blank" rel="noopener" data-i18n="nav_fb">Facebook</a></footer>
+<footer>© 2026 Football Arena ·<a href="{up}about.html" data-i18n="about">About</a>·<a href="{up}contact.html" data-i18n="contact">Contact</a>·<a href="{up}privacy.html" data-i18n="privacy">Privacy</a>·<a href="{FB}" target="_blank" rel="noopener" data-i18n="nav_fb">Facebook</a>·<a href="{TT}" target="_blank" rel="noopener">TikTok</a></footer>
 <script src="{up}i18n.js"></script>{extra}
 </body></html>"""
 

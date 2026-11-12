@@ -3,7 +3,7 @@ Run: python gen_pages.py  (after adding a new article to articles_src.py)"""
 import html, os
 from articles_src import ARTICLES
 
-from layout import FB, CSS, page
+from layout import FB, TT, CSS, page
 
 def nice(d):
     import datetime
@@ -34,7 +34,7 @@ open("about.html", "w").write(page("About Football Arena", "About Football Arena
 <li><strong>Articles:</strong> our own easy-to-read guides about the rules, tactics and history of football.</li></ul>
 <h2>Our approach</h2>
 <p>We respect the work of clubs, leagues and journalists. We never re-upload other people's videos or copy their articles: we link to the official source so the creators get the credit. Our own articles are written by the Football Arena team.</p>
-<p>Follow us on <a href="{FB}" target="_blank" rel="noopener">Facebook</a> for daily match recaps and stories.</p>""", 0, path="about.html"))
+<p>Follow us on <a href="{FB}" target="_blank" rel="noopener">Facebook</a> and <a href="{TT}" target="_blank" rel="noopener">TikTok</a> for daily match recaps, stories and videos.</p>""", 0, path="about.html"))
 open("contact.html", "w").write(page("Contact Football Arena", "How to contact Football Arena.", f"""
 <h1>Contact us</h1>
 <p>We'd love to hear from you — whether you have a question, a correction, a story idea or a business enquiry.</p>
