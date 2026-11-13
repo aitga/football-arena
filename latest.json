@@ -1,12 +1,36 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "The club preparing to play again after the death of a player",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss",
+   "summary": "Non-league Hendon are preparing to return to action for the first time since midfielder Ezekiel Williams died earlier this month.",
+   "date": "2026-11-13T10:00:46+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28f0/live/e7015f10-de76-11f1-9115-cfe6d179af3a.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Fernandes rejects second Man Utd contract offer",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.",
+   "date": "2026-11-13T09:55:01+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Pochettino to take over at Manchester United; Grealish apologises to Everton fans: football \u2013 live",
+   "title": "Pochettino to sign two-and-a-half-year Manchester United deal; Fernandes rejects second contract offer: football \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
-   "summary": "USMNT head coach is due to speak later on FridayToday\u2019s fixtures | Follow us on TikTok | Mail DavidGood morning! Harry Kane scores for England and more managerial chaos at Manchester United. Yep, some things never\u2026",
-   "date": "2026-11-13T08:56:22+00:00",
+   "summary": "USMNT head coach is due to speak later on FridayToday\u2019s fixtures | Follow us on TikTok | Mail DavidThe Manchester United captain Bruno Fernandes has rejected a second offer of a new contract at Old Trafford but the club\u2026",
+   "date": "2026-11-13T09:49:41+00:00",
    "image": "https://i.guim.co.uk/img/media/439498851cd883a872e25e9954722b73d1efbd30/166_0_2363_1891/master/2363.jpg?width=140&quality=85&auto=format&fit=max&s=d660434193e248bc2bfad19ad24ee181"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
+   "summary": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
+   "date": "2026-11-13T09:24:45+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg"
   },
   {
    "source": "BBC Sport",
@@ -55,40 +79,40 @@
    "summary": "Scotland head coach Sebastien Pocognoli attempts to increase player pool as former Aberdeen player hints at Pittodrie return.",
    "date": "2026-11-13T07:48:33+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e45/live/cbc93d20-df35-11f1-b441-2b33b063138f.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "How big a problem is central defence for Pocognoli?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckwy9jyd2wq5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Amy Canavan assesses Scotland's central defensive dilemmas before Friday evening's must-win match against North Macedonia.",
-   "date": "2026-11-13T07:23:18+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1721/live/73ca9230-ded2-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Liverpool and Van Dijk have a decision to make",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss",
-   "summary": "Virgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future.",
-   "date": "2026-11-13T06:57:25+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f4/live/e4ed5c50-ddeb-11f1-9204-cdcddf7d901c.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6x298z10lg1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "date": "2026-11-13T06:42:18+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "The club preparing to play again after the death of a player",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss",
+   "summary": "Non-league Hendon are preparing to return to action for the first time since midfielder Ezekiel Williams died earlier this month.",
+   "date": "2026-11-13T10:00:46+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28f0/live/e7015f10-de76-11f1-9115-cfe6d179af3a.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Fernandes rejects second Man Utd contract offer",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.",
+   "date": "2026-11-13T09:55:01+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Pochettino to take over at Manchester United; Grealish apologises to Everton fans: football \u2013 live",
+   "title": "Pochettino to sign two-and-a-half-year Manchester United deal; Fernandes rejects second contract offer: football \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
-   "summary": "USMNT head coach is due to speak later on FridayToday\u2019s fixtures | Follow us on TikTok | Mail DavidGood morning! Harry Kane scores for England and more managerial chaos at Manchester United. Yep, some things never\u2026",
-   "date": "2026-11-13T08:56:22+00:00",
+   "summary": "USMNT head coach is due to speak later on FridayToday\u2019s fixtures | Follow us on TikTok | Mail DavidThe Manchester United captain Bruno Fernandes has rejected a second offer of a new contract at Old Trafford but the club\u2026",
+   "date": "2026-11-13T09:49:41+00:00",
    "image": "https://i.guim.co.uk/img/media/439498851cd883a872e25e9954722b73d1efbd30/166_0_2363_1891/master/2363.jpg?width=140&quality=85&auto=format&fit=max&s=d660434193e248bc2bfad19ad24ee181"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
+   "summary": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
+   "date": "2026-11-13T09:24:45+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg"
   },
   {
    "source": "BBC Sport",
@@ -145,6 +169,14 @@
    "summary": "Amy Canavan assesses Scotland's central defensive dilemmas before Friday evening's must-win match against North Macedonia.",
    "date": "2026-11-13T07:23:18+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1721/live/73ca9230-ded2-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Pochettino\u2019s Chelsea maelstrom the best yardstick for what lies ahead at United",
+   "link": "https://www.theguardian.com/football/2026/nov/13/pochettino-chelsea-maelstrom-yardstick-what-lies-ahead-manchester-united",
+   "summary": "Argentinian oversaw high-scoring games in his one Chelsea season and Opta predicts his Manchester United side will move upfield quicker than that teamAmong the 20 managers with more than 290 matches in the Premier\u2026",
+   "date": "2026-11-13T07:00:12+00:00",
+   "image": "https://i.guim.co.uk/img/media/20870a5fe499e872c54989430f12c8e18e6f1eda/371_0_3871_3096/master/3871.jpg?width=140&quality=85&auto=format&fit=max&s=f92738b61e8e2f478b456783384682f8"
   },
   {
    "source": "BBC Sport",
@@ -387,6 +419,14 @@
    "image": "https://i.guim.co.uk/img/media/e5ce586d8660726083efb2f1a7d59141c47ff0f1/281_0_2189_1751/master/2189.jpg?width=140&quality=85&auto=format&fit=max&s=edb9d5f5772ff4a763aa50815379fc9e"
   },
   {
+   "source": "The Guardian",
+   "title": "\u2018Pregnancy does not mean game over\u2019: meet the footballers challenging the myths | Moving the Goalposts",
+   "link": "https://www.theguardian.com/football/2026/nov/12/pregnancy-womens-football-moving-the-goalposts-newsletter",
+   "summary": "Claire Emslie and Emma Kelly are among those taking advantage of new research and guidelines for pregnant playersClaire Emslie wasn\u2019t expecting to be able to run at 81% of her max speed at 32 weeks pregnant.Emslie, a\u2026",
+   "date": "2026-11-12T12:00:47+00:00",
+   "image": "https://i.guim.co.uk/img/media/d62e868b4490e4aa74b72809f07363a96d662ac5/290_0_2350_1881/master/2350.jpg?width=140&quality=85&auto=format&fit=max&s=825d1712f66778cc2d72e7d04a2fd22f"
+  },
+  {
    "source": "BBC Sport",
    "title": "Spain boss denies Lamine Yamal gets 'special privileges'",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm0qjekqzwp0o?at_medium=RSS&at_campaign=rss",
@@ -500,22 +540,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "O'Shea proud of how team-mates handled Israel games",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwg7l9nd0p1zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Republic of Ireland defender Dara O'Shea is \"proud\" of how he and his team-mates came through a trying October international window.",
-   "date": "2026-11-11T17:33:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bd9/live/3d547cc0-ddf1-11f1-ba1a-f14c9b2af876.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Turkey-based Bates replaces Binks in Scotland squad",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c539gkdrn7yeo?at_medium=RSS&at_campaign=rss",
-   "summary": "David Bates has been called up to the Scotland squad as fellow defender Luis Binks drops out for the matches against North Macedonia and Switzerland.",
-   "date": "2026-11-11T13:37:08+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c0/live/44690fd0-ddd3-11f1-9053-236ccb99630c.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "How promotion, relegation and knockouts work in Nations League",
    "link": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo?at_medium=RSS&at_campaign=rss",
    "summary": "With more than half of the 2026-27 Nations League group stage completed, BBC Sport looks at what will happen next in the competition.",
@@ -537,33 +561,15 @@
    "summary": "Danny Baker pays tribute to the \u2018funniest man I knew\u2019Kelly was former editor of the NME and Q magazinesThe journalist and broadcaster Danny Kelly, who helped define coverage of music and football in the UK for a\u2026",
    "date": "2026-11-11T11:56:39+00:00",
    "image": "https://i.guim.co.uk/img/media/e698ac834d3382ef8de08fcbffc89cddcdffc301/0_288_1676_1340/master/1676.jpg?width=140&quality=85&auto=format&fit=max&s=1979fef504647108103f083d8479f8e4"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Assessing the reasons for Man City's decline in form under Maresca",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
-   "summary": "The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
-   "date": "2026-11-11T11:47:09+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c72/live/a41350a0-dcfa-11f1-9ef0-4b5930e2f80e.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "League One clubs aim for further curbs on spending as budgets continue to spiral",
-   "link": "https://www.theguardian.com/football/2026/nov/11/league-one-clubs-spending-limits-rules",
-   "summary": "Wage bills in third tier have increased by 15% this season\u2018Luxury tax\u2019 and three-year limits on losses consideredLeague One clubs want to introduce new spending restrictions to reduce losses by limiting investment from\u2026",
-   "date": "2026-11-11T11:02:46+00:00",
-   "image": "https://i.guim.co.uk/img/media/5760282c14299cd0abd001c8bbafa881466e4099/177_70_1965_1573/master/1965.jpg?width=140&quality=85&auto=format&fit=max&s=6010a400c1015f45712b4fc817764179"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Robinson unfazed by Pochettino departure talk",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
-   "summary": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.",
-   "date": "2026-11-11T09:54:38+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a0/live/d5773580-ddb3-11f1-93e1-3b657b665bcf.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "Serie A",
+   "id": "rqPyoNii7iw",
+   "title": "Best of Santiago Castro | iliad Goal Of The Month: October 2026 | Serie A 2026/27",
+   "date": "2026-11-13T10:00:16+00:00"
+  },
   {
    "channel": "FIFA",
    "id": "xT3zd9KZHjQ",
