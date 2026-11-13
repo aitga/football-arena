@@ -2,7 +2,9 @@
 (function () {
 var API = "https://site.api.espn.com/apis/site/v2/sports/soccer/";
 var LEAGUES = [["eng.1", "eng"], ["esp.1", "esp"], ["ita.1", "ita"], ["ger.1", "ger"], ["fra.1", "fra"],
-               ["uefa.champions", "eur"], ["uefa.europa", "eur"]];
+               ["uefa.champions", "eur"], ["uefa.europa", "eur"],
+               ["uefa.nations", "wld"], ["caf.nations_qual", "wld"], ["concacaf.nations.league", "wld"], ["uefa.euroq", "wld"],
+               ["fifa.worldq.uefa", "wld"], ["fifa.worldq.caf", "wld"], ["fifa.world", "wld"], ["caf.nations", "wld"], ["fifa.friendly", "wld"]];
 var FLAG = {eng: "gb-eng", esp: "es", ita: "it", ger: "de", fra: "fr", eur: "eu"};
 var list = document.getElementById("list"), box = document.getElementById("match");
 var games = [], sel = null, last = {}, timer = null, ball = {x: 50, y: 32, tx: 50, ty: 32};
@@ -10,7 +12,7 @@ var games = [], sel = null, last = {}, timer = null, ball = {x: 50, y: 32, tx: 5
 function t(k, v) { return window.FA ? FA.t(k, v) : k; }
 function esc(s) { var d = document.createElement("div"); d.textContent = s == null ? "" : s; return d.innerHTML; }
 function ymd(d) { return d.toISOString().slice(0, 10).replace(/-/g, ""); }
-function flag(l) { return '<img class="flag" src="https://flagcdn.com/w40/' + FLAG[l] + '.png" alt="" width="20" height="14">'; }
+function flag(l) { if (!FLAG[l]) return '<span class="flag">🌍</span>'; return '<img class="flag" src="https://flagcdn.com/w40/' + FLAG[l] + '.png" alt="" width="20" height="14">'; }
 function loc() { return window.FA && FA.lang === "ar" ? "ar-MA" : (window.FA ? FA.lang : "en"); }
 function kick(d) { var x = new Date(d); return x.toLocaleTimeString(loc(), {hour: "2-digit", minute: "2-digit"}); }
 function col(c, fb) { return c && /^[0-9a-f]{6}$/i.test(c) && c.toLowerCase() !== "ffffff" ? "#" + c : fb; }

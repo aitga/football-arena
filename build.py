@@ -231,14 +231,18 @@ def flag(key):
 # ---------- upcoming matches (ESPN public scoreboard) ----------
 FIX_LEAGUES = [("eng", "eng.1"), ("esp", "esp.1"), ("ita", "ita.1"), ("ger", "ger.1"), ("fra", "fra.1"),
                ("eur", "uefa.champions"), ("eur", "uefa.europa")]
+# national team competitions (ESPN codes). Empty ones are skipped, so tournaments appear by themselves when they start.
+NAT_COMPS = ["fifa.world", "fifa.worldq.uefa", "fifa.worldq.caf", "fifa.worldq.afc", "fifa.worldq.conmebol", "fifa.worldq.concacaf",
+             "uefa.nations", "uefa.euro", "uefa.euroq", "caf.nations", "caf.nations_qual", "conmebol.america",
+             "concacaf.nations.league", "concacaf.gold", "afc.asiancup", "fifa.friendly"]
 # who shows each league in the Arab world / North Africa (checked Nov 2026; update if rights change)
 MENA_TV = {"eng": "beIN SPORTS", "esp": "beIN SPORTS", "ger": "beIN SPORTS", "fra": "beIN SPORTS", "eur": "beIN SPORTS"}
 
 
-def fixtures(days=7):
+def fixtures(days=7, leagues=None, limit=160):
     out, seen = [], set()
     today = datetime.datetime.now(datetime.timezone.utc)
-    for key, code in FIX_LEAGUES:
+    for key, code in (leagues or FIX_LEAGUES):
         for k in range(-1, days):  # yesterday too, so finished matches get their final score
             day = (today + datetime.timedelta(days=k)).strftime("%Y%m%d")
             try:
@@ -261,12 +265,18 @@ def fixtures(days=7):
                             "home": h.get("team", {}).get("displayName", "?"), "away": a.get("team", {}).get("displayName", "?"),
                             "hs": h.get("score", ""), "as": a.get("score", ""), "live": st == "in", "state": st,
                             "clock": ev.get("status", {}).get("displayClock", ""),
-                            "venue": (c.get("venue") or {}).get("fullName", ""), "usa": sorted(set(tv))})
+                            "venue": (c.get("venue") or {}).get("fullName", ""), "usa": sorted(set(tv)),
+                            "hl": h.get("team", {}).get("logo", ""), "al": a.get("team", {}).get("logo", "")})
     out.sort(key=lambda f: f["date"])
-    return out[:160]
+    return out[:limit]
 
 
-def fixture_cards(fx, slugs=None):
+def national_fixtures(days=7):
+    """Matches between national teams: Nations League, AFCON & World Cup qualifiers, friendlies..."""
+    return fixtures(days, [("wld", c) for c in NAT_COMPS], limit=200)
+
+
+def fixture_cards(fx, slugs=None, empty="no_fix", empty_text="No matches scheduled in the next few days."):
     e = html.escape
     slugs = slugs or {}
     rows = []
@@ -285,16 +295,17 @@ def fixture_cards(fx, slugs=None):
             tv += f'<div>📺 <span data-i18n="tv_usa">USA</span>: <b>{e(", ".join(f["usa"]))}</b></div>'
         if not tv:
             tv = '<div>📺 <span data-i18n="tv_check">Check your local TV listings</span></div>'
-        comp = f'<span data-i18n="lg_{f["l"]}">{e(f["comp"])}</span>' if f["l"] != "eur" else e(f["comp"])
+        comp = f'<span data-i18n="lg_{f["l"]}">{e(f["comp"])}</span>' if f["l"] not in ("eur", "wld") else e(f["comp"])
+        logo = lambda u: f'<img class="tflag" src="{e(u)}" alt="" width="22" height="22" loading="lazy">' if u else ""
         rows.append(
             f'<div class="card fix" data-l="{f["l"]}" data-s="{e(plain(f["home"] + " " + f["away"]))}"><div class="ftop">{flag(f["l"])} {comp}{badge}</div>'
             f'<div class="ftime" data-k="{int(d.timestamp())}">{d.strftime("%a %d %b · %H:%M UTC")}</div>'
             + (f'<a class="teams" href="matches/{e(slugs[f["id"]])}.html">' if f.get("id") in slugs else '<div class="teams">')
-            + f'<span>{e(f["home"])}</span>{mid}<span>{e(f["away"])}</span>' + ('</a>' if f.get("id") in slugs else '</div>')
+            + f'<span>{logo(f.get("hl"))}{e(f["home"])}</span>{mid}<span>{e(f["away"])}{logo(f.get("al"))}</span>' + ('</a>' if f.get("id") in slugs else '</div>')
             + f'<div class="tv">{tv}</div>' + (f'<div class="venue">🏟️ {e(f["venue"])}</div>' if f["venue"] else "")
             + (f'<a class="watch" href="live.html#{e(f["code"])}/{e(f["id"])}">🔴 <span data-i18n="watch">Live tracker</span></a>' if f.get("id") else "")
             + '</div>')
-    return "\n".join(rows) or '<p class="empty" data-i18n="no_fix">No matches scheduled in the next few days.</p>'
+    return "\n".join(rows) or f'<p class="empty" data-i18n="{empty}">{empty_text}</p>'
 
 
 def gsv_tags():
@@ -338,7 +349,7 @@ def ago_span(d):
     return f'<span class="ago" data-t="{int(d.timestamp())}">{ago(d)}</span>'
 
 
-def render(news_items, vids, fx=(), teams=(), slugs=None):
+def render(news_items, vids, fx=(), teams=(), slugs=None, nfx=()):
     e = html.escape
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%d %b %Y, %H:%M UTC")
     names = {k: f"{country} · {league}" for k, _c, country, league, _kw in LEAGUES}
@@ -368,7 +379,8 @@ def render(news_items, vids, fx=(), teams=(), slugs=None):
     acards = "\n".join(
         f'<a class="news card" href="articles/{e(a["slug"])}.html"><div><div class="nt">{e(a["title"])}</div>'
         f'<p>{e(a["summary"])}</p><div class="meta">📝 {e(a["tag"])} · Football Arena</div></div></a>' for a in arts)
-    return (TEMPLATE.replace("{{FIXTURES}}", fixture_cards(fx, slugs)).replace("{{CHIPS}}", chips).replace("{{ARTICLES}}", acards).replace("{{VIDEOS}}", vcards)
+    return (TEMPLATE.replace("{{FIXTURES}}", fixture_cards(fx, slugs))
+            .replace("{{NATIONAL}}", fixture_cards(nfx, slugs, "no_nat", "No national team matches in the next few days.")).replace("{{CHIPS}}", chips).replace("{{ARTICLES}}", acards).replace("{{VIDEOS}}", vcards)
             .replace("{{NEWS}}", ncards).replace("{{UPDATED}}", now)
             .replace("{{GSV}}", gsv_tags()).replace("{{TEAMS}}", json.dumps(list(teams), ensure_ascii=False).replace("</", "<\\/")))
 
@@ -455,7 +467,7 @@ footer a{color:var(--acc)}
 .live{margin-inline-start:auto;color:#ff5b5b;font-weight:800;font-size:12px}
 .tv{font-size:13px;color:var(--mut);border-top:1px solid var(--line);padding-top:8px}.tv b{color:var(--txt)}
 .venue{font-size:12px;color:var(--mut);margin-top:6px}
-a.teams{color:inherit;text-decoration:none}a.teams:hover span{text-decoration:underline}
+a.teams{color:inherit;text-decoration:none}.tflag{width:22px;height:22px;object-fit:contain;vertical-align:middle;margin:0 6px}a.teams:hover span{text-decoration:underline}
 .watch{display:inline-block;margin-top:9px;font-size:13px;font-weight:700;color:#ff6b6b;border:1px solid #ff6b6b;border-radius:16px;padding:4px 12px}.watch:hover{background:#ff6b6b;color:#fff}
 nav a.livelink{color:#ff6b6b}nav a{display:inline-flex;align-items:center;gap:7px}nav a .ni{width:18px;height:18px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}nav a.livelink .ni .dot{fill:currentColor;animation:navpulse 1.4s ease-in-out infinite}@keyframes navpulse{50%{opacity:.25}}.fnote{color:var(--mut);font-size:13px;margin:-6px 0 12px}
 .langpick{margin-inline-start:auto;background:var(--card);color:var(--txt);border:1px solid var(--line);border-radius:10px;padding:7px 10px;font:600 14px system-ui,sans-serif}
@@ -466,7 +478,7 @@ nav a.livelink{color:#ff6b6b}nav a{display:inline-flex;align-items:center;gap:7p
 <div class="tag" data-i18n="tagline">Highlights & news from the world's biggest leagues · updated every hour</div></div>
 <select class="langpick" aria-label="Language"></select></div></header>
 <div class="bar"><div class="wrap">
-<nav><a href="#highlights"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16 10 8"/></svg><span data-i18n="nav_hl">Highlights</span></a><a class="livelink" href="live.html"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><path d="M4.9 19.1C1 15.2 1 8.8 4.9 4.9"/><path d="M7.8 16.2c-2.3-2.3-2.3-6.1 0-8.5"/><circle class="dot" cx="12" cy="12" r="2"/><path d="M16.2 7.8c2.3 2.3 2.3 6.1 0 8.5"/><path d="M19.1 4.9C23 8.8 23 15.1 19.1 19"/></svg><span data-i18n="nav_live">Live</span></a><a href="#matches"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M16 2v4"/><path d="M8 2v4"/><path d="M3 10h18"/></svg><span data-i18n="nav_fix">Matches</span></a><a href="tables.html"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 12h11"/><path d="M10 18h11"/><path d="M10 6h11"/><path d="M4 10h2"/><path d="M4 6h1v4"/><path d="M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"/></svg><span data-i18n="nav_tables">Tables</span></a><a href="#news"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/></svg><span data-i18n="nav_news">News</span></a><a href="articles/index.html"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></svg><span data-i18n="nav_art">Articles</span></a><a class="quiz" href="quiz.html"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg><span data-i18n="nav_quiz">Quiz</span></a><a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg><span data-i18n="nav_fb">Facebook</span></a><a href="https://www.tiktok.com/@monkeyunleashed" target="_blank" rel="noopener"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 12a4 4 0 1 0 4 4V2a5 5 0 0 0 5 5"/></svg><span>TikTok</span></a></nav>
+<nav><a href="#highlights"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16 10 8"/></svg><span data-i18n="nav_hl">Highlights</span></a><a class="livelink" href="live.html"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><path d="M4.9 19.1C1 15.2 1 8.8 4.9 4.9"/><path d="M7.8 16.2c-2.3-2.3-2.3-6.1 0-8.5"/><circle class="dot" cx="12" cy="12" r="2"/><path d="M16.2 7.8c2.3 2.3 2.3 6.1 0 8.5"/><path d="M19.1 4.9C23 8.8 23 15.1 19.1 19"/></svg><span data-i18n="nav_live">Live</span></a><a href="#matches"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M16 2v4"/><path d="M8 2v4"/><path d="M3 10h18"/></svg><span data-i18n="nav_fix">Matches</span></a><a href="#national"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 22V4"/><path d="M4 4h13l-2 4 2 4H4"/></svg><span data-i18n="nav_nat">National Teams</span></a><a href="tables.html"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 12h11"/><path d="M10 18h11"/><path d="M10 6h11"/><path d="M4 10h2"/><path d="M4 6h1v4"/><path d="M6 18H4c0-1 2-2 2-3s-1-1.5-2-1"/></svg><span data-i18n="nav_tables">Tables</span></a><a href="#news"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/></svg><span data-i18n="nav_news">News</span></a><a href="articles/index.html"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></svg><span data-i18n="nav_art">Articles</span></a><a class="quiz" href="quiz.html"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg><span data-i18n="nav_quiz">Quiz</span></a><a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg><span data-i18n="nav_fb">Facebook</span></a><a href="https://www.tiktok.com/@monkeyunleashed" target="_blank" rel="noopener"><svg class="ni" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 12a4 4 0 1 0 4 4V2a5 5 0 0 0 5 5"/></svg><span>TikTok</span></a></nav>
 <div class="chips">{{CHIPS}}</div>
 </div></div>
 <main class="wrap">
@@ -480,6 +492,11 @@ nav a.livelink{color:#ff6b6b}nav a{display:inline-flex;align-items:center;gap:7p
 {{FIXTURES}}
 </div><button class="more" data-i18n="more_fix">Show more matches</button>
 <p><a href="matches/index.html" style="color:var(--acc)" data-i18n="m_all">All matches</a> →</p></section>
+<section id="national"><h2><span data-i18n="h_nat">National Teams Matches</span> <span class="count"></span></h2>
+<p class="fnote" data-i18n="nat_note">Nations League, Africa Cup of Nations and World Cup qualifiers, friendlies and more. Times are shown in your local time.</p>
+<div class="grid" data-show="9">
+{{NATIONAL}}
+</div><button class="more" data-i18n="more_fix">Show more matches</button></section>
 <section><div class="quizban"><span style="font-size:38px">🧠</span><div><b data-i18n="qb_t">How well do you know football?</b>
 <p data-i18n="qb_p">Play our quiz by country and league – learn a fun fact with every answer.</p></div><a href="quiz.html" data-i18n="qb_btn">Play the quiz</a></div></section>
 <section id="news"><h2><span data-i18n="h_news">Latest Football News</span> <span class="count"></span></h2><div class="grid" data-show="9">
@@ -655,6 +672,13 @@ if __name__ == "__main__":
         n = [dict(x, date=datetime.datetime.fromisoformat(x["date"])) for x in old["news_all"]]
     if not fx and old.get("fixtures"):
         fx = old["fixtures"]
+    try:
+        nfx = national_fixtures()
+    except Exception as ex:
+        print("National fixtures failed:", ex)
+        nfx = []
+    if not nfx and old.get("national"):
+        nfx = old["national"]
     import tables
     try:
         tb = tables.fetch(get)
@@ -665,12 +689,12 @@ if __name__ == "__main__":
         tb = old["tables"]
     tables.render(tb)
     import matchpages
-    archive = matchpages.merge_archive(old.get("match_archive", {}), fx)
+    archive = matchpages.merge_archive(old.get("match_archive", {}), fx + nfx)
     slugs, mpages = matchpages.render_all(archive, tb, v, n)
-    print(f"{len(n)} news, {len(v)} videos, {len(fx)} fixtures, {len(tb['teams'])} teams, {len(mpages)} match pages, "
+    print(f"{len(n)} news, {len(v)} videos, {len(fx)} fixtures, {len(nfx)} national, {len(tb['teams'])} teams, {len(mpages)} match pages, "
           f"{write_sitemap(mpages)} sitemap URLs")
-    open("index.html", "w").write(render(n, v, fx, tb["teams"], slugs))
+    open("index.html", "w").write(render(n, v, fx, tb["teams"], slugs, nfx))
     json.dump({"news": [dict(x, date=x["date"].isoformat()) for x in n[:10]],
                "news_all": [dict(x, date=x["date"].isoformat()) for x in n],
                "videos": [dict(x, date=x["date"].isoformat()) for x in v],
-               "fixtures": fx, "tables": tb, "match_archive": archive}, open("latest.json", "w"), indent=1)
+               "fixtures": fx, "national": nfx, "tables": tb, "match_archive": archive}, open("latest.json", "w"), indent=1)
