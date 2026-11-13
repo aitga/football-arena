@@ -1,12 +1,52 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+   "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
+   "date": "2026-11-13T22:37:30+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e32e/live/2f147b80-dfa7-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'If that penalty is given against you, you're furious'",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo?at_medium=RSS&at_campaign=rss",
+   "summary": "Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia.",
+   "date": "2026-11-13T22:34:20+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb69/live/58b9cb60-dfb2-11f1-a701-fddedf244c16.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Scotland 2-1 North Macedonia: Nations League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/13/scotland-v-north-macedonia-nations-league-live",
-   "summary": "Nations League updates from 7.45pm GMT kick-offLive scores | Follow us on BlueSky | And email Scott3 min: Robertson is into the action quickly. He crosses from the left. The ball\u2019s deflected and sent on a strange arc\u2026",
-   "date": "2026-11-13T21:43:49+00:00",
-   "image": "https://i.guim.co.uk/img/media/b2b886ac498bf88018bec99fcc58b7ede500d28e/973_485_3797_3038/master/3797.jpg?width=140&quality=85&auto=format&fit=max&s=97514a03ff020fff3b0f095fd758f22c"
+   "title": "John McGinn double saves Scotland\u2019s blushes against North Macedonia",
+   "link": "https://www.theguardian.com/football/2026/nov/13/scotland-north-macedonia-nations-league-match-report",
+   "summary": "A special occasion for Andy Robertson saw Scotland flirt with embarrassment. Collection of his 102nd cap moves Robertson level with Kenny Dalglish in the all-time Scottish list. By Monday night, Robertson will be a\u2026",
+   "date": "2026-11-13T22:16:31+00:00",
+   "image": "https://i.guim.co.uk/img/media/9289760f3f20ca01a576a2b6aedf1210513307f2/737_406_2866_2293/master/2866.jpg?width=140&quality=85&auto=format&fit=max&s=124c62217c090485f7d963af8beada7c"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
+   "summary": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
+   "date": "2026-11-13T22:11:27+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/526a/live/09935180-dfaa-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford.",
+   "date": "2026-11-13T22:05:14+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ed/live/b5eb8580-dfb2-11f1-a701-fddedf244c16.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Jes\u00fas Owono given 12-match ban for tackle that resulted in Jes\u00fas de Miguel\u2019s death",
+   "link": "https://www.theguardian.com/football/2026/nov/13/jesus-owono-given-12-match-ban-for-tackle-that-resulted-in-jesus-de-miguels-death",
+   "summary": "FC Andorra goalkeeper collided with De MiguelOwono: \u2018I feel immense pain over the loss of Jes\u00fas\u2019The FC Andorra goalkeeper Jes\u00fas Owono was suspended for 12 matches by the Spanish football federation\u2019s disciplinary\u2026",
+   "date": "2026-11-13T22:04:08+00:00",
+   "image": "https://i.guim.co.uk/img/media/453e6400c2bc16c241756c75b571d743be0c220b/328_0_3280_2624/master/3280.jpg?width=140&quality=85&auto=format&fit=max&s=3dfc8be7821bec58c2fb2e520ce7d5fa"
   },
   {
    "source": "BBC Sport",
@@ -39,56 +79,56 @@
    "summary": "Manager calls Sunday\u2019s Nations League decider a \u2018final\u2019 as preparations for Euro 2028 ratchet up a levelProof of concept. It is Thomas Tuchel\u2019s latest buzz phrase. The England manager has dropped it into the\u2026",
    "date": "2026-11-13T19:00:23+00:00",
    "image": "https://i.guim.co.uk/img/media/cf486b8222139aa40698ef1ce78a51d522716296/344_0_2768_2215/master/2768.jpg?width=140&quality=85&auto=format&fit=max&s=68bac943b11782930fd7772ffc11b5f6"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Arokodare double secures Nigeria win in Afcon 2027 qualifier",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
-   "summary": "Tolu Arokodare scores twice in the second half as Nigeria claim a 3-1 win over Tanzania to bolster their hopes of reaching the 2027 Africa Cup of Nations.",
-   "date": "2026-11-13T18:36:27+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbef/live/57f19600-df89-11f1-a5d4-0b20a170e974.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "EFL warns clubs over social media posts",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
-   "summary": "The English Football League (EFL) warns its members about their usage of posts on social media.",
-   "date": "2026-11-13T18:20:17+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b02d/live/e876d9a0-df8a-11f1-a5d4-0b20a170e974.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Some EFL clubs beggar belief - Walsall's Pomlett",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6ly7vnnyjxdo?at_medium=RSS&at_campaign=rss",
-   "summary": "Walsall co-chairman Leigh Pomlett sends out a powerful response to the independent State of the Game report.",
-   "date": "2026-11-13T18:14:32+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2095/live/4cd65a80-df75-11f1-b844-3146c4983677.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "All done deals from September-November 2026",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-   "date": "2026-11-13T17:21:23+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Tearful Pochettino says United job was \u2018difficult to turn down\u2019 in USMNT farewell",
-   "link": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united",
-   "summary": "Coach was \u2018transparent\u2019 in dealings with club, federationPochettino had signed deal to stay with US through 2030There were always going to be tears at Mauricio Pochettino\u2019s news conference at US Soccer\u2019s national\u2026",
-   "date": "2026-11-13T16:53:14+00:00",
-   "image": "https://i.guim.co.uk/img/media/d1100864cadf6d7e1c234b31c7686300f7d10df6/294_0_2133_1706/master/2133.jpg?width=140&quality=85&auto=format&fit=max&s=9d05b177324a4382a985b545bcef19d4"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+   "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
+   "date": "2026-11-13T22:37:30+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e32e/live/2f147b80-dfa7-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'If that penalty is given against you, you're furious'",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo?at_medium=RSS&at_campaign=rss",
+   "summary": "Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia.",
+   "date": "2026-11-13T22:34:20+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb69/live/58b9cb60-dfb2-11f1-a701-fddedf244c16.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Scotland 2-1 North Macedonia: Nations League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/13/scotland-v-north-macedonia-nations-league-live",
-   "summary": "Nations League updates from 7.45pm GMT kick-offLive scores | Follow us on BlueSky | And email Scott3 min: Robertson is into the action quickly. He crosses from the left. The ball\u2019s deflected and sent on a strange arc\u2026",
-   "date": "2026-11-13T21:43:49+00:00",
-   "image": "https://i.guim.co.uk/img/media/b2b886ac498bf88018bec99fcc58b7ede500d28e/973_485_3797_3038/master/3797.jpg?width=140&quality=85&auto=format&fit=max&s=97514a03ff020fff3b0f095fd758f22c"
+   "title": "John McGinn double saves Scotland\u2019s blushes against North Macedonia",
+   "link": "https://www.theguardian.com/football/2026/nov/13/scotland-north-macedonia-nations-league-match-report",
+   "summary": "A special occasion for Andy Robertson saw Scotland flirt with embarrassment. Collection of his 102nd cap moves Robertson level with Kenny Dalglish in the all-time Scottish list. By Monday night, Robertson will be a\u2026",
+   "date": "2026-11-13T22:16:31+00:00",
+   "image": "https://i.guim.co.uk/img/media/9289760f3f20ca01a576a2b6aedf1210513307f2/737_406_2866_2293/master/2866.jpg?width=140&quality=85&auto=format&fit=max&s=124c62217c090485f7d963af8beada7c"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
+   "summary": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
+   "date": "2026-11-13T22:11:27+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/526a/live/09935180-dfaa-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford.",
+   "date": "2026-11-13T22:05:14+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ed/live/b5eb8580-dfb2-11f1-a701-fddedf244c16.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Jes\u00fas Owono given 12-match ban for tackle that resulted in Jes\u00fas de Miguel\u2019s death",
+   "link": "https://www.theguardian.com/football/2026/nov/13/jesus-owono-given-12-match-ban-for-tackle-that-resulted-in-jesus-de-miguels-death",
+   "summary": "FC Andorra goalkeeper collided with De MiguelOwono: \u2018I feel immense pain over the loss of Jes\u00fas\u2019The FC Andorra goalkeeper Jes\u00fas Owono was suspended for 12 matches by the Spanish football federation\u2019s disciplinary\u2026",
+   "date": "2026-11-13T22:04:08+00:00",
+   "image": "https://i.guim.co.uk/img/media/453e6400c2bc16c241756c75b571d743be0c220b/328_0_3280_2624/master/3280.jpg?width=140&quality=85&auto=format&fit=max&s=3dfc8be7821bec58c2fb2e520ce7d5fa"
   },
   {
    "source": "BBC Sport",
@@ -121,14 +161,6 @@
    "summary": "Manager calls Sunday\u2019s Nations League decider a \u2018final\u2019 as preparations for Euro 2028 ratchet up a levelProof of concept. It is Thomas Tuchel\u2019s latest buzz phrase. The England manager has dropped it into the\u2026",
    "date": "2026-11-13T19:00:23+00:00",
    "image": "https://i.guim.co.uk/img/media/cf486b8222139aa40698ef1ce78a51d522716296/344_0_2768_2215/master/2768.jpg?width=140&quality=85&auto=format&fit=max&s=68bac943b11782930fd7772ffc11b5f6"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Arokodare double secures Nigeria win in Afcon 2027 qualifier",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
-   "summary": "Tolu Arokodare scores twice in the second half as Nigeria claim a 3-1 win over Tanzania to bolster their hopes of reaching the 2027 Africa Cup of Nations.",
-   "date": "2026-11-13T18:36:27+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbef/live/57f19600-df89-11f1-a5d4-0b20a170e974.jpg"
   },
   {
    "source": "BBC Sport",
@@ -259,6 +291,14 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9a/live/02556c50-df4b-11f1-a48c-75dd2efdacb5.jpg"
   },
   {
+   "source": "The Guardian",
+   "title": "\u2018United is broken\u2019: Guardian readers react to Michael Carrick\u2019s sacking",
+   "link": "https://www.theguardian.com/football/2026/nov/13/manchester-united-michael-carrick-sacking-readers-reaction",
+   "summary": "Emotions are running high after the confirmation of Michael Carrick\u2019s dismissal at Old Trafford. Here are some views from our readers\u201cAs a United fan who was around for the early 90s seeing Carrick go is a sad end to a\u2026",
+   "date": "2026-11-13T10:45:05+00:00",
+   "image": "https://i.guim.co.uk/img/media/458007f79d9d07b779c0f324e5ee2a91595fe9fb/0_0_2517_2013/master/2517.jpg?width=140&quality=85&auto=format&fit=max&s=ad2e1891c64dd0e90e53aaaceb549142"
+  },
+  {
    "source": "BBC Sport",
    "title": "The club preparing to play again after the death of a player",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss",
@@ -355,14 +395,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
   },
   {
-   "source": "The Guardian",
-   "title": "Morgan Rogers says \u2018it\u2019s a lie\u2019 that Cole Palmer does not want to play for England",
-   "link": "https://www.theguardian.com/football/2026/nov/12/morgan-rogers-says-its-a-lie-that-cole-palmer-does-not-want-to-play-for-england",
-   "summary": "Forward springs to defence of Chelsea teammate\u2018He wanted to come and represent his country\u2019Morgan Rogers has said accusations that his Chelsea teammate Cole Palmer is not committed to playing for England are \u201ca\u2026",
-   "date": "2026-11-12T23:17:46+00:00",
-   "image": "https://i.guim.co.uk/img/media/341d5262b98afe2d4759e05dfd101cd17678b06b/91_1181_2759_2207/master/2759.jpg?width=140&quality=85&auto=format&fit=max&s=4c83e7f0fb505e181cb3e1449a33ec84"
-  },
-  {
    "source": "BBC Sport",
    "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
@@ -380,14 +412,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Grealish apologises for absence after breach of discipline",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgp8e2ljxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Jack Grealish issues an apology to Everton fans for his recent absence due to a disciplinary issue.",
-   "date": "2026-11-12T22:10:13+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba4/live/6d670f60-dedf-11f1-a75a-dbf83836672c.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Where does Kane rank among all-time England greats?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
    "summary": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
@@ -401,6 +425,14 @@
    "summary": "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?",
    "date": "2026-11-12T21:50:59+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6057/live/b497a8a0-dede-11f1-a75a-dbf83836672c.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Ghana kick-start their Afcon 2027 qualifying campaign despite Jordan Ayew having a penalty saved, while Cameroon, Ivory Coast and Senegal register wins.",
+   "date": "2026-11-12T21:28:06+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4161/live/c73c90e0-deb8-11f1-8fb5-a771a656a227.jpg"
   },
   {
    "source": "BBC Sport",
@@ -444,14 +476,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Goodwillie prosecutors 'wrong' not to put footballer on trial for rape, court hears",
-   "link": "https://www.bbc.co.uk/news/articles/c6z9dppxxyxpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Denise Clair has brought a case for a private criminal prosecution against the footballer, who was ruled to have raped her by a civil court.",
-   "date": "2026-11-12T17:31:02+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/624c/live/20082b60-deb1-11f1-8fb5-a771a656a227.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Owono undecided over future following De Miguel death",
    "link": "https://www.bbc.co.uk/sport/football/articles/ckedq01zve04o?at_medium=RSS&at_campaign=rss",
    "summary": "FC Andorra manager Carles Manso says goalkeeper Jesus Owono is yet to decide whether he will return to playing action following the death of Tenerife forward Jesus de Miguel.",
@@ -481,6 +505,14 @@
    "summary": "The Scottish Cup third-round tie between Largs Thistle and Ayr United will be shown live on the BBC Scotland channel, website and iPlayer on Friday, 27 November.",
    "date": "2026-11-12T15:00:57+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5250/live/03144960-dea4-11f1-82bd-ab0398e9e082.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Police investigation into Vigar's death ongoing",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckm2mn2lvld9o?at_medium=RSS&at_campaign=rss",
+   "summary": "The police investigation into Billy Vigar's death from a \"significant brain injury\" is unlikely to conclude for at least another two months.",
+   "date": "2026-11-12T13:11:49+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4800/live/690b1270-de96-11f1-9afe-1f03bfe02283.jpg"
   },
   {
    "source": "The Guardian",
@@ -529,70 +561,14 @@
    "summary": "Japan FA honorary president is hoping a calmer approach that makes fewer unwelcome headlines for Fifa will be welcomed by footballNot many remember Japan\u2019s bid for the 2022 World Cup, when the country finished the race\u2026",
    "date": "2026-11-12T08:00:13+00:00",
    "image": "https://i.guim.co.uk/img/media/12301e7974d99d0a825512be0796a0206bd6d8c8/192_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=b5e5167fd07543066485050d9bf4682c"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "How 'Barca way' continues despite big-name exits",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
-   "date": "2026-11-12T06:41:09+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ad/live/0b486200-dddd-11f1-b465-b9821c2582d4.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
-   "link": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
-   "summary": "USSF cites state department advisory about QatarCompetition set to kick off in eight daysThe US men\u2019s national team have pulled out of the Fifa U-17 World Cup, which is due to kick off in Qatar in just over a week. In a\u2026",
-   "date": "2026-11-11T21:54:46+00:00",
-   "image": "https://i.guim.co.uk/img/media/6987ac7017788ecaf5e48c61ad55e3e00c026971/526_0_4393_3514/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=36e310889eb3cd518d09f9dbce90f937"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Complaint filed to IRS in relation to Fifa head Gianni Infantino\u2019s housekeeper",
-   "link": "https://www.theguardian.com/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
-   "summary": "It calls for inquiry into claims she was on Fifa payrollFifa: Infantino personally pays for \u2018any domestic staff\u2019A complaint has been filed to the United States Internal Revenue Service calling for an investigation into\u2026",
-   "date": "2026-11-11T19:00:01+00:00",
-   "image": "https://i.guim.co.uk/img/media/c0e0e1436188a54323f8e247d48e0f1b12f5b884/179_0_2809_2248/master/2809.jpg?width=140&quality=85&auto=format&fit=max&s=2ac05d5d2759008f14c1751f4b60f1b2"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Scotland without captain Weir for World Cup play-off",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c64gnlevgj1zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Scotland will be without Caroline Weir for the World Cup play-off final with Sweden following a setback in the influential midfielder's recovery from a muscle injury.",
-   "date": "2026-11-11T11:59:18+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52c4/live/a84cbbe0-ddbb-11f1-9582-1b529d725aaf.jpg"
   }
  ],
  "videos": [
-  {
-   "channel": "beIN SPORTS",
-   "id": "3jTla8b2-Nw",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u062a\u0648\u0646\u0633 \u0648\u0644\u064a\u0628\u064a\u0627 | \u062a\u0635\u0641\u064a\u0627\u062a \u0643\u0623\u0633 \u0623\u0645\u0645 \u0625\u0641\u0631\u064a\u0642\u064a\u0627 2027 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629",
-   "date": "2026-11-13T18:44:55+00:00"
-  },
   {
    "channel": "FIFA",
    "id": "_dOJIC-hO1c",
    "title": "60-Second Highlights | Netherlands 2-2 Japan | 2026 FIFA World Cup",
    "date": "2026-11-13T18:30:01+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "-P5ZYITth50",
-   "title": "EVERY Women's Champions League Goal From Matchday 4! | Highlights",
-   "date": "2026-11-13T14:04:32+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "RmYiohLZ-1w",
-   "title": "Gustavo Hamer RATES Coventry City's Best Premier League Goals",
-   "date": "2026-11-13T14:01:12+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "AkaP4fYP0ME",
-   "title": "Harry Kane can hit the \ud835\udde1\ud835\uddd9\ud835\udddf \ud835\uddff\ud835\uddf2\ud835\uddf0\ud835\uddfc\ud835\uddff\ud835\uddf1 Field Goal \ud83c\udfc8\ud83e\udd2f",
-   "date": "2026-11-13T14:00:10+00:00"
   },
   {
    "channel": "Serie A",
@@ -619,52 +595,10 @@
    "date": "2026-11-13T06:30:28+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "HqVg4wkk0-M",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0625\u0646\u062c\u0644\u062a\u0631\u0627 \u0648\u0643\u0631\u0648\u0627\u062a\u064a\u0627 | \u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629",
-   "date": "2026-11-12T22:32:05+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "Q1dhBbciRpQ",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062a\u0634\u064a\u0643 \u0648\u0625\u0633\u0628\u0627\u0646\u064a\u0627 | \u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629",
-   "date": "2026-11-12T22:24:15+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "CmUQW3cgotc",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0625\u064a\u0637\u0627\u0644\u064a\u0627 \u0648\u0641\u0631\u0646\u0633\u0627 | \u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629",
-   "date": "2026-11-12T22:18:59+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "LzhmlbveE5A",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u062a\u0631\u0643\u064a\u0627 \u0648\u0628\u0644\u062c\u064a\u0643\u0627 | \u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629",
-   "date": "2026-11-12T21:49:03+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "vDBzfJqNHbA",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u0633\u0646\u063a\u0627\u0644 \u0648\u0627\u0644\u0633\u0648\u062f\u0627\u0646 | \u062a\u0635\u0641\u064a\u0627\u062a \u0643\u0623\u0633 \u0623\u0645\u0645 \u0625\u0641\u0631\u064a\u0642\u064a\u0627 2027 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629",
-   "date": "2026-11-12T21:45:37+00:00"
-  },
-  {
    "channel": "FIFA",
    "id": "LwP0TSz9zuE",
    "title": "Haaland Storms Into Round Of 32 | Norway 3-2 Senegal | 2026 World Cup EXTENDED HIGHLIGHTS",
    "date": "2026-11-12T17:30:06+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "Fjf-ZkM784w",
-   "title": "That skill before the goal \ud83e\udd2f",
-   "date": "2026-11-12T16:00:15+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "mKb4iutsbis",
-   "title": "Brighton Players Scoring Unbelievable Goals \ud83d\ude2e\u200d\ud83d\udca8",
-   "date": "2026-11-12T15:02:10+00:00"
   },
   {
    "channel": "Serie A",
@@ -679,24 +613,6 @@
    "date": "2026-11-13T21:00:18+00:00"
   },
   {
-   "channel": "Premier League",
-   "id": "21l_SBFfYog",
-   "title": "We Asked Managers About Their Daily Routines | On The Spot",
-   "date": "2026-11-13T17:41:06+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "t1krcOStgXM",
-   "title": "The Secret Behind Thierno Barry's Fine Form \ud83d\udd25",
-   "date": "2026-11-13T17:24:32+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "4etlaKw4Ido",
-   "title": "Imagine if they scored!",
-   "date": "2026-11-13T17:00:38+00:00"
-  },
-  {
    "channel": "FIFA",
    "id": "yBs1rVfPnPQ",
    "title": "FULL MATCH | Panama v France | Group Stage | FIFA Women's World Cup 2023\u2122",
@@ -707,6 +623,24 @@
    "id": "Ndlt7jqwPmk",
    "title": "Atl\u00e9tico de Madrid 7 - 1 Granada CF 2016/17 PARTIDO COMPLETO",
    "date": "2026-11-13T16:38:31+00:00"
+  },
+  {
+   "channel": "Ligue 1",
+   "id": "psB7fgLhGpE",
+   "title": "LIAM ROSENIOR FACE \u00c0 SON P\u00c8RE : UN ENTRETIEN EXCEPTIONNEL !",
+   "date": "2026-11-13T16:00:34+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "KdQMQP20v84",
+   "title": "Simeone no pierde el toque",
+   "date": "2026-11-13T15:00:01+00:00"
+  },
+  {
+   "channel": "Ligue 1",
+   "id": "fJttrSV_BPI",
+   "title": "Kilian Mbapp\u00e9 est-il indispensable \u00e0 l'\u00e9quipe de France ? - Le SAV de la Ligue 1",
+   "date": "2026-11-13T14:25:32+00:00"
   }
  ],
  "fixtures": [
@@ -2188,11 +2122,11 @@
    "date": "2026-11-13T20:00Z",
    "home": "Morocco",
    "away": "Niger",
-   "hs": "4",
+   "hs": "5",
    "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "90'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
    "venue": "Mohamed V Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
@@ -10643,11 +10577,11 @@
    "date": "2026-11-13T20:00Z",
    "home": "Morocco",
    "away": "Niger",
-   "hs": "4",
+   "hs": "5",
    "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "90'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
    "venue": "Mohamed V Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
