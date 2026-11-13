@@ -1,20 +1,28 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Manchester United confirm Pochettino appointment; Fernandes rejects second contract offer: football \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
+   "summary": "Pochettino is due to speak later on FridayToday\u2019s fixtures | Follow us on TikTok | Mail DominicBarney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day.\u201cAnd as the teams lined up there was a\u2026",
+   "date": "2026-11-13T13:03:22+00:00",
+   "image": "https://i.guim.co.uk/img/media/439498851cd883a872e25e9954722b73d1efbd30/166_0_2363_1891/master/2363.jpg?width=140&quality=85&auto=format&fit=max&s=d660434193e248bc2bfad19ad24ee181"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Odegaard backing Norway to avenge Wales defeat",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmq8lx38zwn4o?at_medium=RSS&at_campaign=rss",
+   "summary": "Martin Odegaard backs Norway to brush off snow disruption and avenge their defeat by Wales when they meet again in Oslo on Saturday.",
+   "date": "2026-11-13T12:43:51+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f735/live/7bd2f050-df52-11f1-a9b1-e15cbae383e5.jpg"
+  },
+  {
    "source": "BBC Sport",
    "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
    "summary": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
    "date": "2026-11-13T12:09:48+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Pochettino to sign two-and-a-half-year Manchester United deal; Fernandes rejects second contract offer: football \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
-   "summary": "USMNT head coach is due to speak later on FridayToday\u2019s fixtures | Follow us on TikTok | Mail DominicBarney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day.\u201cAnd as the teams lined up there was a\u2026",
-   "date": "2026-11-13T11:47:44+00:00",
-   "image": "https://i.guim.co.uk/img/media/439498851cd883a872e25e9954722b73d1efbd30/166_0_2363_1891/master/2363.jpg?width=140&quality=85&auto=format&fit=max&s=d660434193e248bc2bfad19ad24ee181"
   },
   {
    "source": "BBC Sport",
@@ -71,17 +79,25 @@
    "summary": "Erling Haaland can seem unstoppable - but Wales managed it a month ago. In Norway on Saturday, they hope the plan will work again.",
    "date": "2026-11-13T08:05:12+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcae/live/7234f470-dd19-11f1-b4f2-5145cca625ab.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
-   "link": "https://www.theguardian.com/football/2026/nov/13/football-association-art-prize",
-   "summary": "Football and the art world have long remained distant but the breadth of entries for this year\u2019s award revivals a healthy revivalIt may be the Beautiful Game, but in its early decades football was a rare subject for\u2026",
-   "date": "2026-11-13T08:00:12+00:00",
-   "image": "https://i.guim.co.uk/img/media/badf13a337df5a9ec82794e27b985cad51ac5767/42_0_1285_1028/master/1285.jpg?width=140&quality=85&auto=format&fit=max&s=f4f0458ba1f0c737f6e555407f2162c7"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Manchester United confirm Pochettino appointment; Fernandes rejects second contract offer: football \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
+   "summary": "Pochettino is due to speak later on FridayToday\u2019s fixtures | Follow us on TikTok | Mail DominicBarney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day.\u201cAnd as the teams lined up there was a\u2026",
+   "date": "2026-11-13T13:03:22+00:00",
+   "image": "https://i.guim.co.uk/img/media/439498851cd883a872e25e9954722b73d1efbd30/166_0_2363_1891/master/2363.jpg?width=140&quality=85&auto=format&fit=max&s=d660434193e248bc2bfad19ad24ee181"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Odegaard backing Norway to avenge Wales defeat",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmq8lx38zwn4o?at_medium=RSS&at_campaign=rss",
+   "summary": "Martin Odegaard backs Norway to brush off snow disruption and avenge their defeat by Wales when they meet again in Oslo on Saturday.",
+   "date": "2026-11-13T12:43:51+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f735/live/7bd2f050-df52-11f1-a9b1-e15cbae383e5.jpg"
+  },
   {
    "source": "BBC Sport",
    "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
@@ -89,14 +105,6 @@
    "summary": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
    "date": "2026-11-13T12:09:48+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Pochettino to sign two-and-a-half-year Manchester United deal; Fernandes rejects second contract offer: football \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
-   "summary": "USMNT head coach is due to speak later on FridayToday\u2019s fixtures | Follow us on TikTok | Mail DominicBarney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day.\u201cAnd as the teams lined up there was a\u2026",
-   "date": "2026-11-13T11:47:44+00:00",
-   "image": "https://i.guim.co.uk/img/media/439498851cd883a872e25e9954722b73d1efbd30/166_0_2363_1891/master/2363.jpg?width=140&quality=85&auto=format&fit=max&s=d660434193e248bc2bfad19ad24ee181"
   },
   {
    "source": "BBC Sport",
@@ -507,14 +515,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/134b/live/944d3be0-c3e6-11f1-badc-154546719036.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "Wales' James warns of Norwegian revenge in Oslo",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c623jl1kenvyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Winger Dan James says Wales proved a point when they beat Norway \u2013 but is wary Erling Haaland's team will now want to do the same to them.",
-   "date": "2026-11-12T04:32:42+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc28/live/64a5da40-ddeb-11f1-9204-cdcddf7d901c.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
    "link": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
@@ -564,6 +564,12 @@
   }
  ],
  "videos": [
+  {
+   "channel": "FIFA",
+   "id": "22JhbO9WvjY",
+   "title": "When Mbappe & Dembele Cooked For France Against Iraq | 2026 World Cup EXTENDED HIGHLIGHTS",
+   "date": "2026-11-13T12:30:05+00:00"
+  },
   {
    "channel": "Serie A",
    "id": "rqPyoNii7iw",
@@ -637,12 +643,6 @@
    "date": "2026-11-12T13:37:17+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "gtwGSfMYJJo",
-   "title": "Baena Bags Against Uruguay As Spain Top Group | 2026 World Cup EXTENDED HIGHLIGHTS",
-   "date": "2026-11-12T11:30:28+00:00"
-  },
-  {
    "channel": "Premier League",
    "id": "aunhD_dAe7I",
    "title": "The Tactical Brilliance Behind Wirtz\u2019s Goal! \ud83d\udd34",
@@ -653,6 +653,12 @@
    "id": "xjI1Kv9C7JI",
    "title": "TWO NO-LOOK GOALS?! \ud83e\udee8",
    "date": "2026-11-11T13:30:03+00:00"
+  },
+  {
+   "channel": "FIFA",
+   "id": "En6bjeW9eZo",
+   "title": "Egypt serving pure football delight \ud83c\uddea\ud83c\uddec\u2728",
+   "date": "2026-11-13T12:00:03+00:00"
   },
   {
    "channel": "Premier League",
@@ -683,12 +689,6 @@
    "id": "D-5FNo0Gr50",
    "title": "RAPHINHA: el \u20189\u2019 del FC BARCELONA y su GRAN IMPACTO \u26bd",
    "date": "2026-11-13T11:00:01+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "tu5jSgKtay8",
-   "title": "El repliegue defensivo del Real Madrid",
-   "date": "2026-11-13T09:00:15+00:00"
   }
  ],
  "fixtures": [
@@ -1628,11 +1628,11 @@
    "date": "2026-11-13T12:00Z",
    "home": "Singapore",
    "away": "Paraguay",
-   "hs": "0",
-   "as": "1",
+   "hs": "1",
+   "as": "3",
    "live": true,
    "state": "in",
-   "clock": "10'",
+   "clock": "64'",
    "venue": "Singapore National Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/sin.png",
@@ -1648,9 +1648,9 @@
    "away": "Congo",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "22'",
    "venue": "Stade Omnisports de Malouzini",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/com.png",
@@ -1666,9 +1666,9 @@
    "away": "Ethiopia",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "25'",
    "venue": "Est\u00e1dio do Zimpeto",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/moz.png",
@@ -1684,9 +1684,9 @@
    "away": "Burundi",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "22'",
    "venue": "Levy Mwanawasa Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/zam.png",
@@ -10101,11 +10101,11 @@
    "date": "2026-11-13T12:00Z",
    "home": "Singapore",
    "away": "Paraguay",
-   "hs": "0",
-   "as": "1",
+   "hs": "1",
+   "as": "3",
    "live": true,
    "state": "in",
-   "clock": "10'",
+   "clock": "64'",
    "venue": "Singapore National Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/sin.png",
@@ -10121,9 +10121,9 @@
    "away": "Congo",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "22'",
    "venue": "Stade Omnisports de Malouzini",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/com.png",
@@ -10139,9 +10139,9 @@
    "away": "Ethiopia",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "25'",
    "venue": "Est\u00e1dio do Zimpeto",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/moz.png",
@@ -10157,9 +10157,9 @@
    "away": "Burundi",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "22'",
    "venue": "Levy Mwanawasa Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/zam.png",
