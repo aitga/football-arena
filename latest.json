@@ -2,6 +2,30 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "The 'manager's dream' who has put NI one game from history",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
+   "summary": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
+   "date": "2026-11-14T23:21:45+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb98/live/20ed71a0-e07a-11f1-8ef0-413f345dd9f6.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Liverpool put three past Brighton to end winless run",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
+   "summary": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
+   "date": "2026-11-14T23:00:29+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/645b6920-e06f-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
+   "summary": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
+   "date": "2026-11-14T22:40:02+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf4/live/14e20490-e078-11f1-9ec0-713bf094c3d1.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Devlin nets winner as NI top Nations League group",
    "link": "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o?at_medium=RSS&at_campaign=rss",
    "summary": "Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League.",
@@ -20,7 +44,7 @@
    "source": "The Guardian",
    "title": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
    "link": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
-   "summary": "Portugal thrashed 4-1 at home to DenmarkWales bottom of Group A4 after 3-1 lossPortugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo\u2026",
+   "summary": "Portugal thrashed 4-1 at home by DenmarkWales bottom of Group A4 after 3-1 lossPortugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo\u2026",
    "date": "2026-11-14T22:23:39+00:00",
    "image": "https://i.guim.co.uk/img/media/80cddf65767255ca40d4f5c3f182e55e948f8e26/1006_0_5044_4035/master/5044.jpg?width=140&quality=85&auto=format&fit=max&s=a43a033416486c567aa3c13928d84268"
   },
@@ -55,33 +79,33 @@
    "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid.",
    "date": "2026-11-14T20:43:57+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d168/live/23ffd600-e05f-11f1-9e26-b3b65586122f.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Clara Luvanga strikes as Washington Spirit beat Utah to reach third straight NWSL final",
-   "link": "https://www.theguardian.com/football/2026/nov/14/washington-spirit-utah-royals-nwsl-semi-final-clara-luvanga",
-   "summary": "Tanzanian scores second-half winner in 2-1 victorySpirit reach fifth NWSL final and third in successionWashington will chase second title at home groundClara Luvanga scored her second goal of the postseason in the 57th\u2026",
-   "date": "2026-11-14T20:33:50+00:00",
-   "image": "https://i.guim.co.uk/img/media/bee44b5317593adf17fedc49d44df9b08ca826c4/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=df9f6cf4e0bf8525872d6a80f6ec6513"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Declan Rice accepts he had an \u2018average World Cup\u2019 as England gear up for Spain showdown",
-   "link": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
-   "summary": "Midfielder needed a break \u2018to come back stronger\u2019James Trafford selected to start in goal for EnglandDeclan Rice has admitted he had an \u201caverage\u201d World Cup at the end of a gruelling season and needed time out during the\u2026",
-   "date": "2026-11-14T20:30:00+00:00",
-   "image": "https://i.guim.co.uk/img/media/f7ef395a328799053c7788d68a982937800fea7c/3_0_2003_1602/master/2003.jpg?width=140&quality=85&auto=format&fit=max&s=5d88ef87bf56f44b76724f7c788cdb4b"
-  },
-  {
-   "source": "The Guardian",
-   "title": "De la Fuente adamant there is no racism in Spain despite England reminder to players",
-   "link": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league",
-   "summary": "England\u2019s first game in Madrid since racist abuse in 2004 De la Fuente tells Tuchel \u2018we\u2019re not racists, none of us\u2019Luis de la Fuente has told Thomas Tuchel there is no racism in Spain after the England coach\u2019s admission\u2026",
-   "date": "2026-11-14T20:27:02+00:00",
-   "image": "https://i.guim.co.uk/img/media/c2be78ff0fcd0ba82fa2d77d7a5042a55688fdfd/374_0_3737_2989/master/3737.jpg?width=140&quality=85&auto=format&fit=max&s=440d43b514e68ea66256c044b6f1f82a"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "The 'manager's dream' who has put NI one game from history",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
+   "summary": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
+   "date": "2026-11-14T23:21:45+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb98/live/20ed71a0-e07a-11f1-8ef0-413f345dd9f6.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Liverpool put three past Brighton to end winless run",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
+   "summary": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
+   "date": "2026-11-14T23:00:29+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/645b6920-e06f-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
+   "summary": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
+   "date": "2026-11-14T22:40:02+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf4/live/14e20490-e078-11f1-9ec0-713bf094c3d1.jpg"
+  },
   {
    "source": "BBC Sport",
    "title": "Devlin nets winner as NI top Nations League group",
@@ -102,7 +126,7 @@
    "source": "The Guardian",
    "title": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
    "link": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
-   "summary": "Portugal thrashed 4-1 at home to DenmarkWales bottom of Group A4 after 3-1 lossPortugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo\u2026",
+   "summary": "Portugal thrashed 4-1 at home by DenmarkWales bottom of Group A4 after 3-1 lossPortugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo\u2026",
    "date": "2026-11-14T22:23:39+00:00",
    "image": "https://i.guim.co.uk/img/media/80cddf65767255ca40d4f5c3f182e55e948f8e26/1006_0_5044_4035/master/5044.jpg?width=140&quality=85&auto=format&fit=max&s=a43a033416486c567aa3c13928d84268"
   },
@@ -265,14 +289,6 @@
    "summary": "Brazil loss in Singapore marred by unruly end to friendlyArgentina beaten 2-1 by Uruguay in Buenos AiresRaphinha was sent off as Brazil crashed to a 3-2 defeat by Japan in their international friendly in Singapore. The\u2026",
    "date": "2026-11-14T13:07:33+00:00",
    "image": "https://i.guim.co.uk/img/media/b5c5443a861f877f996d325d235fb3f5ee577cee/228_69_1398_1119/master/1398.jpg?width=140&quality=85&auto=format&fit=max&s=89e18746c33710dbde60ad3f319fde94"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Exciting' Moylan flourishing for club and country",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmlydwy2zg10o?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport NI looks as Jack Moylan's terrific form for Cardiff City and Republic of Ireland ahead of the Irish's final two Nations League games.",
-   "date": "2026-11-14T09:59:18+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceaf/live/a56ea780-de92-11f1-9afe-1f03bfe02283.jpg"
   },
   {
    "source": "BBC Sport",
@@ -531,14 +547,6 @@
    "image": "https://i.guim.co.uk/img/media/d62e868b4490e4aa74b72809f07363a96d662ac5/290_0_2350_1881/master/2350.jpg?width=140&quality=85&auto=format&fit=max&s=825d1712f66778cc2d72e7d04a2fd22f"
   },
   {
-   "source": "BBC Sport",
-   "title": "Six matches that defined Carrick's Man Utd tenure",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c5ev37egv97mo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport looks back at the six Premier League matches that defined the highs and lows of Michael Carrick's 10-month spell in charge of Manchester United.",
-   "date": "2026-11-12T11:25:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f60a/live/0222d570-d167-11f1-b441-2b33b063138f.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "\u2018Second ball\u2019 may be a Sunday league mantra but Yates showed its top-flight relevance",
    "link": "https://www.theguardian.com/football/2026/nov/12/ryan-yates-nottingham-forest-manchester-city-premier-league-second-ball",
@@ -553,23 +561,9 @@
    "summary": "Japan FA honorary president is hoping a calmer approach that makes fewer unwelcome headlines for Fifa will be welcomed by footballNot many remember Japan\u2019s bid for the 2022 World Cup, when the country finished the race\u2026",
    "date": "2026-11-12T08:00:13+00:00",
    "image": "https://i.guim.co.uk/img/media/12301e7974d99d0a825512be0796a0206bd6d8c8/192_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=b5e5167fd07543066485050d9bf4682c"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "England's Blues brothers - how the Bellinghams helped save Birmingham",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm1j3j20r2rzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Boyhood Birmingham City fans Jude and Jobe Bellingham could become the first brothers to play for England for 19 years.",
-   "date": "2026-11-12T07:12:41+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c945/live/c3116c40-dce0-11f1-a8e1-e3454837ffc6.png"
   }
  ],
  "videos": [
-  {
-   "channel": "beIN SPORTS",
-   "id": "h7iIpqGeL28",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631 \u0648\u062a\u0648\u063a\u0648 | \u062a\u0635\u0641\u064a\u0627\u062a \u0643\u0623\u0633 \u0623\u0645\u0645 \u0625\u0641\u0631\u064a\u0642\u064a\u0627 2027 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629",
-   "date": "2026-11-14T21:53:00+00:00"
-  },
   {
    "channel": "FIFA",
    "id": "ZJBl1Mzbf9U",
@@ -595,36 +589,6 @@
    "date": "2026-11-14T00:30:22+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "yC3EXcwACQ0",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u0645\u063a\u0631\u0628 \u0648\u0627\u0644\u0646\u064a\u062c\u0631 | \u062a\u0635\u0641\u064a\u0627\u062a \u0643\u0623\u0633 \u0623\u0645\u0645 \u0625\u0641\u0631\u064a\u0642\u064a\u0627 2027 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629",
-   "date": "2026-11-13T22:27:55+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "r7E4zWiT3qo",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0635\u0631\u0628\u064a\u0627 \u0648\u0623\u0644\u0645\u0627\u0646\u064a\u0627 | \u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629",
-   "date": "2026-11-13T22:13:59+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "iez92HunYmg",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0647\u0648\u0644\u0646\u062f\u0627 \u0648\u0627\u0644\u064a\u0648\u0646\u0627\u0646 | \u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629",
-   "date": "2026-11-13T22:10:42+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "00cfrbs04AA",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0645\u0635\u0631 \u0648\u0645\u0627\u0644\u0627\u0648\u064a | \u062a\u0635\u0641\u064a\u0627\u062a \u0643\u0623\u0633 \u0623\u0645\u0645 \u0625\u0641\u0631\u064a\u0642\u064a\u0627 2027 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629",
-   "date": "2026-11-13T21:53:25+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "3jTla8b2-Nw",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u062a\u0648\u0646\u0633 \u0648\u0644\u064a\u0628\u064a\u0627 | \u062a\u0635\u0641\u064a\u0627\u062a \u0643\u0623\u0633 \u0623\u0645\u0645 \u0625\u0641\u0631\u064a\u0642\u064a\u0627 2027 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629",
-   "date": "2026-11-13T18:44:55+00:00"
-  },
-  {
    "channel": "FIFA",
    "id": "_dOJIC-hO1c",
    "title": "60-Second Highlights | Netherlands 2-2 Japan | 2026 FIFA World Cup",
@@ -637,34 +601,10 @@
    "date": "2026-11-13T14:04:32+00:00"
   },
   {
-   "channel": "Premier League",
-   "id": "RmYiohLZ-1w",
-   "title": "Gustavo Hamer RATES Coventry City's Best Premier League Goals",
-   "date": "2026-11-13T14:01:12+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "AkaP4fYP0ME",
-   "title": "Harry Kane can hit the \ud835\udde1\ud835\uddd9\ud835\udddf \ud835\uddff\ud835\uddf2\ud835\uddf0\ud835\uddfc\ud835\uddff\ud835\uddf1 Field Goal \ud83c\udfc8\ud83e\udd2f",
-   "date": "2026-11-13T14:00:10+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "E5qO9BfV3a8",
-   "title": "Noslin, Castro, McTominay & MORE! | The Best Goals of October | Serie A 2026/27",
-   "date": "2026-11-13T14:00:04+00:00"
-  },
-  {
    "channel": "FIFA",
    "id": "22JhbO9WvjY",
    "title": "When Mbappe & Dembele Cooked For France Against Iraq | 2026 World Cup EXTENDED HIGHLIGHTS",
    "date": "2026-11-13T12:30:05+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "rqPyoNii7iw",
-   "title": "Best of Santiago Castro | iliad Goal Of The Month: October 2026 | Serie A 2026/27",
-   "date": "2026-11-13T10:00:16+00:00"
   },
   {
    "channel": "UEFA",
@@ -703,10 +643,10 @@
    "date": "2026-11-14T15:00:33+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "X-kEx207oVg",
-   "title": "De Gea, Stankovic, Perri & MORE | Best Saves of October | Serie A 2026/27",
-   "date": "2026-11-14T14:00:33+00:00"
+   "channel": "UEFA",
+   "id": "DrFYWwOcCWY",
+   "title": "Arda G\u00fcler\u2019s free-kick vs Belgium!",
+   "date": "2026-11-14T12:00:09+00:00"
   }
  ],
  "fixtures": [
@@ -1814,10 +1754,10 @@
    "home": "Haiti",
    "away": "United States",
    "hs": "0",
-   "as": "2",
-   "live": true,
-   "state": "in",
-   "clock": "55'",
+   "as": "6",
+   "live": false,
+   "state": "post",
+   "clock": "90'+2'",
    "venue": "Nu Stadium",
    "usa": [
     "HBO Max",
@@ -10293,10 +10233,10 @@
    "home": "Haiti",
    "away": "United States",
    "hs": "0",
-   "as": "2",
-   "live": true,
-   "state": "in",
-   "clock": "55'",
+   "as": "6",
+   "live": false,
+   "state": "post",
+   "clock": "90'+2'",
    "venue": "Nu Stadium",
    "usa": [
     "HBO Max",
