@@ -2,6 +2,38 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Devlin nets winner as NI top Nations League group",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o?at_medium=RSS&at_campaign=rss",
+   "summary": "Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League.",
+   "date": "2026-11-14T22:38:02+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e888/live/c140e190-e07b-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "White has 'exciting future' despite boos - Rice",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley.",
+   "date": "2026-11-14T22:26:56+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f186/live/c0295b40-e074-11f1-9f6f-67b1fda6424e.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
+   "link": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
+   "summary": "Portugal thrashed 4-1 at home to DenmarkWales bottom of Group A4 after 3-1 lossPortugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo\u2026",
+   "date": "2026-11-14T22:23:39+00:00",
+   "image": "https://i.guim.co.uk/img/media/80cddf65767255ca40d4f5c3f182e55e948f8e26/1006_0_5044_4035/master/5044.jpg?width=140&quality=85&auto=format&fit=max&s=a43a033416486c567aa3c13928d84268"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Arsenal target Nusa could cost \u00a366m - Sunday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsenal could have to pay \u00a366m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
+   "date": "2026-11-14T21:48:45+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae50/live/f2931240-e07b-11f1-93e1-3b657b665bcf.png"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Spurs held to a draw by Everton in the WSL",
    "link": "https://www.bbc.co.uk/sport/football/videos/ck9q8vvz81rxo?at_medium=RSS&at_campaign=rss",
    "summary": "Tottenham and Everton play out a hard-fought goalless draw in the Women's Super League.",
@@ -20,17 +52,9 @@
    "source": "BBC Sport",
    "title": "'No racism in Spain' \u2013 De la Fuente message for Tuchel",
    "link": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
-   "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" after Thomas Tuchel issued a warning to his England players before Sunday's Nations League meeting in Madrid.",
+   "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid.",
    "date": "2026-11-14T20:43:57+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d168/live/23ffd600-e05f-11f1-9e26-b3b65586122f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Rice close to signing new Arsenal contract",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal and England midfielder Declan Rice says he is close to signing a new contract with his club.",
-   "date": "2026-11-14T20:40:35+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ab3/live/e7107780-e069-11f1-99e6-531f8829f5a3.jpg"
   },
   {
    "source": "The Guardian",
@@ -55,35 +79,43 @@
    "summary": "England\u2019s first game in Madrid since racist abuse in 2004 De la Fuente tells Tuchel \u2018we\u2019re not racists, none of us\u2019Luis de la Fuente has told Thomas Tuchel there is no racism in Spain after the England coach\u2019s admission\u2026",
    "date": "2026-11-14T20:27:02+00:00",
    "image": "https://i.guim.co.uk/img/media/c2be78ff0fcd0ba82fa2d77d7a5042a55688fdfd/374_0_3737_2989/master/3737.jpg?width=140&quality=85&auto=format&fit=max&s=440d43b514e68ea66256c044b6f1f82a"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-   "summary": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
-   "date": "2026-11-14T20:22:00+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a93/live/1896ea50-e038-11f1-9ca9-b3b288fceb81.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
-   "link": "https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
-   "summary": "Mauricio Pochettino\u2019s arrival feels like yet another appointment that would have been better made a few years agoMagnusson: And your time starts ... now! What is paleontology? Smithers: Yes, absolutely correct.\u2026",
-   "date": "2026-11-14T20:00:53+00:00",
-   "image": "https://i.guim.co.uk/img/media/141adda3612daefb346ea63fbf16a86b94580389/732_203_4530_3624/master/4530.jpg?width=140&quality=85&auto=format&fit=max&s=0c3310ddb4287be45a16f3b931b654f8"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Haaland helps Norway to win over Wales in Nations League",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Watch the best of the action as Norway beat Wales in the Nations League in Oslo.",
-   "date": "2026-11-14T19:23:13+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6958/live/cbfec630-e060-11f1-9e26-b3b65586122f.png"
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
+   "title": "Devlin nets winner as NI top Nations League group",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o?at_medium=RSS&at_campaign=rss",
+   "summary": "Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League.",
+   "date": "2026-11-14T22:38:02+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e888/live/c140e190-e07b-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "White has 'exciting future' despite boos - Rice",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley.",
+   "date": "2026-11-14T22:26:56+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f186/live/c0295b40-e074-11f1-9f6f-67b1fda6424e.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
+   "link": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
+   "summary": "Portugal thrashed 4-1 at home to DenmarkWales bottom of Group A4 after 3-1 lossPortugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo\u2026",
+   "date": "2026-11-14T22:23:39+00:00",
+   "image": "https://i.guim.co.uk/img/media/80cddf65767255ca40d4f5c3f182e55e948f8e26/1006_0_5044_4035/master/5044.jpg?width=140&quality=85&auto=format&fit=max&s=a43a033416486c567aa3c13928d84268"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Arsenal target Nusa could cost \u00a366m - Sunday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsenal could have to pay \u00a366m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
+   "date": "2026-11-14T21:48:45+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae50/live/f2931240-e07b-11f1-93e1-3b657b665bcf.png"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Spurs held to a draw by Everton in the WSL",
    "link": "https://www.bbc.co.uk/sport/football/videos/ck9q8vvz81rxo?at_medium=RSS&at_campaign=rss",
    "summary": "Tottenham and Everton play out a hard-fought goalless draw in the Women's Super League.",
@@ -102,17 +134,9 @@
    "source": "BBC Sport",
    "title": "'No racism in Spain' \u2013 De la Fuente message for Tuchel",
    "link": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
-   "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" after Thomas Tuchel issued a warning to his England players before Sunday's Nations League meeting in Madrid.",
+   "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid.",
    "date": "2026-11-14T20:43:57+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d168/live/23ffd600-e05f-11f1-9e26-b3b65586122f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Rice close to signing new Arsenal contract",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal and England midfielder Declan Rice says he is close to signing a new contract with his club.",
-   "date": "2026-11-14T20:40:35+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ab3/live/e7107780-e069-11f1-99e6-531f8829f5a3.jpg"
   },
   {
    "source": "The Guardian",
@@ -161,14 +185,6 @@
    "summary": "Watch the best of the action as Norway beat Wales in the Nations League in Oslo.",
    "date": "2026-11-14T19:23:13+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6958/live/cbfec630-e060-11f1-9e26-b3b65586122f.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Clinical Norway dent Wales\u2019 Nations League top-tier hopes with victory in Oslo",
-   "link": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
-   "summary": "Home side avenge October defeat in CardiffWales bottom of Group A4 with one game leftWales suffered a 3-1 defeat to Norway in Oslo to dent their hopes of staying in the top tier of the Nations League.Antonio Nusa and\u2026",
-   "date": "2026-11-14T19:17:14+00:00",
-   "image": "https://i.guim.co.uk/img/media/1d7b053372fc3b1e878251e30a1026b1987171c6/146_0_3304_2644/master/3304.jpg?width=140&quality=85&auto=format&fit=max&s=254e1d9b06a7c5d83e4547ba614e48b6"
   },
   {
    "source": "The Guardian",
@@ -246,7 +262,7 @@
    "source": "The Guardian",
    "title": "Raphinha sees red as Brazil stunned by Japan while Argentina\u2019s post-Messi era starts with defeat",
    "link": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
-   "summary": "Loss in Singapore marred by unruly end to friendlyArgentina beaten 2-1 by Uruguay in Buenos AiresRaphinha was sent off as Brazil crashed to a 3-2 defeat to Japan in their international friendly in Singapore. The\u2026",
+   "summary": "Brazil loss in Singapore marred by unruly end to friendlyArgentina beaten 2-1 by Uruguay in Buenos AiresRaphinha was sent off as Brazil crashed to a 3-2 defeat by Japan in their international friendly in Singapore. The\u2026",
    "date": "2026-11-14T13:07:33+00:00",
    "image": "https://i.guim.co.uk/img/media/b5c5443a861f877f996d325d235fb3f5ee577cee/228_69_1398_1119/master/1398.jpg?width=140&quality=85&auto=format&fit=max&s=89e18746c33710dbde60ad3f319fde94"
   },
@@ -345,14 +361,6 @@
    "summary": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
    "date": "2026-11-13T22:11:27+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/526a/live/09935180-dfaa-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford.",
-   "date": "2026-11-13T22:05:14+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ed/live/b5eb8580-dfb2-11f1-a701-fddedf244c16.png"
   },
   {
    "source": "The Guardian",
@@ -467,14 +475,6 @@
    "image": "https://i.guim.co.uk/img/media/20870a5fe499e872c54989430f12c8e18e6f1eda/371_0_3871_3096/master/3871.jpg?width=140&quality=85&auto=format&fit=max&s=f92738b61e8e2f478b456783384682f8"
   },
   {
-   "source": "BBC Sport",
-   "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
-   "summary": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
-   "date": "2026-11-12T23:09:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b18/live/725b0530-dee9-11f1-8111-290450ddba8c.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Nations League: Italy roar back to beat France despite Donnarumma\u2019s early howler",
    "link": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
@@ -564,6 +564,18 @@
   }
  ],
  "videos": [
+  {
+   "channel": "beIN SPORTS",
+   "id": "h7iIpqGeL28",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631 \u0648\u062a\u0648\u063a\u0648 | \u062a\u0635\u0641\u064a\u0627\u062a \u0643\u0623\u0633 \u0623\u0645\u0645 \u0625\u0641\u0631\u064a\u0642\u064a\u0627 2027 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629",
+   "date": "2026-11-14T21:53:00+00:00"
+  },
+  {
+   "channel": "FIFA",
+   "id": "ZJBl1Mzbf9U",
+   "title": "GOALS GALORE | New Zealand 1-5 Belgium | 2026 World Cup EXTENDED HIGHLIGHTS",
+   "date": "2026-11-14T21:30:22+00:00"
+  },
   {
    "channel": "FIFA",
    "id": "evs534bh0c0",
@@ -655,22 +667,16 @@
    "date": "2026-11-13T10:00:16+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "HqVg4wkk0-M",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0625\u0646\u062c\u0644\u062a\u0631\u0627 \u0648\u0643\u0631\u0648\u0627\u062a\u064a\u0627 | \u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629",
-   "date": "2026-11-12T22:32:05+00:00"
-  },
-  {
    "channel": "UEFA",
    "id": "Fjf-ZkM784w",
    "title": "That skill before the goal \ud83e\udd2f",
    "date": "2026-11-12T16:00:15+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "0JWH4OzYLMQ",
-   "title": "ALL ROUND 10 HIGHLIGHTS \u26bd | PRIMAVERA 1 2026/27",
-   "date": "2026-11-12T15:00:01+00:00"
+   "channel": "LaLiga",
+   "id": "Sl5khzVzGzo",
+   "title": "Nadie vive el f\u00fatbol y los goles de sus compa\u00f1eros como R\u00fcdiger",
+   "date": "2026-11-14T21:00:05+00:00"
   },
   {
    "channel": "UEFA",
@@ -701,12 +707,6 @@
    "id": "X-kEx207oVg",
    "title": "De Gea, Stankovic, Perri & MORE | Best Saves of October | Serie A 2026/27",
    "date": "2026-11-14T14:00:33+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "DrFYWwOcCWY",
-   "title": "Arda G\u00fcler\u2019s free-kick vs Belgium!",
-   "date": "2026-11-14T12:00:09+00:00"
   }
  ],
  "fixtures": [
@@ -1814,10 +1814,10 @@
    "home": "Haiti",
    "away": "United States",
    "hs": "0",
-   "as": "1",
+   "as": "2",
    "live": true,
    "state": "in",
-   "clock": "13'",
+   "clock": "55'",
    "venue": "Nu Stadium",
    "usa": [
     "HBO Max",
@@ -10293,10 +10293,10 @@
    "home": "Haiti",
    "away": "United States",
    "hs": "0",
-   "as": "1",
+   "as": "2",
    "live": true,
    "state": "in",
-   "clock": "13'",
+   "clock": "55'",
    "venue": "Nu Stadium",
    "usa": [
     "HBO Max",
