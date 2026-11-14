@@ -1,12 +1,20 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Listen: Sportsound's Fan Zone",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+   "summary": "Reaction to Saturday's Scottish football as the fans get their say.",
+   "date": "2026-11-14T19:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgfrw8.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Norway v Wales: Nations League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live",
-   "summary": "Updates from 5pm (GMT) kick-off at the Ullevaal StadionGet in touch: email Scott and follow us on BlueSkyPresented for your pleasure. To read at your leisure.This isn\u2019t a meeting of two teams in form. Norway have lost\u2026",
-   "date": "2026-11-14T16:31:29+00:00",
-   "image": "https://i.guim.co.uk/img/media/ed95926573c6df312f28cc24cd8aeed9a25e9b4f/0_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=dbaac5a98b0add1369b38df0e8a8317a"
+   "summary": "Updates from 5pm (GMT) kick-off at the Ullevaal StadionGet in touch: email Scott and follow us on BlueSkyPre-match postbag. \u201cWow. Just, wow. I almost don\u2019t care what happens in the football. (Almost, but not quite.)\u2026",
+   "date": "2026-11-14T17:44:53+00:00",
+   "image": "https://i.guim.co.uk/img/media/d066b241ed347120a45d7dec7b8c91a38c984c2a/61_0_1875_1500/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=ba8df08817f25ac32166bca8d2f7d365"
   },
   {
    "source": "BBC Sport",
@@ -55,14 +63,6 @@
    "summary": "The coach\u2019s tenure with the USMNT brought a whiplash of highs and lows. He met some goals but also left many with the impression he never truly bought inIt did not take US men\u2019s national team coach Mauricio Pochettino\u2026",
    "date": "2026-11-14T14:06:37+00:00",
    "image": "https://i.guim.co.uk/img/media/c4284e99111f3b2d6ab3f889978114cb7b437fcf/463_0_3789_3032/master/3789.jpg?width=140&quality=85&auto=format&fit=max&s=a0c40e01c9f8309a673a5fd3c63b39c0"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Villa and Birmingham ready to renew WSL rivalry",
-   "link": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Midlands Today looks ahead to Sunday's Aston Villa v Birmingham City derby - only their fifth meeting in 17 seasons of the WSL.",
-   "date": "2026-11-14T14:01:06+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32df/live/edba89c0-e01b-11f1-ad34-45f8f10f7c55.png"
   },
   {
    "source": "The Guardian",
@@ -83,12 +83,20 @@
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Listen: Sportsound's Fan Zone",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+   "summary": "Reaction to Saturday's Scottish football as the fans get their say.",
+   "date": "2026-11-14T19:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgfrw8.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Norway v Wales: Nations League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live",
-   "summary": "Updates from 5pm (GMT) kick-off at the Ullevaal StadionGet in touch: email Scott and follow us on BlueSkyPresented for your pleasure. To read at your leisure.This isn\u2019t a meeting of two teams in form. Norway have lost\u2026",
-   "date": "2026-11-14T16:31:29+00:00",
-   "image": "https://i.guim.co.uk/img/media/ed95926573c6df312f28cc24cd8aeed9a25e9b4f/0_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=dbaac5a98b0add1369b38df0e8a8317a"
+   "summary": "Updates from 5pm (GMT) kick-off at the Ullevaal StadionGet in touch: email Scott and follow us on BlueSkyPre-match postbag. \u201cWow. Just, wow. I almost don\u2019t care what happens in the football. (Almost, but not quite.)\u2026",
+   "date": "2026-11-14T17:44:53+00:00",
+   "image": "https://i.guim.co.uk/img/media/d066b241ed347120a45d7dec7b8c91a38c984c2a/61_0_1875_1500/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=ba8df08817f25ac32166bca8d2f7d365"
   },
   {
    "source": "BBC Sport",
@@ -137,14 +145,6 @@
    "summary": "The coach\u2019s tenure with the USMNT brought a whiplash of highs and lows. He met some goals but also left many with the impression he never truly bought inIt did not take US men\u2019s national team coach Mauricio Pochettino\u2026",
    "date": "2026-11-14T14:06:37+00:00",
    "image": "https://i.guim.co.uk/img/media/c4284e99111f3b2d6ab3f889978114cb7b437fcf/463_0_3789_3032/master/3789.jpg?width=140&quality=85&auto=format&fit=max&s=a0c40e01c9f8309a673a5fd3c63b39c0"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Villa and Birmingham ready to renew WSL rivalry",
-   "link": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Midlands Today looks ahead to Sunday's Aston Villa v Birmingham City derby - only their fifth meeting in 17 seasons of the WSL.",
-   "date": "2026-11-14T14:01:06+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32df/live/edba89c0-e01b-11f1-ad34-45f8f10f7c55.png"
   },
   {
    "source": "The Guardian",
@@ -380,14 +380,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "BBC to show Dover v Leicester and Salisbury v Blackpool",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c64gndwd2l0xo?at_medium=RSS&at_campaign=rss",
-   "summary": "Non-league clubs Dover Athletic and Salisbury will stage the BBC's two chosen FA Cup second-round ties next month.",
-   "date": "2026-11-13T10:49:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9a/live/02556c50-df4b-11f1-a48c-75dd2efdacb5.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "The club preparing to play again after the death of a player",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss",
    "summary": "Non-league Hendon are preparing to return to action for the first time since midfielder Ezekiel Williams died earlier this month.",
@@ -561,6 +553,14 @@
    "summary": "It calls for inquiry into claims she was on Fifa payrollFifa: Infantino personally pays for \u2018any domestic staff\u2019A complaint has been filed to the United States Internal Revenue Service calling for an investigation into\u2026",
    "date": "2026-11-11T19:00:01+00:00",
    "image": "https://i.guim.co.uk/img/media/c0e0e1436188a54323f8e247d48e0f1b12f5b884/179_0_2809_2248/master/2809.jpg?width=140&quality=85&auto=format&fit=max&s=2ac05d5d2759008f14c1751f4b60f1b2"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Robinson unfazed by Pochettino departure talk",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm3vgx55kp3ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.",
+   "date": "2026-11-11T09:54:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a0/live/d5773580-ddb3-11f1-93e1-3b657b665bcf.jpg"
   }
  ],
  "videos": [
@@ -673,6 +673,18 @@
    "date": "2026-11-12T15:00:01+00:00"
   },
   {
+   "channel": "UEFA",
+   "id": "RbN3PJLdYQg",
+   "title": "Memories these mascots will never forget \ud83e\udd79",
+   "date": "2026-11-14T17:26:35+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "8zNaR2UcWsU",
+   "title": "Los 20 GOLAZOS con m\u00e1s POTENCIA de LALIGA \ud83d\ude80",
+   "date": "2026-11-14T17:00:20+00:00"
+  },
+  {
    "channel": "FIFA",
    "id": "I-datGPb4MM",
    "title": "Super Mario \ud83c\udde9\ud83c\uddea",
@@ -695,18 +707,6 @@
    "id": "DrFYWwOcCWY",
    "title": "Arda G\u00fcler\u2019s free-kick vs Belgium!",
    "date": "2026-11-14T12:00:09+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "xneUCNt5pbE",
-   "title": "Gareth Bale BANGER \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f\ud83d\udca5",
-   "date": "2026-11-14T11:01:02+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "Iamg24mX5gI",
-   "title": "ESPA\u00d1A vs INGLATERRA: las ESTRELLAS de LALIGA cara a cara",
-   "date": "2026-11-14T11:00:14+00:00"
   }
  ],
  "fixtures": [
@@ -1595,9 +1595,9 @@
    "away": "Iran",
    "hs": "0",
    "as": "2",
-   "live": true,
-   "state": "in",
-   "clock": "90'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+6'",
    "venue": "Basra International Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/pal.png",
@@ -1615,7 +1615,7 @@
    "as": "1",
    "live": true,
    "state": "in",
-   "clock": "45'+8'",
+   "clock": "86'",
    "venue": "Hoima City Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/uga.png",
@@ -1631,9 +1631,9 @@
    "away": "Hungary",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+3'",
    "venue": "Mikheil Meskhi Stadioni",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/geo.png",
@@ -1649,9 +1649,9 @@
    "away": "Wales",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+2'",
    "venue": "Ullevaal Stadion",
    "usa": [
     "FS2"
@@ -10074,9 +10074,9 @@
    "away": "Iran",
    "hs": "0",
    "as": "2",
-   "live": true,
-   "state": "in",
-   "clock": "90'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+6'",
    "venue": "Basra International Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/pal.png",
@@ -10094,7 +10094,7 @@
    "as": "1",
    "live": true,
    "state": "in",
-   "clock": "45'+8'",
+   "clock": "86'",
    "venue": "Hoima City Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/uga.png",
@@ -10110,9 +10110,9 @@
    "away": "Hungary",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+3'",
    "venue": "Mikheil Meskhi Stadioni",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/geo.png",
@@ -10128,9 +10128,9 @@
    "away": "Wales",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+2'",
    "venue": "Ullevaal Stadion",
    "usa": [
     "FS2"
