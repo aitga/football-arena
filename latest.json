@@ -1,12 +1,20 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Listen to Off The Ball",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+   "summary": "The most petty and ill-informed football show on radio.",
+   "date": "2026-11-14T14:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Pochettino to Manchester United latest, WSL and Nations League buildup \u2013 matchday live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/14/pochettino-to-manchester-united-latest-wsl-and-nations-league-buildup-matchday-live",
-   "summary": "All the latest news from around the footballing worldGet in touch: contact our matchday live writers on emailAmong the 20 managers with more than 290 matches in the Premier League, only the five \u201cbig beasts\u201d of Alex\u2026",
-   "date": "2026-11-14T11:30:59+00:00",
-   "image": "https://i.guim.co.uk/img/media/9fbb2b2155cec84c7842121b34b6b0c897ce6773/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ffb87a8c8f2fe0d9143ad844fb05b85d"
+   "title": "Chelsea v Manchester City: Women\u2019s Super League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/14/chelsea-v-man-city-womens-super-league-live",
+   "summary": "Updates from 1.30pm (GMT) kick-off at Stamford BridgeGet in touch: email Simon and follow us on BlueSkyEssential pre-match reading: here\u2019s Suzanne Wrack\u2019s preview of Chelsea v Manchester City:There was a time when the\u2026",
+   "date": "2026-11-14T12:46:53+00:00",
+   "image": "https://i.guim.co.uk/img/media/41c4b158fbca93195e72f166c2dc79bdeec1eeda/0_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=b12db5a98cd14d49b6bb80513ace9d60"
   },
   {
    "source": "BBC Sport",
@@ -71,24 +79,24 @@
    "summary": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
    "date": "2026-11-14T07:49:46+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da36/live/75be3ea0-e000-11f1-a3e2-bfb07c67d49c.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?",
-   "link": "https://www.theguardian.com/football/2026/nov/14/portugal-cristiano-ronaldo-football-memories-future",
-   "summary": "The captain, the talisman, the brand: former teammates and experts discuss Portugal entering a new era after 23 years There are days football fans hope will never come. For Portugal, this is one of them. For 23 years,\u2026",
-   "date": "2026-11-14T06:53:23+00:00",
-   "image": "https://i.guim.co.uk/img/media/688bb43e70840782346c3097ed9259fd926ff418/413_0_4131_3305/master/4131.jpg?width=140&quality=85&auto=format&fit=max&s=09993c9cab6e220a320710f4145fb73d"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Listen to Off The Ball",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+   "summary": "The most petty and ill-informed football show on radio.",
+   "date": "2026-11-14T14:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Pochettino to Manchester United latest, WSL and Nations League buildup \u2013 matchday live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/14/pochettino-to-manchester-united-latest-wsl-and-nations-league-buildup-matchday-live",
-   "summary": "All the latest news from around the footballing worldGet in touch: contact our matchday live writers on emailAmong the 20 managers with more than 290 matches in the Premier League, only the five \u201cbig beasts\u201d of Alex\u2026",
-   "date": "2026-11-14T11:30:59+00:00",
-   "image": "https://i.guim.co.uk/img/media/9fbb2b2155cec84c7842121b34b6b0c897ce6773/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ffb87a8c8f2fe0d9143ad844fb05b85d"
+   "title": "Chelsea v Manchester City: Women\u2019s Super League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/14/chelsea-v-man-city-womens-super-league-live",
+   "summary": "Updates from 1.30pm (GMT) kick-off at Stamford BridgeGet in touch: email Simon and follow us on BlueSkyEssential pre-match reading: here\u2019s Suzanne Wrack\u2019s preview of Chelsea v Manchester City:There was a time when the\u2026",
+   "date": "2026-11-14T12:46:53+00:00",
+   "image": "https://i.guim.co.uk/img/media/41c4b158fbca93195e72f166c2dc79bdeec1eeda/0_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=b12db5a98cd14d49b6bb80513ace9d60"
   },
   {
    "source": "BBC Sport",
@@ -323,14 +331,6 @@
    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmwxgk.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Branding it like Beckham: how Jude Bellingham is future-proofing his fame",
-   "link": "https://www.theguardian.com/football/2026/nov/13/jude-bellingham-branding-it-like-beckham",
-   "summary": "From Calvin Klein to British Vogue, the Real Madrid man is leading the way when it comes to football\u2019s foray into fashion. But is he playing it safe?This Sunday, Jude Bellingham will line up with his England teammates\u2026",
-   "date": "2026-11-13T16:03:19+00:00",
-   "image": "https://i.guim.co.uk/img/media/0558a89806e7bf26a89807f83bd7d60160eb5019/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=b376096a180da5a430d2511d66e90d2d"
-  },
-  {
    "source": "BBC Sport",
    "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
@@ -345,14 +345,6 @@
    "summary": "Sign up now! Sign up now! Sign up now? Sign up now!So farewell then, Pierre Sage. Many coaches leave under a cloud, not many have their departures completely obscured by the foul, retch-inducing one emanating from\u2026",
    "date": "2026-11-13T15:21:47+00:00",
    "image": "https://i.guim.co.uk/img/media/958b22b871c6cdad44be633a42d9f827b7b4d66d/20_0_3218_2574/master/3218.jpg?width=140&quality=85&auto=format&fit=max&s=f8756988a339a34347a2f081363a91e6"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Why Chelsea and Manchester City\u2019s WSL clash is not as season-defining as you think",
-   "link": "https://www.theguardian.com/football/2026/nov/13/why-chelsea-and-manchester-citys-wsl-clash-is-not-as-season-defining-as-you-think",
-   "summary": "Neither side have lost in the league yet but a more competitive division should take title race to the wireThere was a time when the games between the top three \u2013 traditionally Chelsea, Manchester City and Arsenal \u2013\u2026",
-   "date": "2026-11-13T14:05:44+00:00",
-   "image": "https://i.guim.co.uk/img/media/90ec74baf8c36c10f15d0d8b5aaccf47b9e653d2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40f54bf8d5ebb3fbb81bbda506df9091"
   },
   {
    "source": "The Guardian",
@@ -492,14 +484,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "SFA in talks with Boston officials over biennial friendly match",
-   "link": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.",
-   "date": "2026-11-12T21:16:56+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fa/live/0eea4910-687a-11f1-be92-f5f7087bcfc7.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
    "link": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
    "summary": "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. \nThe point moves Renee Slegers' side into the\u2026",
@@ -531,14 +515,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6bd/live/ff1daf40-dead-11f1-8253-3f203a001288.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "Largs get floodlights consent in time for cup tie with Ayr \u2013 watch on BBC",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmqlq3llg19go?at_medium=RSS&at_campaign=rss",
-   "summary": "The Scottish Cup third-round tie between Largs Thistle and Ayr United will be shown live on the BBC Scotland channel, website and iPlayer on Friday, 27 November.",
-   "date": "2026-11-12T15:00:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5250/live/03144960-dea4-11f1-82bd-ab0398e9e082.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Michael Carrick was just the latest fall guy for Manchester United\u2019s dysfunctional hierarchy | Jamie Jackson",
    "link": "https://www.theguardian.com/football/2026/nov/12/michael-carrick-manchester-united-sacked",
@@ -561,6 +537,30 @@
    "summary": "BBC Sport looks back at the six Premier League matches that defined the highs and lows of Michael Carrick's 10-month spell in charge of Manchester United.",
    "date": "2026-11-12T11:25:46+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f60a/live/0222d570-d167-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018Second ball\u2019 may be a Sunday league mantra but Yates showed its top-flight relevance",
+   "link": "https://www.theguardian.com/football/2026/nov/12/ryan-yates-nottingham-forest-manchester-city-premier-league-second-ball",
+   "summary": "Midfielder\u2019s old-school attributes came to the fore during Nottingham Forest\u2019s win against Manchester CityModern football is more systematised and data-driven than ever but some things never change. Winning the first\u2026",
+   "date": "2026-11-12T11:00:48+00:00",
+   "image": "https://i.guim.co.uk/img/media/496313a8eccf45b5f4a06b22840b625b2ac1f8eb/715_0_3710_2967/master/3710.jpg?width=140&quality=85&auto=format&fit=max&s=e4e179b1acb6978b9baf97bc40348e19"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Less drama, more listening, but is Kozo Tashima the candidate to topple Infantino?",
+   "link": "https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone",
+   "summary": "Japan FA honorary president is hoping a calmer approach that makes fewer unwelcome headlines for Fifa will be welcomed by footballNot many remember Japan\u2019s bid for the 2022 World Cup, when the country finished the race\u2026",
+   "date": "2026-11-12T08:00:13+00:00",
+   "image": "https://i.guim.co.uk/img/media/12301e7974d99d0a825512be0796a0206bd6d8c8/192_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=b5e5167fd07543066485050d9bf4682c"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "England's Blues brothers - how the Bellinghams helped save Birmingham",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm1j3j20r2rzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Boyhood Birmingham City fans Jude and Jobe Bellingham could become the first brothers to play for England for 19 years.",
+   "date": "2026-11-12T07:12:41+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c945/live/c3116c40-dce0-11f1-a8e1-e3454837ffc6.png"
   }
  ],
  "videos": [
@@ -673,6 +673,12 @@
    "date": "2026-11-12T15:00:01+00:00"
   },
   {
+   "channel": "UEFA",
+   "id": "DrFYWwOcCWY",
+   "title": "Arda G\u00fcler\u2019s free-kick vs Belgium!",
+   "date": "2026-11-14T12:00:09+00:00"
+  },
+  {
    "channel": "Premier League",
    "id": "xneUCNt5pbE",
    "title": "Gareth Bale BANGER \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f\ud83d\udca5",
@@ -701,12 +707,6 @@
    "id": "ly13T79y57Y",
    "title": "Paz, Esposito, Modric & MORE | The Best Assists of October | Serie A 2026/27",
    "date": "2026-11-14T10:00:27+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "nDs7RHZvzA4",
-   "title": "Raphinha \u2728",
-   "date": "2026-11-14T09:00:33+00:00"
   }
  ],
  "fixtures": [
@@ -1521,11 +1521,11 @@
    "date": "2026-11-14T10:15Z",
    "home": "Japan",
    "away": "Brazil",
-   "hs": "2",
+   "hs": "3",
    "as": "2",
-   "live": true,
-   "state": "in",
-   "clock": "76'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+6'",
    "venue": "Singapore National Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
@@ -1539,11 +1539,11 @@
    "date": "2026-11-14T12:00Z",
    "home": "China",
    "away": "Malaysia",
-   "hs": "0",
+   "hs": "2",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+8'",
    "venue": "Zhaoqing New District Sports Center Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
@@ -10000,11 +10000,11 @@
    "date": "2026-11-14T10:15Z",
    "home": "Japan",
    "away": "Brazil",
-   "hs": "2",
+   "hs": "3",
    "as": "2",
-   "live": true,
-   "state": "in",
-   "clock": "76'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+6'",
    "venue": "Singapore National Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
@@ -10018,11 +10018,11 @@
    "date": "2026-11-14T12:00Z",
    "home": "China",
    "away": "Malaysia",
-   "hs": "0",
+   "hs": "2",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+8'",
    "venue": "Zhaoqing New District Sports Center Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
