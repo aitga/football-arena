@@ -2,10 +2,10 @@
  "news": [
   {
    "source": "The Guardian",
-   "title": "Spain v England Nations League buildup, WSL and more \u2013 matchday live",
+   "title": "Spain v England buildup, reaction to Portugal\u2019s post-Ronaldo thrashing, WSL and more \u2013 matchday live",
    "link": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live",
-   "summary": "All the latest news from around the footballing worldGet in touch: contact our matchday live writers on emailNorway 3-1 WalesPortugal 1-4 DenmarkGeorgia 0-2 HungaryNorthern Ireland 1-0 UkraineKosovo 0-0 IsraelAustria\u2026",
-   "date": "2026-11-15T08:37:06+00:00",
+   "summary": "All the latest news from around the footballing worldGet in touch: contact our matchday live writers on emailManchester United 2-0 Crystal PalaceChelsea 1-0 Manchester CityTottenham 0-0 EvertonBrighton 0-3\u2026",
+   "date": "2026-11-15T09:45:08+00:00",
    "image": "https://i.guim.co.uk/img/media/309c76a85b0e4a3b849fb91af254111d77ece449/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=edf178e2e955d3c0a02433cfe8583edb"
   },
   {
@@ -84,10 +84,10 @@
  "news_all": [
   {
    "source": "The Guardian",
-   "title": "Spain v England Nations League buildup, WSL and more \u2013 matchday live",
+   "title": "Spain v England buildup, reaction to Portugal\u2019s post-Ronaldo thrashing, WSL and more \u2013 matchday live",
    "link": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live",
-   "summary": "All the latest news from around the footballing worldGet in touch: contact our matchday live writers on emailNorway 3-1 WalesPortugal 1-4 DenmarkGeorgia 0-2 HungaryNorthern Ireland 1-0 UkraineKosovo 0-0 IsraelAustria\u2026",
-   "date": "2026-11-15T08:37:06+00:00",
+   "summary": "All the latest news from around the footballing worldGet in touch: contact our matchday live writers on emailManchester United 2-0 Crystal PalaceChelsea 1-0 Manchester CityTottenham 0-0 EvertonBrighton 0-3\u2026",
+   "date": "2026-11-15T09:45:08+00:00",
    "image": "https://i.guim.co.uk/img/media/309c76a85b0e4a3b849fb91af254111d77ece449/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=edf178e2e955d3c0a02433cfe8583edb"
   },
   {
@@ -673,6 +673,12 @@
    "date": "2026-11-12T16:00:15+00:00"
   },
   {
+   "channel": "LaLiga",
+   "id": "5oDgV3IimOg",
+   "title": "Hands Off, Tito!",
+   "date": "2026-11-15T09:00:30+00:00"
+  },
+  {
    "channel": "FIFA",
    "id": "Zzz4a3u5ON0",
    "title": "Kroos on target \ud83c\udde9\ud83c\uddea",
@@ -701,12 +707,6 @@
    "id": "I-datGPb4MM",
    "title": "Super Mario \ud83c\udde9\ud83c\uddea",
    "date": "2026-11-14T16:13:41+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "5Phb_KOZZRw",
-   "title": "Lamine Yamal y los recursos infinitos",
-   "date": "2026-11-14T15:00:33+00:00"
   }
  ],
  "fixtures": [
