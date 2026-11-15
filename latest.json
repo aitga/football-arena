@@ -1,88 +1,216 @@
 {
  "news": [
   {
-   "source": "BBC Sport",
-   "title": "The 'manager's dream' who has put NI one game from history",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
-   "summary": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
-   "date": "2026-11-14T23:21:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb98/live/20ed71a0-e07a-11f1-8ef0-413f345dd9f6.jpg"
+   "source": "ESPN",
+   "title": "Departing Pochettino predicts 'amazing future' for USMNT after rout of Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50484170/usa-haiti-christian-pulisic-goal-mauricio-pochettino",
+   "summary": "Mauricio Pochettino said the USMNT has an \"amazing future\" after securing a 6-0 victory over Haiti in his penultimate game in charge of the team.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Liverpool put three past Brighton to end winless run",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
-   "summary": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
-   "date": "2026-11-14T23:00:29+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/645b6920-e06f-11f1-93e1-3b657b665bcf.jpg"
+   "source": "ESPN",
+   "title": "Portugal's post-Ronaldo era begins with heaviest-ever competitive home loss",
+   "link": "https://www.espn.com/soccer/story/_/id/50483765/portugal-denmark-worst-home-loss-cristiano-ronaldo",
+   "summary": "Portugal began life without Cristiano Ronaldo by suffering their heaviest-ever home loss in a competitive game.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
-   "date": "2026-11-14T22:40:02+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf4/live/14e20490-e078-11f1-9ec0-713bf094c3d1.jpg"
+   "source": "ESPN",
+   "title": "Happier, healthier Rodman leads Washington to 3rd straight NWSL Championship",
+   "link": "https://www.espn.com/soccer/story/_/id/50481452/washington-spirit-vs-utah-royals-nwsl-championship-semiginal",
+   "summary": "The Washington Spirit will play in the NWSL Championship for a third straight season next week -- this time on home soil.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Devlin nets winner as NI top Nations League group",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o?at_medium=RSS&at_campaign=rss",
-   "summary": "Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League.",
-   "date": "2026-11-14T22:38:02+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e888/live/c140e190-e07b-11f1-93e1-3b657b665bcf.jpg"
+   "source": "ESPN",
+   "title": "Dual-national Julian Hall officially tied to USMNT with appearance vs. Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50482590/julian-hall-usa-poland-haiti-fifa-nations-league-concacaf",
+   "summary": "Teenage forward Julian Hall is now cap-tied to the U.S. men's national team, after starting Saturday's Concacaf Nations League quarterfinal against Haiti.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "White has 'exciting future' despite boos - Rice",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley.",
-   "date": "2026-11-14T22:26:56+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f186/live/c0295b40-e074-11f1-9f6f-67b1fda6424e.jpg"
+   "source": "ESPN",
+   "title": "'Nonsense' and 'annoying': Zidane dismisses reports over Mbapp\u00e9 relationship",
+   "link": "https://www.espn.com/soccer/story/_/id/50485397/zinedine-zidane-kylian-mbappe-france-uefa-nations-league",
+   "summary": "France coach Zinedine Zidane dismissed reports of a strained relationship with star forward Kylian Mbapp\u00e9.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
   },
   {
-   "source": "The Guardian",
-   "title": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
-   "link": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
-   "summary": "Portugal thrashed 4-1 at home by DenmarkWales bottom of Group A4 after 3-1 lossPortugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo\u2026",
-   "date": "2026-11-14T22:23:39+00:00",
-   "image": "https://i.guim.co.uk/img/media/80cddf65767255ca40d4f5c3f182e55e948f8e26/1006_0_5044_4035/master/5044.jpg?width=140&quality=85&auto=format&fit=max&s=a43a033416486c567aa3c13928d84268"
+   "source": "ESPN",
+   "title": "Goalkeeper banned 12 games for collision that led to Spanish player's death",
+   "link": "https://www.espn.com/soccer/story/_/id/50474551/andorra-goalkeeper-jesus-owono-tenerife-death-jesus-de-miguel",
+   "summary": "Andorra goalkeeper Jes\u00fas Owono has been suspended for 12 games for an on-field collision with Jes\u00fas de Miguel that resulted in the death of the Tenerife striker.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Arsenal target Nusa could cost \u00a366m - Sunday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal could have to pay \u00a366m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
-   "date": "2026-11-14T21:48:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae50/live/f2931240-e07b-11f1-93e1-3b657b665bcf.png"
+   "source": "ESPN",
+   "title": "De la Fuente ahead of England clash: 'No racism in Spain'",
+   "link": "https://www.espn.com/soccer/story/_/id/50481150/england-spain-de-la-fuente",
+   "summary": "Coach Luis de la Fuente has claimed that \"there's no racism in Spain\" after Thomas Tuchel said he'd be reminding his England players of anti-racism protocols ahead of Sunday's game between the two countries.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Spurs held to a draw by Everton in the WSL",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ck9q8vvz81rxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Tottenham and Everton play out a hard-fought goalless draw in the Women's Super League.",
-   "date": "2026-11-14T20:56:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5616/live/4a633af0-e062-11f1-a701-fddedf244c16.jpg"
+   "source": "ESPN",
+   "title": "Japan exact revenge on Brazil with dramatic win",
+   "link": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win",
+   "summary": "Japan have exacted revenge over Brazil for their World Cup elimination with a dramatic 3-2 win in Singapore on Saturday.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "What Wales need to stay in Nations League top tier",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group.",
-   "date": "2026-11-14T20:52:48+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f6a/live/8d336370-e065-11f1-b454-23ac84bf5ae9.jpg"
+   "source": "ESPN",
+   "title": "\ud83d\udcc8The top soccer players in the world right now, ranked again",
+   "link": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november",
+   "summary": "Who is the best soccer player in the world at the November international break? ESPN's latest rankings are here.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "'No racism in Spain' \u2013 De la Fuente message for Tuchel",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
-   "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid.",
-   "date": "2026-11-14T20:43:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d168/live/23ffd600-e05f-11f1-9e26-b3b65586122f.jpg"
+   "source": "ESPN",
+   "title": "From Ballon d'Or hopes to Real Madrid bench: Should Liverpool re-sign Alexander-Arnold?",
+   "link": "https://www.espn.com/soccer/story/_/id/50452561/ballon-dor-real-madrid-liverpool-trent-alexander-arnold-transfer",
+   "summary": "Trent Alexander-Arnold's dream move to Real Madrid is turning into a nightmare, but would Liverpool take him back? And would he want to return?",
+   "date": "2026-11-15T02:16:24+00:00",
+   "image": null
   }
  ],
  "news_all": [
   {
+   "source": "ESPN",
+   "title": "Departing Pochettino predicts 'amazing future' for USMNT after rout of Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50484170/usa-haiti-christian-pulisic-goal-mauricio-pochettino",
+   "summary": "Mauricio Pochettino said the USMNT has an \"amazing future\" after securing a 6-0 victory over Haiti in his penultimate game in charge of the team.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Portugal's post-Ronaldo era begins with heaviest-ever competitive home loss",
+   "link": "https://www.espn.com/soccer/story/_/id/50483765/portugal-denmark-worst-home-loss-cristiano-ronaldo",
+   "summary": "Portugal began life without Cristiano Ronaldo by suffering their heaviest-ever home loss in a competitive game.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Happier, healthier Rodman leads Washington to 3rd straight NWSL Championship",
+   "link": "https://www.espn.com/soccer/story/_/id/50481452/washington-spirit-vs-utah-royals-nwsl-championship-semiginal",
+   "summary": "The Washington Spirit will play in the NWSL Championship for a third straight season next week -- this time on home soil.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Dual-national Julian Hall officially tied to USMNT with appearance vs. Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50482590/julian-hall-usa-poland-haiti-fifa-nations-league-concacaf",
+   "summary": "Teenage forward Julian Hall is now cap-tied to the U.S. men's national team, after starting Saturday's Concacaf Nations League quarterfinal against Haiti.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "'Nonsense' and 'annoying': Zidane dismisses reports over Mbapp\u00e9 relationship",
+   "link": "https://www.espn.com/soccer/story/_/id/50485397/zinedine-zidane-kylian-mbappe-france-uefa-nations-league",
+   "summary": "France coach Zinedine Zidane dismissed reports of a strained relationship with star forward Kylian Mbapp\u00e9.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Goalkeeper banned 12 games for collision that led to Spanish player's death",
+   "link": "https://www.espn.com/soccer/story/_/id/50474551/andorra-goalkeeper-jesus-owono-tenerife-death-jesus-de-miguel",
+   "summary": "Andorra goalkeeper Jes\u00fas Owono has been suspended for 12 games for an on-field collision with Jes\u00fas de Miguel that resulted in the death of the Tenerife striker.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "De la Fuente ahead of England clash: 'No racism in Spain'",
+   "link": "https://www.espn.com/soccer/story/_/id/50481150/england-spain-de-la-fuente",
+   "summary": "Coach Luis de la Fuente has claimed that \"there's no racism in Spain\" after Thomas Tuchel said he'd be reminding his England players of anti-racism protocols ahead of Sunday's game between the two countries.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Japan exact revenge on Brazil with dramatic win",
+   "link": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win",
+   "summary": "Japan have exacted revenge over Brazil for their World Cup elimination with a dramatic 3-2 win in Singapore on Saturday.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "\ud83d\udcc8The top soccer players in the world right now, ranked again",
+   "link": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november",
+   "summary": "Who is the best soccer player in the world at the November international break? ESPN's latest rankings are here.",
+   "date": "2026-11-15T02:28:32+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "From Ballon d'Or hopes to Real Madrid bench: Should Liverpool re-sign Alexander-Arnold?",
+   "link": "https://www.espn.com/soccer/story/_/id/50452561/ballon-dor-real-madrid-liverpool-trent-alexander-arnold-transfer",
+   "summary": "Trent Alexander-Arnold's dream move to Real Madrid is turning into a nightmare, but would Liverpool take him back? And would he want to return?",
+   "date": "2026-11-15T02:16:24+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Transfer rumors, news: Como's Paz to be Pochettino's first Man United summer signing?",
+   "link": "https://www.espn.com/soccer/story/_/id/50478503/transfer-rumors-news-man-united-como-nico-paz-mauricio-pochettino",
+   "summary": "Manchester United are monitoring Como superstar Nico Paz ahead of a move next summer. Transfer Talk has the latest.",
+   "date": "2026-11-15T02:16:23+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Man United, Pochettino's to-do list based on what's gone wrong",
+   "link": "https://www.espn.com/soccer/story/_/id/50462231/mauricio-pochettino-manchester-united-transfer-usmnt",
+   "summary": "Pochettino makes as much sense as anyone to take the Man United job, so now what? Let's look at the mess he's inheriting and what's at the top of his to-do list.",
+   "date": "2026-11-15T02:16:15+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "In Pochettino, Man United finally have a proper manager",
+   "link": "https://www.espn.com/soccer/story/_/id/50452091/manchester-united-hire-mauricio-pochettino-reaction",
+   "summary": "After years of near-misses, Man United have finally landed Mauricio Pochettino, a manager with the kind of pedigree, class and credibility the club have been looking for.",
+   "date": "2026-11-15T02:16:15+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Ancelotti's red card shows he's feeling the pressure, as Brazil underwhelm again in Japan defeat",
+   "link": "https://www.espn.com/soccer/story/_/id/50479572/brazil-japan-carlo-ancelotti-red-card",
+   "summary": "Carlo Ancelotti's time in charge of Brazil has been utterly underwhelming so far and he showed his frustration in a friendly defeat to Japan.",
+   "date": "2026-11-15T02:15:59+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "USMNT player ratings: Christian Pulisic earns 9/10 for brace in win over Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50481405/usmnt-player-ratings-pulisic-haiti",
+   "summary": "Christian Pulisic scored twice in the Americans' dominant 6-0 win over Haiti on Saturday, the penultimate match of Mauricio Pochettino's tenure.",
+   "date": "2026-11-15T00:41:07+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Recap: USMNT open Mauricio Pochettino farewell tour by rocking Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50435228/pochettino-farewell-usmnt-haiti-live-updates",
+   "summary": "The Pochettino farewell tour began with a bang as the Man United-bound boss led the U.S. to a 6-0 win over Haiti.",
+   "date": "2026-11-15T00:41:07+00:00",
+   "image": null
+  },
+  {
    "source": "BBC Sport",
    "title": "The 'manager's dream' who has put NI one game from history",
    "link": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
@@ -131,12 +259,28 @@
    "image": "https://i.guim.co.uk/img/media/80cddf65767255ca40d4f5c3f182e55e948f8e26/1006_0_5044_4035/master/5044.jpg?width=140&quality=85&auto=format&fit=max&s=a43a033416486c567aa3c13928d84268"
   },
   {
+   "source": "ESPN",
+   "title": "Washington Spirit on verge of realizing Michele Kang's dream of NWSL dominance",
+   "link": "https://www.espn.com/soccer/story/_/id/50483273/washington-spirit-kang-dream-nwsl-dominance",
+   "summary": "The Washington Spirit have been comeback queens all season, and they were again on Saturday, beating Utah 2-1 to reach the NWSL Championship.",
+   "date": "2026-11-14T22:11:02+00:00",
+   "image": null
+  },
+  {
    "source": "BBC Sport",
    "title": "Arsenal target Nusa could cost \u00a366m - Sunday's gossip",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
    "summary": "Arsenal could have to pay \u00a366m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
    "date": "2026-11-14T21:48:45+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae50/live/f2931240-e07b-11f1-93e1-3b657b665bcf.png"
+  },
+  {
+   "source": "ESPN",
+   "title": "Chelsea reassert WSL dominance over Man City in front of USWNT boss Hayes",
+   "link": "https://www.espn.com/soccer/story/_/id/50479087/sonia-bompastor-chelsea-man-city-wsl-emma-hayes",
+   "summary": "Sonia Bompastor took off Kadeisha Buchanan after 12 minutes and it paid off as Chelsea went top of the WSL by beating defending champions Manchester City.",
+   "date": "2026-11-14T21:23:52+00:00",
+   "image": null
   },
   {
    "source": "BBC Sport",
@@ -417,150 +561,6 @@
    "summary": "Here\u2019s how to follow along with our coverage \u2013 the finest writing and up-to-the-minute reports Continue reading...",
    "date": "2026-11-13T16:42:46+00:00",
    "image": "https://i.guim.co.uk/img/media/13e021f2c7d1cb9a21b4108db9c2e9e410647162/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=623ce690a9ea7244581f5be23658a67c"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
-   "summary": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
-   "date": "2026-11-13T15:28:06+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb8/live/8a5ea400-df72-11f1-b844-3146c4983677.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | Taking a brief minute to remember Pierre Sage\u2019s impact at Crystal Palace",
-   "link": "https://www.theguardian.com/football/2026/nov/13/pierre-sage-crystal-palace-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!So farewell then, Pierre Sage. Many coaches leave under a cloud, not many have their departures completely obscured by the foul, retch-inducing one emanating from\u2026",
-   "date": "2026-11-13T15:21:47+00:00",
-   "image": "https://i.guim.co.uk/img/media/958b22b871c6cdad44be633a42d9f827b7b4d66d/20_0_3218_2574/master/3218.jpg?width=140&quality=85&auto=format&fit=max&s=f8756988a339a34347a2f081363a91e6"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Mauricio Pochettino to Manchester United and record breaker Kane | Football Weekly video",
-   "link": "https://www.theguardian.com/football/video/2026/nov/13/mauricio-pochettino-to-manchester-united-and-record-breaker-kane-football-weekly-video",
-   "summary": "Robyn Cowen is joined by Jacob Steinberg, Lars Sivertsen and Paul Watson as Manchester United appoint Mauricio Pochettino as their head coach and Harry Kane becomes the sole leading appearance maker for the England\u2026",
-   "date": "2026-11-13T13:41:07+00:00",
-   "image": "https://i.guim.co.uk/img/media/83e32d073a04b86599a4b980a3b5c6b0265814fb/270_0_3822_3057/master/3822.jpg?width=140&quality=85&auto=format&fit=max&s=34fbc6d3ebf57754d6bf817cb9f3946b"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
-   "summary": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
-   "date": "2026-11-13T12:09:48+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "BBC to show Dover v Leicester and Salisbury v Blackpool",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c64gndwd2l0xo?at_medium=RSS&at_campaign=rss",
-   "summary": "Non-league clubs Dover Athletic and Salisbury will stage the BBC's two chosen FA Cup second-round ties next month.",
-   "date": "2026-11-13T10:49:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9a/live/02556c50-df4b-11f1-a48c-75dd2efdacb5.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Fernandes rejects second Man Utd contract offer",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.",
-   "date": "2026-11-13T09:55:01+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "From postcards to texts, the different ways a manager gets the sack - Pulis",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport columnist Tony Pulis explains some of the different ways a manager can leave a club, whether they have been sacked or resigned.",
-   "date": "2026-11-13T08:13:19+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "The beautiful game: revived art prize gives football its creative due once more | Emma John",
-   "link": "https://www.theguardian.com/football/2026/nov/13/football-association-art-prize",
-   "summary": "Football and the art world have long remained distant but the breadth of entries for this year\u2019s award reveals a healthy revivalIt may be the Beautiful Game, but in its early decades football was a rare subject for\u2026",
-   "date": "2026-11-13T08:00:12+00:00",
-   "image": "https://i.guim.co.uk/img/media/badf13a337df5a9ec82794e27b985cad51ac5767/42_0_1285_1028/master/1285.jpg?width=140&quality=85&auto=format&fit=max&s=f4f0458ba1f0c737f6e555407f2162c7"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Pochettino\u2019s Chelsea maelstrom the best yardstick for what lies ahead at United",
-   "link": "https://www.theguardian.com/football/2026/nov/13/pochettino-chelsea-maelstrom-yardstick-what-lies-ahead-manchester-united",
-   "summary": "Argentinian oversaw high-scoring games in his one Chelsea season and Opta predicts his Manchester United side will move upfield quicker than that teamAmong the 20 managers with more than 290 matches in the Premier\u2026",
-   "date": "2026-11-13T07:00:12+00:00",
-   "image": "https://i.guim.co.uk/img/media/20870a5fe499e872c54989430f12c8e18e6f1eda/371_0_3871_3096/master/3871.jpg?width=140&quality=85&auto=format&fit=max&s=f92738b61e8e2f478b456783384682f8"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Nations League: Italy roar back to beat France despite Donnarumma\u2019s early howler",
-   "link": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
-   "summary": "Loss is Zinedine Zidane\u2019s first as France head coachSpain beat Czechia 2-0 to maintain 100% recordPio Esposito struck twice to inflict a first defeat on Zinedine Zidane as France head coach as Italy stormed back to win\u2026",
-   "date": "2026-11-12T22:31:35+00:00",
-   "image": "https://i.guim.co.uk/img/media/c383c8cbd033340ae1748689f545ed72e3b44160/358_191_2558_2046/master/2558.jpg?width=140&quality=85&auto=format&fit=max&s=cef73d375bed89d81e3ac9dc23e9077a"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Where does Kane rank among all-time England greats?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
-   "summary": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
-   "date": "2026-11-12T22:09:59+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5525/live/60ecddc0-de97-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
-   "link": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. \nThe point moves Renee Slegers' side into the\u2026",
-   "date": "2026-11-12T20:09:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17d7/live/103dfe40-ded3-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Arsenal dig deep to earn WCL draw in face of Barcelona dominance",
-   "link": "https://www.theguardian.com/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report",
-   "summary": "Arsenal continue to be a sharp thorn in the side of the European champions, Barcelona, and they dug deep to hold on to a draw at the Camp Nou on Thursday night. Frida Maanum put the Gunners ahead despite a hugely\u2026",
-   "date": "2026-11-12T20:00:16+00:00",
-   "image": "https://i.guim.co.uk/img/media/812d79bca9e025068e126e5736dc19839b32224a/136_104_1918_1535/master/1918.jpg?width=140&quality=85&auto=format&fit=max&s=fb8f8f3cac06faecfc805d4e746b15bf"
-  },
-  {
-   "source": "The Guardian",
-   "title": "How will the USMNT replace Mauricio Pochettino? There\u2019s no clear answer",
-   "link": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-replacements-usmnt-manchester-united",
-   "summary": "The USMNT head coach is on the verge of sealing a move to Manchester United, but it\u2019s hard to know who could be in the chair nextSign up for our free newsletter hereEven before the 2026 World Cup, the US Soccer\u2026",
-   "date": "2026-11-12T19:20:01+00:00",
-   "image": "https://i.guim.co.uk/img/media/0987d0bf192410b25795629cf35bbc8bb01305bb/593_0_2966_2373/master/2966.jpg?width=140&quality=85&auto=format&fit=max&s=f3d6f9219f8f238f0b9d52ab54de1bba"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
-   "summary": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
-   "date": "2026-11-12T16:12:39+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6bd/live/ff1daf40-dead-11f1-8253-3f203a001288.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "\u2018Pregnancy does not mean game over\u2019: meet the footballers challenging the myths | Moving the Goalposts",
-   "link": "https://www.theguardian.com/football/2026/nov/12/pregnancy-womens-football-moving-the-goalposts-newsletter",
-   "summary": "Claire Emslie and Emma Kelly are among those taking advantage of new research and guidelines for pregnant playersClaire Emslie wasn\u2019t expecting to be able to run at 81% of her max speed at 32 weeks pregnant.Emslie, a\u2026",
-   "date": "2026-11-12T12:00:47+00:00",
-   "image": "https://i.guim.co.uk/img/media/d62e868b4490e4aa74b72809f07363a96d662ac5/290_0_2350_1881/master/2350.jpg?width=140&quality=85&auto=format&fit=max&s=825d1712f66778cc2d72e7d04a2fd22f"
-  },
-  {
-   "source": "The Guardian",
-   "title": "\u2018Second ball\u2019 may be a Sunday league mantra but Yates showed its top-flight relevance",
-   "link": "https://www.theguardian.com/football/2026/nov/12/ryan-yates-nottingham-forest-manchester-city-premier-league-second-ball",
-   "summary": "Midfielder\u2019s old-school attributes came to the fore during Nottingham Forest\u2019s win against Manchester CityModern football is more systematised and data-driven than ever but some things never change. Winning the first\u2026",
-   "date": "2026-11-12T11:00:48+00:00",
-   "image": "https://i.guim.co.uk/img/media/496313a8eccf45b5f4a06b22840b625b2ac1f8eb/715_0_3710_2967/master/3710.jpg?width=140&quality=85&auto=format&fit=max&s=e4e179b1acb6978b9baf97bc40348e19"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Less drama, more listening, but is Kozo Tashima the candidate to topple Infantino?",
-   "link": "https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone",
-   "summary": "Japan FA honorary president is hoping a calmer approach that makes fewer unwelcome headlines for Fifa will be welcomed by footballNot many remember Japan\u2019s bid for the 2022 World Cup, when the country finished the race\u2026",
-   "date": "2026-11-12T08:00:13+00:00",
-   "image": "https://i.guim.co.uk/img/media/12301e7974d99d0a825512be0796a0206bd6d8c8/192_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=b5e5167fd07543066485050d9bf4682c"
   }
  ],
  "videos": [
@@ -1559,9 +1559,9 @@
    "away": "Belize",
    "hs": "1",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "68'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
    "venue": "Arnos Vale Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/vin.png",
@@ -1575,11 +1575,11 @@
    "date": "2026-11-15T01:00Z",
    "home": "Jamaica",
    "away": "Mexico",
-   "hs": "0",
-   "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "24'",
+   "hs": "3",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+7'",
    "venue": "Independence Park",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/jam.png",
@@ -1590,7 +1590,7 @@
    "code": "fifa.friendly",
    "l": "wld",
    "comp": "International Friendly",
-   "date": "2026-11-15T03:10Z",
+   "date": "2026-11-15T03:00Z",
    "home": "New Zealand",
    "away": "India",
    "hs": "0",
@@ -10038,9 +10038,9 @@
    "away": "Belize",
    "hs": "1",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "68'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
    "venue": "Arnos Vale Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/vin.png",
@@ -10054,11 +10054,11 @@
    "date": "2026-11-15T01:00Z",
    "home": "Jamaica",
    "away": "Mexico",
-   "hs": "0",
-   "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "24'",
+   "hs": "3",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+7'",
    "venue": "Independence Park",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/jam.png",
@@ -10069,7 +10069,7 @@
    "code": "fifa.friendly",
    "l": "wld",
    "comp": "International Friendly",
-   "date": "2026-11-15T03:10Z",
+   "date": "2026-11-15T03:00Z",
    "home": "New Zealand",
    "away": "India",
    "hs": "0",
