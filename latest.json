@@ -1,20 +1,28 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Spain v England buildup, reaction to Portugal\u2019s post-Ronaldo thrashing, WSL and more \u2013 matchday live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live",
+   "summary": "All the latest news from around the footballing worldGet in touch: contact our matchday live writers on emailWe have a huge derby day today. John Brewin will provide you with minute-by-minute coverage of Arsenal v\u2026",
+   "date": "2026-11-15T11:44:46+00:00",
+   "image": "https://i.guim.co.uk/img/media/309c76a85b0e4a3b849fb91af254111d77ece449/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=edf178e2e955d3c0a02433cfe8583edb"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Wenger decides not to challenge Fifa chief Infantino",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsene Wenger decides against running for the Fifa presidency, in a boost to Gianni Infantino's hopes of a fourth term.",
+   "date": "2026-11-15T11:28:25+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc3/live/a18afd20-e0e1-11f1-8175-3108136b4191.jpg"
+  },
+  {
    "source": "BBC Sport",
    "title": "Celtic have eye on midfielder Ebonog - gossip",
    "link": "https://www.bbc.co.uk/sport/football/articles/cvglr4d04x2go?at_medium=RSS&at_campaign=rss",
    "summary": "Two possible January targets for Celtic as Turkish club maintain interest in Rangers midfielder...",
    "date": "2026-11-15T10:45:52+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d12/live/9d213a60-e0e1-11f1-93e1-3b657b665bcf.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Spain v England buildup, reaction to Portugal\u2019s post-Ronaldo thrashing, WSL and more \u2013 matchday live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live",
-   "summary": "All the latest news from around the footballing worldGet in touch: contact our matchday live writers on emailWe have a huge derby day today. John Brewin will provide you with minute-by-minute coverage of Arsenal v\u2026",
-   "date": "2026-11-15T10:32:42+00:00",
-   "image": "https://i.guim.co.uk/img/media/309c76a85b0e4a3b849fb91af254111d77ece449/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=edf178e2e955d3c0a02433cfe8583edb"
   },
   {
    "source": "The Guardian",
@@ -71,17 +79,25 @@
    "summary": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
    "date": "2026-11-15T06:25:41+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10a/live/d6b0c900-df4a-11f1-a48c-75dd2efdacb5.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "The 'manager's dream' who has put NI one game from history",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
-   "summary": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
-   "date": "2026-11-14T23:21:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb98/live/20ed71a0-e07a-11f1-8ef0-413f345dd9f6.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Spain v England buildup, reaction to Portugal\u2019s post-Ronaldo thrashing, WSL and more \u2013 matchday live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live",
+   "summary": "All the latest news from around the footballing worldGet in touch: contact our matchday live writers on emailWe have a huge derby day today. John Brewin will provide you with minute-by-minute coverage of Arsenal v\u2026",
+   "date": "2026-11-15T11:44:46+00:00",
+   "image": "https://i.guim.co.uk/img/media/309c76a85b0e4a3b849fb91af254111d77ece449/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=edf178e2e955d3c0a02433cfe8583edb"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Wenger decides not to challenge Fifa chief Infantino",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsene Wenger decides against running for the Fifa presidency, in a boost to Gianni Infantino's hopes of a fourth term.",
+   "date": "2026-11-15T11:28:25+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc3/live/a18afd20-e0e1-11f1-8175-3108136b4191.jpg"
+  },
   {
    "source": "BBC Sport",
    "title": "Celtic have eye on midfielder Ebonog - gossip",
@@ -89,14 +105,6 @@
    "summary": "Two possible January targets for Celtic as Turkish club maintain interest in Rangers midfielder...",
    "date": "2026-11-15T10:45:52+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d12/live/9d213a60-e0e1-11f1-93e1-3b657b665bcf.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Spain v England buildup, reaction to Portugal\u2019s post-Ronaldo thrashing, WSL and more \u2013 matchday live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live",
-   "summary": "All the latest news from around the footballing worldGet in touch: contact our matchday live writers on emailWe have a huge derby day today. John Brewin will provide you with minute-by-minute coverage of Arsenal v\u2026",
-   "date": "2026-11-15T10:32:42+00:00",
-   "image": "https://i.guim.co.uk/img/media/309c76a85b0e4a3b849fb91af254111d77ece449/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=edf178e2e955d3c0a02433cfe8583edb"
   },
   {
    "source": "The Guardian",
@@ -484,14 +492,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Fernandes rejects second Man Utd contract offer",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.",
-   "date": "2026-11-13T09:55:01+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "From postcards to texts, the different ways a manager gets the sack - Pulis",
    "link": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo?at_medium=RSS&at_campaign=rss",
    "summary": "BBC Sport columnist Tony Pulis explains some of the different ways a manager can leave a club, whether they have been sacked or resigned.",
@@ -564,6 +564,12 @@
   }
  ],
  "videos": [
+  {
+   "channel": "Bundesliga",
+   "id": "94y_ilhN_ho",
+   "title": "Tah and Bischof try the Defend The Goal Challenge \u26bd\ufe0f\ud83e\udd45",
+   "date": "2026-11-15T11:00:18+00:00"
+  },
   {
    "channel": "Serie A",
    "id": "jk_mTQTJaUU",
@@ -667,10 +673,22 @@
    "date": "2026-11-13T14:00:04+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "rqPyoNii7iw",
-   "title": "Best of Santiago Castro | iliad Goal Of The Month: October 2026 | Serie A 2026/27",
-   "date": "2026-11-13T10:00:16+00:00"
+   "channel": "FIFA",
+   "id": "P_pQlckWCKY",
+   "title": "Lamine Yamal \u2728",
+   "date": "2026-11-15T11:00:35+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "0oVYQ5Ukan0",
+   "title": "GOLES inolvidables de LARGA DISTANCIA \ud83d\ude80 | LALIGA EA SPORTS",
+   "date": "2026-11-15T11:00:17+00:00"
+  },
+  {
+   "channel": "Premier League",
+   "id": "3NdO5caRQrc",
+   "title": "Ronaldo x Rooney Was SPECIAL \u2728",
+   "date": "2026-11-15T10:49:26+00:00"
   },
   {
    "channel": "Ligue 1",
@@ -689,24 +707,6 @@
    "id": "Zzz4a3u5ON0",
    "title": "Kroos on target \ud83c\udde9\ud83c\uddea",
    "date": "2026-11-15T08:48:38+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "Sl5khzVzGzo",
-   "title": "Nadie vive el f\u00fatbol y los goles de sus compa\u00f1eros como R\u00fcdiger",
-   "date": "2026-11-14T21:00:05+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "RbN3PJLdYQg",
-   "title": "Memories these mascots will never forget \ud83e\udd79",
-   "date": "2026-11-14T17:26:35+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "8zNaR2UcWsU",
-   "title": "Los 20 GOLAZOS con m\u00e1s POTENCIA de LALIGA \ud83d\ude80",
-   "date": "2026-11-14T17:00:20+00:00"
   }
  ],
  "fixtures": [
