@@ -2,93 +2,221 @@
  "news": [
   {
    "source": "The Guardian",
-   "title": "Arsenal v London City Lionesses: Women\u2019s Super League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/15/arsenal-v-london-city-lionesses-womens-super-league-live",
-   "summary": "Updates from 4.30pm (GMT) kick-off at the Emirates StadiumGet in touch: email John and follow us on BlueSkyCharles Antaki gets in touch: \u201cRenee Slegers under pressure indeed. Arsenal\u2019s form this season has been nothing\u2026",
-   "date": "2026-11-15T17:44:21+00:00",
-   "image": "https://i.guim.co.uk/img/media/4e062c72884593f8a099f1bcd50e4a58025887ac/244_0_4060_3248/master/4060.jpg?width=140&quality=85&auto=format&fit=max&s=284e88895f49fffe4a5149a929e1ad2b"
+   "title": "Spain v England: Nations League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live",
+   "summary": "Updates from 7.45pm (GMT) kick-off in MadridGet in touch: email Daniel and follow us on BlueSkySpain are still without Rodri, but Lamine Yamal, rested for the 2-0 win away to Czechia, returns in place of Yeremy Pino.\u2026",
+   "date": "2026-11-15T18:49:50+00:00",
+   "image": "https://i.guim.co.uk/img/media/eb25859a484613d72c89348a46cf89f5e6032344/252_0_2497_1998/master/2497.jpg?width=140&quality=85&auto=format&fit=max&s=e3687b3721512af69b3aaf271a206b0e"
   },
   {
-   "source": "BBC Sport",
-   "title": "AS FAR retain Women's African Champions League title",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title.",
-   "date": "2026-11-15T17:23:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e6/live/8463b3a0-e117-11f1-a7db-d90284d21c62.jpg"
+   "source": "ESPN",
+   "title": "Departing Pochettino predicts 'amazing future' for USMNT after rout of Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50484170/usa-haiti-christian-pulisic-goal-mauricio-pochettino",
+   "summary": "Mauricio Pochettino said the USMNT has an \"amazing future\" after securing a 6-0 victory over Haiti in his penultimate game in charge of the team.",
+   "date": "2026-11-15T18:44:48+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Chapecoense crash survivor wins promotion in final game",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
-   "summary": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil\u2018s Serie A in his final match before retiring.",
-   "date": "2026-11-15T17:10:24+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306d/live/586b44a0-e10f-11f1-b3df-4961589d9b68.jpg"
+   "source": "ESPN",
+   "title": "Dual-national Julian Hall officially tied to USMNT with appearance vs. Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50482590/julian-hall-usa-poland-haiti-fifa-nations-league-concacaf",
+   "summary": "Teenage forward Julian Hall is now cap-tied to the U.S. men's national team, after starting Saturday's Concacaf Nations League quarterfinal against Haiti.",
+   "date": "2026-11-15T18:44:48+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Tenerife return to action after death of De Miguel",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Tenerife play their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium.",
-   "date": "2026-11-15T16:38:51+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e2a/live/47c33310-e10f-11f1-b3df-4961589d9b68.jpg"
+   "source": "ESPN",
+   "title": "Brazil great Ronaldinho, 46, subbed at half in return for Serie C's Ravenna",
+   "link": "https://www.espn.com/soccer/story/_/id/50491487/ronaldinho-comeback-300-goals-ravenna-serie-c",
+   "summary": "Ronaldinho failed to secure his elusive 300th career goal after returning to professional football aged 46.",
+   "date": "2026-11-15T18:44:48+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Why Northern Ireland won't focus on point they need in Hungary",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo?at_medium=RSS&at_campaign=rss",
-   "summary": "A draw in Hungary on Tuesday would secure Nations League promotion for Northern Ireland, but they are targeting all three points in Budapest.",
-   "date": "2026-11-15T16:04:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e4/live/2360fe80-e0ce-11f1-9e51-e12509ba597c.jpg"
+   "source": "ESPN",
+   "title": "Portugal's post-Ronaldo era begins with heaviest-ever competitive home loss",
+   "link": "https://www.espn.com/soccer/story/_/id/50483765/portugal-denmark-worst-home-loss-cristiano-ronaldo",
+   "summary": "Portugal began life without Cristiano Ronaldo by suffering their heaviest-ever home loss in a competitive game.",
+   "date": "2026-11-15T18:44:48+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "You are Scotland boss Pocognoli - what would you do?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cklyw2qzzd44o?at_medium=RSS&at_campaign=rss",
-   "summary": "Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the visit to Switzerland.",
-   "date": "2026-11-15T15:58:56+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
+   "source": "ESPN",
+   "title": "Tenerife pay tribute to De Miguel in first match since his death",
+   "link": "https://www.espn.com/soccer/story/_/id/50491662/tenerife-tribute-jesus-de-miguel-first-match-death",
+   "summary": "Spanish soccer club Tenerife on Sunday paid tribute to Jes\u00fas de Miguel in its first game since the striker's death, with midfielder Nacho Gil holding up De Miguel's jersey after scoring his team's opening goal shortly\u2026",
+   "date": "2026-11-15T18:44:47+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Club's first match since player's death abandoned because of serious injury",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
-   "summary": "Hendon's first match since the death of midfielder Ezekiel Williams is abandoned because of a serious injury to Ethan Creary.",
-   "date": "2026-11-15T14:06:19+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7a/live/05560230-e0f8-11f1-97b9-9110abfffc70.png"
+   "source": "ESPN",
+   "title": "Happier, healthier Rodman leads Washington to 3rd straight NWSL Championship",
+   "link": "https://www.espn.com/soccer/story/_/id/50481452/washington-spirit-vs-utah-royals-nwsl-championship-semiginal",
+   "summary": "The Washington Spirit will play in the NWSL Championship for a third straight season next week -- this time on home soil.",
+   "date": "2026-11-15T18:44:47+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Bristol Rovers being let down by poor players - Evans",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0g217veqo?at_medium=RSS&at_campaign=rss",
-   "summary": "Steve Evans insists he will leave Bristol Rovers if he is not wanted but says his players have been \"inconsistent\" and \"poor\".",
-   "date": "2026-11-15T13:55:09+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c7/live/affda860-e0f2-11f1-97b9-9110abfffc70.jpg"
+   "source": "ESPN",
+   "title": "'Nonsense' and 'annoying': Zidane dismisses reports over Mbapp\u00e9 relationship",
+   "link": "https://www.espn.com/soccer/story/_/id/50485397/zinedine-zidane-kylian-mbappe-france-uefa-nations-league",
+   "summary": "France coach Zinedine Zidane dismissed reports of a strained relationship with star forward Kylian Mbapp\u00e9.",
+   "date": "2026-11-15T18:44:47+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Pitch perimeters under review after Vigar death",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
-   "summary": "The Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year.",
-   "date": "2026-11-15T13:49:17+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/541a/live/e9fcbc60-e0f5-11f1-97b9-9110abfffc70.jpg"
+   "source": "ESPN",
+   "title": "Haaland 'incredibly happy' at Man City, not thinking about possible sanctions",
+   "link": "https://www.espn.com/soccer/story/_/id/50490251/erling-haaland-man-city-premier-league-sanctions",
+   "summary": "Erling Haaland says he is \"incredibly happy\" at Manchester City and his focus is on performing and not on the potential sanctions against the club.",
+   "date": "2026-11-15T18:44:47+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Branthwaite, Garner and King omitted for Spain game",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
-   "summary": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night.",
-   "date": "2026-11-15T13:15:15+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77b7/live/b6cfa6a0-e0f4-11f1-93e1-3b657b665bcf.png"
+   "source": "ESPN",
+   "title": "\u231a USMNT's Folarin Balogun does 'Dame Time' celebration after goal vs. Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50487187/usmnt-folarin-balogun-dame-celebration",
+   "summary": "After the star forward found the back of the net against Haiti, he had a specific celebration in mind: Damian Lillard's iconic \"Dame Time\" motion.",
+   "date": "2026-11-15T18:44:47+00:00",
+   "image": null
   }
  ],
  "news_all": [
   {
    "source": "The Guardian",
-   "title": "Arsenal v London City Lionesses: Women\u2019s Super League \u2013 live",
+   "title": "Spain v England: Nations League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live",
+   "summary": "Updates from 7.45pm (GMT) kick-off in MadridGet in touch: email Daniel and follow us on BlueSkySpain are still without Rodri, but Lamine Yamal, rested for the 2-0 win away to Czechia, returns in place of Yeremy Pino.\u2026",
+   "date": "2026-11-15T18:49:50+00:00",
+   "image": "https://i.guim.co.uk/img/media/eb25859a484613d72c89348a46cf89f5e6032344/252_0_2497_1998/master/2497.jpg?width=140&quality=85&auto=format&fit=max&s=e3687b3721512af69b3aaf271a206b0e"
+  },
+  {
+   "source": "ESPN",
+   "title": "Departing Pochettino predicts 'amazing future' for USMNT after rout of Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50484170/usa-haiti-christian-pulisic-goal-mauricio-pochettino",
+   "summary": "Mauricio Pochettino said the USMNT has an \"amazing future\" after securing a 6-0 victory over Haiti in his penultimate game in charge of the team.",
+   "date": "2026-11-15T18:44:48+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Dual-national Julian Hall officially tied to USMNT with appearance vs. Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50482590/julian-hall-usa-poland-haiti-fifa-nations-league-concacaf",
+   "summary": "Teenage forward Julian Hall is now cap-tied to the U.S. men's national team, after starting Saturday's Concacaf Nations League quarterfinal against Haiti.",
+   "date": "2026-11-15T18:44:48+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Brazil great Ronaldinho, 46, subbed at half in return for Serie C's Ravenna",
+   "link": "https://www.espn.com/soccer/story/_/id/50491487/ronaldinho-comeback-300-goals-ravenna-serie-c",
+   "summary": "Ronaldinho failed to secure his elusive 300th career goal after returning to professional football aged 46.",
+   "date": "2026-11-15T18:44:48+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Portugal's post-Ronaldo era begins with heaviest-ever competitive home loss",
+   "link": "https://www.espn.com/soccer/story/_/id/50483765/portugal-denmark-worst-home-loss-cristiano-ronaldo",
+   "summary": "Portugal began life without Cristiano Ronaldo by suffering their heaviest-ever home loss in a competitive game.",
+   "date": "2026-11-15T18:44:48+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Tenerife pay tribute to De Miguel in first match since his death",
+   "link": "https://www.espn.com/soccer/story/_/id/50491662/tenerife-tribute-jesus-de-miguel-first-match-death",
+   "summary": "Spanish soccer club Tenerife on Sunday paid tribute to Jes\u00fas de Miguel in its first game since the striker's death, with midfielder Nacho Gil holding up De Miguel's jersey after scoring his team's opening goal shortly\u2026",
+   "date": "2026-11-15T18:44:47+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Happier, healthier Rodman leads Washington to 3rd straight NWSL Championship",
+   "link": "https://www.espn.com/soccer/story/_/id/50481452/washington-spirit-vs-utah-royals-nwsl-championship-semiginal",
+   "summary": "The Washington Spirit will play in the NWSL Championship for a third straight season next week -- this time on home soil.",
+   "date": "2026-11-15T18:44:47+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "'Nonsense' and 'annoying': Zidane dismisses reports over Mbapp\u00e9 relationship",
+   "link": "https://www.espn.com/soccer/story/_/id/50485397/zinedine-zidane-kylian-mbappe-france-uefa-nations-league",
+   "summary": "France coach Zinedine Zidane dismissed reports of a strained relationship with star forward Kylian Mbapp\u00e9.",
+   "date": "2026-11-15T18:44:47+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Haaland 'incredibly happy' at Man City, not thinking about possible sanctions",
+   "link": "https://www.espn.com/soccer/story/_/id/50490251/erling-haaland-man-city-premier-league-sanctions",
+   "summary": "Erling Haaland says he is \"incredibly happy\" at Manchester City and his focus is on performing and not on the potential sanctions against the club.",
+   "date": "2026-11-15T18:44:47+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "\u231a USMNT's Folarin Balogun does 'Dame Time' celebration after goal vs. Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50487187/usmnt-folarin-balogun-dame-celebration",
+   "summary": "After the star forward found the back of the net against Haiti, he had a specific celebration in mind: Damian Lillard's iconic \"Dame Time\" motion.",
+   "date": "2026-11-15T18:44:47+00:00",
+   "image": null
+  },
+  {
+   "source": "The Guardian",
+   "title": "Arsenal 1-1 London City Lionesses: Women\u2019s Super League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/15/arsenal-v-london-city-lionesses-womens-super-league-live",
    "summary": "Updates from 4.30pm (GMT) kick-off at the Emirates StadiumGet in touch: email John and follow us on BlueSkyCharles Antaki gets in touch: \u201cRenee Slegers under pressure indeed. Arsenal\u2019s form this season has been nothing\u2026",
-   "date": "2026-11-15T17:44:21+00:00",
+   "date": "2026-11-15T18:38:07+00:00",
    "image": "https://i.guim.co.uk/img/media/4e062c72884593f8a099f1bcd50e4a58025887ac/244_0_4060_3248/master/4060.jpg?width=140&quality=85&auto=format&fit=max&s=284e88895f49fffe4a5149a929e1ad2b"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Ronaldinho makes comeback in Ravenna win",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+   "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+   "date": "2026-11-15T18:33:36+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Frick named new head coach at Aberdeen",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
+   "summary": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
+   "date": "2026-11-15T18:27:08+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/212b/live/2366df60-e125-11f1-9198-73c27e618086.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Children's tournament abandoned for parents' behaviour",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno?at_medium=RSS&at_campaign=rss",
+   "summary": "A football tournament for nine and 10-year-olds in Italy is suspended because of parents fighting, spitting and shouting homophobic abuse at a child and a referee.",
+   "date": "2026-11-15T18:24:54+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d368/live/30545390-e11d-11f1-a7a2-7bb21fac8f0b.jpg"
+  },
+  {
+   "source": "ESPN",
+   "title": "Recap: Brazil legend Ronaldinho comes out of retirement at Ravenna but lasts 45 minutes",
+   "link": "https://www.espn.com/soccer/story/_/id/50489043/ronaldinho-ravenna-brazil-barcelona-serie-c",
+   "summary": "Ronaldinho came out of retirement to play for Italian Serie C side Ravenna at age 46 in a bid to score his 300th career goal, but couldn't manage it. Here's what happened.",
+   "date": "2026-11-15T18:11:56+00:00",
+   "image": null
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Sule strikes late as Scotland U21s snatch draw against USA",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6894vj39g33o?at_medium=RSS&at_campaign=rss",
+   "summary": "St Mirren forward Eseosa Sule came off the bench to score a late penalty as Scotland U21s drew 1-1 with USA U23s in Spain.",
+   "date": "2026-11-15T18:11:08+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7146/live/d7b69920-e11f-11f1-a7a2-7bb21fac8f0b.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career.",
+   "date": "2026-11-15T17:56:57+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b0/live/8883ed70-e11b-11f1-a7a2-7bb21fac8f0b.jpg"
   },
   {
    "source": "BBC Sport",
@@ -131,6 +259,14 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
   },
   {
+   "source": "ESPN",
+   "title": "Where are they now? Every Man United player, manager, executive since Glazers' takeover in 2005",
+   "link": "https://www.espn.com/soccer/story/_/id/50432839/manchester-united-glazers-transfers-players-managers",
+   "summary": "The Glazer family took over Manchester United in 2005, but what has happened to the players, managers and executive staff since?",
+   "date": "2026-11-15T15:37:41+00:00",
+   "image": null
+  },
+  {
    "source": "BBC Sport",
    "title": "Club's first match since player's death abandoned because of serious injury",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
@@ -153,14 +289,6 @@
    "summary": "The Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year.",
    "date": "2026-11-15T13:49:17+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/541a/live/e9fcbc60-e0f5-11f1-97b9-9110abfffc70.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Branthwaite, Garner and King omitted for Spain game",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
-   "summary": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night.",
-   "date": "2026-11-15T13:15:15+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77b7/live/b6cfa6a0-e0f4-11f1-93e1-3b657b665bcf.png"
   },
   {
    "source": "The Guardian",
@@ -185,6 +313,62 @@
    "summary": "Two possible January targets for Celtic as Turkish club maintain interest in Rangers midfielder...",
    "date": "2026-11-15T10:45:52+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d12/live/9d213a60-e0e1-11f1-93e1-3b657b665bcf.png"
+  },
+  {
+   "source": "ESPN",
+   "title": "Transfer rumors, news: Arsenal eye former Tottenham striker Lankshear",
+   "link": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear",
+   "summary": "Arsenal are the latest team to join a long list of admirers following Middlesbrough striker Will Lankshear. Transfer Talk has the latest.",
+   "date": "2026-11-15T10:30:45+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Ancelotti's red card shows he's feeling the pressure, as Brazil underwhelm again in Japan defeat",
+   "link": "https://www.espn.com/soccer/story/_/id/50479572/brazil-japan-carlo-ancelotti-red-card",
+   "summary": "Carlo Ancelotti's time in charge of Brazil has been utterly underwhelming so far and he showed his frustration in a friendly defeat to Japan.",
+   "date": "2026-11-15T09:03:34+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Man United, Pochettino's to-do list based on what's gone wrong",
+   "link": "https://www.espn.com/soccer/story/_/id/50462231/mauricio-pochettino-manchester-united-transfer-usmnt",
+   "summary": "Pochettino makes as much sense as anyone to take the Man United job, so now what? Let's look at the mess he's inheriting and what's at the top of his to-do list.",
+   "date": "2026-11-15T08:50:47+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "In Pochettino, Man United finally have a proper manager",
+   "link": "https://www.espn.com/soccer/story/_/id/50452091/manchester-united-hire-mauricio-pochettino-reaction",
+   "summary": "After years of near-misses, Man United have finally landed Mauricio Pochettino, a manager with the kind of pedigree, class and credibility the club have been looking for.",
+   "date": "2026-11-15T08:50:47+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Chelsea reassert WSL dominance over Man City in front of USWNT boss Hayes",
+   "link": "https://www.espn.com/soccer/story/_/id/50479087/sonia-bompastor-chelsea-man-city-wsl-emma-hayes",
+   "summary": "Sonia Bompastor took off Kadeisha Buchanan after 12 minutes and it paid off as Chelsea went top of the WSL by beating defending champions Manchester City.",
+   "date": "2026-11-15T08:50:21+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "USMNT player ratings: Pulisic earns 9/10 for brace in win over Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50481405/usmnt-player-ratings-pulisic-haiti",
+   "summary": "Christian Pulisic scored twice in the Americans' dominant 6-0 win over Haiti on Saturday.",
+   "date": "2026-11-15T08:44:22+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "USMNT players embody Pochettino's legacy in dominant win over Haiti",
+   "link": "https://www.espn.com/soccer/story/_/id/50481434/usmnt-mauricio-pochettino-legacy-haiti",
+   "summary": "Mauricio Pochettino reset the culture within the USMNT. In Saturday's 6-0 win over Haiti, his players demonstrated that they intend to carry on his ideals.",
+   "date": "2026-11-15T08:44:01+00:00",
+   "image": null
   },
   {
    "source": "The Guardian",
@@ -283,6 +467,14 @@
    "image": "https://i.guim.co.uk/img/media/80cddf65767255ca40d4f5c3f182e55e948f8e26/1006_0_5044_4035/master/5044.jpg?width=140&quality=85&auto=format&fit=max&s=a43a033416486c567aa3c13928d84268"
   },
   {
+   "source": "ESPN",
+   "title": "Washington Spirit on verge of realizing Michele Kang's dream of NWSL dominance",
+   "link": "https://www.espn.com/soccer/story/_/id/50483273/washington-spirit-kang-dream-nwsl-dominance",
+   "summary": "The Washington Spirit have been comeback queens all season, and they were again on Saturday, beating Utah 2-1 to reach the NWSL Championship.",
+   "date": "2026-11-14T22:11:02+00:00",
+   "image": null
+  },
+  {
    "source": "BBC Sport",
    "title": "Arsenal target Nusa could cost \u00a366m - Sunday's gossip",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
@@ -331,14 +523,6 @@
    "image": "https://i.guim.co.uk/img/media/f7ef395a328799053c7788d68a982937800fea7c/3_0_2003_1602/master/2003.jpg?width=140&quality=85&auto=format&fit=max&s=5d88ef87bf56f44b76724f7c788cdb4b"
   },
   {
-   "source": "The Guardian",
-   "title": "De la Fuente adamant there is no racism in Spain despite England reminder to players",
-   "link": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league",
-   "summary": "De la Fuente tells Tuchel \u2018we\u2019re not racists, none of us\u2019Tuchel hits out at media for \u2018creating confusion\u2019Luis de la Fuente has told Thomas Tuchel there is no racism in Spain after the England coach\u2019s admission that he\u2026",
-   "date": "2026-11-14T20:27:02+00:00",
-   "image": "https://i.guim.co.uk/img/media/c2be78ff0fcd0ba82fa2d77d7a5042a55688fdfd/374_0_3737_2989/master/3737.jpg?width=140&quality=85&auto=format&fit=max&s=440d43b514e68ea66256c044b6f1f82a"
-  },
-  {
    "source": "BBC Sport",
    "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
@@ -377,190 +561,6 @@
    "summary": "In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game. In this case, it was Sonia Bompastor's decisions.",
    "date": "2026-11-14T18:55:34+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8119/live/c11a1b50-e05d-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqglrkk7gr1xo?at_medium=RSS&at_campaign=rss",
-   "summary": "Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend their unbeaten run in all competitions to 12 matches.",
-   "date": "2026-11-14T18:27:23+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/276e/live/9e2ede40-e03b-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'I just play where the manager tells me to play!' - Walsh",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&at_campaign=rss",
-   "summary": "Keira Walsh reacts after Chelsea go top of the Women's Super League with a 1-0 win against Manchester City.",
-   "date": "2026-11-14T16:17:49+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bbf/live/a45e56c0-e044-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Chelsea go top with 1-0 win against Man City",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss",
-   "summary": "Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half.",
-   "date": "2026-11-14T15:50:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ee/live/76b3b1a0-e041-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Former Stoke City manager Thordarson dies aged 71",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c98r7l5yrn6go?at_medium=RSS&at_campaign=rss",
-   "summary": "Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71.",
-   "date": "2026-11-14T15:04:59+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34a/live/b33c7ec0-e039-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
-   "link": "https://www.theguardian.com/football/2026/nov/14/mauricio-pochettino-usmnt-legacy-belief",
-   "summary": "The coach\u2019s tenure with the USMNT brought a whiplash of highs and lows. He met some goals but also left many with the impression he never truly bought inIt did not take US men\u2019s national team coach Mauricio Pochettino\u2026",
-   "date": "2026-11-14T14:06:37+00:00",
-   "image": "https://i.guim.co.uk/img/media/c4284e99111f3b2d6ab3f889978114cb7b437fcf/463_0_3789_3032/master/3789.jpg?width=140&quality=85&auto=format&fit=max&s=a0c40e01c9f8309a673a5fd3c63b39c0"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Raphinha sees red as Brazil stunned by Japan while Argentina\u2019s post-Messi era starts with defeat",
-   "link": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
-   "summary": "Brazil loss in Singapore marred by unruly end to friendlyArgentina beaten 2-1 by Uruguay in Buenos AiresRaphinha was sent off as Brazil crashed to a 3-2 defeat by Japan in their international friendly in Singapore. The\u2026",
-   "date": "2026-11-14T13:07:33+00:00",
-   "image": "https://i.guim.co.uk/img/media/b5c5443a861f877f996d325d235fb3f5ee577cee/228_69_1398_1119/master/1398.jpg?width=140&quality=85&auto=format&fit=max&s=89e18746c33710dbde60ad3f319fde94"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Clough's longevity: landmark achievement or indictment on football?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqr7grl145zpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career.",
-   "date": "2026-11-14T08:35:00+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d44/live/17211cb0-de97-11f1-9afe-1f03bfe02283.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
-   "link": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
-   "summary": "Head coach hits out at \u2018lies\u2019 as suggestions of preferential treatment for young star overshadow preparations for England game in MadridFrom the London Palladium to Madrid\u2019s Metropolitano, they\u2019re all here. On Sunday\u2026",
-   "date": "2026-11-14T08:00:40+00:00",
-   "image": "https://i.guim.co.uk/img/media/42e77ccd5533c21e431591604e4275620d0e1cfa/375_0_3803_3043/master/3803.jpg?width=140&quality=85&auto=format&fit=max&s=b74ff2d0b5b90a2589f1779e11b1cf97"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Six goals to go - will McGinn catch Dalglish & Law?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
-   "summary": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
-   "date": "2026-11-14T07:49:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da36/live/75be3ea0-e000-11f1-a3e2-bfb07c67d49c.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?",
-   "link": "https://www.theguardian.com/football/2026/nov/14/portugal-cristiano-ronaldo-football-memories-future",
-   "summary": "The captain, the talisman, the brand: former teammates and experts discuss Portugal entering a new era after 23 years There are days football fans hope will never come. For Portugal, this is one of them. For 23 years,\u2026",
-   "date": "2026-11-14T06:53:23+00:00",
-   "image": "https://i.guim.co.uk/img/media/688bb43e70840782346c3097ed9259fd926ff418/413_0_4131_3305/master/4131.jpg?width=140&quality=85&auto=format&fit=max&s=09993c9cab6e220a320710f4145fb73d"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'If that penalty is given against you, you're furious'",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo?at_medium=RSS&at_campaign=rss",
-   "summary": "Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia.",
-   "date": "2026-11-13T22:34:20+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb69/live/58b9cb60-dfb2-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Ronaldinho, 46, to play first game since 2015",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqz0k4e00v0mo?at_medium=RSS&at_campaign=rss",
-   "summary": "Brazil great Ronaldinho is set to make his first competitive start in more than a decade when Ravenna face local rivals Forli in Italy's third division on Sunday.",
-   "date": "2026-11-13T19:12:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a24/live/9b132b20-df92-11f1-a9ad-6774a3284d10.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "\u2018No one is unbeatable\u2019: Tuchel eager for England to impose style on Spain",
-   "link": "https://www.theguardian.com/football/2026/nov/13/no-one-is-unbeatable-tuchel-eager-for-england-to-impose-style-on-spain",
-   "summary": "Manager calls Sunday\u2019s Nations League decider a \u2018final\u2019 as preparations for Euro 2028 ratchet up a levelProof of concept. It is Thomas Tuchel\u2019s latest buzz phrase. The England manager has dropped it into the\u2026",
-   "date": "2026-11-13T19:00:23+00:00",
-   "image": "https://i.guim.co.uk/img/media/cf486b8222139aa40698ef1ce78a51d522716296/344_0_2768_2215/master/2768.jpg?width=140&quality=85&auto=format&fit=max&s=68bac943b11782930fd7772ffc11b5f6"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "All done deals from September-November 2026",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-   "date": "2026-11-13T17:21:23+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | Taking a brief minute to remember Pierre Sage\u2019s impact at Crystal Palace",
-   "link": "https://www.theguardian.com/football/2026/nov/13/pierre-sage-crystal-palace-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!So farewell then, Pierre Sage. Many coaches leave under a cloud, not many have their departures completely obscured by the foul, retch-inducing one emanating from\u2026",
-   "date": "2026-11-13T15:21:47+00:00",
-   "image": "https://i.guim.co.uk/img/media/958b22b871c6cdad44be633a42d9f827b7b4d66d/20_0_3218_2574/master/3218.jpg?width=140&quality=85&auto=format&fit=max&s=f8756988a339a34347a2f081363a91e6"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Mauricio Pochettino to Manchester United and record breaker Kane | Football Weekly video",
-   "link": "https://www.theguardian.com/football/video/2026/nov/13/mauricio-pochettino-to-manchester-united-and-record-breaker-kane-football-weekly-video",
-   "summary": "Robyn Cowen is joined by Jacob Steinberg, Lars Sivertsen and Paul Watson as Manchester United appoint Mauricio Pochettino as their head coach and Harry Kane becomes the sole leading appearance maker for the England\u2026",
-   "date": "2026-11-13T13:41:07+00:00",
-   "image": "https://i.guim.co.uk/img/media/83e32d073a04b86599a4b980a3b5c6b0265814fb/270_0_3822_3057/master/3822.jpg?width=140&quality=85&auto=format&fit=max&s=34fbc6d3ebf57754d6bf817cb9f3946b"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "From postcards to texts, the different ways a manager gets the sack - Pulis",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport columnist Tony Pulis explains some of the different ways a manager can leave a club, whether they have been sacked or resigned.",
-   "date": "2026-11-13T08:13:19+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Pochettino\u2019s Chelsea maelstrom the best yardstick for what lies ahead at United",
-   "link": "https://www.theguardian.com/football/2026/nov/13/pochettino-chelsea-maelstrom-yardstick-what-lies-ahead-manchester-united",
-   "summary": "Argentinian oversaw high-scoring games in his one Chelsea season and Opta predicts his Manchester United side will move upfield quicker than that teamAmong the 20 managers with more than 290 matches in the Premier\u2026",
-   "date": "2026-11-13T07:00:12+00:00",
-   "image": "https://i.guim.co.uk/img/media/20870a5fe499e872c54989430f12c8e18e6f1eda/371_0_3871_3096/master/3871.jpg?width=140&quality=85&auto=format&fit=max&s=f92738b61e8e2f478b456783384682f8"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Nations League: Italy roar back to beat France despite Donnarumma\u2019s early howler",
-   "link": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
-   "summary": "Loss is Zinedine Zidane\u2019s first as France head coachSpain beat Czechia 2-0 to maintain 100% recordPio Esposito struck twice to inflict a first defeat on Zinedine Zidane as France head coach as Italy stormed back to win\u2026",
-   "date": "2026-11-12T22:31:35+00:00",
-   "image": "https://i.guim.co.uk/img/media/c383c8cbd033340ae1748689f545ed72e3b44160/358_191_2558_2046/master/2558.jpg?width=140&quality=85&auto=format&fit=max&s=cef73d375bed89d81e3ac9dc23e9077a"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Where does Kane rank among all-time England greats?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
-   "summary": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
-   "date": "2026-11-12T22:09:59+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5525/live/60ecddc0-de97-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
-   "link": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. \nThe point moves Renee Slegers' side into the\u2026",
-   "date": "2026-11-12T20:09:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17d7/live/103dfe40-ded3-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Arsenal dig deep to earn WCL draw in face of Barcelona dominance",
-   "link": "https://www.theguardian.com/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report",
-   "summary": "Arsenal continue to be a sharp thorn in the side of the European champions, Barcelona, and they dug deep to hold on to a draw at the Camp Nou on Thursday night. Frida Maanum put the Gunners ahead despite a hugely\u2026",
-   "date": "2026-11-12T20:00:16+00:00",
-   "image": "https://i.guim.co.uk/img/media/812d79bca9e025068e126e5736dc19839b32224a/136_104_1918_1535/master/1918.jpg?width=140&quality=85&auto=format&fit=max&s=fb8f8f3cac06faecfc805d4e746b15bf"
-  },
-  {
-   "source": "The Guardian",
-   "title": "How will the USMNT replace Mauricio Pochettino? There\u2019s no clear answer",
-   "link": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-replacements-usmnt-manchester-united",
-   "summary": "The USMNT head coach is on the verge of sealing a move to Manchester United, but it\u2019s hard to know who could be in the chair nextSign up for our free newsletter hereEven before the 2026 World Cup, the US Soccer\u2026",
-   "date": "2026-11-12T19:20:01+00:00",
-   "image": "https://i.guim.co.uk/img/media/0987d0bf192410b25795629cf35bbc8bb01305bb/593_0_2966_2373/master/2966.jpg?width=140&quality=85&auto=format&fit=max&s=f3d6f9219f8f238f0b9d52ab54de1bba"
   }
  ],
  "videos": [
@@ -1710,10 +1710,10 @@
    "home": "Belarus",
    "away": "Albania",
    "hs": "0",
-   "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "45'+1'",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
    "venue": "Illovszky Rudolf Stadion",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/blr.png",
@@ -1727,11 +1727,11 @@
    "date": "2026-11-15T17:00Z",
    "home": "Finland",
    "away": "San Marino",
-   "hs": "5",
-   "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "45'+1'",
+   "hs": "7",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
    "venue": "Bolt Arena",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png",
@@ -1745,11 +1745,11 @@
    "date": "2026-11-15T17:00Z",
    "home": "Suriname",
    "away": "Eswatini",
-   "hs": "1",
+   "hs": "4",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "45'+1'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+1'",
    "venue": "Stadion De Vliert",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/sur.png",
@@ -10189,10 +10189,10 @@
    "home": "Belarus",
    "away": "Albania",
    "hs": "0",
-   "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "45'+1'",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
    "venue": "Illovszky Rudolf Stadion",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/blr.png",
@@ -10206,11 +10206,11 @@
    "date": "2026-11-15T17:00Z",
    "home": "Finland",
    "away": "San Marino",
-   "hs": "5",
-   "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "45'+1'",
+   "hs": "7",
+   "as": "2",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
    "venue": "Bolt Arena",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png",
@@ -10224,11 +10224,11 @@
    "date": "2026-11-15T17:00Z",
    "home": "Suriname",
    "away": "Eswatini",
-   "hs": "1",
+   "hs": "4",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "45'+1'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+1'",
    "venue": "Stadion De Vliert",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/sur.png",
