@@ -1,20 +1,28 @@
 {
  "news": [
   {
-   "source": "BBC Sport",
-   "title": "Watch: Monday Night Club",
-   "link": "https://www.bbc.co.uk/sounds/play/m003480k?at_medium=RSS&at_campaign=rss",
-   "summary": "Mark Chapman and guests debate the weekend's football.",
-   "date": "2026-11-16T21:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0n3mq8q.jpg"
-  },
-  {
    "source": "The Guardian",
-   "title": "Switzerland v Scotland, Germany v Netherlands, and more: Nations League \u2013 live",
+   "title": "Germany 5-0 Netherlands, Switzerland 4-0 Scotland and more: Nations League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/16/switzerland-v-scotland-germany-v-netherlands-and-more-nations-league-live",
    "summary": "\u26bd\ufe0f Nations League updates from the 7.45pm GMT kick-offs\u26bd\ufe0f Live scoreboard | Follow us on Bluesky | And mail WillThomas Tuchel believes winning the Nations League would can provide England with the springboard to Euro\u2026",
-   "date": "2026-11-16T20:49:30+00:00",
-   "image": "https://i.guim.co.uk/img/media/ead0ac76580b85e84f084834e7df261958ff6255/800_940_2575_2060/master/2575.jpg?width=140&quality=85&auto=format&fit=max&s=5e21a7fa963b705feecf3f7e6ff183c9"
+   "date": "2026-11-16T21:48:13+00:00",
+   "image": "https://i.guim.co.uk/img/media/b4b5263c15e103e3e2d7b8f2484796c915620135/456_421_2777_2222/master/2777.jpg?width=140&quality=85&auto=format&fit=max&s=df12c67ac1c9724f16e43fbf5014e229"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Portugal boss responds to criticism from Ronaldo's mum",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck87984g3x1po?at_medium=RSS&at_campaign=rss",
+   "summary": "Jorge Jesus responds to claims by Cristiano Ronaldo's mother, Dolores Aveiro, that her son had been \"deceived\" by the Portugal manager.",
+   "date": "2026-11-16T21:08:06+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca3/live/b14c4cf0-e1f9-11f1-ac6e-e9777cdcbb4f.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Swansea in fight to keep Matos amid Strasbourg interest",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Vitor Matos has emerged as a target for French top-flight club Strasbourg who could soon part ways with Hugo Oliveira.",
+   "date": "2026-11-16T21:01:50+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1526/live/72a6b0c0-e1f5-11f1-ac6e-e9777cdcbb4f.jpg"
   },
   {
    "source": "The Guardian",
@@ -22,7 +30,7 @@
    "link": "https://www.theguardian.com/football/2026/nov/16/thomas-tuchel-england-must-learn-lessons-history-seville-gareth-southgate",
    "summary": "Another 3-2 win in Spain brings the lure of a golden new hyper-future \u2013 but it did not pan out that way last timeI may have the body of a weak and feeble German, but I have the heart and stomach of a manager of England.\u2026",
    "date": "2026-11-16T20:02:09+00:00",
-   "image": "https://i.guim.co.uk/img/media/30bfa92c143236fb2c40beb586b1259f8edb2f50/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e43c6c26de1c7e6721d37b5307be4319"
+   "image": "https://i.guim.co.uk/img/media/2da6290508ecb301f58fd9d4e84a22546c832f77/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b7622478b18f18a9417b4da5e374190c"
   },
   {
    "source": "BBC Sport",
@@ -71,32 +79,32 @@
    "summary": "Will Thomas Frank - now confirmed as the new manager of Crystal Palace - rebuild his reputation at Selhurst Park after a bruising time at Tottenham?",
    "date": "2026-11-16T17:46:16+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a30c/live/69f709f0-df63-11f1-a8af-15d7a25dc0d1.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Beckham firm sues after fragrance found for sale in discount store",
-   "link": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
-   "summary": "Brand reacted with \u2018shock and dismay\u2019 after products were also found in a \u2018bargain bin inside a gas station\u2019David Beckham\u2019s company reacted with \u201cshock and dismay\u201d after discovering his branded fragrance range was on\u2026",
-   "date": "2026-11-16T17:35:59+00:00",
-   "image": "https://i.guim.co.uk/img/media/b545f9d7a790ea86d7c205a1aa43db5a001f1e42/1779_175_2064_1652/master/2064.jpg?width=140&quality=85&auto=format&fit=max&s=5f3ca0f86022053fc18d97cfa7ce756f"
   }
  ],
  "news_all": [
   {
-   "source": "BBC Sport",
-   "title": "Watch: Monday Night Club",
-   "link": "https://www.bbc.co.uk/sounds/play/m003480k?at_medium=RSS&at_campaign=rss",
-   "summary": "Mark Chapman and guests debate the weekend's football.",
-   "date": "2026-11-16T21:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0n3mq8q.jpg"
-  },
-  {
    "source": "The Guardian",
-   "title": "Switzerland v Scotland, Germany v Netherlands, and more: Nations League \u2013 live",
+   "title": "Germany 5-0 Netherlands, Switzerland 4-0 Scotland and more: Nations League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/16/switzerland-v-scotland-germany-v-netherlands-and-more-nations-league-live",
    "summary": "\u26bd\ufe0f Nations League updates from the 7.45pm GMT kick-offs\u26bd\ufe0f Live scoreboard | Follow us on Bluesky | And mail WillThomas Tuchel believes winning the Nations League would can provide England with the springboard to Euro\u2026",
-   "date": "2026-11-16T20:49:30+00:00",
-   "image": "https://i.guim.co.uk/img/media/ead0ac76580b85e84f084834e7df261958ff6255/800_940_2575_2060/master/2575.jpg?width=140&quality=85&auto=format&fit=max&s=5e21a7fa963b705feecf3f7e6ff183c9"
+   "date": "2026-11-16T21:48:13+00:00",
+   "image": "https://i.guim.co.uk/img/media/b4b5263c15e103e3e2d7b8f2484796c915620135/456_421_2777_2222/master/2777.jpg?width=140&quality=85&auto=format&fit=max&s=df12c67ac1c9724f16e43fbf5014e229"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Portugal boss responds to criticism from Ronaldo's mum",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck87984g3x1po?at_medium=RSS&at_campaign=rss",
+   "summary": "Jorge Jesus responds to claims by Cristiano Ronaldo's mother, Dolores Aveiro, that her son had been \"deceived\" by the Portugal manager.",
+   "date": "2026-11-16T21:08:06+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca3/live/b14c4cf0-e1f9-11f1-ac6e-e9777cdcbb4f.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Swansea in fight to keep Matos amid Strasbourg interest",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Vitor Matos has emerged as a target for French top-flight club Strasbourg who could soon part ways with Hugo Oliveira.",
+   "date": "2026-11-16T21:01:50+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1526/live/72a6b0c0-e1f5-11f1-ac6e-e9777cdcbb4f.jpg"
   },
   {
    "source": "The Guardian",
@@ -104,7 +112,7 @@
    "link": "https://www.theguardian.com/football/2026/nov/16/thomas-tuchel-england-must-learn-lessons-history-seville-gareth-southgate",
    "summary": "Another 3-2 win in Spain brings the lure of a golden new hyper-future \u2013 but it did not pan out that way last timeI may have the body of a weak and feeble German, but I have the heart and stomach of a manager of England.\u2026",
    "date": "2026-11-16T20:02:09+00:00",
-   "image": "https://i.guim.co.uk/img/media/30bfa92c143236fb2c40beb586b1259f8edb2f50/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e43c6c26de1c7e6721d37b5307be4319"
+   "image": "https://i.guim.co.uk/img/media/2da6290508ecb301f58fd9d4e84a22546c832f77/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b7622478b18f18a9417b4da5e374190c"
   },
   {
    "source": "BBC Sport",
@@ -228,7 +236,7 @@
   },
   {
    "source": "The Guardian",
-   "title": "Familiarity of Doha drives home just how far Socceroos have come in recent years",
+   "title": "Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch",
    "link": "https://www.theguardian.com/football/blog/2026/nov/16/doha-socceroos-return-stronger-after-asian-cup-heartbreak",
    "summary": "There is increasing evidence of an evolution not only in approach but also mentality, highlighted by a return to the scene of Asian Cup heartbreakLast week\u2019s 3-0 dismissal of Qatar at the Abdullah bin Khalifa Stadium\u2026",
    "date": "2026-11-16T14:00:19+00:00",
@@ -360,7 +368,15 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o?at_medium=RSS&at_campaign=rss",
    "summary": "Andy Burnham urges caution on lifting the Saturday 3pm TV blackout in the UK, saying the health of the football pyramid should come first.",
    "date": "2026-11-16T08:18:33+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4709/live/99edb2d0-e193-11f1-9e84-492a244b27cc.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43a5/live/21c1a6e0-e201-11f1-ba8d-01314a590f72.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'Frick rejected Wolfsburg before joining Aberdeen' - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqp9dz91jkxvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Mario Frick reportedly rejected the Wolfsburg job before becoming Aberdeen's new head coach, while Celtic are said to have no plans to sell in-form Mika Baur.",
+   "date": "2026-11-16T08:17:46+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3877/live/fe6f26b0-e195-11f1-93e1-3b657b665bcf.png"
   },
   {
    "source": "BBC Sport",
@@ -380,14 +396,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Listen: Scotland\u2019s Swiss test and who is Aberdeen\u2019s new boss?",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pn6v34?at_medium=RSS&at_campaign=rss",
-   "summary": "Can Scotland show progress against Switzerland and what awaits Aberdeen under Frick?",
-   "date": "2026-11-16T08:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pn6v3j.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Vote for the best men's European striker this century",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo?at_medium=RSS&at_campaign=rss",
    "summary": "Who is the best European's men's striker this century? Vote for your top three before the results are revealed on Euro Leagues.",
@@ -401,22 +409,6 @@
    "summary": "Homophobia and transphobia are on the rise in English football, with new data revealing record numbers of discrimination reports in the game - so what is the Premier League doing about it?",
    "date": "2026-11-16T07:26:27+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a9/live/e2ff0ba0-c707-11f1-bc2e-018d645d8d21.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Is Scotland's system limiting Gannon-Doak's threat?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c64gnpvdld40o?at_medium=RSS&at_campaign=rss",
-   "summary": "As Scotland prepare to conclude their Nations League group campaign in Switzerland, there are concerns about how new head coach Sebastien Pocognoli is utilising one of his most exciting assets.",
-   "date": "2026-11-16T07:09:40+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/a4645c10-e106-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "What do Scotland do about 'scunnered' Gannon-Doak?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c64gnpvdld40o?at_medium=RSS&at_campaign=rss",
-   "summary": "As Scotland prepare to conclude their Nations League group campaign in Switzerland, there are concerns about how new head coach Sebastien Pocognoli is utilising one of his most exciting assets.",
-   "date": "2026-11-16T07:09:40+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/a4645c10-e106-11f1-b441-2b33b063138f.jpg"
   },
   {
    "source": "BBC Sport",
@@ -532,14 +524,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career.",
-   "date": "2026-11-15T17:56:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b0/live/8883ed70-e11b-11f1-a7a2-7bb21fac8f0b.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Chapecoense air crash survivor wins promotion in final game",
    "link": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
    "summary": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil\u2018s Serie A in his final match before retiring.",
@@ -556,11 +540,27 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Why Northern Ireland won't focus on point they need in Hungary",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo?at_medium=RSS&at_campaign=rss",
-   "summary": "A draw in Hungary on Tuesday would secure Nations League promotion for Northern Ireland, but they are targeting all three points in Budapest.",
-   "date": "2026-11-15T16:04:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e4/live/2360fe80-e0ce-11f1-9e51-e12509ba597c.jpg"
+   "title": "Club's first match since player's death abandoned because of serious injury",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
+   "summary": "Hendon's first match since the death of midfielder Ezekiel Williams is abandoned because of a serious injury to Ethan Creary.",
+   "date": "2026-11-15T14:06:19+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7a/live/05560230-e0f8-11f1-97b9-9110abfffc70.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Wenger decides not to challenge Fifa chief Infantino",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsene Wenger decides against running for the Fifa presidency, in a boost to Gianni Infantino's hopes of a fourth term.",
+   "date": "2026-11-15T11:28:25+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc3/live/a18afd20-e0e1-11f1-8175-3108136b4191.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Terry Butcher: \u2018I\u2019ve learned to live with the Hand of God goal better\u2019",
+   "link": "https://www.theguardian.com/football/2026/nov/15/terry-butcher-ive-learned-to-live-with-the-hand-of-god-goal-better",
+   "summary": "The former England centre-back answers your questions on Diego Maradona, Bobby Robson and on staying in strange places\u201cHave you made up all these on your own?\u201d asks Terry Butcher, sitting in a London office in the week\u2026",
+   "date": "2026-11-15T08:00:09+00:00",
+   "image": "https://i.guim.co.uk/img/media/4049b8c0aeb58215be188d97332e8d0d5d52d3e3/0_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=c7b76991c0744d8589dc1544383d61b2"
   }
  ],
  "videos": [
@@ -661,6 +661,12 @@
    "date": "2026-11-13T14:00:10+00:00"
   },
   {
+   "channel": "LaLiga",
+   "id": "LXs1SWZRGHQ",
+   "title": "Este chico tiene mucho talento: ZABIRI",
+   "date": "2026-11-16T21:00:30+00:00"
+  },
+  {
    "channel": "Ligue 1",
    "id": "fJttrSV_BPI",
    "title": "Kilian Mbapp\u00e9 est-il indispensable \u00e0 l'\u00e9quipe de France ? - Le SAV de la Ligue 1",
@@ -689,12 +695,6 @@
    "id": "-yow2RfiRWs",
    "title": "FULL MATCH | France v England | 3rd Place Match | FIFA World Cup 2026\u2122",
    "date": "2026-11-16T14:52:47+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "KuT-D44f9Cs",
-   "title": "Torres \ud83c\uddea\ud83c\uddf8",
-   "date": "2026-11-16T14:05:31+00:00"
   }
  ],
  "fixtures": [
@@ -2023,11 +2023,11 @@
    "date": "2026-11-16T19:45Z",
    "home": "Germany",
    "away": "Netherlands",
-   "hs": "1",
+   "hs": "5",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "59'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+2'",
    "venue": "Olympic Stadium Berlin",
    "usa": [
     "FS1"
@@ -2043,11 +2043,11 @@
    "date": "2026-11-16T19:45Z",
    "home": "Gibraltar",
    "away": "Malta",
-   "hs": "0",
+   "hs": "1",
    "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "59'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
    "venue": "Europa Point Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/gib.png",
@@ -2061,11 +2061,11 @@
    "date": "2026-11-16T19:45Z",
    "home": "Greece",
    "away": "Serbia",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "57'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
    "venue": "Panthessaliko Stadium",
    "usa": [
     "FS2"
@@ -2082,10 +2082,10 @@
    "home": "North Macedonia",
    "away": "Slovenia",
    "hs": "0",
-   "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "59'",
+   "as": "3",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
    "venue": "To\u0161e Proeski Arena",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/mkd.png",
@@ -2099,11 +2099,11 @@
    "date": "2026-11-16T19:45Z",
    "home": "Switzerland",
    "away": "Scotland",
-   "hs": "3",
+   "hs": "4",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "55'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
    "venue": "Kybunpark",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
@@ -10484,11 +10484,11 @@
    "date": "2026-11-16T19:45Z",
    "home": "Germany",
    "away": "Netherlands",
-   "hs": "1",
+   "hs": "5",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "59'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+2'",
    "venue": "Olympic Stadium Berlin",
    "usa": [
     "FS1"
@@ -10504,11 +10504,11 @@
    "date": "2026-11-16T19:45Z",
    "home": "Gibraltar",
    "away": "Malta",
-   "hs": "0",
+   "hs": "1",
    "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "59'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
    "venue": "Europa Point Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/gib.png",
@@ -10522,11 +10522,11 @@
    "date": "2026-11-16T19:45Z",
    "home": "Greece",
    "away": "Serbia",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "57'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
    "venue": "Panthessaliko Stadium",
    "usa": [
     "FS2"
@@ -10543,10 +10543,10 @@
    "home": "North Macedonia",
    "away": "Slovenia",
    "hs": "0",
-   "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "59'",
+   "as": "3",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
    "venue": "To\u0161e Proeski Arena",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/mkd.png",
@@ -10560,11 +10560,11 @@
    "date": "2026-11-16T19:45Z",
    "home": "Switzerland",
    "away": "Scotland",
-   "hs": "3",
+   "hs": "4",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "55'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+3'",
    "venue": "Kybunpark",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
