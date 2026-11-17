@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Match Programme, Line-ups &amp; Player Gallery – Football Arena</title>
+<meta name="description" content="Upcoming match programmes with kick-off countdowns, expected and official line-ups on an interactive pitch, illustrated player cards, results, goalscorers and match stats.">
+<meta property="og:title" content="Match Programme, Line-ups &amp; Player Gallery – Football Arena">
+<meta property="og:description" content="Kick-off countdowns, expected and official line-ups, interactive pitch, player cards and post-match stats.">
+<link rel="icon" href="logo.png"><meta name="google-adsense-account" content="ca-pub-4322625633257352"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4322625633257352" crossorigin="anonymous"></script>
+<link rel="canonical" href="https://www.footballarena.net/programme.html">
+<style>
+:root{--bg:#07140c;--card:#10251a;--line:#1f3d2b;--txt:#eef6f0;--mut:#9cb8a6;--acc:#2ee06f}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--txt);font:17px/1.7 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+a{color:var(--acc)}header{background:linear-gradient(135deg,#0b3d1f,#07140c 70%);border-bottom:1px solid var(--line);padding:16px}
+.top{max-width:1150px;margin:0 auto;display:flex;align-items:center;gap:12px;flex-wrap:wrap}.top img{width:40px;height:40px;border-radius:10px}
+.top b{font-size:20px;color:var(--txt)}.top b span{color:var(--acc)}.top nav{margin-left:auto;display:flex;gap:14px;font-weight:600;flex-wrap:wrap}
+.top nav a{color:var(--mut);text-decoration:none}.top nav a:hover{color:var(--txt)}
+</style>
+<link rel="stylesheet" href="programme.css">
+</head><body>
+<header><div class="top"><a href="index.html"><img src="logo.png" alt="Football Arena"></a><b>FOOTBALL <span>ARENA</span></b>
+<nav><a href="index.html#highlights" data-i18n="nav_hl">Highlights</a><a href="index.html#news" data-i18n="nav_news">News</a><a href="articles/index.html" data-i18n="nav_art">Articles</a><a href="live.html" style="color:#ff6b6b" data-i18n="nav_live">Live</a><a href="programme.html" style="color:var(--txt)">Match Centre</a><a href="tables.html" data-i18n="nav_tables">Tables</a><a href="matches/index.html" data-i18n="nav_fix">Matches</a><a href="quiz.html" style="color:#ffc83d" data-i18n="nav_quiz">Quiz</a><a href="about.html" data-i18n="nav_about">About</a>
+<select class="langpick" aria-label="Language"></select></nav></div></header>
+
+<nav class="mc-nav" aria-label="Match Centre sections"><div class="mc-nav-in">
+<a href="index.html">Home</a><a href="live.html" class="mc-live">Live Matches</a><a href="#upcoming">Upcoming Matches</a><a href="#programme">Match Programme</a><a href="#lineups">Team Lineups</a><a href="#gallery">Player Gallery</a><a href="#results">Match Results</a><a href="#competitions">Competitions</a>
+</div></nav>
+
+<main class="mc">
+<h1 class="mc-title">Match Centre <span>Programme · Line-ups · Players</span></h1>
+
+<section id="competitions" class="mc-sec">
+<h2>Competitions</h2>
+<div id="comp-chips" class="chips" role="tablist" aria-label="Filter by competition"></div>
+</section>
+
+<section id="upcoming" class="mc-sec">
+<h2>Upcoming Matches</h2>
+<div id="up-days" class="days" aria-label="Choose a day"></div>
+<div id="up-list" class="mlist"></div>
+</section>
+
+<section id="programme" class="mc-sec">
+<h2>Match Programme</h2>
+<div id="prog"><div class="empty">Choose a match above to open its programme.</div></div>
+</section>
+
+<section id="lineups" class="mc-sec">
+<h2>Team Lineups</h2>
+<div id="lineup"><div class="empty">Line-ups appear here once you choose a match.</div></div>
+</section>
+
+<section id="gallery" class="mc-sec">
+<h2>Player Gallery</h2>
+<div id="gal-ctl" class="seg" hidden></div>
+<div id="gal" class="gal"><div class="empty">Player cards appear here once you choose a match.</div></div>
+</section>
+
+<section id="results" class="mc-sec">
+<h2>Match Results</h2>
+<div id="res-days" class="days" aria-label="Choose a day"></div>
+<div id="res-list" class="mlist"></div>
+</section>
+
+<p class="mc-note">Match data from ESPN, loaded live in your browser; kick-off times are shown in your local time. Line-ups marked <b class="b-pred">Expected</b> repeat each team's last official starting XI and are not confirmed. <b class="b-conf">Official</b> line-ups appear once the data provider publishes them, usually about an hour before kick-off. Player images are illustrations, not official photographs.</p>
+</main>
+
+<dialog id="pdlg" class="pdlg" aria-label="Player profile"><div id="pdlg-body"></div></dialog>
+
+<footer>© 2026 Football Arena ·<a href="about.html" data-i18n="about">About</a>·<a href="contact.html" data-i18n="contact">Contact</a>·<a href="privacy.html" data-i18n="privacy">Privacy</a>·<a href="https://www.facebook.com/1429286323597310" target="_blank" rel="noopener" data-i18n="nav_fb">Facebook</a>·<a href="https://www.tiktok.com/@monkeyunleashed" target="_blank" rel="noopener">TikTok</a></footer>
+<script src="i18n.js"></script>
+<script src="programme.js"></script>
+</body></html>
