@@ -2,6 +2,46 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "'Why not have a go?' - the halfway line goal phenomenon",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo?at_medium=RSS&at_campaign=rss",
+   "summary": "Why Premier League players are trying their luck on goal from long range more regularly.",
+   "date": "2026-11-17T11:54:07+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9989/live/f8fe0ae0-dec8-11f1-86d5-71a9f29d1c99.jpg"
+  },
+  {
+   "source": "ESPN",
+   "title": "Has Vini Jr. finally put summer transfer saga behind him? Real Madrid need him at his best",
+   "link": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
+   "summary": "After a summer of transfer uncertainty and a sluggish start to the season, Vin\u00edcius Junior is on the comeback trail with Real Madrid and Brazil.",
+   "date": "2026-11-17T11:44:09+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Transfer rumors, news: Manchester United eye Newcastle defender Thiaw",
+   "link": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
+   "summary": "Manchester United are among the clubs interested in Newcastle United center back Malick Thiaw. Transfer Talk has the latest.",
+   "date": "2026-11-17T11:44:09+00:00",
+   "image": null
+  },
+  {
+   "source": "BBC Sport",
+   "title": "When is the Nations League quarter-final draw?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw.",
+   "date": "2026-11-17T11:21:46+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ed/live/1fd6c330-e277-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Almost impossible for Scotland to not qualify for Euro 2028... or is it?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Scotland picks its way through the permutations in Scotland's pursuit of Euro 2028 qualification.",
+   "date": "2026-11-17T11:13:40+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652a/live/58ba5ae0-e213-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Swansea in fight to keep Matos amid Strasbourg interest",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
    "summary": "Vitor Matos is understood to have indicated he is interested in leaving Swansea, who have had an official approach from the French top-flight club.",
@@ -17,73 +57,73 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e6b/live/78344ae0-e275-11f1-b639-73d1df360b76.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "Blackburn boss Mowbray steps down over health issues",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Blackburn Rovers head coach Tony Mowbray steps down from his role with the Championship club due to health issues.",
-   "date": "2026-11-17T10:40:41+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c590/live/c10bc840-e272-11f1-b19c-7b42f37bea48.jpg"
+   "source": "ESPN",
+   "title": "Poch offers Pep advice on USMNT job, calls it 'perfect moment to arrive'",
+   "link": "https://www.espn.com/soccer/story/_/id/50504817/poch-pep-advice-usmnt-job",
+   "summary": "On the eve of his final game as coach of the United States, Mauricio Pochettino said that if Pep Guardiola asked him about the USMNT job, he'd recommend taking it if given the chance.",
+   "date": "2026-11-17T10:47:13+00:00",
+   "image": null
   },
   {
-   "source": "BBC Sport",
-   "title": "Has Infantino already won Fifa election as challengers are revealed?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
-   "summary": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
-   "date": "2026-11-17T10:32:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg"
+   "source": "ESPN",
+   "title": "Vin\u00edcius J\u00fanior: 'Overwhelmed' by Arsenal transfer interest",
+   "link": "https://www.espn.com/soccer/story/_/id/50501260/vinicius-junior-real-madrid-arsenal-transfer-interest",
+   "summary": "Vin\u00edcius J\u00fanior admitted his lacklustre start to the season can be partly attributed to feeling \"overwhelmed\" at being linked with a move away from Real Madrid in the summer.",
+   "date": "2026-11-17T10:47:13+00:00",
+   "image": null
   },
   {
-   "source": "The Guardian",
-   "title": "Blackburn Rovers head coach Tony Mowbray steps down due to health issues",
-   "link": "https://www.theguardian.com/football/2026/nov/17/blackburn-rovers-tony-mowbray-steps-down-due-to-health-issues",
-   "summary": "Mowbray confirms he has had to \u2018step back from role\u2019Rovers are currently 13th in the Championship tableTony Mowbray has stepped back from his head coach duties at Blackburn due to health issues.Mowbray was diagnosed\u2026",
-   "date": "2026-11-17T10:19:13+00:00",
-   "image": "https://i.guim.co.uk/img/media/30125acdb98b723ff242638d35182c3714cbd123/344_121_1744_1395/master/1744.jpg?width=140&quality=85&auto=format&fit=max&s=be2e9c3fa33021e4799b87be1e027eb3"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Max Dowman shines in England colours and sends another record tumbling",
-   "link": "https://www.theguardian.com/football/2026/nov/17/max-dowman-england-under-21s-record-jude-bellingham",
-   "summary": "Midfielder\u2019s under-21s winner eclipsed Jude Bellingham\u2019s mark and there was other talent to admire against France There may have been an Mbapp\u00e9 on the pitch \u2013 Ethan, the younger brother of Kylian, with whom he shares a\u2026",
-   "date": "2026-11-17T10:13:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/ec2524245e63173c9ded8675579f236b896229aa/582_0_3171_2537/master/3171.jpg?width=140&quality=85&auto=format&fit=max&s=bab951ccced2094391935c5a580c2bf8"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Pochettino says he would tell Guardiola to take USA job",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it.",
-   "date": "2026-11-17T09:48:24+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc69/live/2fe36070-e269-11f1-900c-895604014268.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Declan Rice agrees new Arsenal contract making him club\u2019s joint highest-paid player",
-   "link": "https://www.theguardian.com/football/2026/nov/17/declan-rice-new-arsenal-contract-jurrien-timber",
-   "summary": "Deal will run to 2031 and worth about \u00a3300,000 a weekJurri\u00ebn Timber also agrees fresh contract extensionDeclan Rice has agreed a new five-year contract at Arsenal, with the England midfielder poised to match Bukayo\u2026",
-   "date": "2026-11-17T09:19:34+00:00",
-   "image": "https://i.guim.co.uk/img/media/3a6ee97e0fb4df224b55d9fc84622ed09c0c37a8/92_307_2104_1683/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=2bc4f5996471bc1e9067953373698f9f"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Switzerland didn't have better players but were better team'",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c8vg265dnzqeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Sportscene pundits Craig Levein and Leanne Crichton unpick Scotland's 4-0 Nations League defeat in Switzerland.",
-   "date": "2026-11-17T09:09:24+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bdd/live/4d87f670-e216-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Owono did not deserve 12-match ban - Pique",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
-   "summary": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.",
-   "date": "2026-11-17T08:28:10+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/729a/live/738fe790-e25e-11f1-84cb-b9a30b11458c.jpg"
+   "source": "ESPN",
+   "title": "Klopp: Nobody 'questioning' Germany after group-winning rout of Dutch",
+   "link": "https://www.espn.com/soccer/story/_/id/50505834/klopp-germany-netherlands-rout",
+   "summary": "Germany coach J\u00fcrgen Klopp said nobody will be questioning Germany after Florian Wirtz scored twice to help his team book a place in the Nations League quarterfinals.",
+   "date": "2026-11-17T10:47:13+00:00",
+   "image": null
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
+   "title": "'Why not have a go?' - the halfway line goal phenomenon",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo?at_medium=RSS&at_campaign=rss",
+   "summary": "Why Premier League players are trying their luck on goal from long range more regularly.",
+   "date": "2026-11-17T11:54:07+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9989/live/f8fe0ae0-dec8-11f1-86d5-71a9f29d1c99.jpg"
+  },
+  {
+   "source": "ESPN",
+   "title": "Has Vini Jr. finally put summer transfer saga behind him? Real Madrid need him at his best",
+   "link": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer",
+   "summary": "After a summer of transfer uncertainty and a sluggish start to the season, Vin\u00edcius Junior is on the comeback trail with Real Madrid and Brazil.",
+   "date": "2026-11-17T11:44:09+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Transfer rumors, news: Manchester United eye Newcastle defender Thiaw",
+   "link": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
+   "summary": "Manchester United are among the clubs interested in Newcastle United center back Malick Thiaw. Transfer Talk has the latest.",
+   "date": "2026-11-17T11:44:09+00:00",
+   "image": null
+  },
+  {
+   "source": "BBC Sport",
+   "title": "When is the Nations League quarter-final draw?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw20xnde3dyzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw.",
+   "date": "2026-11-17T11:21:46+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ed/live/1fd6c330-e277-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Almost impossible for Scotland to not qualify for Euro 2028... or is it?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Scotland picks its way through the permutations in Scotland's pursuit of Euro 2028 qualification.",
+   "date": "2026-11-17T11:13:40+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652a/live/58ba5ae0-e213-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Swansea in fight to keep Matos amid Strasbourg interest",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
    "summary": "Vitor Matos is understood to have indicated he is interested in leaving Swansea, who have had an official approach from the French top-flight club.",
@@ -99,6 +139,78 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e6b/live/78344ae0-e275-11f1-b639-73d1df360b76.jpg"
   },
   {
+   "source": "ESPN",
+   "title": "Poch offers Pep advice on USMNT job, calls it 'perfect moment to arrive'",
+   "link": "https://www.espn.com/soccer/story/_/id/50504817/poch-pep-advice-usmnt-job",
+   "summary": "On the eve of his final game as coach of the United States, Mauricio Pochettino said that if Pep Guardiola asked him about the USMNT job, he'd recommend taking it if given the chance.",
+   "date": "2026-11-17T10:47:13+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Vin\u00edcius J\u00fanior: 'Overwhelmed' by Arsenal transfer interest",
+   "link": "https://www.espn.com/soccer/story/_/id/50501260/vinicius-junior-real-madrid-arsenal-transfer-interest",
+   "summary": "Vin\u00edcius J\u00fanior admitted his lacklustre start to the season can be partly attributed to feeling \"overwhelmed\" at being linked with a move away from Real Madrid in the summer.",
+   "date": "2026-11-17T10:47:13+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Klopp: Nobody 'questioning' Germany after group-winning rout of Dutch",
+   "link": "https://www.espn.com/soccer/story/_/id/50505834/klopp-germany-netherlands-rout",
+   "summary": "Germany coach J\u00fcrgen Klopp said nobody will be questioning Germany after Florian Wirtz scored twice to help his team book a place in the Nations League quarterfinals.",
+   "date": "2026-11-17T10:47:13+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Piqu\u00e9 criticises 12-match ban for Owono after De Miguel death",
+   "link": "https://www.espn.com/soccer/story/_/id/50509388/gerard-pique-andorra-goalkeeper-jesus-owono-jesus-de-miguel",
+   "summary": "Andorra owner Gerard Piqu\u00e9 believes the 12-match suspension given to goalkeeper Jes\u00fas Owono for the challenge that led to the death of Tenerife forward Jes\u00fas de Miguel is too severe.",
+   "date": "2026-11-17T10:47:13+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Winless M\u00e1rquez confident in Mexico future despite mounting pressure",
+   "link": "https://www.espn.com/soccer/story/_/id/50506705/winless-marquez-confident-mexico-future-mounting-pressure",
+   "summary": "Mexico coach Rafael M\u00e1rquez said his team is \"obligated to win\" against Jamaica in Tuesday's Concacaf Nations League quarterfinal second leg as he searches for his first victory in charge.",
+   "date": "2026-11-17T10:47:13+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Jorge Jesus under fire as Ronaldo's mom blasts Portugal over tribute",
+   "link": "https://www.espn.com/soccer/story/_/id/50503146/jorge-jesus-controversy-ronaldo-mom-portugal-tribute",
+   "summary": "Portugal boss Jorge Jesus defended himself from comments made by Cristiano Ronaldo's mother Dolores Aveiro.",
+   "date": "2026-11-17T10:47:13+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Sources: Rice agrees in principle to new five-year Arsenal deal",
+   "link": "https://www.espn.com/soccer/story/_/id/50505152/declan-rice-five-year-arsenal-deal",
+   "summary": "Arsenal midfielder Declan Rice has agreed in principle a new five-year deal which will see him extend his time at the club until 2031, sources have told ESPN.",
+   "date": "2026-11-17T10:47:13+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "French Football Federation boss Diallo to challenge Infantino for FIFA presidency",
+   "link": "https://www.espn.com/soccer/story/_/id/50501932/fifa-uefa-gianni-infantino-philippe-diallo-fff",
+   "summary": "French Football Federation president Philippe Diallo will challenge Gianni Infantino for the top job at FIFA next year.",
+   "date": "2026-11-17T10:47:13+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "\u26bd Why Champions League's iconic 'star' ball could soon be replaced",
+   "link": "https://www.espn.com/soccer/story/_/id/49730333/uefa-champions-league-adidas-nike-ball",
+   "summary": "Nike will replace Adidas as supplier of UEFA Champions League match balls from next season. Will the famous 'star ball' design soon be no more?",
+   "date": "2026-11-17T10:47:13+00:00",
+   "image": null
+  },
+  {
    "source": "BBC Sport",
    "title": "Blackburn boss Mowbray steps down over health issues",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
@@ -107,8 +219,16 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c590/live/c10bc840-e272-11f1-b19c-7b42f37bea48.jpg"
   },
   {
+   "source": "ESPN",
+   "title": "Man United, Pochettino's to-do list based on what's gone wrong",
+   "link": "https://www.espn.com/soccer/story/_/id/50462231/mauricio-pochettino-manchester-united-transfer-usmnt",
+   "summary": "Pochettino makes as much sense as anyone to take the Man United job, so now what? Let's look at the mess he's inheriting and what's at the top of his to-do list.",
+   "date": "2026-11-17T10:35:21+00:00",
+   "image": null
+  },
+  {
    "source": "BBC Sport",
-   "title": "Has Infantino already won Fifa election as challengers are revealed?",
+   "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
    "summary": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
    "date": "2026-11-17T10:32:07+00:00",
@@ -118,7 +238,7 @@
    "source": "The Guardian",
    "title": "Blackburn Rovers head coach Tony Mowbray steps down due to health issues",
    "link": "https://www.theguardian.com/football/2026/nov/17/blackburn-rovers-tony-mowbray-steps-down-due-to-health-issues",
-   "summary": "Mowbray confirms he has had to \u2018step back from role\u2019Rovers are currently 13th in the Championship tableTony Mowbray has stepped back from his head coach duties at Blackburn due to health issues.Mowbray was diagnosed\u2026",
+   "summary": "Mowbray confirms he has had to \u2018step back from role\u2019Rovers are currently 13th in the Championship tableTony Mowbray has stepped back from his role as the Blackburn Rovers head coach for health reasons.The 62-year-old\u2026",
    "date": "2026-11-17T10:19:13+00:00",
    "image": "https://i.guim.co.uk/img/media/30125acdb98b723ff242638d35182c3714cbd123/344_121_1744_1395/master/1744.jpg?width=140&quality=85&auto=format&fit=max&s=be2e9c3fa33021e4799b87be1e027eb3"
   },
@@ -153,6 +273,54 @@
    "summary": "Sportscene pundits Craig Levein and Leanne Crichton unpick Scotland's 4-0 Nations League defeat in Switzerland.",
    "date": "2026-11-17T09:09:24+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bdd/live/4d87f670-e216-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "source": "ESPN",
+   "title": "Pochettino can't fix Man United on his own, the owners have to do their jobs",
+   "link": "https://www.espn.com/soccer/story/_/id/50504141/manchester-united-mauricio-pochettino-jim-ratcliffe-glazers-transfers",
+   "summary": "Mauricio Pochettino's job at Manchester United isn't to fix the club, but to get results and make the players better. The real changes need to be made at the very top.",
+   "date": "2026-11-17T09:05:19+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Why FIFA reelection will be a formality for Teflon-like Gianni Infantino",
+   "link": "https://www.espn.com/soccer/story/_/id/50498344/gianni-infantino-fifa-presidency-reelection-chances",
+   "summary": "Despite scandals, controversy and legal challenges, Gianni Infantino looks all but certain to secure a landslide reelection as FIFA president and another four years in charge.",
+   "date": "2026-11-17T09:04:37+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Concacaf W Championship: How USWNT can qualify for World Cup, matchups, format",
+   "link": "https://www.espn.com/soccer/story/_/id/50474392/concacaf-w-championship-uswnt-world-cup-qualification",
+   "summary": "The United States can seal its place at the 2027 Women's World Cup at the Concacaf W Championship. Here's everything you need to know.",
+   "date": "2026-11-17T09:01:23+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Who should be the USMNT's coaching candidates to succeed Pochettino?",
+   "link": "https://www.espn.com/soccer/story/_/id/50464388/usmnt-coaching-candidates-replace-mauricio-pochettino",
+   "summary": "Mauricio Pochettino's USMNT tenure ends on Tuesday, so who should U.S. Soccer be eyeing to replace him?",
+   "date": "2026-11-17T08:46:36+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "NWSL awards: Record-breaking Ashley Sanchez is our MVP, but who else wins?",
+   "link": "https://www.espn.com/soccer/story/_/id/50504364/nwsl-awards-ashley-sanchez-mvp",
+   "summary": "Ashley Sanchez has been the league's best player, but who else deserves recognition? We break down our choices for the 2026 NWSL awards.",
+   "date": "2026-11-17T08:39:47+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Why the USMNT doesn't need a Guardiola-tier manager after Pochettino",
+   "link": "https://www.espn.com/soccer/story/_/id/50502389/usmnt-pep-guardiola-mauricio-pochettino-manchester-city",
+   "summary": "The U.S. men's national team is saying goodbye to Mauricio Pochettino while hoping to attract Pep Guardiola as its next manager. But is a superstar coach what this team really needs?",
+   "date": "2026-11-17T08:39:31+00:00",
+   "image": null
   },
   {
    "source": "BBC Sport",
@@ -355,6 +523,22 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca3/live/b14c4cf0-e1f9-11f1-ac6e-e9777cdcbb4f.jpg"
   },
   {
+   "source": "ESPN",
+   "title": "MLS Cup playoff Power Rankings: Can history-making Nashville be stopped?",
+   "link": "https://www.espn.com/soccer/story/_/id/50452764/mls-cup-playoff-power-rankings",
+   "summary": "Nashville just won the Supporters' Shield with a league-record points haul, so naturally it tops ESPN's MLS Cup playoff Power Rankings.",
+   "date": "2026-11-16T20:03:19+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Will MLS teams' regular-season momentum last for two weeks before the playoffs start?",
+   "link": "https://www.espn.com/soccer/story/_/id/50442984/will-mls-teams-regular-season-momentum-last-two-weeks-playoffs-start",
+   "summary": "The MLS regular season ended on Saturday, but it will be nearly two weeks before the playoffs begin. It's a long time for a hot team to cool off.",
+   "date": "2026-11-16T20:03:19+00:00",
+   "image": null
+  },
+  {
    "source": "The Guardian",
    "title": "Tuchel and England must learn lessons of history, Seville and Southgateism | Barney Ronay",
    "link": "https://www.theguardian.com/football/2026/nov/16/thomas-tuchel-england-must-learn-lessons-history-seville-gareth-southgate",
@@ -377,190 +561,6 @@
    "summary": "Andy Robertson has taken over from Kenny Dalglish as Scotland's most-capped player, making his 103rd appearance in Monday's Nations League game against Switzerland.",
    "date": "2026-11-16T19:43:33+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/131e/live/7321ccd0-e1f8-11f1-ac6e-e9777cdcbb4f.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "\u2018We want to win it\u2019: Tuchel says Nations League can set up England for Euro 2028 glory",
-   "link": "https://www.theguardian.com/football/2026/nov/16/england-winning-nations-league-euro-2028-thomas-tuchel",
-   "summary": "Winning Nations League \u2018the best preparation\u2019 for EurosEngland to be seeded in Friday\u2019s draw after Spain winThomas Tuchel believes winning the Nations League would provide England with the springboard to Euro\u00a02028\u2026",
-   "date": "2026-11-16T19:00:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/9eb83f7937f2d2821707503625e5acd88ebd4774/712_0_5067_4054/master/5067.jpg?width=140&quality=85&auto=format&fit=max&s=ef6c1d0bd99e1048c6055383b1c9c5a5"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Cameroon, Senegal and Benin close in on Afcon 2027 qualification",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwg7lr2ly3ngo?at_medium=RSS&at_campaign=rss",
-   "summary": "Cameroon, Senegal and Benin are on the brink of qualifying for the 2027 Africa Cup of Nations, while Ghana secure another crucial win in their bid to reach the finals.",
-   "date": "2026-11-16T18:07:51+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9751/live/dd2677a0-e1d7-11f1-ac67-3510ff19b64e.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Spain in pain as historic run ends but De la Fuente feels best is yet to come",
-   "link": "https://www.theguardian.com/football/2026/nov/16/luis-de-la-fuente-spain-england-nations-league",
-   "summary": "While the head coach, players and Spanish press were magnanimous in defeat, there was pride mixed in with disappointment \u2013 and confidence the future is still bright\u201cWith every game, defeat gets closer,\u201d Luis de la\u2026",
-   "date": "2026-11-16T17:48:38+00:00",
-   "image": "https://i.guim.co.uk/img/media/5055106e3f335a2765a72e6325123929ec3bf675/1097_1299_2055_1644/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=00d28b349e15be87b6a433e59c0a076a"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "How Frank can restore reputation and save Crystal Palace",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss",
-   "summary": "Will Thomas Frank - now confirmed as the new manager of Crystal Palace - rebuild his reputation at Selhurst Park after a bruising time at Tottenham?",
-   "date": "2026-11-16T17:46:16+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a30c/live/69f709f0-df63-11f1-a8af-15d7a25dc0d1.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Thomas Frank confirmed as Crystal Palace manager after Pierre Sage\u2019s sacking",
-   "link": "https://www.theguardian.com/football/2026/nov/16/thomas-frank-confirmed-crystal-palace-manager-pierre-sage",
-   "summary": "Frank\u2019s first job since Spurs dismissal in FebruaryHe has been promised funds for January signingsThomas Frank has been confirmed as Crystal Palace\u2019s manager after Pierre Sage was sacked last week. Frank, out of work\u2026",
-   "date": "2026-11-16T17:03:14+00:00",
-   "image": "https://i.guim.co.uk/img/media/f3cfc1ef196ba14cbcbadf32bbde611199980266/329_66_1267_1014/master/1267.jpg?width=140&quality=85&auto=format&fit=max&s=e772fe19c2db3b4704ada828ced28229"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | England\u2019s Nations League triumph in Spain sparks familiar rush to glory",
-   "link": "https://www.theguardian.com/football/2026/nov/16/england-spain-nations-league-victory-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Glory. Imminent and near-enough-guaranteed glory. That, surely, is what we\u2019re looking at from the giddy heights England reached in crushing Spain 3-2 on Sunday. \u201cIf we\u2026",
-   "date": "2026-11-16T16:20:21+00:00",
-   "image": "https://i.guim.co.uk/img/media/f6b6bde73f22979b3c7573b5d540aac24bddb0db/571_0_4345_3476/master/4345.jpg?width=140&quality=85&auto=format&fit=max&s=a848b8e421121955e085eb84c71efe5b"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Do good club managers necessarily make good international managers? | Jonathan Wilson",
-   "link": "https://www.theguardian.com/global/2026/nov/16/mauricio-pochettino-usmnt-replacement-coach",
-   "summary": "In a mailbag edition of our newsletter, we look at Mauricio Pochettino, Pep Guardiola\u2019s international credentials and the lack of elite English managersSign up for our free newsletter hereWho should replace Mauricio\u2026",
-   "date": "2026-11-16T16:14:29+00:00",
-   "image": "https://i.guim.co.uk/img/media/a05aa098b3152673b6c66abe291ae14babf13bc6/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dbd0d76dc243dd5101ddcb26cd77fe2d"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Wales without Williams for Portugal as Bellamy makes Vitinha point",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Wales will be without right-back Neco Williams for their final Nations League group match against Portugal, while goalkeeper Karl Darlow is a doubt.",
-   "date": "2026-11-16T15:55:16+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d83/live/350960d0-e1c5-11f1-8a52-0b287ff76f43.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Klopp says Infantino worse than Blatter",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
-   "date": "2026-11-16T15:54:36+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "French football head Philippe Diallo to fight Infantino for Fifa presidency",
-   "link": "https://www.theguardian.com/football/2026/nov/16/philippe-diallo-fifa-gianni-infantino-president-french-football-federation",
-   "summary": "Diallo confirmed by Uefa as its chosen candidateHe accused Infantino of seriously damaging footballThe French Football Federation president, Philippe Diallo, has been confirmed as Uefa\u2019s surprise late choice to run for\u2026",
-   "date": "2026-11-16T15:27:30+00:00",
-   "image": "https://i.guim.co.uk/img/media/2af2c421a8ac472e90c00fe9d19ee86b55893989/396_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=45be3250b5b1fb9fbbdbf8b21cf7fbd4"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Union of European Clubs escalates fight for football influence with formal complaint",
-   "link": "https://www.theguardian.com/football/2026/nov/16/union-of-european-clubs-complaint-european-commission-uefa-european-football-clubs",
-   "summary": "Body of 138 members complains to European CommissionUefa and the European Football Clubs power targetedThe Union of European Clubs has submitted a formal complaint against the stranglehold Uefa and European Football\u2026",
-   "date": "2026-11-16T14:02:53+00:00",
-   "image": "https://i.guim.co.uk/img/media/b4bc9411434ffb34398bb73d16010761437ea0e3/338_0_4252_3401/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=88ad06aed894baf521343367cbdbf751"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch",
-   "link": "https://www.theguardian.com/football/blog/2026/nov/16/doha-socceroos-return-stronger-after-asian-cup-heartbreak",
-   "summary": "There is increasing evidence of an evolution not only in approach but also mentality, highlighted by a return to the scene of Asian Cup heartbreakLast week\u2019s 3-0 dismissal of Qatar at the Abdullah bin Khalifa Stadium\u2026",
-   "date": "2026-11-16T14:00:19+00:00",
-   "image": "https://i.guim.co.uk/img/media/f04223d5c418984ad18dbca037d8df6116e2a793/373_0_6015_4813/master/6015.jpg?width=140&quality=85&auto=format&fit=max&s=a56a9046c29b61bfc5e135d29eee579b"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Has Trafford replaced Pickford as England No 1?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo?at_medium=RSS&at_campaign=rss",
-   "summary": "James Trafford was given a chance to stake his claim as England's new number one - and away to the world champions, he absolutely took it.",
-   "date": "2026-11-16T13:01:41+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0930/live/36ea8540-e1b7-11f1-9a3f-99aca912798e.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "A long wait, some magic and that smile: Ronaldinho savours Ravenna debut at 46",
-   "link": "https://www.theguardian.com/football/2026/nov/16/ronaldinho-ravenna-debut-serie-c-report",
-   "summary": "Brazilian legend, an investor at Serie C club, showed glimpses of old brilliance as he played 45 minutes for the promotion-chasing sideIt may have been the longest buildup in world football. In June, the former\u2026",
-   "date": "2026-11-16T12:49:11+00:00",
-   "image": "https://i.guim.co.uk/img/media/142df54e2b36ae32ac4ec77532eb405638a11b2a/311_0_6654_5324/master/6654.jpg?width=140&quality=85&auto=format&fit=max&s=a80e1b4e4233b4637ddad5a0a6a8cabe"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "McAteer 'intelligence' earns praise from Ipswich boss",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmrlg3dgyp50o?at_medium=RSS&at_campaign=rss",
-   "summary": "Ipswich Town boss David Wright praised the football intelligence of Wales international Mary McAteer following her first goal for the club.",
-   "date": "2026-11-16T12:47:39+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3e5/live/cdf90280-e1b3-11f1-9a3f-99aca912798e.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "WSL talking points: Chelsea\u2019s gamble pays off and have Arsenal lost fear factor?",
-   "link": "https://www.theguardian.com/football/2026/nov/16/wsl-talking-points-chelseas-gamble-pays-off-and-have-arsenal-lost-fear-factor",
-   "summary": "Blues beat champions after bold substitution and Gunners\u2019 home struggles continue with fifth consecutive WSL drawSonia Bompastor attempted to deflect suggestions that the removal of Kadeisha Buchanan 12 minutes into\u2026",
-   "date": "2026-11-16T12:30:57+00:00",
-   "image": "https://i.guim.co.uk/img/media/33a98f66690812de06692c4eb85ed18a6eb18106/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b018aad6b6e9d478daed227587d3077a"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Lye, Peterborough and the never-ending Women's FA Cup tie",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmp3vz1kgpvqo?at_medium=RSS&at_campaign=rss",
-   "summary": "Nowadays, Women's FA Cup ties are decided on the day with extra time and penalties if needed. Unless that tie is Lye Town v Peterborough United.",
-   "date": "2026-11-16T12:11:48+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8737/live/85413790-e1b5-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Republic of Ireland captain Collins to miss Kosovo game",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmlyd25gy904o?at_medium=RSS&at_campaign=rss",
-   "summary": "Republic of Ireland captain Nathan Collins is ruled out of Tuesday's must-win Nations League game against Kosovo with a knee injury.",
-   "date": "2026-11-16T12:02:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6b8/live/289c2d10-e1b5-11f1-9a3f-99aca912798e.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Vinicius says transfer interest affected Real form",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmqx584jwwpvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Real Madrid forward Vinicius Jr says he felt \"truly overwhelmed\" by transfer speculation in the summer.",
-   "date": "2026-11-16T12:01:16+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2464/live/48304950-e1aa-11f1-8ee3-23d0d09d2796.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Belgium's Lukaku retires from internationals",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwlymxr0ge8zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Romelu Lukaku retires from international football, saying he has \"enjoyed every single moment\" of playing for Belgium.",
-   "date": "2026-11-16T11:40:20+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af62/live/60764690-e1aa-11f1-8ee3-23d0d09d2796.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "What's at the top of Frick's Aberdeen to-do list?",
-   "link": "https://www.bbc.co.uk/sport/articles/c6894vzg1kjjo?at_medium=RSS&at_campaign=rss",
-   "summary": "Mario Frick is Aberdeen's new head coach, but what does the former Liechtenstein striker have to do to lift his side clear of the relegation zone?",
-   "date": "2026-11-16T11:15:40+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/269f/live/a542ab20-e127-11f1-9d32-63e01ae9cf36.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "How promotion, relegation and knockouts work in Nations League",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo?at_medium=RSS&at_campaign=rss",
-   "summary": "With more than half of the 2026-27 Nations League group stage completed, BBC Sport looks at what will happen next in the competition.",
-   "date": "2026-11-16T09:46:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2864/live/7a894370-c170-11f1-a003-8be783290413.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "More than F1 - Monza's captivating football story",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6wy4y3pgpx9o?at_medium=RSS&at_campaign=rss",
-   "summary": "How Serie A outfit Monza are trying to make an impact in the shadow Milan giants and fashionable Como.",
-   "date": "2026-11-16T08:31:05+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6901/live/b39a7c30-e108-11f1-b441-2b33b063138f.jpg"
   }
  ],
  "videos": [
@@ -667,10 +667,22 @@
    "date": "2026-11-13T14:00:10+00:00"
   },
   {
+   "channel": "UEFA",
+   "id": "tfQHjUKPFDk",
+   "title": "Beautiful \ud83d\ude0d",
+   "date": "2026-11-17T11:51:11+00:00"
+  },
+  {
    "channel": "Bundesliga",
    "id": "z6zJ4uFG4Qo",
    "title": "High five\u2026please\u2026\ud83d\ude4f\ud83d\ude2c",
    "date": "2026-11-17T11:00:36+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "xmiZUO_xLU8",
+   "title": "\u00a11 HORA del MEJOR F\u00daTBOL de CRISTIANO RONALDO!",
+   "date": "2026-11-17T11:00:25+00:00"
   },
   {
    "channel": "FIFA",
@@ -689,18 +701,6 @@
    "id": "B3U49-mbyzU",
    "title": "Test con ANTHONY GORDON",
    "date": "2026-11-17T09:00:05+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "dt2wORGXVnw",
-   "title": "Hugo S\u00e1nchez \u201cEl hubiera no existe en el futbol ni en la vida\u201d  | Con los Tacos X Delante",
-   "date": "2026-11-17T08:49:27+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "lzWxQsWw81o",
-   "title": "El swing de Grimaldo \ud83c\udfcc\ufe0f\u200d\u2642\ufe0f",
-   "date": "2026-11-17T03:00:30+00:00"
   }
  ],
  "fixtures": [
@@ -2091,10 +2091,10 @@
    "home": "Singapore",
    "away": "Brazil",
    "hs": "0",
-   "as": "5",
-   "live": true,
-   "state": "in",
-   "clock": "56'",
+   "as": "7",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
    "venue": "Singapore National Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/sin.png",
@@ -2109,10 +2109,10 @@
    "home": "China",
    "away": "Bahrain",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "5'",
    "venue": "Zhaoqing New District Sports Center Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
@@ -10574,10 +10574,10 @@
    "home": "Singapore",
    "away": "Brazil",
    "hs": "0",
-   "as": "5",
-   "live": true,
-   "state": "in",
-   "clock": "56'",
+   "as": "7",
+   "live": false,
+   "state": "post",
+   "clock": "90'+4'",
    "venue": "Singapore National Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/sin.png",
@@ -10592,10 +10592,10 @@
    "home": "China",
    "away": "Bahrain",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "5'",
    "venue": "Zhaoqing New District Sports Center Stadium",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
