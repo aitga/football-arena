@@ -1,6 +1,14 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "A 2-0 win over Haiti ends Pochettino\u2019s USMNT tenure with confident hope",
+   "link": "https://www.theguardian.com/football/2026/nov/17/usmnt-haiti-nations-league-mauricio-pochettino",
+   "summary": "Christian Pulisic and Julian Hall score in first halfUS advance to Nations League finals 8-0 on aggregateMauricio Pochettino departs to take over Man UnitedThe US men\u2019s national team is through to the semi-final of the\u2026",
+   "date": "2026-11-18T02:19:36+00:00",
+   "image": "https://i.guim.co.uk/img/media/2b4391d4c87248093cc1781bfe8979e46634b5f7/84_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=36843fcba795960fa8b2ed782904ed2f"
+  },
+  {
    "source": "BBC Sport",
    "title": "Belief and bench steer Northern Ireland into Nations League top tier",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
@@ -71,17 +79,17 @@
    "summary": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89.",
    "date": "2026-11-17T21:02:57+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1db1/live/95aec9c0-e2c9-11f1-99ed-7de3e5932968.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'A great of the club' - Rangers legend Brand dies aged 89",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89.",
-   "date": "2026-11-17T21:02:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1db1/live/95aec9c0-e2c9-11f1-99ed-7de3e5932968.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "A 2-0 win over Haiti ends Pochettino\u2019s USMNT tenure with confident hope",
+   "link": "https://www.theguardian.com/football/2026/nov/17/usmnt-haiti-nations-league-mauricio-pochettino",
+   "summary": "Christian Pulisic and Julian Hall score in first halfUS advance to Nations League finals 8-0 on aggregateMauricio Pochettino departs to take over Man UnitedThe US men\u2019s national team is through to the semi-final of the\u2026",
+   "date": "2026-11-18T02:19:36+00:00",
+   "image": "https://i.guim.co.uk/img/media/2b4391d4c87248093cc1781bfe8979e46634b5f7/84_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=36843fcba795960fa8b2ed782904ed2f"
+  },
   {
    "source": "BBC Sport",
    "title": "Belief and bench steer Northern Ireland into Nations League top tier",
@@ -539,14 +547,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Pochettino: I\u2019d tell Guardiola to \u2018take it\u2019 if he\u2019s offered US coaching job",
-   "link": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-pep-guardiola-usmnt-manchester-united",
-   "summary": "As he prepares to depart for Manchester United, the outgoing US coach held court on a number of topics, including what he\u2019d change about soccer in AmericaOutgoing US head coach Mauricio Pochettino and former Manchester\u2026",
-   "date": "2026-11-16T23:01:52+00:00",
-   "image": "https://i.guim.co.uk/img/media/667f6d6e4370c5c51303aa0b6a6de310b51d6982/593_399_3891_3113/master/3891.jpg?width=140&quality=85&auto=format&fit=max&s=ab5d9586500639fe2c5df1219289788c"
-  },
-  {
    "source": "BBC Sport",
    "title": "Pocognoli wants patience, but Scotland 'don't have time' - Robertson",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o?at_medium=RSS&at_campaign=rss",
@@ -673,6 +673,12 @@
    "date": "2026-11-15T14:00:18+00:00"
   },
   {
+   "channel": "Bundesliga",
+   "id": "OgUIw994mPA",
+   "title": "Kevin Diks menggemparkan Bundesliga \ud83c\uddee\ud83c\udde9\ud83e\udd29",
+   "date": "2026-11-18T06:00:28+00:00"
+  },
+  {
    "channel": "LaLiga",
    "id": "ce0-o67fRWo",
    "title": "Keeper on the Loose!",
@@ -701,12 +707,6 @@
    "id": "zUytwukxIZw",
    "title": "Ziyech Takes A Seat \ud83c\udf7f",
    "date": "2026-11-17T19:01:13+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "-iCrDcxAtY8",
-   "title": "Awesome Angles On Ayari's Double!",
-   "date": "2026-11-17T18:30:11+00:00"
   }
  ],
  "fixtures": [
