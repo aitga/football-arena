@@ -1,12 +1,44 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
+   "link": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
+   "summary": "The battle for the US TV rights to the tournament will pit the traditional broadcaster and the \u2018whatever-it-takes\u2019 streamer. It could be a tipping point in the industryThe awarding of broadcast rights in the United\u2026",
+   "date": "2026-11-18T12:01:00+00:00",
+   "image": "https://i.guim.co.uk/img/media/c9771ae3d7b134d4b98aa6c461e18d4c617b73ef/195_0_2610_2088/master/2610.jpg?width=140&quality=85&auto=format&fit=max&s=ff9f567e5e6ac03cedd4c7a49b96ff3d"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Record crowds, legends - Bordeaux bid to escape amateur game",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c63rgqrz9jgqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Bordeaux fans thought things could not get any worse, then they were demoted to France's amateur sixth tier.",
+   "date": "2026-11-18T10:51:37+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eee8/live/7fc32c80-e2a3-11f1-8226-87dfa5049e9a.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Williams to join temporary Swansea coaching team",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5lyk9rp0vjgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos.",
+   "date": "2026-11-18T10:48:39+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d275/live/5ed8a260-e33a-11f1-9479-d17d3e98c29d.jpg"
+  },
+  {
    "source": "BBC Sport",
    "title": "Former Spain midfielder Mata retires aged 38",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo?at_medium=RSS&at_campaign=rss",
    "summary": "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38.",
    "date": "2026-11-18T10:12:46+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7628/live/c13178a0-e336-11f1-9479-d17d3e98c29d.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "NI will carry momentum into Euro 2028 qualifiers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck9q8jg1l45do?at_medium=RSS&at_campaign=rss",
+   "summary": "Northern Ireland manager Michael O'Neill says his Nations League promotion winners will plot their next 12 months after the Euro 2028 qualifying draw in December.",
+   "date": "2026-11-18T10:04:44+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aad/live/8b1820c0-e327-11f1-baab-4b3b35d174b7.jpg"
   },
   {
    "source": "BBC Sport",
@@ -47,41 +79,33 @@
    "summary": "Two familiar wingers linked with Rangers returns in January as SFA redraft proposals to address youth development crisis...",
    "date": "2026-11-18T08:15:37+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45f5/live/17ebea90-e328-11f1-a094-5fdc692f3e33.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Jack Grealish recalls a golden age of mavericks \u2013 but football has moved on",
-   "link": "https://www.theguardian.com/football/2026/nov/18/jack-grealish-recalls-a-golden-age-of-mavericks-but-football-has-moved-on",
-   "summary": "Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern gameThomas Tuchel has never called up the player he once claimed to love \u201ceverything about\u201d. The reason for\u2026",
-   "date": "2026-11-18T08:00:36+00:00",
-   "image": "https://i.guim.co.uk/img/media/73d9305af779fc63136fc993b99ce375aa0403e3/117_73_2102_1681/master/2102.jpg?width=140&quality=85&auto=format&fit=max&s=8404e04b5eb4e0c8bb2b3707a8708c46"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Swing when you\u2019re winning? Biggest leaps across Fifa\u2019s football rankings | The Knowledge",
-   "link": "https://www.theguardian.com/football/2026/nov/18/biggest-leaps-across-fifa-football-rankings-the-knowledge",
-   "summary": "Plus: clubs with roads on their team badges, most and fewest managers per league title, and moreMail us with all of your questions and answers\u201cThe Scotland men\u2019s team\u2019s highest Fifa ranking was 13th (in 2007) and the\u2026",
-   "date": "2026-11-18T08:00:36+00:00",
-   "image": "https://i.guim.co.uk/img/media/07d7955df62dbccef998a58026e03bb1e0ccda9a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=64d035f25dd565815468c0753c5d63f5"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Overlap, underlap or sit back? How Premier League teams use their full-backs",
-   "link": "https://www.theguardian.com/football/2026/nov/18/premier-league-teams-full-backs-opta-analyst",
-   "summary": "The role of full-back has changed massively in recent years. We analyse how all 20 sides are approaching the positionBy Opta AnalystOverlapping. Underlapping. Inverted. Traditional. The role of full-back has evolved\u2026",
-   "date": "2026-11-18T08:00:35+00:00",
-   "image": "https://i.guim.co.uk/img/media/cddb452cd8ee7fd6ace9700d98796771abd3a4f0/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=92a4b103c38eea93c2aa9a7e0c7db3c3"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Listen: What needs to change for Pocognoli and Scotland?",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pnkk9j?at_medium=RSS&at_campaign=rss",
-   "summary": "What needs to change to turn Scotland\u2019s fortunes around?",
-   "date": "2026-11-18T08:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnkkb9.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
+   "link": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
+   "summary": "The battle for the US TV rights to the tournament will pit the traditional broadcaster and the \u2018whatever-it-takes\u2019 streamer. It could be a tipping point in the industryThe awarding of broadcast rights in the United\u2026",
+   "date": "2026-11-18T12:01:00+00:00",
+   "image": "https://i.guim.co.uk/img/media/c9771ae3d7b134d4b98aa6c461e18d4c617b73ef/195_0_2610_2088/master/2610.jpg?width=140&quality=85&auto=format&fit=max&s=ff9f567e5e6ac03cedd4c7a49b96ff3d"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Record crowds, legends - Bordeaux bid to escape amateur game",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c63rgqrz9jgqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Bordeaux fans thought things could not get any worse, then they were demoted to France's amateur sixth tier.",
+   "date": "2026-11-18T10:51:37+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eee8/live/7fc32c80-e2a3-11f1-8226-87dfa5049e9a.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Williams to join temporary Swansea coaching team",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5lyk9rp0vjgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos.",
+   "date": "2026-11-18T10:48:39+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d275/live/5ed8a260-e33a-11f1-9479-d17d3e98c29d.jpg"
+  },
   {
    "source": "BBC Sport",
    "title": "Former Spain midfielder Mata retires aged 38",
@@ -89,6 +113,14 @@
    "summary": "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38.",
    "date": "2026-11-18T10:12:46+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7628/live/c13178a0-e336-11f1-9479-d17d3e98c29d.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "NI will carry momentum into Euro 2028 qualifiers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck9q8jg1l45do?at_medium=RSS&at_campaign=rss",
+   "summary": "Northern Ireland manager Michael O'Neill says his Nations League promotion winners will plot their next 12 months after the Euro 2028 qualifying draw in December.",
+   "date": "2026-11-18T10:04:44+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aad/live/8b1820c0-e327-11f1-baab-4b3b35d174b7.jpg"
   },
   {
    "source": "BBC Sport",
@@ -185,14 +217,6 @@
    "summary": "After 60 years, is time finally running out on the 3pm blackout in football?",
    "date": "2026-11-18T06:27:11+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1959/live/65173c80-e287-11f1-b166-176de21e2352.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "A 2-0 win over Haiti ends Pochettino\u2019s USMNT tenure with confident hope",
-   "link": "https://www.theguardian.com/football/2026/nov/17/usmnt-haiti-nations-league-mauricio-pochettino",
-   "summary": "Christian Pulisic and Julian Hall score in first halfUS advance to Nations League finals 8-0 on aggregateMauricio Pochettino departs to take over Man UnitedThe United States are through to the semi-finals of the\u2026",
-   "date": "2026-11-18T02:19:36+00:00",
-   "image": "https://i.guim.co.uk/img/media/2b4391d4c87248093cc1781bfe8979e46634b5f7/84_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=36843fcba795960fa8b2ed782904ed2f"
   },
   {
    "source": "BBC Sport",
@@ -499,14 +523,6 @@
    "image": "https://i.guim.co.uk/img/media/ec2524245e63173c9ded8675579f236b896229aa/774_333_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=56f5808728a2706092ecfa743d02de64"
   },
   {
-   "source": "BBC Sport",
-   "title": "Pochettino says he would tell Guardiola to take USA job",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it.",
-   "date": "2026-11-17T09:48:24+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc69/live/2fe36070-e269-11f1-900c-895604014268.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Declan Rice agrees new Arsenal contract making him club\u2019s joint highest-paid player",
    "link": "https://www.theguardian.com/football/2026/nov/17/declan-rice-new-arsenal-contract-jurrien-timber",
@@ -545,25 +561,21 @@
    "summary": "Seeking redemption after failing at Spurs, newly installed Crystal Palace manager has a tough challenge aheadThomas Frank promised his wife, Nanna, he would take a year\u2019s sabbatical after being sacked by Tottenham in\u2026",
    "date": "2026-11-17T08:00:08+00:00",
    "image": "https://i.guim.co.uk/img/media/2bee3d143aef9f0152a6162ea41fa6cf9634e2bc/170_0_4483_3587/master/4483.jpg?width=140&quality=85&auto=format&fit=max&s=d3a4803bd307fdaca91ee5c9e160946a"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Are Scotland still too reliant on 'old guard'?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6zxvd1p4pr0o?at_medium=RSS&at_campaign=rss",
-   "summary": "After a bruising defeat in Switzerland to conclude Scotland's Nations League campaign, questions are being asked about the direction of travel under new head coach Sebastien Pocognoli.",
-   "date": "2026-11-17T07:55:21+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a72d/live/90cf5280-e260-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
-   "summary": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.",
-   "date": "2026-11-17T07:22:26+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffc0/live/2037cc60-c261-11f1-a202-b3a903690ffe.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "Serie A",
+   "id": "jkqdaFGsV0U",
+   "title": "MAXI SINTESI FROSINONE-SASSUOLO 4-2 | EXTENDED HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-18T10:00:20+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "3W120AZvL8Y",
+   "title": "FROSINONE-SASSUOLO 4-2 | EXTENDED HIGHLIGHTS | SERIE A 2026/27",
+   "date": "2026-11-18T10:00:03+00:00"
+  },
   {
    "channel": "beIN SPORTS",
    "id": "s69mM3YFJ5w",
@@ -661,16 +673,22 @@
    "date": "2026-11-15T15:00:15+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "OrSzkQYsIbc",
-   "title": "MAXI SINTESI TORINO-COMO 1-3 | EXTENDED HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-15T14:00:37+00:00"
+   "channel": "Premier League",
+   "id": "3O3LrHbtJG0",
+   "title": "Ronaldo \u2194\ufe0f Tevez \u2194\ufe0f Rooney",
+   "date": "2026-11-18T11:08:12+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "QkOcOcMXTSY",
-   "title": "TORINO-COMO 1-3 | EXTENDED HIGHLIGHTS | SERIE A 2026/27",
-   "date": "2026-11-15T14:00:18+00:00"
+   "channel": "LaLiga",
+   "id": "iC3jrIN5bTQ",
+   "title": "Ordenamos los 10 GOLES de LAMINE YAMAL en LALIGA EA SPORTS 2026/27",
+   "date": "2026-11-18T11:00:39+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "VRQ-UeRDtDA",
+   "title": "Luis D\u00edaz DESTROYS the 41-0 Challenge! \ud83d\ude28\ud83e\udd29",
+   "date": "2026-11-18T11:00:25+00:00"
   },
   {
    "channel": "LaLiga",
@@ -689,24 +707,6 @@
    "id": "OgUIw994mPA",
    "title": "Kevin Diks menggemparkan Bundesliga \ud83c\uddee\ud83c\udde9\ud83e\udd29",
    "date": "2026-11-18T06:00:28+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "ce0-o67fRWo",
-   "title": "Keeper on the Loose!",
-   "date": "2026-11-18T03:00:17+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "xRqEvr-hArg",
-   "title": "Un toque de magia a lo PEDRI",
-   "date": "2026-11-17T21:00:36+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "PCZu5Lr5KRg",
-   "title": "FULL MATCH | Spain v Argentina | Final | FIFA World Cup 2026\u2122",
-   "date": "2026-11-17T20:41:08+00:00"
   }
  ],
  "fixtures": [
