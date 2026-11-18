@@ -674,6 +674,12 @@
   },
   {
    "channel": "LaLiga",
+   "id": "ce0-o67fRWo",
+   "title": "Keeper on the Loose!",
+   "date": "2026-11-18T03:00:17+00:00"
+  },
+  {
+   "channel": "LaLiga",
    "id": "xRqEvr-hArg",
    "title": "Un toque de magia a lo PEDRI",
    "date": "2026-11-17T21:00:36+00:00"
@@ -701,12 +707,6 @@
    "id": "-iCrDcxAtY8",
    "title": "Awesome Angles On Ayari's Double!",
    "date": "2026-11-17T18:30:11+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "yj-Okaq8D98",
-   "title": "What Is A Box-to-box Midfielder? | Football 101",
-   "date": "2026-11-17T17:30:04+00:00"
   }
  ],
  "fixtures": [
@@ -2775,11 +2775,11 @@
    "date": "2026-11-18T02:30Z",
    "home": "Mexico",
    "away": "Jamaica",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "33'",
+   "clock": "80'",
    "venue": "Estadio BBVA",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
@@ -2795,9 +2795,9 @@
    "away": "Montserrat",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "46'",
    "venue": "Estadio Nacional de F\u00fatbol",
    "usa": [
     "FS1"
@@ -11264,11 +11264,11 @@
    "date": "2026-11-18T02:30Z",
    "home": "Mexico",
    "away": "Jamaica",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "33'",
+   "clock": "80'",
    "venue": "Estadio BBVA",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
@@ -11284,9 +11284,9 @@
    "away": "Montserrat",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "46'",
    "venue": "Estadio Nacional de F\u00fatbol",
    "usa": [
     "FS1"
