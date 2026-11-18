@@ -2,11 +2,19 @@
  "news": [
   {
    "source": "BBC Sport",
-   "title": "Wales display boosts Bellamy's belief despite defeat by Portugal",
+   "title": "Belief and bench steer Northern Ireland into Nations League top tier",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+   "summary": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.",
+   "date": "2026-11-17T23:49:31+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
    "summary": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
    "date": "2026-11-17T23:37:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ba/live/73fea0c0-e2d3-11f1-99ed-7de3e5932968.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5735/live/f46405e0-e2e5-11f1-8e58-ef8e322f3c98.jpg"
   },
   {
    "source": "The Guardian",
@@ -71,24 +79,24 @@
    "summary": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89.",
    "date": "2026-11-17T21:02:57+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1db1/live/95aec9c0-e2c9-11f1-99ed-7de3e5932968.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Millwall open disciplinary proceedings against Baker",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6m2lelll4n1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Millwall are undertaking disciplinary proceedings against forward Benicio Baker, BBC Sport understands.",
-   "date": "2026-11-17T20:00:52+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19e/live/34866790-e2a9-11f1-8226-87dfa5049e9a.jpg"
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
-   "title": "Wales display boosts Bellamy's belief despite defeat by Portugal",
+   "title": "Belief and bench steer Northern Ireland into Nations League top tier",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+   "summary": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.",
+   "date": "2026-11-17T23:49:31+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
    "summary": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
    "date": "2026-11-17T23:37:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ba/live/73fea0c0-e2d3-11f1-99ed-7de3e5932968.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5735/live/f46405e0-e2e5-11f1-8e58-ef8e322f3c98.jpg"
   },
   {
    "source": "The Guardian",
@@ -553,14 +561,6 @@
    "summary": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen.",
    "date": "2026-11-16T22:14:34+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe26/live/f9c8c1f0-e20a-11f1-b023-f7d19fda92c1.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Switzerland roll over sorry Scotland to increase the pressure on Pocognoli",
-   "link": "https://www.theguardian.com/football/2026/nov/16/switzerland-scotland-nations-league-match-report",
-   "summary": "A match that should have been about 103 was instead about four. Andy Robertson is due acclaim for becoming the most capped player in Scotland\u2019s history but how the full-back will wish the moment had arrived in different\u2026",
-   "date": "2026-11-16T21:53:32+00:00",
-   "image": "https://i.guim.co.uk/img/media/b486fbca2fb986e208151a2612cd6207d9dfd494/481_224_1871_1497/master/1871.jpg?width=140&quality=85&auto=format&fit=max&s=99bb52d357f39ae4ebb7e3ec81f18494"
   }
  ],
  "videos": [
@@ -724,7 +724,10 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Allianz Arena",
-   "usa": [],
+   "usa": [
+    "Fandango",
+    "USA Net"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png"
   },
@@ -860,7 +863,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Stadion An der Alten F\u00f6rsterei",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
   },
@@ -878,7 +883,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "BayArena",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png"
   },
@@ -896,7 +903,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "BORUSSIA-PARK",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
   },
@@ -914,7 +923,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Deutsche Bank Park",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
   },
@@ -932,7 +943,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "URSAPHARM-Arena an der Kaiserlinde",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png"
   },
@@ -1061,7 +1074,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Allianz Riviera",
-   "usa": [],
+   "usa": [
+    "beIn Sports"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
   },
@@ -1138,7 +1153,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Veltins Arena",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png"
   },
@@ -1176,7 +1193,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Stade Louis II",
-   "usa": [],
+   "usa": [
+    "beIn Sports"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
   },
@@ -1368,7 +1387,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Stade Jean Bouin",
-   "usa": [],
+   "usa": [
+    "beIn Sports"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
   },
@@ -1386,7 +1407,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "WWK Arena",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
   },
@@ -1425,7 +1448,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Stade du Moustoir - Yves Allainmat",
-   "usa": [],
+   "usa": [
+    "beIn Sports"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
   },
@@ -1461,7 +1486,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Weserstadion",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
   },
@@ -1540,7 +1567,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Stade V\u00e9lodrome",
-   "usa": [],
+   "usa": [
+    "beIn Sports"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
   },
@@ -1623,435 +1652,189 @@
    ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
+  },
+  {
+   "id": "401915380",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T17:45Z",
+   "home": "Bodo/Glimt",
+   "away": "LASK Linz",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Aspmyra Stadion",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
+  },
+  {
+   "id": "401915300",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T17:45Z",
+   "home": "Galatasaray",
+   "away": "Aston Villa",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "RAMS Park",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+  },
+  {
+   "id": "401915295",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T20:00Z",
+   "home": "Arsenal",
+   "away": "Borussia Dortmund",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Emirates Stadium",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
+  },
+  {
+   "id": "401915296",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T20:00Z",
+   "home": "Como",
+   "away": "AEK Athens",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Giuseppe Sinigaglia",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
+  },
+  {
+   "id": "401915294",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T20:00Z",
+   "home": "Feyenoord Rotterdam",
+   "away": "FC Porto",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "De Kuip",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png"
+  },
+  {
+   "id": "401915379",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T20:00Z",
+   "home": "Manchester City",
+   "away": "Napoli",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Etihad Stadium",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
+  },
+  {
+   "id": "401915299",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T20:00Z",
+   "home": "RB Leipzig",
+   "away": "Lens",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Red Bull Arena",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
+  },
+  {
+   "id": "401915298",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T20:00Z",
+   "home": "Real Madrid",
+   "away": "PSV Eindhoven",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Santiago Bernab\u00e9u",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
+  },
+  {
+   "id": "401915297",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T20:00Z",
+   "home": "Slovan Bratislava",
+   "away": "Real Betis",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "N\u00e1rodny Futbalovy Stadi\u00f3n",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
   }
  ],
  "national": [
-  {
-   "id": "401927170",
-   "code": "caf.nations_qual",
-   "l": "wld",
-   "comp": "Africa Cup of Nations Qualifying",
-   "date": "2026-11-16T13:00Z",
-   "home": "Namibia",
-   "away": "Cameroon",
-   "hs": "0",
-   "as": "3",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Botswana National Stadium",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/nam.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png"
-  },
-  {
-   "id": "401927135",
-   "code": "caf.nations_qual",
-   "l": "wld",
-   "comp": "Africa Cup of Nations Qualifying",
-   "date": "2026-11-16T13:00Z",
-   "home": "Sudan",
-   "away": "Senegal",
-   "hs": "2",
-   "as": "4",
-   "live": false,
-   "state": "post",
-   "clock": "90'+6'",
-   "venue": "Juba National Stadium",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/sud.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/sen.png"
-  },
-  {
-   "id": "401927173",
-   "code": "caf.nations_qual",
-   "l": "wld",
-   "comp": "Africa Cup of Nations Qualifying",
-   "date": "2026-11-16T14:00Z",
-   "home": "Zimbabwe",
-   "away": "Equatorial Guinea",
-   "hs": "3",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+6'",
-   "venue": "Harare National Sports Stadium",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/4214.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/eqg.png"
-  },
-  {
-   "id": "401861180",
-   "code": "uefa.nations",
-   "l": "wld",
-   "comp": "UEFA Nations League",
-   "date": "2026-11-16T15:00Z",
-   "home": "Faroe Islands",
-   "away": "Moldova",
-   "hs": "1",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+3'",
-   "venue": "T\u00f3rsvollur",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/fro.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/mda.png"
-  },
-  {
-   "id": "401861181",
-   "code": "uefa.nations",
-   "l": "wld",
-   "comp": "UEFA Nations League",
-   "date": "2026-11-16T15:00Z",
-   "home": "Kazakhstan",
-   "away": "Slovakia",
-   "hs": "2",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+10'",
-   "venue": "Astana Arena",
-   "usa": [
-    "FS2"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/kaz.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/svk.png"
-  },
-  {
-   "id": "401927177",
-   "code": "caf.nations_qual",
-   "l": "wld",
-   "comp": "Africa Cup of Nations Qualifying",
-   "date": "2026-11-16T15:00Z",
-   "home": "Somalia",
-   "away": "Ghana",
-   "hs": "0",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+6'",
-   "venue": "Sekondi-Takoradi Stadium",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/som.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/gha.png"
-  },
-  {
-   "id": "401927172",
-   "code": "caf.nations_qual",
-   "l": "wld",
-   "comp": "Africa Cup of Nations Qualifying",
-   "date": "2026-11-16T16:00Z",
-   "home": "Central African Republic",
-   "away": "Benin",
-   "hs": "0",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+6'",
-   "venue": "Stade Omnisport de Douala",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/10528.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/ben.png"
-  },
-  {
-   "id": "401927176",
-   "code": "caf.nations_qual",
-   "l": "wld",
-   "comp": "Africa Cup of Nations Qualifying",
-   "date": "2026-11-16T16:00Z",
-   "home": "Eritrea",
-   "away": "Guinea",
-   "hs": "1",
-   "as": "3",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "Cairo International Stadium",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/eri.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/gui.png"
-  },
-  {
-   "id": "401861183",
-   "code": "uefa.nations",
-   "l": "wld",
-   "comp": "UEFA Nations League",
-   "date": "2026-11-16T17:00Z",
-   "home": "Estonia",
-   "away": "Bulgaria",
-   "hs": "2",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+3'",
-   "venue": "A. Le Coq Arena",
-   "usa": [
-    "FS2"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/est.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png"
-  },
-  {
-   "id": "401861182",
-   "code": "uefa.nations",
-   "l": "wld",
-   "comp": "UEFA Nations League",
-   "date": "2026-11-16T17:00Z",
-   "home": "Iceland",
-   "away": "Luxembourg",
-   "hs": "3",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+2'",
-   "venue": "Laugardalsv\u00f6llur",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/lux.png"
-  },
-  {
-   "id": "401861184",
-   "code": "uefa.nations",
-   "l": "wld",
-   "comp": "UEFA Nations League",
-   "date": "2026-11-16T17:00Z",
-   "home": "Lithuania",
-   "away": "Liechtenstein",
-   "hs": "2",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "S. Darius and S. Gireno Stadium",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/ltu.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/lie.png"
-  },
-  {
-   "id": "401914292",
-   "code": "fifa.friendly",
-   "l": "wld",
-   "comp": "International Friendly",
-   "date": "2026-11-16T18:00Z",
-   "home": "Andorra",
-   "away": "Azerbaijan",
-   "hs": "1",
-   "as": "3",
-   "live": false,
-   "state": "post",
-   "clock": "90'+3'",
-   "venue": "Estadi de la FAF d'Encamp",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/and.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/aze.png"
-  },
-  {
-   "id": "401929707",
-   "code": "concacaf.nations.league",
-   "l": "wld",
-   "comp": "Concacaf Nations League",
-   "date": "2026-11-16T19:00Z",
-   "home": "Cuba",
-   "away": "Grenada",
-   "hs": "9",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+1'",
-   "venue": "Estadio La Polar",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/cub.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/grn.png"
-  },
-  {
-   "id": "401929771",
-   "code": "concacaf.nations.league",
-   "l": "wld",
-   "comp": "Concacaf Nations League",
-   "date": "2026-11-16T19:00Z",
-   "home": "Guadeloupe",
-   "away": "Bermuda",
-   "hs": "4",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "Stade Roger Zami",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/gdl.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/ber.png"
-  },
-  {
-   "id": "401929708",
-   "code": "concacaf.nations.league",
-   "l": "wld",
-   "comp": "Concacaf Nations League",
-   "date": "2026-11-16T19:00Z",
-   "home": "Guyana",
-   "away": "Puerto Rico",
-   "hs": "4",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "Leonora National Track and Field Facility",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/guy.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/11766.png"
-  },
-  {
-   "id": "401861185",
-   "code": "uefa.nations",
-   "l": "wld",
-   "comp": "UEFA Nations League",
-   "date": "2026-11-16T19:45Z",
-   "home": "Germany",
-   "away": "Netherlands",
-   "hs": "5",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+2'",
-   "venue": "Olympic Stadium Berlin",
-   "usa": [
-    "FS1"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png"
-  },
-  {
-   "id": "401861179",
-   "code": "uefa.nations",
-   "l": "wld",
-   "comp": "UEFA Nations League",
-   "date": "2026-11-16T19:45Z",
-   "home": "Gibraltar",
-   "away": "Malta",
-   "hs": "1",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Europa Point Stadium",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/gib.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/mlt.png"
-  },
-  {
-   "id": "401861188",
-   "code": "uefa.nations",
-   "l": "wld",
-   "comp": "UEFA Nations League",
-   "date": "2026-11-16T19:45Z",
-   "home": "Greece",
-   "away": "Serbia",
-   "hs": "1",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Panthessaliko Stadium",
-   "usa": [
-    "FS2"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/gre.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/sba.png"
-  },
-  {
-   "id": "401861187",
-   "code": "uefa.nations",
-   "l": "wld",
-   "comp": "UEFA Nations League",
-   "date": "2026-11-16T19:45Z",
-   "home": "North Macedonia",
-   "away": "Slovenia",
-   "hs": "0",
-   "as": "3",
-   "live": false,
-   "state": "post",
-   "clock": "90'+3'",
-   "venue": "To\u0161e Proeski Arena",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/mkd.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/svn.png"
-  },
-  {
-   "id": "401861186",
-   "code": "uefa.nations",
-   "l": "wld",
-   "comp": "UEFA Nations League",
-   "date": "2026-11-16T19:45Z",
-   "home": "Switzerland",
-   "away": "Scotland",
-   "hs": "4",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+3'",
-   "venue": "Kybunpark",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png"
-  },
-  {
-   "id": "401929706",
-   "code": "concacaf.nations.league",
-   "l": "wld",
-   "comp": "Concacaf Nations League",
-   "date": "2026-11-17T00:00Z",
-   "home": "Martinique",
-   "away": "Aruba",
-   "hs": "1",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+9'",
-   "venue": "Stade Pierre-Aliker",
-   "usa": [],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/marq.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/aru.png"
-  },
-  {
-   "id": "401929705",
-   "code": "concacaf.nations.league",
-   "l": "wld",
-   "comp": "Concacaf Nations League",
-   "date": "2026-11-17T00:00Z",
-   "home": "Trinidad and Tobago",
-   "away": "Antigua and Barbuda",
-   "hs": "1",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Hasely Crawford Stadium",
-   "usa": [
-    "FS2"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/tri.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/atg.png"
-  },
-  {
-   "id": "401929770",
-   "code": "concacaf.nations.league",
-   "l": "wld",
-   "comp": "Concacaf Nations League",
-   "date": "2026-11-17T01:00Z",
-   "home": "Canada",
-   "away": "Guatemala",
-   "hs": "4",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'",
-   "venue": "BMO Field",
-   "usa": [
-    "FS1"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
-   "al": "https://a.espncdn.com/i/teamlogos/countries/500/gua.png"
-  },
   {
    "id": "401933879",
    "code": "fifa.friendly",
@@ -2856,11 +2639,11 @@
    "date": "2026-11-17T23:00Z",
    "home": "Argentina",
    "away": "Costa Rica",
-   "hs": "4",
+   "hs": "7",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "45'+1'",
+   "live": false,
+   "state": "post",
+   "clock": "90'",
    "venue": "Mario Alberto Kempes",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
@@ -2876,9 +2659,9 @@
    "away": "Colombia",
    "hs": "0",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "45'+2'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
    "venue": "Estadio Monumental David Arellano",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png",
@@ -2892,11 +2675,11 @@
    "date": "2026-11-17T23:30Z",
    "home": "Ecuador",
    "away": "Bolivia",
-   "hs": "1",
+   "hs": "2",
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "23'",
+   "clock": "90'+1'",
    "venue": "Estadio Banco Pichincha",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
@@ -2910,11 +2693,11 @@
    "date": "2026-11-17T23:30Z",
    "home": "Uruguay",
    "away": "Dominican Republic",
-   "hs": "0",
+   "hs": "5",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "29'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
    "venue": "Estadio Domingo Burgue\u00f1o Miguel",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
@@ -2928,11 +2711,11 @@
    "date": "2026-11-18T00:00Z",
    "home": "French Guiana",
    "away": "St. Vincent and the Grenadines",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "76'",
    "venue": "Arnos Vale Stadium",
    "usa": [
     "FS2"
@@ -2948,11 +2731,11 @@
    "date": "2026-11-18T00:00Z",
    "home": "United States",
    "away": "Haiti",
-   "hs": "0",
+   "hs": "2",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "66'",
    "venue": "TQL Stadium",
    "usa": [
     "HBO Max",
@@ -2974,9 +2757,9 @@
    "away": "St. Martin",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "26'",
    "venue": "Estadio M\u00e1gico Gonz\u00e1lez",
    "usa": [
     "FS1"
@@ -11345,11 +11128,11 @@
    "date": "2026-11-17T23:00Z",
    "home": "Argentina",
    "away": "Costa Rica",
-   "hs": "4",
+   "hs": "7",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "45'+1'",
+   "live": false,
+   "state": "post",
+   "clock": "90'",
    "venue": "Mario Alberto Kempes",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
@@ -11365,9 +11148,9 @@
    "away": "Colombia",
    "hs": "0",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "45'+2'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
    "venue": "Estadio Monumental David Arellano",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png",
@@ -11381,11 +11164,11 @@
    "date": "2026-11-17T23:30Z",
    "home": "Ecuador",
    "away": "Bolivia",
-   "hs": "1",
+   "hs": "2",
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "23'",
+   "clock": "90'+1'",
    "venue": "Estadio Banco Pichincha",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
@@ -11399,11 +11182,11 @@
    "date": "2026-11-17T23:30Z",
    "home": "Uruguay",
    "away": "Dominican Republic",
-   "hs": "0",
+   "hs": "5",
    "as": "0",
-   "live": true,
-   "state": "in",
-   "clock": "29'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
    "venue": "Estadio Domingo Burgue\u00f1o Miguel",
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
@@ -11417,11 +11200,11 @@
    "date": "2026-11-18T00:00Z",
    "home": "French Guiana",
    "away": "St. Vincent and the Grenadines",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "76'",
    "venue": "Arnos Vale Stadium",
    "usa": [
     "FS2"
@@ -11437,11 +11220,11 @@
    "date": "2026-11-18T00:00Z",
    "home": "United States",
    "away": "Haiti",
-   "hs": "0",
+   "hs": "2",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "66'",
    "venue": "TQL Stadium",
    "usa": [
     "HBO Max",
@@ -11463,9 +11246,9 @@
    "away": "St. Martin",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "26'",
    "venue": "Estadio M\u00e1gico Gonz\u00e1lez",
    "usa": [
     "FS1"
@@ -11525,7 +11308,10 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Allianz Arena",
-   "usa": [],
+   "usa": [
+    "Fandango",
+    "USA Net"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png"
   },
@@ -11661,7 +11447,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Stadion An der Alten F\u00f6rsterei",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
   },
@@ -11679,7 +11467,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "BayArena",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png"
   },
@@ -11697,7 +11487,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "BORUSSIA-PARK",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
   },
@@ -11715,7 +11507,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Deutsche Bank Park",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
   },
@@ -11733,7 +11527,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "URSAPHARM-Arena an der Kaiserlinde",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png"
   },
@@ -11862,7 +11658,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Allianz Riviera",
-   "usa": [],
+   "usa": [
+    "beIn Sports"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
   },
@@ -11939,7 +11737,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Veltins Arena",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png"
   },
@@ -11977,7 +11777,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Stade Louis II",
-   "usa": [],
+   "usa": [
+    "beIn Sports"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
   },
@@ -12169,7 +11971,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Stade Jean Bouin",
-   "usa": [],
+   "usa": [
+    "beIn Sports"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
   },
@@ -12187,7 +11991,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "WWK Arena",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
   },
@@ -12226,7 +12032,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Stade du Moustoir - Yves Allainmat",
-   "usa": [],
+   "usa": [
+    "beIn Sports"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
   },
@@ -12262,7 +12070,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Weserstadion",
-   "usa": [],
+   "usa": [
+    "Fandango"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
   },
@@ -12341,7 +12151,9 @@
    "state": "pre",
    "clock": "0'",
    "venue": "Stade V\u00e9lodrome",
-   "usa": [],
+   "usa": [
+    "beIn Sports"
+   ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
   },
@@ -12424,6 +12236,186 @@
    ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
+  },
+  "401915380": {
+   "id": "401915380",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T17:45Z",
+   "home": "Bodo/Glimt",
+   "away": "LASK Linz",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Aspmyra Stadion",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
+  },
+  "401915300": {
+   "id": "401915300",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T17:45Z",
+   "home": "Galatasaray",
+   "away": "Aston Villa",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "RAMS Park",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+  },
+  "401915295": {
+   "id": "401915295",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T20:00Z",
+   "home": "Arsenal",
+   "away": "Borussia Dortmund",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Emirates Stadium",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
+  },
+  "401915296": {
+   "id": "401915296",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T20:00Z",
+   "home": "Como",
+   "away": "AEK Athens",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Giuseppe Sinigaglia",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
+  },
+  "401915294": {
+   "id": "401915294",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T20:00Z",
+   "home": "Feyenoord Rotterdam",
+   "away": "FC Porto",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "De Kuip",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png"
+  },
+  "401915379": {
+   "id": "401915379",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T20:00Z",
+   "home": "Manchester City",
+   "away": "Napoli",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Etihad Stadium",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
+  },
+  "401915299": {
+   "id": "401915299",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T20:00Z",
+   "home": "RB Leipzig",
+   "away": "Lens",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Red Bull Arena",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
+  },
+  "401915298": {
+   "id": "401915298",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T20:00Z",
+   "home": "Real Madrid",
+   "away": "PSV Eindhoven",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Santiago Bernab\u00e9u",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
+  },
+  "401915297": {
+   "id": "401915297",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-24T20:00Z",
+   "home": "Slovan Bratislava",
+   "away": "Real Betis",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "N\u00e1rodny Futbalovy Stadi\u00f3n",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
   }
  }
 }
