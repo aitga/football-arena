@@ -2,6 +2,22 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "From Dunfermline to Dubai - McPake on new life in Middle East",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6j9m1ygw427o?at_medium=RSS&at_campaign=rss",
+   "summary": "James McPake has left Scottish football behind for the time being, plying his trade in coaching in Dubai.",
+   "date": "2026-11-18T17:06:29+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1327/live/2ca4bf40-e371-11f1-9f51-4bfc31543510.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "72+: The EFL Podcast",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pnnkrh?at_medium=RSS&at_campaign=rss",
+   "summary": "Aaron, Jobi and Tommy Smith talk all things EFL.",
+   "date": "2026-11-18T16:15:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "The tightest survival scrap for years? Why it's not too early to worry",
    "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
    "summary": "The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?",
@@ -63,25 +79,25 @@
    "summary": "The Premier League's Key Match Incidents Panel rules there were six on-field errors in the last round of games - the joint-highest in one weekend.",
    "date": "2026-11-18T12:38:38+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d44c/live/1634e590-e345-11f1-99aa-0f40b013ad11.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
-   "link": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
-   "summary": "The battle for the US TV rights to the tournament will pit the traditional broadcaster and the \u2018whatever-it-takes\u2019 streamer. It could be a tipping point in the industryThe awarding of broadcast rights in the United\u2026",
-   "date": "2026-11-18T12:01:00+00:00",
-   "image": "https://i.guim.co.uk/img/media/c9771ae3d7b134d4b98aa6c461e18d4c617b73ef/195_0_2610_2088/master/2610.jpg?width=140&quality=85&auto=format&fit=max&s=ff9f567e5e6ac03cedd4c7a49b96ff3d"
-  },
-  {
-   "source": "The Guardian",
-   "title": "\u2018When I walked for Burberry I met Kanye West\u2019: the two lives of Bromley footballer Omar Sowunmi",
-   "link": "https://www.theguardian.com/football/2026/nov/18/omar-sowunmi-bromley-footballer-model-kanye-west",
-   "summary": "Full-time defender and part-time model, the 31-year-old is happy to shine a light on both sides of his dual career\u201cI was walking down the street one day and someone came up to me and said: \u2018I think you should be a\u2026",
-   "date": "2026-11-18T12:00:59+00:00",
-   "image": "https://i.guim.co.uk/img/media/8554e895b0c14d831db0d583a452efed58c3b716/635_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=a6af04fb108d4ecfd681b9c61314c283"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "From Dunfermline to Dubai - McPake on new life in Middle East",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6j9m1ygw427o?at_medium=RSS&at_campaign=rss",
+   "summary": "James McPake has left Scottish football behind for the time being, plying his trade in coaching in Dubai.",
+   "date": "2026-11-18T17:06:29+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1327/live/2ca4bf40-e371-11f1-9f51-4bfc31543510.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "72+: The EFL Podcast",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pnnkrh?at_medium=RSS&at_campaign=rss",
+   "summary": "Aaron, Jobi and Tommy Smith talk all things EFL.",
+   "date": "2026-11-18T16:15:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
+  },
   {
    "source": "BBC Sport",
    "title": "The tightest survival scrap for years? Why it's not too early to worry",
@@ -204,9 +220,9 @@
   },
   {
    "source": "The Guardian",
-   "title": "Fifa\u2019s World Cup TV rights documents indicate hydration breaks will stay in 2030",
+   "title": "Fifa\u2019s World Cup TV rights documents indicate hydration breaks to stay in 2030",
    "link": "https://www.theguardian.com/football/2026/nov/18/fifa-hydration-breaks-2030-world-cup-tv-right-documents",
-   "summary": "Controversial breaks were financial boon for broadcastersFifa flags possible benefits but says no decision madeFifa\u2019s tender documents for TV rights for the 2030 World Cup includes a provision for broadcasters to sell\u2026",
+   "summary": "Controversial breaks were financial boon for broadcastersFifa flags possible benefits but says no decision madeFifa\u2019s tender documents for TV rights for the 2030 World Cup include a provision for broadcasters to sell\u2026",
    "date": "2026-11-18T09:29:03+00:00",
    "image": "https://i.guim.co.uk/img/media/2d86a3aa5b0dc0b32bf51ec3bd3c3dd481e20570/287_0_4504_3604/master/4504.jpg?width=140&quality=85&auto=format&fit=max&s=8eae23150ee1d91e13cdf41e48a921df"
   },
@@ -382,7 +398,7 @@
    "source": "The Guardian",
    "title": "\u2018The game is in danger\u2019: PFA head Maheta Molango on Fifa, Infantino and football\u2019s future",
    "link": "https://www.theguardian.com/football/2026/nov/17/pfa-maheta-molango-interview-fifa-gianni-infantino-interview",
-   "summary": "At a potentially critical juncture for football, the PFA chief executive talks about the organisation, wider fears in the game and why the Folarin Balogun affair was \u2018scandalous\u2019After five years in charge of the\u2026",
+   "summary": "At a potentially critical juncture for football, the PFA\u2019s chief executive talks about the organisation, wider fears in the game and why the Folarin Balogun affair was \u2018scandalous\u2019After five years in charge of the\u2026",
    "date": "2026-11-17T20:00:20+00:00",
    "image": "https://i.guim.co.uk/img/media/f18616c2ee33d82b41cc54ddf97daf9d04c66d02/0_1421_4928_3941/master/4928.jpg?width=140&quality=85&auto=format&fit=max&s=6615af7c4ca8f9746b6967ebb35dd2bd"
   },
@@ -545,22 +561,6 @@
    "summary": "London City Lionesses forward Izzy Goodwin is named in the England squad for the first time for the World Cup qualifying play-off against Ukraine.",
    "date": "2026-11-17T11:06:33+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95fd/live/d0bfe3a0-e2c4-11f1-a9da-01a195e70ea0.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
-   "summary": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
-   "date": "2026-11-17T10:32:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Max Dowman shines in England colours and sends another record tumbling",
-   "link": "https://www.theguardian.com/football/2026/nov/17/max-dowman-england-under-21s-record-jude-bellingham",
-   "summary": "Midfielder\u2019s under-21s winner eclipsed Jude Bellingham\u2019s mark and there was other talent to admire against France There may have been an Mbapp\u00e9 on the pitch \u2013 Ethan, the younger brother of Kylian, with whom he shares a\u2026",
-   "date": "2026-11-17T10:13:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/ec2524245e63173c9ded8675579f236b896229aa/774_333_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=56f5808728a2706092ecfa743d02de64"
   }
  ],
  "videos": [
@@ -625,22 +625,10 @@
    "date": "2026-11-17T18:41:47+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "LnMsgGWZagM",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u062a\u0648\u063a\u0648 \u0648\u0627\u0644\u062c\u0632\u0627\u0626\u0631 | \u062a\u0635\u0641\u064a\u0627\u062a \u0643\u0623\u0633 \u0623\u0645\u0645 \u0625\u0641\u0631\u064a\u0642\u064a\u0627 2027 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629",
-   "date": "2026-11-17T18:34:38+00:00"
-  },
-  {
    "channel": "FIFA",
    "id": "1wJrlHim7t4",
    "title": "The most goals scored in a #U17WC match ever! \ud83c\uddf2\ud83c\udde6",
    "date": "2026-11-17T16:35:46+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "awm-ULdGnlM",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0645\u0627\u0644\u0627\u0648\u064a \u0648\u0645\u0635\u0631 | \u062a\u0635\u0641\u064a\u0627\u062a \u0643\u0623\u0633 \u0623\u0645\u0645 \u0625\u0641\u0631\u064a\u0642\u064a\u0627 2027 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629",
-   "date": "2026-11-17T15:18:53+00:00"
   },
   {
    "channel": "UEFA",
@@ -667,10 +655,28 @@
    "date": "2026-11-15T11:00:18+00:00"
   },
   {
+   "channel": "FIFA",
+   "id": "T9BfcJiy1L4",
+   "title": "FULL MATCH | Spain v England | Final | FIFA Women's World Cup 2023\u2122",
+   "date": "2026-11-18T17:06:00+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "PTL-f2p-7o4",
+   "title": "\u00bfCu\u00e1les son los sue\u00f1os de JAVI HERN\u00c1NDEZ? No te pierdas LALIGA ROOKIES",
+   "date": "2026-11-18T17:00:28+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "3tkMYSnY280",
+   "title": "TODOS LOS GOLES vistos desde la REFCAM",
+   "date": "2026-11-18T17:00:21+00:00"
+  },
+  {
    "channel": "UEFA",
-   "id": "-P5ZYITth50",
-   "title": "EVERY Women's Champions League Goal From Matchday 4! | Highlights",
-   "date": "2026-11-13T14:04:32+00:00"
+   "id": "xj5RiH_P3Og",
+   "title": "Pochettino\u2019s Tottenham in full flow \ud83d\ude2e\u200d\ud83d\udca8",
+   "date": "2026-11-18T16:43:11+00:00"
   },
   {
    "channel": "Premier League",
@@ -683,30 +689,6 @@
    "id": "DKe7F6DXKVU",
    "title": "\ud83d\udd34 PRE-MATCH LIVE | ATALANTA-INTER | Serie A Enilive 2026/27",
    "date": "2026-11-18T15:03:44+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "3YaQSndZxYA",
-   "title": "\ud83d\udd34 PRE-MATCH LIVE | PARMA-ROMA | Serie A Enilive 2026/27",
-   "date": "2026-11-18T15:02:33+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "BUTlafJzPAI",
-   "title": "\ud83d\udd34 PRE-MATCH LIVE | COMO-CAGLIARI | Serie A Enilive 2026/27",
-   "date": "2026-11-18T15:00:43+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "KvjoKk7PmmE",
-   "title": "Vitinha, just WOW! \ud83e\udd75\ud83e\udd5c",
-   "date": "2026-11-18T13:46:26+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "lvWMoe2wo78",
-   "title": "PEDRI, el encargado de recoger el bal\u00f3n",
-   "date": "2026-11-18T13:00:36+00:00"
   }
  ],
  "fixtures": [
