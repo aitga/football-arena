@@ -1,6 +1,70 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Rangers explore return for Cerny - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq702kr3xd38o?at_medium=RSS&at_campaign=rss",
+   "summary": "Two familiar wingers linked with Rangers returns in January as SFA redraft proposals to address youth development crisis...",
+   "date": "2026-11-18T08:15:37+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45f5/live/17ebea90-e328-11f1-a094-5fdc692f3e33.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Jack Grealish recalls a golden age of mavericks \u2013 but football has moved on",
+   "link": "https://www.theguardian.com/football/2026/nov/18/jack-grealish-recalls-a-golden-age-of-mavericks-but-football-has-moved-on",
+   "summary": "Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern gameThomas Tuchel has never called up the player he once claimed to love \u201ceverything about\u201d. The reason for\u2026",
+   "date": "2026-11-18T08:00:36+00:00",
+   "image": "https://i.guim.co.uk/img/media/73d9305af779fc63136fc993b99ce375aa0403e3/117_73_2102_1681/master/2102.jpg?width=140&quality=85&auto=format&fit=max&s=8404e04b5eb4e0c8bb2b3707a8708c46"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Swing when you\u2019re winning? Biggest leaps across Fifa\u2019s football rankings | The Knowledge",
+   "link": "https://www.theguardian.com/football/2026/nov/18/biggest-leaps-across-fifa-football-rankings-the-knowledge",
+   "summary": "Plus: clubs with roads on their team badges, most and fewest managers per league title, and moreMail us with all of your questions and answers\u201cThe Scotland men\u2019s team\u2019s highest Fifa ranking was 13th (in 2007) and the\u2026",
+   "date": "2026-11-18T08:00:36+00:00",
+   "image": "https://i.guim.co.uk/img/media/07d7955df62dbccef998a58026e03bb1e0ccda9a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=64d035f25dd565815468c0753c5d63f5"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Overlap, underlap or sit back? How Premier League teams use their full-backs",
+   "link": "https://www.theguardian.com/football/2026/nov/18/premier-league-teams-full-backs-opta-analyst",
+   "summary": "The role of full-back has changed massively in recent years. We analyse how all 20 sides are approaching the positionBy Opta AnalystOverlapping. Underlapping. Inverted. Traditional. The role of full-back has evolved\u2026",
+   "date": "2026-11-18T08:00:35+00:00",
+   "image": "https://i.guim.co.uk/img/media/cddb452cd8ee7fd6ace9700d98796771abd3a4f0/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=92a4b103c38eea93c2aa9a7e0c7db3c3"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Listen: What needs to change for Pocognoli and Scotland?",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pnkk9j?at_medium=RSS&at_campaign=rss",
+   "summary": "What needs to change to turn Scotland\u2019s fortunes around?",
+   "date": "2026-11-18T08:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnkkb9.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "From one of Ajax's future stars to quitting football for music",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
+   "date": "2026-11-18T07:02:42+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6ly5dq07wk5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-18T06:56:12+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "The 3pm football blackout: outdated or still relevant in 2026?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&at_campaign=rss",
+   "summary": "After 60 years, is time finally running out on the 3pm blackout in football?",
+   "date": "2026-11-18T06:27:11+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1959/live/65173c80-e287-11f1-b166-176de21e2352.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "A 2-0 win over Haiti ends Pochettino\u2019s USMNT tenure with confident hope",
    "link": "https://www.theguardian.com/football/2026/nov/17/usmnt-haiti-nations-league-mauricio-pochettino",
@@ -15,73 +79,73 @@
    "summary": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.",
    "date": "2026-11-17T23:49:31+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
-   "summary": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
-   "date": "2026-11-17T23:37:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5735/live/f46405e0-e2e5-11f1-8e58-ef8e322f3c98.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Nations League roundup: Devenny\u2019s divine strike lifts Northern Ireland to top tier",
-   "link": "https://www.theguardian.com/football/2026/nov/17/nations-league-northern-ireland-hungary-norway-denmark",
-   "summary": "Haaland\u2019s late penalty grabs Norway last-eight spotParrott penalties help Republic of Ireland secure playoffA wonder strike from Justin Devenny earned Northern Ireland top spot in Nations League Group B2 and promotion\u2026",
-   "date": "2026-11-17T23:35:42+00:00",
-   "image": "https://i.guim.co.uk/img/media/1764032c2d905d34982ec12a555989209aac38cb/912_0_4561_3649/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=d13ec33ca681a41bc1dfc668337ca770"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Republic of Ireland talisman Parrott caps dream year with two more goals",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqzjr3yr2z0eo?at_medium=RSS&at_campaign=rss",
-   "summary": "Republic of Ireland striker Troy Parrott reflects on a transformative 12 months for both club and country after scoring a double in the win against Kosovo.",
-   "date": "2026-11-17T23:10:33+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8700/live/18d492f0-e2d2-11f1-99ed-7de3e5932968.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
-   "summary": "Senegal, Cameroon and Morocco qualify for the 2027 Africa Cup of Nations, but Nigeria are in trouble, and struggling Tunisia fail with an impassioned penalty protest.",
-   "date": "2026-11-17T22:54:51+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7391/live/363a56f0-e29a-11f1-8dda-8925a81c3da5.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvx2xwx604y0o?at_medium=RSS&at_campaign=rss",
-   "summary": "Liverpool leading Chelsea in race for Monaco's Lamine Camara, Barcelona rule out moves for Virgil van Dijk and Bruno Fernandes, and ex-Crystal Palace winger Wilfried Zaha could rejoin the club.",
-   "date": "2026-11-17T22:25:16+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acd1/live/eaa3d110-e2d2-11f1-99ed-7de3e5932968.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Portugal\u2019s new No 7 Forbs channels Ronaldo for winner as Wales are denied",
-   "link": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
-   "summary": "One way or another, Portugal\u2019s No 7 shirt has caused quite the commotion in recent weeks and months, if not years. Perhaps it was inevitable, then, that the first win of the post-Cristiano Ronaldo era would come\u2026",
-   "date": "2026-11-17T22:14:37+00:00",
-   "image": "https://i.guim.co.uk/img/media/5beb80441b956fe467728ebd075621765d220be1/158_0_2217_1773/master/2217.jpg?width=140&quality=85&auto=format&fit=max&s=6732f1836fb69a60d3fbea6405cf35e5"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Highlights: Ten-man Portugal beat Wales to top group",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmwy8p49xp25o?at_medium=RSS&at_campaign=rss",
-   "summary": "Watch the best of the action as Portugal beat Wales in the Nations League in Cardiff.",
-   "date": "2026-11-17T21:56:04+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0223/live/e2dd87c0-e2d0-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Rangers great Brand dies aged 89",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89.",
-   "date": "2026-11-17T21:02:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1db1/live/95aec9c0-e2c9-11f1-99ed-7de3e5932968.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Rangers explore return for Cerny - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq702kr3xd38o?at_medium=RSS&at_campaign=rss",
+   "summary": "Two familiar wingers linked with Rangers returns in January as SFA redraft proposals to address youth development crisis...",
+   "date": "2026-11-18T08:15:37+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45f5/live/17ebea90-e328-11f1-a094-5fdc692f3e33.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Jack Grealish recalls a golden age of mavericks \u2013 but football has moved on",
+   "link": "https://www.theguardian.com/football/2026/nov/18/jack-grealish-recalls-a-golden-age-of-mavericks-but-football-has-moved-on",
+   "summary": "Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern gameThomas Tuchel has never called up the player he once claimed to love \u201ceverything about\u201d. The reason for\u2026",
+   "date": "2026-11-18T08:00:36+00:00",
+   "image": "https://i.guim.co.uk/img/media/73d9305af779fc63136fc993b99ce375aa0403e3/117_73_2102_1681/master/2102.jpg?width=140&quality=85&auto=format&fit=max&s=8404e04b5eb4e0c8bb2b3707a8708c46"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Swing when you\u2019re winning? Biggest leaps across Fifa\u2019s football rankings | The Knowledge",
+   "link": "https://www.theguardian.com/football/2026/nov/18/biggest-leaps-across-fifa-football-rankings-the-knowledge",
+   "summary": "Plus: clubs with roads on their team badges, most and fewest managers per league title, and moreMail us with all of your questions and answers\u201cThe Scotland men\u2019s team\u2019s highest Fifa ranking was 13th (in 2007) and the\u2026",
+   "date": "2026-11-18T08:00:36+00:00",
+   "image": "https://i.guim.co.uk/img/media/07d7955df62dbccef998a58026e03bb1e0ccda9a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=64d035f25dd565815468c0753c5d63f5"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Overlap, underlap or sit back? How Premier League teams use their full-backs",
+   "link": "https://www.theguardian.com/football/2026/nov/18/premier-league-teams-full-backs-opta-analyst",
+   "summary": "The role of full-back has changed massively in recent years. We analyse how all 20 sides are approaching the positionBy Opta AnalystOverlapping. Underlapping. Inverted. Traditional. The role of full-back has evolved\u2026",
+   "date": "2026-11-18T08:00:35+00:00",
+   "image": "https://i.guim.co.uk/img/media/cddb452cd8ee7fd6ace9700d98796771abd3a4f0/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=92a4b103c38eea93c2aa9a7e0c7db3c3"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Listen: What needs to change for Pocognoli and Scotland?",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pnkk9j?at_medium=RSS&at_campaign=rss",
+   "summary": "What needs to change to turn Scotland\u2019s fortunes around?",
+   "date": "2026-11-18T08:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnkkb9.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "From one of Ajax's future stars to quitting football for music",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
+   "date": "2026-11-18T07:02:42+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6ly5dq07wk5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-18T06:56:12+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "The 3pm football blackout: outdated or still relevant in 2026?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&at_campaign=rss",
+   "summary": "After 60 years, is time finally running out on the 3pm blackout in football?",
+   "date": "2026-11-18T06:27:11+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1959/live/65173c80-e287-11f1-b166-176de21e2352.jpg"
+  },
   {
    "source": "The Guardian",
    "title": "A 2-0 win over Haiti ends Pochettino\u2019s USMNT tenure with confident hope",
@@ -204,14 +268,6 @@
   },
   {
    "source": "The Guardian",
-   "title": "Sloppy Socceroos given a reality check as Jordan dominate in friendly win",
-   "link": "https://www.theguardian.com/football/2026/nov/17/australia-jordan-scocceroos-international-friendly",
-   "summary": "Jordan 2-0 Australia (Al-Taamari 34, Ali Olwan 90+3)Socceroos had just one effort on target in defeatIn their final game of 2026, the Socceroos were given a reminder that they remain a work in progress, beaten 2-0 by\u2026",
-   "date": "2026-11-17T19:14:54+00:00",
-   "image": "https://i.guim.co.uk/img/media/f9fee3497223c3350a15d7dd09f85c688679b1aa/152_0_3176_2540/master/3176.jpg?width=140&quality=85&auto=format&fit=max&s=0e3f1d458425440499bc57cde0006a7a"
-  },
-  {
-   "source": "The Guardian",
    "title": "Danny Kelly obituary",
    "link": "https://www.theguardian.com/media/2026/nov/17/danny-kelly-obituary",
    "summary": "Ebullient journalist, magazine editor and broadcaster whose passion for music and football shone through all his workDanny Kelly, who has died aged 69, influenced music journalism and sports broadcasting for more than\u2026",
@@ -265,14 +321,6 @@
    "summary": "Vitor Matos says farewell to Swansea City's players and staff as he closes in on a move to Strasbourg.",
    "date": "2026-11-17T16:52:59+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1526/live/72a6b0c0-e1f5-11f1-ac6e-e9777cdcbb4f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "York City player pleads not guilty over alleged punch of Rochdale fan",
-   "link": "https://www.bbc.co.uk/news/articles/c60mdvd4vpy4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Hiram Boateng has pleaded not guilty to a public order charge at Manchester Magistrates' Court.",
-   "date": "2026-11-17T16:03:15+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f106/live/1294a7e0-e296-11f1-8dda-8925a81c3da5.jpg"
   },
   {
    "source": "BBC Sport",
@@ -420,14 +468,6 @@
   },
   {
    "source": "The Guardian",
-   "title": "Blackburn Rovers head coach Tony Mowbray steps down due to health issues",
-   "link": "https://www.theguardian.com/football/2026/nov/17/blackburn-rovers-tony-mowbray-steps-down-due-to-health-issues",
-   "summary": "Mowbray confirms he has had to \u2018step back from role\u2019Rovers are currently 13th in the Championship tableTony Mowbray has stepped back from his role as the Blackburn Rovers head coach for health reasons.The 62-year-old\u2026",
-   "date": "2026-11-17T10:19:13+00:00",
-   "image": "https://i.guim.co.uk/img/media/30125acdb98b723ff242638d35182c3714cbd123/344_121_1744_1395/master/1744.jpg?width=140&quality=85&auto=format&fit=max&s=be2e9c3fa33021e4799b87be1e027eb3"
-  },
-  {
-   "source": "The Guardian",
    "title": "Max Dowman shines in England colours and sends another record tumbling",
    "link": "https://www.theguardian.com/football/2026/nov/17/max-dowman-england-under-21s-record-jude-bellingham",
    "summary": "Midfielder\u2019s under-21s winner eclipsed Jude Bellingham\u2019s mark and there was other talent to admire against France There may have been an Mbapp\u00e9 on the pitch \u2013 Ethan, the younger brother of Kylian, with whom he shares a\u2026",
@@ -484,14 +524,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Listen: Where do Scotland go after Swiss humiliation?",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pncq48?at_medium=RSS&at_campaign=rss",
-   "summary": "Pressure builds on Pocognoli after Scotland\u2019s Swiss nightmare.",
-   "date": "2026-11-17T08:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pncq6d.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Are Scotland still too reliant on 'old guard'?",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6zxvd1p4pr0o?at_medium=RSS&at_campaign=rss",
    "summary": "After a bruising defeat in Switzerland to conclude Scotland's Nations League campaign, questions are being asked about the direction of travel under new head coach Sebastien Pocognoli.",
@@ -523,44 +555,12 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/033a/live/effd2720-ddf4-11f1-8445-15eb55286f71.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Fifa accused of climate \u2018record of failure\u2019 due to Aramco deal and tournament expansion",
-   "link": "https://www.theguardian.com/football/2026/nov/17/fifa-accused-climate-record-failure-aramco-deal-tournament-expansion",
-   "summary": "Groups question \u2018sincerity\u2019 to meet emissions pledgesOil giant is a major sponsor of football governing bodyThe United Nations has been asked to review Fifa\u2019s status as a signatory to a key environmental initiative,\u2026",
-   "date": "2026-11-17T06:00:04+00:00",
-   "image": "https://i.guim.co.uk/img/media/aab961afa1f531072e294a49e2dff052c54c14d2/791_45_2763_2211/master/2763.jpg?width=140&quality=85&auto=format&fit=max&s=1ddb97958f8995adad774156627338a0"
-  },
-  {
    "source": "BBC Sport",
    "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
    "link": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
    "summary": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
    "date": "2026-11-17T00:19:58+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "What's the story with Pocognoli, is it now time to go?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
-   "summary": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
-   "date": "2026-11-17T00:19:58+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Pocognoli wants patience, but Scotland 'don't have time' - Robertson",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group.",
-   "date": "2026-11-16T22:36:26+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdd/live/1fc24180-e20e-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen.",
-   "date": "2026-11-16T22:14:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe26/live/f9c8c1f0-e20a-11f1-b023-f7d19fda92c1.jpg"
   }
  ],
  "videos": [
@@ -673,6 +673,12 @@
    "date": "2026-11-15T14:00:18+00:00"
   },
   {
+   "channel": "FIFA",
+   "id": "eKm6TUjfQ9U",
+   "title": "Eloy Room's Record-Breaking Performance | 2026 World Cup",
+   "date": "2026-11-18T06:30:35+00:00"
+  },
+  {
    "channel": "Bundesliga",
    "id": "OgUIw994mPA",
    "title": "Kevin Diks menggemparkan Bundesliga \ud83c\uddee\ud83c\udde9\ud83e\udd29",
@@ -701,12 +707,6 @@
    "id": "uZ-WhmeP4o8",
    "title": "Los 20 GOLAZOS m\u00e1s LEJANOS de LALIGA \ud83c\udfaf",
    "date": "2026-11-17T20:00:24+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "zUytwukxIZw",
-   "title": "Ziyech Takes A Seat \ud83c\udf7f",
-   "date": "2026-11-17T19:01:13+00:00"
   }
  ],
  "fixtures": [
