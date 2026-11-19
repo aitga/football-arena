@@ -1,6 +1,22 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Leicester split with sponsor after porn actress row",
+   "link": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
+   "summary": "A fan group had complained after BC Game appointed a porn actress as a brand ambassador.",
+   "date": "2026-11-19T11:44:35+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc3/live/c94480c0-d9d4-11f1-9e5a-c30c5e3d8c85.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Where the NWSL Championship will be won and lost",
+   "link": "https://www.theguardian.com/football/2026/nov/19/nwsl-championship-washington-spirit-kc-current-moving-the-goalposts",
+   "summary": "Croix Bethune, Trinity Rodman and the Rowdy Audi crowd could swing Saturday\u2019s final between the Washington Spirit and the Kansas City CurrentThis year\u2019s NWSL Championship blends recurring themes with some newness. For\u2026",
+   "date": "2026-11-19T11:40:20+00:00",
+   "image": "https://i.guim.co.uk/img/media/c0109944fee8515644f6f8c956750e358177905c/277_107_3491_2795/master/3491.jpg?width=140&quality=85&auto=format&fit=max&s=e9394b2a1e39224113e40d75d29eaa7b"
+  },
+  {
    "source": "The Guardian",
    "title": "Inside women\u2019s football\u2019s difficult rise in Syria: \u2018A joy that everyone in the country needed\u2019",
    "link": "https://www.theguardian.com/football/2026/nov/19/syria-womens-football",
@@ -63,25 +79,25 @@
    "summary": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos.",
    "date": "2026-11-19T09:43:08+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a795/live/d2a9b2c0-e3f7-11f1-99a1-253766e7ad8b.png"
-  },
-  {
-   "source": "ESPN",
-   "title": "FIFA confirms Infantino rivals for 2027 presidential election",
-   "link": "https://www.espn.com/soccer/story/_/id/50529522/fifa-gianni-infantino-phillipe-diallo-kohzo-tashima",
-   "summary": "FIFA have named Philippe Diallo and Kohzo Tashima as Gianni Infantino's rivals in next year's presidential election.",
-   "date": "2026-11-19T09:27:21+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Sources: Man Utd to take legal action if JJ Gabriel was illegally approached",
-   "link": "https://www.espn.com/soccer/story/_/id/50519120/man-united-jj-gabriel-legal-action-real-madrid",
-   "summary": "Manchester United are prepared to mount legal action if they find evidence that JJ Gabriel has been illegally approached by other clubs while under contract, sources have told ESPN.",
-   "date": "2026-11-19T09:27:08+00:00",
-   "image": null
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Leicester split with sponsor after porn actress row",
+   "link": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
+   "summary": "A fan group had complained after BC Game appointed a porn actress as a brand ambassador.",
+   "date": "2026-11-19T11:44:35+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc3/live/c94480c0-d9d4-11f1-9e5a-c30c5e3d8c85.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Where the NWSL Championship will be won and lost",
+   "link": "https://www.theguardian.com/football/2026/nov/19/nwsl-championship-washington-spirit-kc-current-moving-the-goalposts",
+   "summary": "Croix Bethune, Trinity Rodman and the Rowdy Audi crowd could swing Saturday\u2019s final between the Washington Spirit and the Kansas City CurrentThis year\u2019s NWSL Championship blends recurring themes with some newness. For\u2026",
+   "date": "2026-11-19T11:40:20+00:00",
+   "image": "https://i.guim.co.uk/img/media/c0109944fee8515644f6f8c956750e358177905c/277_107_3491_2795/master/3491.jpg?width=140&quality=85&auto=format&fit=max&s=e9394b2a1e39224113e40d75d29eaa7b"
+  },
   {
    "source": "The Guardian",
    "title": "Inside women\u2019s football\u2019s difficult rise in Syria: \u2018A joy that everyone in the country needed\u2019",
@@ -257,14 +273,6 @@
    "summary": "Based on ability and tactical importance, we've reranked the best players at the top Premier League clubs.",
    "date": "2026-11-19T08:42:59+00:00",
    "image": null
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Leicester split with sponsor after porn actress row",
-   "link": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
-   "summary": "A fans group had complained after BC Game appointed a porn actress as a brand ambassador.",
-   "date": "2026-11-19T08:26:16+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc3/live/c94480c0-d9d4-11f1-9e5a-c30c5e3d8c85.jpg"
   },
   {
    "source": "BBC Sport",
@@ -553,14 +561,6 @@
    "summary": "England's statement win over Spain has shaken up ESPN's World Cup Power Rankings, but our experts still back La Roja as the team to beat.",
    "date": "2026-11-18T14:02:00+00:00",
    "image": null
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Fan voice on board key to ending Celtic unrest - club legend McStay",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crx20q47ljl7o?at_medium=RSS&at_campaign=rss",
-   "summary": "Celtic legend Paul McStay says having a supporters representative on the board would be a significant step to halting the unrest between the club and the fans.",
-   "date": "2026-11-18T13:55:58+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef1/live/5edbfef0-e354-11f1-acd4-25eaaa5def63.jpg"
   }
  ],
  "videos": [
@@ -623,12 +623,6 @@
    "id": "0c7hKpwenL8",
    "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u064a\u0644\u0632 \u0648\u0627\u0644\u0628\u0631\u062a\u063a\u0627\u0644 | \u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0633\u0627\u062f\u0633\u0629",
    "date": "2026-11-17T22:13:56+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "ljxEPaKZBso",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627 \u0648\u0628\u0648\u0631\u0643\u064a\u0646\u0627 \u0641\u0627\u0633\u0648 | \u062a\u0635\u0641\u064a\u0627\u062a \u0643\u0623\u0633 \u0623\u0645\u0645 \u0625\u0641\u0631\u064a\u0642\u064a\u0627 2027 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629",
-   "date": "2026-11-17T22:13:53+00:00"
   },
   {
    "channel": "FIFA",
