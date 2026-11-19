@@ -1,166 +1,36 @@
 {
  "news": [
   {
-   "source": "The Guardian",
-   "title": "Arsenal v OL Lyonnes: Women\u2019s Champions League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
-   "summary": "\u26bd Champions League updates from the 8pm GMT kick-off\u26bd Live scores | Table | Read Moving the Goalposts | Mail YaraThe referee blows the whistle and we are off! Arsenal in their classic red and white and Lyon in all black\u2026",
-   "date": "2026-11-19T20:03:52+00:00",
-   "image": "https://i.guim.co.uk/img/media/52ad14d0674b45ce2195ff46243bd3561712629a/0_114_3747_2998/master/3747.jpg?width=140&quality=85&auto=format&fit=max&s=ccdcbd551d5669883d1c11e2e936e052"
+   "source": "BBC Sport",
+   "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
+   "summary": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more.",
+   "date": "2026-11-19T21:57:22+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3f8fe980-e462-11f1-a094-5fdc692f3e33.png"
   },
-  {
-   "source": "ESPN",
-   "title": "Messi leads way as MLS salaries rise; Union's Sullivan checks in at $614K",
-   "link": "https://www.espn.com/soccer/story/_/id/50526796/messi-leads-mls-salaries-rise-sullivan-614k",
-   "summary": "Inter Miami CF star Lionel Messi remains the highest-paid player in MLS, though the number of players making at least $10 million grew to five.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Bar\u00e7a's Deco keen for Liverpool to sign on-loan Araujo in $60M permanent deal",
-   "link": "https://www.espn.com/soccer/story/_/id/50530266/barcelona-deco-ronald-araujo-liverpool-transfer",
-   "summary": "Barcelona sporting director Deco has said the Spanish champions would welcome the money if Liverpool decide to sign Ronald Ara\u00fajo beyond his loan spell.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Pochettino: Man United players must relearn 'about being winners'",
-   "link": "https://www.espn.com/soccer/story/_/id/50529858/mauricio-pochettino-man-united-liverpool",
-   "summary": "Mauricio Pochettino has said his first job as Manchester United's new head coach is to remind the players how to win after a miserable start to the season.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "NWSL commish Berman 'frustrated' over playoff venue issues: Work to do",
-   "link": "https://www.espn.com/soccer/story/_/id/50532599/nwsl-commish-berman-frustrated-playoff-venue-issues",
-   "summary": "NWSL commissioner Jessica Berman said the league is frustrated with how its 2026 semifinal matches were played in an alternate venue and on an altered field.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Leader in his own way Haaland making 'natural' progression as City leader",
-   "link": "https://www.espn.com/soccer/story/_/id/50533036/erling-haaland-man-city-leader",
-   "summary": "Erling Haaland said it is \"natural\" for him to take on more responsibility as one of Manchester City's captains this season, but wants to do it in his own way.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Infantino calls for 'fair play' in upcoming FIFA elections",
-   "link": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
-   "summary": "Gianni Infantino has called for \"fair play\" during the election campaign for the FIFA presidency.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Ex-U.S. coach Arena: Federation doesn't 'have a clue' how to replace Poch",
-   "link": "https://www.espn.com/soccer/story/_/id/50525211/us-coach-arena-federation-clue-next-coach",
-   "summary": "Former U.S. men's coach and current San Jose Earthquakes manager Bruce Arena called out U.S. Soccer as the federation looks for Mauricio Pochettino's replacement.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Ravenna coach: Door 'wide open' for Ronaldinho to play again",
-   "link": "https://www.espn.com/soccer/story/_/id/50530520/ravenna-coach-door-open-ronaldinho-play-again",
-   "summary": "Ravenna coach Andrea Mandorlini said the door is \"wide open\" for Ronaldinho to play again for the Italian third division club.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "\u26bd Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd",
-   "link": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
-   "summary": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  }
- ],
- "news_all": [
   {
    "source": "The Guardian",
    "title": "Arsenal v OL Lyonnes: Women\u2019s Champions League \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
    "summary": "\u26bd Champions League updates from the 8pm GMT kick-off\u26bd Live scores | Table | Read Moving the Goalposts | Mail YaraThe referee blows the whistle and we are off! Arsenal in their classic red and white and Lyon in all black\u2026",
-   "date": "2026-11-19T20:03:52+00:00",
-   "image": "https://i.guim.co.uk/img/media/52ad14d0674b45ce2195ff46243bd3561712629a/0_114_3747_2998/master/3747.jpg?width=140&quality=85&auto=format&fit=max&s=ccdcbd551d5669883d1c11e2e936e052"
+   "date": "2026-11-19T21:47:14+00:00",
+   "image": "https://i.guim.co.uk/img/media/e2556d6f8299aa54dd5f779869a583182a1fd173/310_0_2555_2044/master/2555.jpg?width=140&quality=85&auto=format&fit=max&s=181cb22f5525b109a03e06279aa89580"
   },
   {
-   "source": "ESPN",
-   "title": "Messi leads way as MLS salaries rise; Union's Sullivan checks in at $614K",
-   "link": "https://www.espn.com/soccer/story/_/id/50526796/messi-leads-mls-salaries-rise-sullivan-614k",
-   "summary": "Inter Miami CF star Lionel Messi remains the highest-paid player in MLS, though the number of players making at least $10 million grew to five.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
+   "source": "BBC Sport",
+   "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o?at_medium=RSS&at_campaign=rss",
+   "summary": "Ukraine great Andriy Shevchenko accuses Mykhailo Mudryk of a \"baseless slander\" after the on-loan Tottenham winger blamed his failed drugs test on the nation's football association.",
+   "date": "2026-11-19T20:44:11+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg"
   },
   {
-   "source": "ESPN",
-   "title": "Bar\u00e7a's Deco keen for Liverpool to sign on-loan Araujo in $60M permanent deal",
-   "link": "https://www.espn.com/soccer/story/_/id/50530266/barcelona-deco-ronald-araujo-liverpool-transfer",
-   "summary": "Barcelona sporting director Deco has said the Spanish champions would welcome the money if Liverpool decide to sign Ronald Ara\u00fajo beyond his loan spell.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Pochettino: Man United players must relearn 'about being winners'",
-   "link": "https://www.espn.com/soccer/story/_/id/50529858/mauricio-pochettino-man-united-liverpool",
-   "summary": "Mauricio Pochettino has said his first job as Manchester United's new head coach is to remind the players how to win after a miserable start to the season.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "NWSL commish Berman 'frustrated' over playoff venue issues: Work to do",
-   "link": "https://www.espn.com/soccer/story/_/id/50532599/nwsl-commish-berman-frustrated-playoff-venue-issues",
-   "summary": "NWSL commissioner Jessica Berman said the league is frustrated with how its 2026 semifinal matches were played in an alternate venue and on an altered field.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Leader in his own way Haaland making 'natural' progression as City leader",
-   "link": "https://www.espn.com/soccer/story/_/id/50533036/erling-haaland-man-city-leader",
-   "summary": "Erling Haaland said it is \"natural\" for him to take on more responsibility as one of Manchester City's captains this season, but wants to do it in his own way.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Infantino calls for 'fair play' in upcoming FIFA elections",
-   "link": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
-   "summary": "Gianni Infantino has called for \"fair play\" during the election campaign for the FIFA presidency.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Ex-U.S. coach Arena: Federation doesn't 'have a clue' how to replace Poch",
-   "link": "https://www.espn.com/soccer/story/_/id/50525211/us-coach-arena-federation-clue-next-coach",
-   "summary": "Former U.S. men's coach and current San Jose Earthquakes manager Bruce Arena called out U.S. Soccer as the federation looks for Mauricio Pochettino's replacement.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Ravenna coach: Door 'wide open' for Ronaldinho to play again",
-   "link": "https://www.espn.com/soccer/story/_/id/50530520/ravenna-coach-door-open-ronaldinho-play-again",
-   "summary": "Ravenna coach Andrea Mandorlini said the door is \"wide open\" for Ronaldinho to play again for the Italian third division club.",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "\u26bd Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd",
-   "link": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
-   "summary": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
-   "date": "2026-11-19T19:56:29+00:00",
-   "image": null
+   "source": "BBC Sport",
+   "title": "Frank happy to be 'back in the circus' at Palace",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
+   "summary": "Thomas Frank is happy to be \"back in the circus\" after speaking at his first news conference as Crystal Palace manager.",
+   "date": "2026-11-19T20:16:10+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ef/live/c3f26550-e452-11f1-8a3d-bb9751dc9556.jpg"
   },
   {
    "source": "The Guardian",
@@ -169,22 +39,6 @@
    "summary": "Dane was sacked by Tottenham in February\u2018I know what I want and the direction we should go in\u2019Thomas Frank has admitted he has a point to prove on his return to management as he aims to steer Crystal Palace away from\u2026",
    "date": "2026-11-19T19:50:10+00:00",
    "image": "https://i.guim.co.uk/img/media/73cdbb52acc035c7afaca11f3c36a90ac19ecca9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=53dd1851b7bc7a60850ab6e0e3eaaf90"
-  },
-  {
-   "source": "ESPN",
-   "title": "Which USMNT fringe players stand to benefit from Mauricio Pochettino's exit?",
-   "link": "https://www.espn.com/soccer/story/_/id/50531656/usmnt-players-benefit-pochettino-exit",
-   "summary": "With Mauricio Pochettino now at Manchesterr United, there are a host of midfielders primed for a revival in fortunes with the U.S. men's national team.",
-   "date": "2026-11-19T19:29:55+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Pochettino gets a fitting, emotional send-off from USMNT",
-   "link": "https://www.espn.com/soccer/story/_/id/50516323/mauricio-pochettino-emotional-send-usmnt-manchester-united",
-   "summary": "No United States men's national team coach has ever left quite like this. Loved by players, celebrated by fans, and gone on his own terms.",
-   "date": "2026-11-19T19:29:55+00:00",
-   "image": null
   },
   {
    "source": "BBC Sport",
@@ -203,20 +57,86 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17f2/live/d02f91c0-e449-11f1-9192-3924a59e54c7.jpg"
   },
   {
-   "source": "ESPN",
-   "title": "Predicting the rest of the Premier League season: How all 20 teams will finish",
-   "link": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea",
-   "summary": "After 10 games, we have enough data to predict every Premier League team's final spot in the standings for the 2026-27 season.",
-   "date": "2026-11-19T19:01:32+00:00",
-   "image": null
+   "source": "BBC Sport",
+   "title": "Sutton's predictions v world champion boxer Lauren Price",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport football expert Chris Sutton takes on world champion boxer Lauren Price, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
+   "date": "2026-11-19T18:52:00+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db10/live/2d275fd0-e28c-11f1-a094-5fdc692f3e33.png"
   },
   {
-   "source": "ESPN",
-   "title": "Reranked: Who is the MVP for each of the top Premier League clubs?",
-   "link": "https://www.espn.com/soccer/story/_/id/50461269/mvp-premier-league-arsenal-man-united-chelsea-man-city-liverpool",
-   "summary": "Based on ability and tactical importance, we've reranked the best players at the top Premier League clubs.",
-   "date": "2026-11-19T19:01:32+00:00",
-   "image": null
+   "source": "BBC Sport",
+   "title": "Pochettino's first Man Utd training session filmed by drone operator",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
+   "date": "2026-11-19T18:45:56+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f56/live/0be50c80-e446-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Summer signings join Lionel Messi among MLS\u2019s top earners: Takeaways from the league\u2019s salary release",
+   "link": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
+   "summary": "How much in player salaries did it take to earn a point in the 2026 MLS regular season? The latest batch of salaries lends some insightLionel Messi has closer company at the top of MLS\u2019s list of highest-paid players,\u2026",
+   "date": "2026-11-19T18:01:17+00:00",
+   "image": "https://i.guim.co.uk/img/media/295eaf1b8e3e4febef1061f3822c8d8701d5310b/183_0_2356_1886/master/2356.jpg?width=140&quality=85&auto=format&fit=max&s=8357f6fe4ff7f873989ffc011b3c3754"
+  }
+ ],
+ "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
+   "summary": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more.",
+   "date": "2026-11-19T21:57:22+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3f8fe980-e462-11f1-a094-5fdc692f3e33.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Arsenal v OL Lyonnes: Women\u2019s Champions League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
+   "summary": "\u26bd Champions League updates from the 8pm GMT kick-off\u26bd Live scores | Table | Read Moving the Goalposts | Mail YaraThe referee blows the whistle and we are off! Arsenal in their classic red and white and Lyon in all black\u2026",
+   "date": "2026-11-19T21:47:14+00:00",
+   "image": "https://i.guim.co.uk/img/media/e2556d6f8299aa54dd5f779869a583182a1fd173/310_0_2555_2044/master/2555.jpg?width=140&quality=85&auto=format&fit=max&s=181cb22f5525b109a03e06279aa89580"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o?at_medium=RSS&at_campaign=rss",
+   "summary": "Ukraine great Andriy Shevchenko accuses Mykhailo Mudryk of a \"baseless slander\" after the on-loan Tottenham winger blamed his failed drugs test on the nation's football association.",
+   "date": "2026-11-19T20:44:11+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Frank happy to be 'back in the circus' at Palace",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
+   "summary": "Thomas Frank is happy to be \"back in the circus\" after speaking at his first news conference as Crystal Palace manager.",
+   "date": "2026-11-19T20:16:10+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ef/live/c3f26550-e452-11f1-8a3d-bb9751dc9556.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Thomas Frank admits he has a point to prove after taking reins at Crystal Palace",
+   "link": "https://www.theguardian.com/football/2026/nov/19/thomas-frank-crystal-palace-premier-league",
+   "summary": "Dane was sacked by Tottenham in February\u2018I know what I want and the direction we should go in\u2019Thomas Frank has admitted he has a point to prove on his return to management as he aims to steer Crystal Palace away from\u2026",
+   "date": "2026-11-19T19:50:10+00:00",
+   "image": "https://i.guim.co.uk/img/media/73cdbb52acc035c7afaca11f3c36a90ac19ecca9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=53dd1851b7bc7a60850ab6e0e3eaaf90"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "New manager Frick to take Aberdeen back to basics",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq36gw03n17jo?at_medium=RSS&at_campaign=rss",
+   "summary": "Head coach Mario Frick says his track record proves he can produce exciting football - but a back-to-basics approach is needed at Aberdeen.",
+   "date": "2026-11-19T19:11:26+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ec/live/f852eba0-e44b-11f1-9192-3924a59e54c7.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "England fined for fans' anti-Catholic chants in Spain",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
+   "summary": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain.",
+   "date": "2026-11-19T19:11:03+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17f2/live/d02f91c0-e449-11f1-9192-3924a59e54c7.jpg"
   },
   {
    "source": "BBC Sport",
@@ -313,14 +233,6 @@
    "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Although the millions of gamers who are pulling sickies would beg to differ, the release of Grand Theft Auto VI wasn\u2019t the most exciting midnight launch involving a\u2026",
    "date": "2026-11-19T15:42:09+00:00",
    "image": "https://i.guim.co.uk/img/media/c327268269cd45ada77c5648271205a3ee75fa80/1076_0_6254_5004/master/6254.jpg?width=140&quality=85&auto=format&fit=max&s=5021fd680d29562acf14e05ed324e664"
-  },
-  {
-   "source": "ESPN",
-   "title": "After a decade of near misses, Man United finally get their man in Pochettino",
-   "link": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade",
-   "summary": "After years of near misses and missed opportunities, Mauricio Pochettino is finally taking charge at Manchester United following a decade-long pursuit.",
-   "date": "2026-11-19T15:17:17+00:00",
-   "image": null
   },
   {
    "source": "BBC Sport",
@@ -452,38 +364,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Allen to join Williams in interim Swans coaching team",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5lyk9rp0vjgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos.",
-   "date": "2026-11-19T09:43:08+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a795/live/d2a9b2c0-e3f7-11f1-99a1-253766e7ad8b.png"
-  },
-  {
-   "source": "ESPN",
-   "title": "Transfer rumors, news: Premier League clubs eye Ronaldo successor Forbs",
-   "link": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs",
-   "summary": "Club Brugge winger Carlos Forbs is being tracked by a host of Premier League clubs after taking over the Portugal No. 7 shirt from Cristiano Ronaldo. Transfer Talk has the latest.",
-   "date": "2026-11-19T09:12:28+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Mr. Worldwide: Meet the Brazilian soccer star who has played for clubs on six continents",
-   "link": "https://www.espn.com/soccer/story/_/id/50461455/soccer-star-played-clubs-six-continents",
-   "summary": "Brazilian winger S\u00e9rgio Barboza has joined a very exclusive club by playing for teams in all six of world soccer's continental confederations.",
-   "date": "2026-11-19T09:06:15+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "The NWSL has more money than ever, yet its biggest problems remain",
-   "link": "https://www.espn.com/soccer/story/_/id/50524447/nwsl-money-problems-remain-2026-championship-stadium",
-   "summary": "As the NWSL approaches its season climax with Saturday's Championship, the league still has to deal with the same problems despite hitting major milestones.",
-   "date": "2026-11-19T08:57:14+00:00",
-   "image": null
-  },
-  {
-   "source": "BBC Sport",
    "title": "The best European strikers this century - ranked by you",
    "link": "https://www.bbc.co.uk/sport/football/articles/cw5y1ver2rpyo?at_medium=RSS&at_campaign=rss",
    "summary": "BBC Sport reveals the top 10 European strikers this century, as voted for by you.",
@@ -504,7 +384,7 @@
    "link": "https://www.theguardian.com/football/2026/nov/19/manchester-city-guilty-verdict-premier-league-charges-maine-road-non-league",
    "summary": "Tenth-tier club aim to become a new home for disillusioned supporters and those priced out of the Premier LeagueIt began with a timely message on social media. \u201cWe\u2019ve seen the posts. We\u2019ve read the comments. If all the\u2026",
    "date": "2026-11-19T08:00:21+00:00",
-   "image": "https://i.guim.co.uk/img/media/8b28322a2443e0982ccefdbb6c4c71328c7d18a0/1395_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=395004c87bc4e0c7f2adb3b6b96a2e6d"
+   "image": "https://i.guim.co.uk/img/media/326318953623c26ccae398fbce55b02685d812dc/149_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=57911f93142bd7d6234aabeb1622fd62"
   },
   {
    "source": "BBC Sport",
@@ -555,12 +435,132 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1b/live/b398fac0-e367-11f1-9f51-4bfc31543510.jpg"
   },
   {
-   "source": "ESPN",
-   "title": "Chelsea's defense shines, but will scoring woes be their undoing in UWCL?",
-   "link": "https://www.espn.com/soccer/story/_/id/50524335/chelsea-psg-uwcl-scoring-issues",
-   "summary": "Chelsea have scored just four goals in five Women's Champions League matches, though they remain in strong position for the knockout rounds because of their lockdown defense.",
-   "date": "2026-11-18T23:07:13+00:00",
-   "image": null
+   "source": "The Guardian",
+   "title": "Manchester United\u2019s infamous 1974 relegation is a warning from history",
+   "link": "https://www.theguardian.com/football/2026/nov/18/manchester-united-infamous-1974-relegation-is-a-warning-from-history",
+   "summary": "It may have been a different era, but the 1970s contain salutary lessons for a club in serious decline once againIn many ways, there are striking parallels between the Manchester United relegated in 1974 and the\u2026",
+   "date": "2026-11-18T22:30:10+00:00",
+   "image": "https://i.guim.co.uk/img/media/e972d5919ff64a850d1ffe239a15b17f2d35a20f/247_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=00dafb7dfaec630f9e4edae478d8703d"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Buurman rescues late Chelsea win against PSG",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
+   "date": "2026-11-18T22:13:49+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7393/live/0b748390-e39a-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Veerle Buurman scrambles late WCL winner to push blunt Chelsea past PSG",
+   "link": "https://www.theguardian.com/football/2026/nov/18/chelsea-paris-saint-germain-womens-champions-league-match-report",
+   "summary": "Chelsea were made to work hard for three Champions League points against a resilient Paris Saint-Germain side but their patience paid off, Veerle Buurman squeezing the ball in at the near post to put them, temporarily\u2026",
+   "date": "2026-11-18T22:06:45+00:00",
+   "image": "https://i.guim.co.uk/img/media/e6a874dbf4bddc966b34b0697e0af97e877130b0/523_0_3954_3164/master/3954.jpg?width=140&quality=85&auto=format&fit=max&s=fb6fc4ff9b3a4106ea3b775756da5da4"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "England defender Carter joins Bay FC after Gotham exit",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o?at_medium=RSS&at_campaign=rss",
+   "summary": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.",
+   "date": "2026-11-18T21:07:26+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2514/live/7b839f70-e392-11f1-b4f3-9f0685d52a1f.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Strasbourg appoint Swansea boss Matos",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o?at_medium=RSS&at_campaign=rss",
+   "summary": "Strasbourg announce the appointment of Vitor Matos as the club's head coach - though Swansea City are yet to confirm the move.",
+   "date": "2026-11-18T20:57:54+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f2/live/25bf9080-e356-11f1-acd4-25eaaa5def63.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "FA explored legal challenge to Infantino staying on",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
+   "summary": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail.",
+   "date": "2026-11-18T20:55:01+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c1/live/e7141200-e37f-11f1-b879-03485a55c082.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss",
+   "summary": "Substitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League.",
+   "date": "2026-11-18T20:25:40+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9911/live/b9f39560-e385-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018An honour\u2019: Pochettino up for challenge of leading Manchester United revival",
+   "link": "https://www.theguardian.com/football/2026/nov/18/mauricio-pochettino-arrives-manchester-united-head-coach-premier-league",
+   "summary": "New head coach faces tough opening match at Anfield\u2018It\u2019s a big challenge but at the same time it\u2019s adrenaline\u2019Mauricio Pochettino said it was \u201can honour\u201d and \u201ca privilege\u201d to be the new Manchester United head coach\u2026",
+   "date": "2026-11-18T19:58:26+00:00",
+   "image": "https://i.guim.co.uk/img/media/c606b47d86e425730d31a6354ae735dcb57ef48b/450_186_3988_3190/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=ca5b136efb71d8a64a62ff36451d562f"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c61k9mz9vvkyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28.",
+   "date": "2026-11-18T19:09:00+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c880/live/28da6540-e37b-11f1-b879-03485a55c082.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Leicester part ways with BC Game after sponsor\u2019s partnership with porn actor",
+   "link": "https://www.theguardian.com/football/2026/nov/18/leicester-city-bc-game-porn-star-eva-elfie-sponsorship",
+   "summary": "Cryptocurrency casino made Eva Elfie a brand ambassadorClub end deal early citing \u2018differing commercial priorities\u2019Leicester City have ditched their front-of-shirt sponsor, BC Game, after the cryptocurrency casino\u2019s\u2026",
+   "date": "2026-11-18T19:01:59+00:00",
+   "image": "https://i.guim.co.uk/img/media/7044644398bc3a27fb87871dca4a0fb85c58ff05/933_1200_2646_2118/master/2646.jpg?width=140&quality=85&auto=format&fit=max&s=31e4c0002a73230e4d12c9b184513678"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Emma Hayes to assist in US Soccer hiring process for next USMNT coach",
+   "link": "https://www.theguardian.com/football/2026/nov/18/emma-hayes-usmnt-head-coach-hiring-process",
+   "summary": "US women\u2019s head coach won Olympics in 2024Hayes enjoyed trophy-laden tenure at ChelseaThe US women\u2019s national team head coach, Emma Hayes, said she was \u201cconfident in the group that is being put together\u201d to select her\u2026",
+   "date": "2026-11-18T18:44:26+00:00",
+   "image": "https://i.guim.co.uk/img/media/8ca83424102c163bcc76a3530cca7a176f8cfb56/18_0_2583_2067/master/2583.jpg?width=140&quality=85&auto=format&fit=max&s=4d6c46eaebcdbe86b8fb5b240941f572"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Ward close to new Republic of Ireland deal as World Cup chance beckons",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6782xedd985o?at_medium=RSS&at_campaign=rss",
+   "summary": "Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final.",
+   "date": "2026-11-18T18:06:04+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f568/live/9fbcb180-e36d-11f1-9f51-4bfc31543510.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Ward close to new deal as Noonan returns to squad",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6782xedd985o?at_medium=RSS&at_campaign=rss",
+   "summary": "Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final.",
+   "date": "2026-11-18T18:06:04+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f568/live/9fbcb180-e36d-11f1-9f51-4bfc31543510.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "The tightest survival scrap for years? Why it's not too early to worry",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
+   "summary": "The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?",
+   "date": "2026-11-18T16:09:55+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f51/live/09641460-e33d-11f1-a094-5fdc692f3e33.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Football Daily | From Cincinnati to Manchester: Pochettino in a hurry to paint town red",
+   "link": "https://www.theguardian.com/football/2026/nov/18/cincinnati-manchester-united-pochettino-football-daily-newsletter",
+   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!With his team mired in the relegation zone and a massive match at Liverpool this weekend, Mauricio Pochettino has been understandably busy since being appointed head\u2026",
+   "date": "2026-11-18T15:16:44+00:00",
+   "image": "https://i.guim.co.uk/img/media/cfcf24b8b9459c10a5242992bae6d3dd6ef35c63/814_110_3424_2739/master/3424.jpg?width=140&quality=85&auto=format&fit=max&s=2e31b58090aec62d2e42a68c760f45f2"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Pressley calls for national centre to enhance Scottish game",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmvg28v270yzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Scotland would benefit from the creation of a national football centre, argues Dundee head coach Steven Pressley, who likens the current structure of the game to building on sand.",
+   "date": "2026-11-18T15:07:43+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/759f/live/82b10c50-e361-11f1-a898-e7da1c1ebbf0.jpg"
   }
  ],
  "videos": [
@@ -661,6 +661,12 @@
    "date": "2026-11-17T15:18:30+00:00"
   },
   {
+   "channel": "LaLiga",
+   "id": "GMuEf0e7_JU",
+   "title": "MODRI\u0106 no pierde su magia ni calentando",
+   "date": "2026-11-19T21:00:13+00:00"
+  },
+  {
    "channel": "Premier League",
    "id": "c8yI5Bt1vQM",
    "title": "Try And Stop Saka Challenge \ud83e\ude84",
@@ -689,12 +695,6 @@
    "id": "e1KnuMsCGZ0",
    "title": "Benzema starting and ending the move \ud83d\ude2e\u200d\ud83d\udca8",
    "date": "2026-11-19T16:00:11+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "AuX9-gLfsfY",
-   "title": "Subtle yet effective",
-   "date": "2026-11-19T15:00:48+00:00"
   }
  ],
  "fixtures": [
