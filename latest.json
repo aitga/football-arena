@@ -1,51 +1,11 @@
 {
  "news": [
   {
-   "source": "BBC Sport",
-   "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
-   "date": "2026-11-18T22:34:05+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07c/live/092861f0-e3a0-11f1-8c43-131df4a2c89f.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Manchester United\u2019s infamous 1974 relegation is a warning from history",
-   "link": "https://www.theguardian.com/football/2026/nov/18/manchester-united-infamous-1974-relegation-is-a-warning-from-history",
-   "summary": "It may have been a different era, but the 1970s contain salutary lessons for a club in serious decline once againIn many ways, there are striking parallels between the Manchester United relegated in 1974 and the\u2026",
-   "date": "2026-11-18T22:30:10+00:00",
-   "image": "https://i.guim.co.uk/img/media/e972d5919ff64a850d1ffe239a15b17f2d35a20f/247_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=00dafb7dfaec630f9e4edae478d8703d"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Buurman rescues late Chelsea win against PSG",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
-   "date": "2026-11-18T22:13:49+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7393/live/0b748390-e39a-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "ESPN",
-   "title": "Sources: Man Utd to take legal action if JJ Gabriel was illegally approached",
-   "link": "https://www.espn.com/soccer/story/_/id/50519120/man-united-jj-gabriel-legal-action-real-madrid",
-   "summary": "Manchester United are prepared to mount legal action if they find evidence that JJ Gabriel has been illegally approached by other clubs while under contract, sources have told ESPN.",
-   "date": "2026-11-18T22:09:24+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Mata retires aged 38 after winning World Cup, Champions League, Euros, FA Cup",
-   "link": "https://www.espn.com/soccer/story/_/id/50519330/juan-mata-retires-spain-world-cup-man-united",
-   "summary": "Former Manchester United midfielder Juan Mata has announced his retirement from football.",
-   "date": "2026-11-18T22:09:24+00:00",
-   "image": null
-  },
-  {
    "source": "ESPN",
    "title": "Pochettino arrives at Man United, he vows: 'You will see, give me time'",
    "link": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league",
    "summary": "Mauricio Pochettino arrived at Manchester United for his first day as head coach on Wednesday but said he requires \"time\" to turn the club's fortunes around.",
-   "date": "2026-11-18T22:09:23+00:00",
+   "date": "2026-11-18T23:08:01+00:00",
    "image": null
   },
   {
@@ -53,7 +13,7 @@
    "title": "USWNT's Emma Hayes on role in USMNT coach search: 'Through a technical lens'",
    "link": "https://www.espn.com/soccer/story/_/id/50522474/uswnt-emma-hayes-role-usmnt-coach-search-technical-lens",
    "summary": "USWNT coach Emma Hayes said that she's committed to helping with a thorough search for the next USMNT coach after the recent exit of Mauricio Pochettino.",
-   "date": "2026-11-18T22:09:23+00:00",
+   "date": "2026-11-18T23:08:01+00:00",
    "image": null
   },
   {
@@ -61,7 +21,7 @@
    "title": "Sam Coffey returns to USWNT roster for World Cup qualifying",
    "link": "https://www.espn.com/soccer/story/_/id/50520685/sam-coffey-returns-uswnt-roster-world-cup-qualifying",
    "summary": "Midfielder Sam Coffey has been named to the USWNT's World Cup qualifying roster that will assemble for training camp later this month.",
-   "date": "2026-11-18T22:09:23+00:00",
+   "date": "2026-11-18T23:08:01+00:00",
    "image": null
   },
   {
@@ -69,7 +29,7 @@
    "title": "Bay FC signs England defender Jess Carter from Gotham FC",
    "link": "https://www.espn.com/soccer/story/_/id/50524100/bay-fc-signs-england-defender-jess-carter-gotham-fc",
    "summary": "Jess Carter is trading the east coast for the west after signing a deal with Bay FC, the NWSL side announced Wednesday.",
-   "date": "2026-11-18T22:09:23+00:00",
+   "date": "2026-11-18T23:08:01+00:00",
    "image": null
   },
   {
@@ -77,89 +37,15 @@
    "title": "Pulisic's bicycle kick puts USMNT in semis as Pochettino bids farewell",
    "link": "https://www.espn.com/soccer/report/_/gameId/401929766",
    "summary": "A bicycle kick by Christian Pulisic helped the United States clinch its spot in the Concacaf Nations League semifinals in Mauricio Pochettino's final game.",
-   "date": "2026-11-18T22:09:23+00:00",
+   "date": "2026-11-18T23:08:01+00:00",
    "image": null
-  }
- ],
- "news_all": [
-  {
-   "source": "BBC Sport",
-   "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
-   "date": "2026-11-18T22:34:05+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07c/live/092861f0-e3a0-11f1-8c43-131df4a2c89f.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Manchester United\u2019s infamous 1974 relegation is a warning from history",
-   "link": "https://www.theguardian.com/football/2026/nov/18/manchester-united-infamous-1974-relegation-is-a-warning-from-history",
-   "summary": "It may have been a different era, but the 1970s contain salutary lessons for a club in serious decline once againIn many ways, there are striking parallels between the Manchester United relegated in 1974 and the\u2026",
-   "date": "2026-11-18T22:30:10+00:00",
-   "image": "https://i.guim.co.uk/img/media/e972d5919ff64a850d1ffe239a15b17f2d35a20f/247_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=00dafb7dfaec630f9e4edae478d8703d"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Buurman rescues late Chelsea win against PSG",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
-   "date": "2026-11-18T22:13:49+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7393/live/0b748390-e39a-11f1-99a1-253766e7ad8b.jpg"
   },
   {
    "source": "ESPN",
    "title": "Sources: Man Utd to take legal action if JJ Gabriel was illegally approached",
    "link": "https://www.espn.com/soccer/story/_/id/50519120/man-united-jj-gabriel-legal-action-real-madrid",
    "summary": "Manchester United are prepared to mount legal action if they find evidence that JJ Gabriel has been illegally approached by other clubs while under contract, sources have told ESPN.",
-   "date": "2026-11-18T22:09:24+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Mata retires aged 38 after winning World Cup, Champions League, Euros, FA Cup",
-   "link": "https://www.espn.com/soccer/story/_/id/50519330/juan-mata-retires-spain-world-cup-man-united",
-   "summary": "Former Manchester United midfielder Juan Mata has announced his retirement from football.",
-   "date": "2026-11-18T22:09:24+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Pochettino arrives at Man United, he vows: 'You will see, give me time'",
-   "link": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league",
-   "summary": "Mauricio Pochettino arrived at Manchester United for his first day as head coach on Wednesday but said he requires \"time\" to turn the club's fortunes around.",
-   "date": "2026-11-18T22:09:23+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "USWNT's Emma Hayes on role in USMNT coach search: 'Through a technical lens'",
-   "link": "https://www.espn.com/soccer/story/_/id/50522474/uswnt-emma-hayes-role-usmnt-coach-search-technical-lens",
-   "summary": "USWNT coach Emma Hayes said that she's committed to helping with a thorough search for the next USMNT coach after the recent exit of Mauricio Pochettino.",
-   "date": "2026-11-18T22:09:23+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Sam Coffey returns to USWNT roster for World Cup qualifying",
-   "link": "https://www.espn.com/soccer/story/_/id/50520685/sam-coffey-returns-uswnt-roster-world-cup-qualifying",
-   "summary": "Midfielder Sam Coffey has been named to the USWNT's World Cup qualifying roster that will assemble for training camp later this month.",
-   "date": "2026-11-18T22:09:23+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Bay FC signs England defender Jess Carter from Gotham FC",
-   "link": "https://www.espn.com/soccer/story/_/id/50524100/bay-fc-signs-england-defender-jess-carter-gotham-fc",
-   "summary": "Jess Carter is trading the east coast for the west after signing a deal with Bay FC, the NWSL side announced Wednesday.",
-   "date": "2026-11-18T22:09:23+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Pulisic's bicycle kick puts USMNT in semis as Pochettino bids farewell",
-   "link": "https://www.espn.com/soccer/report/_/gameId/401929766",
-   "summary": "A bicycle kick by Christian Pulisic helped the United States clinch its spot in the Concacaf Nations League semifinals in Mauricio Pochettino's final game.",
-   "date": "2026-11-18T22:09:23+00:00",
+   "date": "2026-11-18T23:08:01+00:00",
    "image": null
   },
   {
@@ -167,7 +53,15 @@
    "title": "Mexico edge Jamaica for first win under M\u00e1rquez, set up Nations League semi vs. U.S.",
    "link": "https://www.espn.com/soccer/story/_/id/50517553/mexico-survive-jamaica-scare-give-marquez-first-win",
    "summary": "Veteran forward Jes\u00fas Corona scored a first-half goal on Tuesday as Mexico snapped a five-game winless streak with a 1-0 victory over Jamaica.",
-   "date": "2026-11-18T22:09:23+00:00",
+   "date": "2026-11-18T23:08:01+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Mata retires aged 38 after winning World Cup, Champions League, Euros, FA Cup",
+   "link": "https://www.espn.com/soccer/story/_/id/50519330/juan-mata-retires-spain-world-cup-man-united",
+   "summary": "Former Manchester United midfielder Juan Mata has announced his retirement from football.",
+   "date": "2026-11-18T23:08:01+00:00",
    "image": null
   },
   {
@@ -175,8 +69,130 @@
    "title": "\u26bd Meet the heir to Messi's Argentina No. 10 shirt",
    "link": "https://www.espn.com/soccer/story/_/id/50460862/nico-paz-como-argentina-lionel-messi",
    "summary": "Como's Nico Paz has become one of the best young players in Europe, but now he faces the unenviable task of stepping into Lionel Messi's Argentina No. 10 shirt.",
-   "date": "2026-11-18T22:09:23+00:00",
+   "date": "2026-11-18T23:08:01+00:00",
    "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Chelsea's defense shines, but will scoring woes be their undoing in UWCL?",
+   "link": "https://www.espn.com/soccer/story/_/id/50524335/chelsea-psg-uwcl-scoring-issues",
+   "summary": "Chelsea have scored just four goals in five Women's Champions League matches, though they remain in strong position for the knockout rounds because of their lockdown defense.",
+   "date": "2026-11-18T23:07:13+00:00",
+   "image": null
+  }
+ ],
+ "news_all": [
+  {
+   "source": "ESPN",
+   "title": "Pochettino arrives at Man United, he vows: 'You will see, give me time'",
+   "link": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league",
+   "summary": "Mauricio Pochettino arrived at Manchester United for his first day as head coach on Wednesday but said he requires \"time\" to turn the club's fortunes around.",
+   "date": "2026-11-18T23:08:01+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "USWNT's Emma Hayes on role in USMNT coach search: 'Through a technical lens'",
+   "link": "https://www.espn.com/soccer/story/_/id/50522474/uswnt-emma-hayes-role-usmnt-coach-search-technical-lens",
+   "summary": "USWNT coach Emma Hayes said that she's committed to helping with a thorough search for the next USMNT coach after the recent exit of Mauricio Pochettino.",
+   "date": "2026-11-18T23:08:01+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Sam Coffey returns to USWNT roster for World Cup qualifying",
+   "link": "https://www.espn.com/soccer/story/_/id/50520685/sam-coffey-returns-uswnt-roster-world-cup-qualifying",
+   "summary": "Midfielder Sam Coffey has been named to the USWNT's World Cup qualifying roster that will assemble for training camp later this month.",
+   "date": "2026-11-18T23:08:01+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Bay FC signs England defender Jess Carter from Gotham FC",
+   "link": "https://www.espn.com/soccer/story/_/id/50524100/bay-fc-signs-england-defender-jess-carter-gotham-fc",
+   "summary": "Jess Carter is trading the east coast for the west after signing a deal with Bay FC, the NWSL side announced Wednesday.",
+   "date": "2026-11-18T23:08:01+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Pulisic's bicycle kick puts USMNT in semis as Pochettino bids farewell",
+   "link": "https://www.espn.com/soccer/report/_/gameId/401929766",
+   "summary": "A bicycle kick by Christian Pulisic helped the United States clinch its spot in the Concacaf Nations League semifinals in Mauricio Pochettino's final game.",
+   "date": "2026-11-18T23:08:01+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Sources: Man Utd to take legal action if JJ Gabriel was illegally approached",
+   "link": "https://www.espn.com/soccer/story/_/id/50519120/man-united-jj-gabriel-legal-action-real-madrid",
+   "summary": "Manchester United are prepared to mount legal action if they find evidence that JJ Gabriel has been illegally approached by other clubs while under contract, sources have told ESPN.",
+   "date": "2026-11-18T23:08:01+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Mexico edge Jamaica for first win under M\u00e1rquez, set up Nations League semi vs. U.S.",
+   "link": "https://www.espn.com/soccer/story/_/id/50517553/mexico-survive-jamaica-scare-give-marquez-first-win",
+   "summary": "Veteran forward Jes\u00fas Corona scored a first-half goal on Tuesday as Mexico snapped a five-game winless streak with a 1-0 victory over Jamaica.",
+   "date": "2026-11-18T23:08:01+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Mata retires aged 38 after winning World Cup, Champions League, Euros, FA Cup",
+   "link": "https://www.espn.com/soccer/story/_/id/50519330/juan-mata-retires-spain-world-cup-man-united",
+   "summary": "Former Manchester United midfielder Juan Mata has announced his retirement from football.",
+   "date": "2026-11-18T23:08:01+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "\u26bd Meet the heir to Messi's Argentina No. 10 shirt",
+   "link": "https://www.espn.com/soccer/story/_/id/50460862/nico-paz-como-argentina-lionel-messi",
+   "summary": "Como's Nico Paz has become one of the best young players in Europe, but now he faces the unenviable task of stepping into Lionel Messi's Argentina No. 10 shirt.",
+   "date": "2026-11-18T23:08:01+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Chelsea's defense shines, but will scoring woes be their undoing in UWCL?",
+   "link": "https://www.espn.com/soccer/story/_/id/50524335/chelsea-psg-uwcl-scoring-issues",
+   "summary": "Chelsea have scored just four goals in five Women's Champions League matches, though they remain in strong position for the knockout rounds because of their lockdown defense.",
+   "date": "2026-11-18T23:07:13+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Real Madrid need more sharpness in order to compete with UWCL's best",
+   "link": "https://www.espn.com/soccer/story/_/id/50523924/real-madrid-women-champions-league-best",
+   "summary": "Real Madrid were able to win it late against Inter, but their missed chances could haunt them.",
+   "date": "2026-11-18T23:07:13+00:00",
+   "image": null
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
+   "date": "2026-11-18T22:34:05+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07c/live/092861f0-e3a0-11f1-8c43-131df4a2c89f.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester United\u2019s infamous 1974 relegation is a warning from history",
+   "link": "https://www.theguardian.com/football/2026/nov/18/manchester-united-infamous-1974-relegation-is-a-warning-from-history",
+   "summary": "It may have been a different era, but the 1970s contain salutary lessons for a club in serious decline once againIn many ways, there are striking parallels between the Manchester United relegated in 1974 and the\u2026",
+   "date": "2026-11-18T22:30:10+00:00",
+   "image": "https://i.guim.co.uk/img/media/e972d5919ff64a850d1ffe239a15b17f2d35a20f/247_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=00dafb7dfaec630f9e4edae478d8703d"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Buurman rescues late Chelsea win against PSG",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
+   "date": "2026-11-18T22:13:49+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7393/live/0b748390-e39a-11f1-99a1-253766e7ad8b.jpg"
   },
   {
    "source": "The Guardian",
@@ -193,14 +209,6 @@
    "summary": "Who makes the list of the Top 10 European Strikers of the Century so far?",
    "date": "2026-11-18T22:06:00+00:00",
    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
-  },
-  {
-   "source": "ESPN",
-   "title": "Real Madrid need more sharpness in order to compete with UWCL's best",
-   "link": "https://www.espn.com/soccer/story/_/id/50523924/real-madrid-women-champions-league-best",
-   "summary": "Real Madrid were able to win it late against Inter, but their missed chances could haunt them in the more important matches in the UEFA Women's Champions League.",
-   "date": "2026-11-18T21:39:47+00:00",
-   "image": null
   },
   {
    "source": "BBC Sport",
@@ -553,17 +561,15 @@
    "summary": "The U.S. men say goodbye to Mauricio Pochettino and hope to attract Pep Guardiola as his replacement. But is a superstar coach what this team really needs?",
    "date": "2026-11-18T08:59:30+00:00",
    "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Who should be the USMNT's coaching candidates to succeed Pochettino?",
-   "link": "https://www.espn.com/soccer/story/_/id/50464388/usmnt-coaching-candidates-replace-mauricio-pochettino",
-   "summary": "With Pochettino's USMNT tenure at an end, who should U.S. Soccer be eyeing to replace him?",
-   "date": "2026-11-18T08:59:29+00:00",
-   "image": null
   }
  ],
  "videos": [
+  {
+   "channel": "UEFA",
+   "id": "XfTtkcSOtIM",
+   "title": "BEST Nations League Goals From Matchday 5 & 6! \ud83d\ude31",
+   "date": "2026-11-18T23:00:13+00:00"
+  },
   {
    "channel": "FIFA",
    "id": "TKgbuaS9-b8",
@@ -1833,6 +1839,186 @@
    ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+  },
+  {
+   "id": "401915378",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T17:45Z",
+   "home": "Sabah FK",
+   "away": "Barcelona",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Baku Olympic Stadium",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+  },
+  {
+   "id": "401915293",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T17:45Z",
+   "home": "Slavia Prague",
+   "away": "Villarreal",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Fortuna Arena",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
+  },
+  {
+   "id": "401915291",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T20:00Z",
+   "home": "Atl\u00e9tico Madrid",
+   "away": "Viking FK",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Riyadh Air Metropolitano",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
+  },
+  {
+   "id": "401915292",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T20:00Z",
+   "home": "Club Brugge",
+   "away": "Liverpool",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Jan Breydel Stadium",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+  },
+  {
+   "id": "401915376",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T20:00Z",
+   "home": "Internazionale",
+   "away": "VfB Stuttgart",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "San Siro",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png"
+  },
+  {
+   "id": "401915377",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T20:00Z",
+   "home": "Lille",
+   "away": "Bayern Munich",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Decathlon Arena - Stade Pierre-Mauroy",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+  },
+  {
+   "id": "401915374",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T20:00Z",
+   "home": "Paris Saint-Germain",
+   "away": "AS Roma",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Parc des Princes",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
+  },
+  {
+   "id": "401915375",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T20:00Z",
+   "home": "Shakhtar Donetsk",
+   "away": "Fenerbahce",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stamford Bridge",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+  },
+  {
+   "id": "401915373",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T20:00Z",
+   "home": "Sporting CP",
+   "away": "Manchester United",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Est\u00e1dio Jos\u00e9 Alvalade",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
   }
  ],
  "national": [
@@ -12442,6 +12628,186 @@
    ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+  },
+  "401915378": {
+   "id": "401915378",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T17:45Z",
+   "home": "Sabah FK",
+   "away": "Barcelona",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Baku Olympic Stadium",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+  },
+  "401915293": {
+   "id": "401915293",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T17:45Z",
+   "home": "Slavia Prague",
+   "away": "Villarreal",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Fortuna Arena",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
+  },
+  "401915291": {
+   "id": "401915291",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T20:00Z",
+   "home": "Atl\u00e9tico Madrid",
+   "away": "Viking FK",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Riyadh Air Metropolitano",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
+  },
+  "401915292": {
+   "id": "401915292",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T20:00Z",
+   "home": "Club Brugge",
+   "away": "Liverpool",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Jan Breydel Stadium",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+  },
+  "401915376": {
+   "id": "401915376",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T20:00Z",
+   "home": "Internazionale",
+   "away": "VfB Stuttgart",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "San Siro",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png"
+  },
+  "401915377": {
+   "id": "401915377",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T20:00Z",
+   "home": "Lille",
+   "away": "Bayern Munich",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Decathlon Arena - Stade Pierre-Mauroy",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+  },
+  "401915374": {
+   "id": "401915374",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T20:00Z",
+   "home": "Paris Saint-Germain",
+   "away": "AS Roma",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Parc des Princes",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
+  },
+  "401915375": {
+   "id": "401915375",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T20:00Z",
+   "home": "Shakhtar Donetsk",
+   "away": "Fenerbahce",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stamford Bridge",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+  },
+  "401915373": {
+   "id": "401915373",
+   "code": "uefa.champions",
+   "l": "eur",
+   "comp": "UEFA Champions League",
+   "date": "2026-11-25T20:00Z",
+   "home": "Sporting CP",
+   "away": "Manchester United",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Est\u00e1dio Jos\u00e9 Alvalade",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
   }
  }
 }
