@@ -2,6 +2,38 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck98z842gp11o?at_medium=RSS&at_campaign=rss",
+   "summary": "How has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?",
+   "date": "2026-11-19T07:14:11+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfef/live/f045c5a0-dc43-11f1-95cf-a38331e6cb4b.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmde19r53008o?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-19T07:06:18+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Vote for the first BBC Men's Footballer of the Year",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award.",
+   "date": "2026-11-19T06:30:04+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca1/live/e82d49d0-e335-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'Best I've seen live': Watch as player scores \u2018special\u2019 goal",
+   "link": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo?at_medium=RSS&at_campaign=rss",
+   "summary": "The midfielder speaks of his \"special moment\" as fans roared from around the ground.",
+   "date": "2026-11-19T05:30:23+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1b/live/b398fac0-e367-11f1-9f51-4bfc31543510.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
    "link": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo?at_medium=RSS&at_campaign=rss",
    "summary": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
@@ -47,41 +79,41 @@
    "summary": "Tottenham's on-loan Chelsea winger Mykhailo Mudryk says he blames the Ukrainian Association of Football for his failed drugs test and subsequent ban.",
    "date": "2026-11-18T21:22:18+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000a/live/86e56660-e391-11f1-b4f3-9f0685d52a1f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "England defender Carter joins Bay FC after Gotham exit",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o?at_medium=RSS&at_campaign=rss",
-   "summary": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.",
-   "date": "2026-11-18T21:07:26+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2514/live/7b839f70-e392-11f1-b4f3-9f0685d52a1f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Strasbourg appoint Swansea boss Matos",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Strasbourg appoint Swansea City's Vitor Matos as the club's new head coach.",
-   "date": "2026-11-18T20:57:54+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f2/live/25bf9080-e356-11f1-acd4-25eaaa5def63.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "FA explored legal challenge to Infantino staying on",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
-   "summary": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail.",
-   "date": "2026-11-18T20:55:01+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c1/live/e7141200-e37f-11f1-b879-03485a55c082.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss",
-   "summary": "Substitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League.",
-   "date": "2026-11-18T20:25:40+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9911/live/b9f39560-e385-11f1-a094-5fdc692f3e33.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck98z842gp11o?at_medium=RSS&at_campaign=rss",
+   "summary": "How has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?",
+   "date": "2026-11-19T07:14:11+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfef/live/f045c5a0-dc43-11f1-95cf-a38331e6cb4b.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmde19r53008o?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-19T07:06:18+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Vote for the first BBC Men's Footballer of the Year",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award.",
+   "date": "2026-11-19T06:30:04+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca1/live/e82d49d0-e335-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'Best I've seen live': Watch as player scores \u2018special\u2019 goal",
+   "link": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo?at_medium=RSS&at_campaign=rss",
+   "summary": "The midfielder speaks of his \"special moment\" as fans roared from around the ground.",
+   "date": "2026-11-19T05:30:23+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1b/live/b398fac0-e367-11f1-9f51-4bfc31543510.jpg"
+  },
   {
    "source": "BBC Sport",
    "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
@@ -241,22 +273,6 @@
    "summary": "James McPake has left Scottish football behind for the time being, plying his trade in coaching in Dubai.",
    "date": "2026-11-18T17:06:29+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1327/live/2ca4bf40-e371-11f1-9f51-4bfc31543510.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Best I've seen live': Watch as player scores \u2018special\u2019 goal",
-   "link": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo?at_medium=RSS&at_campaign=rss",
-   "summary": "The midfielder speaks of his \"special moment\" as fans roared from around the ground.",
-   "date": "2026-11-18T16:46:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1b/live/b398fac0-e367-11f1-9f51-4bfc31543510.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "72+: The EFL Podcast",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pnnkrh?at_medium=RSS&at_campaign=rss",
-   "summary": "Aaron, Jobi and Tommy Smith talk all things EFL.",
-   "date": "2026-11-18T16:15:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
   },
   {
    "source": "BBC Sport",
@@ -545,22 +561,6 @@
    "summary": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
    "date": "2026-11-17T17:33:41+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2835/live/0a8db170-e2a7-11f1-8226-87dfa5049e9a.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Wayne Rooney says he contemplated taking own life during playing career",
-   "link": "https://www.theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health",
-   "summary": "Former England footballer opens up on mental health\u2018It was probably the lowest point\u2019 at Manchester UnitedWayne Rooney has revealed there was a period in his Manchester United career where he contemplated taking his own\u2026",
-   "date": "2026-11-17T17:13:23+00:00",
-   "image": "https://i.guim.co.uk/img/media/e788f0eebf8d41cd52201f027acd7c97808d26c4/564_362_4045_3235/master/4045.jpg?width=140&quality=85&auto=format&fit=max&s=c8cb258e68e2b21aa3db100114f1a4d7"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Pocognoli\u2019s aspiration for how Scotland must play is in danger of becoming unworkable",
-   "link": "https://www.theguardian.com/football/2026/nov/17/sebastien-pocognoli-scotland-nations-league-switzerland",
-   "summary": "The 4-0 debacle against Switzerland has added to the tactical concerns about the head coach\u2019s suitability, just six games into the jobThe Scottish Football Association can only cling to a lesson from the past when\u2026",
-   "date": "2026-11-17T16:59:54+00:00",
-   "image": "https://i.guim.co.uk/img/media/937a6b991116ddc51f03a76a9172fbd7b94cd245/333_0_3051_2441/master/3051.jpg?width=140&quality=85&auto=format&fit=max&s=7f148df44059414372387846d2ab1299"
   }
  ],
  "videos": [
