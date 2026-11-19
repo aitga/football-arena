@@ -2,19 +2,35 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Lyon outclass Arsenal in 2-0 Champions League win",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
+   "date": "2026-11-19T22:56:07+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65a8/live/85a48b70-e461-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "England get one-match suspended ban on away tickets for anti-pope chants in Spain",
+   "link": "https://www.theguardian.com/football/2026/nov/19/england-one-match-suspended-away-tickets-ban-anti-pope-chants-spain-uefa",
+   "summary": "Ban by Uefa is suspended for two yearsUefa also fines FA \u00a312,500 for offensive chantsEngland have been handed a \u00adsuspended \u00adone-match ban on away ticket sales by Uefa in relation to \u201c\u00adracist and/or \u00addiscriminatory\u201d\u2026",
+   "date": "2026-11-19T22:05:54+00:00",
+   "image": "https://i.guim.co.uk/img/media/bd9ae43b1b7e247045ecc3f45bd55d9aa28a7541/648_0_4028_3224/master/4028.jpg?width=140&quality=85&auto=format&fit=max&s=11ae55fcd4795b47bdfe314476fc847f"
+  },
+  {
+   "source": "The Guardian",
+   "title": "OL Lyonnes show their class to hit Arsenal\u2019s ambitions for a top-four WCL finish",
+   "link": "https://www.theguardian.com/football/2026/nov/19/arsenal-ol-lyonnes-womens-champions-league-match-report",
+   "summary": "Arsenal\u2019s hopes of earning automatic progression to the Champions League quarter-finals were dashed by OL Lyonnes, as the French side continued their statement form in Europe.Goals in either half from Jule Brand and\u2026",
+   "date": "2026-11-19T22:05:36+00:00",
+   "image": "https://i.guim.co.uk/img/media/34212d5ddf1d8daff4e51c5ee94d747f120dc11a/400_188_2380_1905/master/2380.jpg?width=140&quality=85&auto=format&fit=max&s=f84b9aaaca61d8be02fa723c4be5d447"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
    "link": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
    "summary": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more.",
    "date": "2026-11-19T21:57:22+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3f8fe980-e462-11f1-a094-5fdc692f3e33.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Arsenal v OL Lyonnes: Women\u2019s Champions League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
-   "summary": "\u26bd Champions League updates from the 8pm GMT kick-off\u26bd Live scores | Table | Read Moving the Goalposts | Mail YaraThe referee blows the whistle and we are off! Arsenal in their classic red and white and Lyon in all black\u2026",
-   "date": "2026-11-19T21:47:14+00:00",
-   "image": "https://i.guim.co.uk/img/media/e2556d6f8299aa54dd5f779869a583182a1fd173/310_0_2555_2044/master/2555.jpg?width=140&quality=85&auto=format&fit=max&s=181cb22f5525b109a03e06279aa89580"
   },
   {
    "source": "BBC Sport",
@@ -63,25 +79,33 @@
    "summary": "BBC Sport football expert Chris Sutton takes on world champion boxer Lauren Price, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
    "date": "2026-11-19T18:52:00+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db10/live/2d275fd0-e28c-11f1-a094-5fdc692f3e33.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Pochettino's first Man Utd training session filmed by drone operator",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
-   "date": "2026-11-19T18:45:56+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f56/live/0be50c80-e446-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Summer signings join Lionel Messi among MLS\u2019s top earners: Takeaways from the league\u2019s salary release",
-   "link": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
-   "summary": "How much in player salaries did it take to earn a point in the 2026 MLS regular season? The latest batch of salaries lends some insightLionel Messi has closer company at the top of MLS\u2019s list of highest-paid players,\u2026",
-   "date": "2026-11-19T18:01:17+00:00",
-   "image": "https://i.guim.co.uk/img/media/295eaf1b8e3e4febef1061f3822c8d8701d5310b/183_0_2356_1886/master/2356.jpg?width=140&quality=85&auto=format&fit=max&s=8357f6fe4ff7f873989ffc011b3c3754"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Lyon outclass Arsenal in 2-0 Champions League win",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
+   "date": "2026-11-19T22:56:07+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65a8/live/85a48b70-e461-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "England get one-match suspended ban on away tickets for anti-pope chants in Spain",
+   "link": "https://www.theguardian.com/football/2026/nov/19/england-one-match-suspended-away-tickets-ban-anti-pope-chants-spain-uefa",
+   "summary": "Ban by Uefa is suspended for two yearsUefa also fines FA \u00a312,500 for offensive chantsEngland have been handed a \u00adsuspended \u00adone-match ban on away ticket sales by Uefa in relation to \u201c\u00adracist and/or \u00addiscriminatory\u201d\u2026",
+   "date": "2026-11-19T22:05:54+00:00",
+   "image": "https://i.guim.co.uk/img/media/bd9ae43b1b7e247045ecc3f45bd55d9aa28a7541/648_0_4028_3224/master/4028.jpg?width=140&quality=85&auto=format&fit=max&s=11ae55fcd4795b47bdfe314476fc847f"
+  },
+  {
+   "source": "The Guardian",
+   "title": "OL Lyonnes show their class to hit Arsenal\u2019s ambitions for a top-four WCL finish",
+   "link": "https://www.theguardian.com/football/2026/nov/19/arsenal-ol-lyonnes-womens-champions-league-match-report",
+   "summary": "Arsenal\u2019s hopes of earning automatic progression to the Champions League quarter-finals were dashed by OL Lyonnes, as the French side continued their statement form in Europe.Goals in either half from Jule Brand and\u2026",
+   "date": "2026-11-19T22:05:36+00:00",
+   "image": "https://i.guim.co.uk/img/media/34212d5ddf1d8daff4e51c5ee94d747f120dc11a/400_188_2380_1905/master/2380.jpg?width=140&quality=85&auto=format&fit=max&s=f84b9aaaca61d8be02fa723c4be5d447"
+  },
   {
    "source": "BBC Sport",
    "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
@@ -89,14 +113,6 @@
    "summary": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more.",
    "date": "2026-11-19T21:57:22+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3f8fe980-e462-11f1-a094-5fdc692f3e33.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Arsenal v OL Lyonnes: Women\u2019s Champions League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
-   "summary": "\u26bd Champions League updates from the 8pm GMT kick-off\u26bd Live scores | Table | Read Moving the Goalposts | Mail YaraThe referee blows the whistle and we are off! Arsenal in their classic red and white and Lyon in all black\u2026",
-   "date": "2026-11-19T21:47:14+00:00",
-   "image": "https://i.guim.co.uk/img/media/e2556d6f8299aa54dd5f779869a583182a1fd173/310_0_2555_2044/master/2555.jpg?width=140&quality=85&auto=format&fit=max&s=181cb22f5525b109a03e06279aa89580"
   },
   {
    "source": "BBC Sport",
@@ -379,14 +395,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ba9/live/e8eace60-e3ee-11f1-a094-5fdc692f3e33.png"
   },
   {
-   "source": "The Guardian",
-   "title": "Maine Road offer non-league haven to fans of scandal-hit Manchester City",
-   "link": "https://www.theguardian.com/football/2026/nov/19/manchester-city-guilty-verdict-premier-league-charges-maine-road-non-league",
-   "summary": "Tenth-tier club aim to become a new home for disillusioned supporters and those priced out of the Premier LeagueIt began with a timely message on social media. \u201cWe\u2019ve seen the posts. We\u2019ve read the comments. If all the\u2026",
-   "date": "2026-11-19T08:00:21+00:00",
-   "image": "https://i.guim.co.uk/img/media/326318953623c26ccae398fbce55b02685d812dc/149_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=57911f93142bd7d6234aabeb1622fd62"
-  },
-  {
    "source": "BBC Sport",
    "title": "Podcast: Who should be worried in Premiership bottom four?",
    "link": "https://www.bbc.co.uk/sounds/play/p0pnsj90?at_medium=RSS&at_campaign=rss",
@@ -545,14 +553,6 @@
    "summary": "The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?",
    "date": "2026-11-18T16:09:55+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f51/live/09641460-e33d-11f1-a094-5fdc692f3e33.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | From Cincinnati to Manchester: Pochettino in a hurry to paint town red",
-   "link": "https://www.theguardian.com/football/2026/nov/18/cincinnati-manchester-united-pochettino-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!With his team mired in the relegation zone and a massive match at Liverpool this weekend, Mauricio Pochettino has been understandably busy since being appointed head\u2026",
-   "date": "2026-11-18T15:16:44+00:00",
-   "image": "https://i.guim.co.uk/img/media/cfcf24b8b9459c10a5242992bae6d3dd6ef35c63/814_110_3424_2739/master/3424.jpg?width=140&quality=85&auto=format&fit=max&s=2e31b58090aec62d2e42a68c760f45f2"
   },
   {
    "source": "BBC Sport",
