@@ -1,12 +1,36 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "10 games, 0 points & 30 goals conceded - why Charlton are struggling",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0kxg5k4zo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport looks at why promoted Charlton Athletic have had one of the worst starts in Women's Super League history.",
+   "date": "2026-11-20T16:00:04+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e82f/live/889e19c0-e4cc-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Fernandes to remain as captain under Pochettino; Arteta takes fantasy football action; Nations League draw \u2013 live",
+   "title": "Pochettino demands say on big United decisions; Arteta takes fantasy football action; Nations League draw \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
-   "summary": "\u26bd All the latest football news going into the weekend\u26bd Fixtures | Tables | Ten things to look out for | Mail TomA Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the Manchester\u2026",
-   "date": "2026-11-20T15:05:21+00:00",
+   "summary": "\u26bd All the latest football news going into the weekend\u26bd Fixtures | Tables | Ten things to look out for | Mail MichaelA Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the\u2026",
+   "date": "2026-11-20T15:54:50+00:00",
    "image": "https://i.guim.co.uk/img/media/a87b38a80782dd29e77eb49a598b51f3684f958e/0_0_5381_4305/master/5381.jpg?width=140&quality=85&auto=format&fit=max&s=8e392502b83ae05e4c45ac5a34f81aa3"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Why injured Joao Pedro may be Chelsea's most important player",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
+   "summary": "With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues.",
+   "date": "2026-11-20T15:18:42+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eddb/live/bbd39d90-e415-11f1-b37c-b3a71d7200af.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Filming training by drones should be illegal - Iraola",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
+   "date": "2026-11-20T15:08:51+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fcc/live/7922cff0-e4ee-11f1-8781-bf15c9202663.jpg"
   },
   {
    "source": "The Guardian",
@@ -55,40 +79,40 @@
    "summary": "The Irish League's most successful manager Roy Coyle dies at the age of 80.",
    "date": "2026-11-20T13:52:15+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/177b/live/0d80ddc0-e4ec-11f1-9e3c-bf9ef0889b75.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Southampton give head coach Eckert new deal",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
-   "summary": "Southampton head coach Tonda Eckert signs a new contract at the club through until 2029.",
-   "date": "2026-11-20T13:10:33+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd8/live/b6cc2940-e4db-11f1-9cc5-e9713e77fd78.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Arsenal\u2019s Lisa Baum: \u2018I believe in us. I think it\u2019s all about the small margins\u2019",
-   "link": "https://www.theguardian.com/football/2026/nov/20/arsenal-lisa-baum-germany-brother-dennis",
-   "summary": "Germany forward on her new life in London and drawing strength from the memory of her late brother, DennisLisa Baum is 19, for the next few days at least, but you wouldn\u2019t know it. The Germany forward plays with a\u2026",
-   "date": "2026-11-20T13:00:29+00:00",
-   "image": "https://i.guim.co.uk/img/media/44f5f906aeb57a1ace3dd69b629ed48500585e7d/1054_0_6581_5266/master/6581.jpg?width=140&quality=85&auto=format&fit=max&s=7806d0c4f22aecac0497a510d0c7a294"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Liverpool fan found not guilty of racial abuse after Antoine Semenyo withdraws from case",
-   "link": "https://www.theguardian.com/football/2026/nov/20/liverpool-fan-not-guilty-racial-abuse-antoine-semenyo-withdraws-from-case-bournemouth-liverpool",
-   "summary": "Man accused of abusing former Bournemouth wingerAlleged incident happened at Anfield game in 2025A Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the Manchester City forward\u2026",
-   "date": "2026-11-20T12:20:00+00:00",
-   "image": "https://i.guim.co.uk/img/media/863ba790bc229db549ef08b443c6190e8fd1b893/294_0_2942_2353/master/2942.jpg?width=140&quality=85&auto=format&fit=max&s=66214c6fc45d379dbf17b4b1b6ea1e9d"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "10 games, 0 points & 30 goals conceded - why Charlton are struggling",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0kxg5k4zo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport looks at why promoted Charlton Athletic have had one of the worst starts in Women's Super League history.",
+   "date": "2026-11-20T16:00:04+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e82f/live/889e19c0-e4cc-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Fernandes to remain as captain under Pochettino; Arteta takes fantasy football action; Nations League draw \u2013 live",
+   "title": "Pochettino demands say on big United decisions; Arteta takes fantasy football action; Nations League draw \u2013 live",
    "link": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
-   "summary": "\u26bd All the latest football news going into the weekend\u26bd Fixtures | Tables | Ten things to look out for | Mail TomA Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the Manchester\u2026",
-   "date": "2026-11-20T15:05:21+00:00",
+   "summary": "\u26bd All the latest football news going into the weekend\u26bd Fixtures | Tables | Ten things to look out for | Mail MichaelA Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the\u2026",
+   "date": "2026-11-20T15:54:50+00:00",
    "image": "https://i.guim.co.uk/img/media/a87b38a80782dd29e77eb49a598b51f3684f958e/0_0_5381_4305/master/5381.jpg?width=140&quality=85&auto=format&fit=max&s=8e392502b83ae05e4c45ac5a34f81aa3"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Why injured Joao Pedro may be Chelsea's most important player",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
+   "summary": "With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues.",
+   "date": "2026-11-20T15:18:42+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eddb/live/bbd39d90-e415-11f1-b37c-b3a71d7200af.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Filming training by drones should be illegal - Iraola",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
+   "date": "2026-11-20T15:08:51+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fcc/live/7922cff0-e4ee-11f1-8781-bf15c9202663.jpg"
   },
   {
    "source": "The Guardian",
@@ -412,14 +436,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Football Daily",
-   "link": "https://www.bbc.co.uk/sounds/play/m003501m?at_medium=RSS&at_campaign=rss",
-   "summary": "Ellen White joins Rick & Lloyd to discuss the BBC Men\u2019s Footballer of the Year shortlist.",
-   "date": "2026-11-19T16:42:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Struggling Blackpool sack Evatt on his birthday",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1rzjj4v2o?at_medium=RSS&at_campaign=rss",
    "summary": "Blackpool sack head coach Ian Evatt after a year in charge following a run of one win and six defeats in their past 10 league games.",
@@ -545,25 +561,21 @@
    "summary": "Bayern Munich boss Vincent Kompany says he is \"very healthy\" and grateful for all of the support he has recieved as he prepares to return to the dugout on Friday.",
    "date": "2026-11-19T10:32:30+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f178/live/0950f610-cefb-11f1-accf-3309656ad0bb.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Will Infantino feel he's already won as Fifa challengers confirmed?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
-   "summary": "Fifa has confirmed Philippe Diallo and Kozo Tashima will also stand in next year's presidential election - but can either stop Gianni Infantino from winning?",
-   "date": "2026-11-19T10:21:10+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Eight-year ban for player who threw rock that hit assistant referee",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqlyk9yzkz2no?at_medium=RSS&at_campaign=rss",
-   "summary": "Ecuadorian footballer Jhon Perlaza is banned for eight years after hitting an assistant referee with a rock during a third-tier match.",
-   "date": "2026-11-19T10:20:58+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce7/live/ebfdab50-e3fc-11f1-a1b0-810734adec41.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "FIFA",
+   "id": "e60S4gf2T6k",
+   "title": "Cuba v Tajikistan | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+   "date": "2026-11-20T16:00:37+00:00"
+  },
+  {
+   "channel": "FIFA",
+   "id": "DmzRl_ALe_c",
+   "title": "Belgium v Vietnam | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+   "date": "2026-11-20T15:45:27+00:00"
+  },
   {
    "channel": "UEFA",
    "id": "Z5jPiXu4jvg",
@@ -607,18 +619,6 @@
    "date": "2026-11-19T18:24:39+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "q2mJhZKfF28",
-   "title": "Mozambique v Denmark | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-19T18:00:22+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "3HO2WNcRSjs",
-   "title": "Saudi Arabia v Uruguay | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-19T17:10:12+00:00"
-  },
-  {
    "channel": "Bundesliga",
    "id": "7RzG7NE8fA4",
    "title": "Goals don\u2018t always = celebrations\u2026 \ud83d\ude05",
@@ -641,6 +641,12 @@
    "id": "jkqdaFGsV0U",
    "title": "MAXI SINTESI FROSINONE-SASSUOLO 4-2 | EXTENDED HIGHLIGHTS | SERIE A ENILIVE 2026/27",
    "date": "2026-11-18T10:00:20+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "idxAm_toTx0",
+   "title": "Real Betis 2 - 2 Sevilla FC 2017/18 PARTIDO COMPLETO",
+   "date": "2026-11-20T16:00:01+00:00"
   },
   {
    "channel": "LaLiga",
@@ -671,12 +677,6 @@
    "id": "_PbJNY4ACpQ",
    "title": "Different stages, same Ferran \ud83c\uddea\ud83c\uddf8",
    "date": "2026-11-20T12:00:24+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "dqnt_nOwNbQ",
-   "title": "Special from Jamal Musiala \ud83d\udcab",
-   "date": "2026-11-20T12:00:10+00:00"
   }
  ],
  "fixtures": [
