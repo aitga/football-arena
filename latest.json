@@ -2,6 +2,62 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "'Milan, Real & Man Utd eye Napoli's McTominay' - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckjwj2295640o?at_medium=RSS&at_campaign=rss",
+   "summary": "AC Milan, Manchester United and Real Madrid are reportedly interested in Napoli's Scott McTominay, while it is claimed Celtic would be interested in Aston Villa's John McGinn.",
+   "date": "2026-11-20T08:07:48+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be56/live/4497ae70-e4b9-11f1-99b6-a35a62fa4264.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "What history tells us about the Premier League table after 10 games of a season",
+   "link": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
+   "summary": "Past years suggest it is tough to make big positional gains after slow start but that someone now safe will be relegatedThe Premier League is about to enter the most intense phase of its season. After 10 rounds of\u2026",
+   "date": "2026-11-20T08:00:26+00:00",
+   "image": "https://i.guim.co.uk/img/media/e185115079ae67cbd5dd3b9ce8c2718c7753bdd7/368_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=65a2c981d70d1d04aa56ce42a6827cea"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Listen: Premiership preview - can Falkirk really finish third?",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pnz8rn?at_medium=RSS&at_campaign=rss",
+   "summary": "Can Falkirk finish third and will Rangers keep their unbeaten run going?",
+   "date": "2026-11-20T08:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnz951.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Inside the rise of 'humble' Nyoni and why Iraola trusts him",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Teenage midfielder Trey Nyoni backed himself in the summer to play regular football for Liverpool. He is doing exactly that and thriving under Andoni Iraola.",
+   "date": "2026-11-20T07:42:04+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/610e5c60-e361-11f1-a898-e7da1c1ebbf0.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Moore eyes Kane shirt as Spurs' past and future stars meet",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Cologne loanee Mikey Moore says he hopes to exchange shirts with former Spurs team-mate Harry Kane when they face Bayern Munich on Friday.",
+   "date": "2026-11-20T07:26:36+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726c/live/32741560-c8aa-11f1-9c75-6ff1271de385.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport's Fantasy Premier League expert Gianni Buttice gives his answers to some of the biggest dilemmas facing managers in gameweek 11.",
+   "date": "2026-11-20T07:08:51+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ccb/live/578a67d0-e3ff-11f1-99b6-a35a62fa4264.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw772r7g87y0o?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-20T06:43:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Loneliness & mood swings - what's it like to miss a season through injury?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
    "summary": "Not pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?",
@@ -10,85 +66,93 @@
   },
   {
    "source": "The Guardian",
+   "title": "The male footballers best associated with each shirt number \u2013 the readers\u2019 edition",
+   "link": "https://www.theguardian.com/football/ng-interactive/2026/nov/20/male-footballers-best-associated-each-shirt-number-readers-edit",
+   "summary": "Last week we selected 50 players who are synonymous with their squad numbers. Our readers spotted notable absentees so came up with an alternative list, which does not start at No 1 or end at No 50Which footballers are\u2026",
+   "date": "2026-11-20T06:00:24+00:00",
+   "image": "https://i.guim.co.uk/img/media/e915b62b593d2af5c5615cc210a752d3196133d8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d09a7ae0ec26408d8da7df1088afe174"
+  },
+  {
+   "source": "The Guardian",
    "title": "Socceroos\u2019 future looks bright as Australia stun Argentina in U17 World Cup",
    "link": "https://www.theguardian.com/football/2026/nov/20/joeys-australia-stun-argentina-in-u17-world-cup",
    "summary": "Akol Akon sealed a 2-0 win over football powerhouse in QatarJoeys mark return to tournament for first time in seven yearsSydney FC prodigy Akol Akon has demonstrated why he\u2019s one of the most exciting talents in\u2026",
    "date": "2026-11-20T01:31:38+00:00",
    "image": "https://i.guim.co.uk/img/media/0f5e6421f76f7aa9bb952e40d678dddd2333c60e/656_233_3822_3057/master/3822.jpg?width=140&quality=85&auto=format&fit=max&s=69b4a07bffe9a433ee07baa08d28ad8c"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Premier League: 10 things to look out for this weekend",
-   "link": "https://www.theguardian.com/football/2026/nov/20/premier-league-10-things-to-look-out-for-this-weekend",
-   "summary": "Bruno Guimar\u00e3es to feel the heat on Tyneside, Alex Scott\u2019s return further cheers Cherries and Manchester City face favourite whipping boysAfter three Premier League defeats on the spin, Manchester City need something or\u2026",
-   "date": "2026-11-20T00:00:15+00:00",
-   "image": "https://i.guim.co.uk/img/media/697a5b5e6adf5ec4ae93d2b6aa2ddcbf11b935ce/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=de767372805865151ec7e49f74f96e68"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Arsenal 'have ingredients' but Europe's elite on another level",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
-   "summary": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.",
-   "date": "2026-11-19T23:57:54+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f42a/live/723c9160-e473-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Lyon outclass Arsenal for Champions League win",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
-   "date": "2026-11-19T22:56:07+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65a8/live/85a48b70-e461-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "England get one-match suspended ban on away tickets for anti-pope chants in Spain",
-   "link": "https://www.theguardian.com/football/2026/nov/19/england-one-match-suspended-away-tickets-ban-anti-pope-chants-spain-uefa",
-   "summary": "Ban by Uefa is suspended for two yearsUefa also fines FA \u00a312,500 for offensive chantsEngland have been handed a \u00adsuspended \u00adone-match ban on away ticket sales by Uefa in relation to \u201c\u00adracist and/or \u00addiscriminatory\u201d\u2026",
-   "date": "2026-11-19T22:05:54+00:00",
-   "image": "https://i.guim.co.uk/img/media/bd9ae43b1b7e247045ecc3f45bd55d9aa28a7541/648_0_4028_3224/master/4028.jpg?width=140&quality=85&auto=format&fit=max&s=11ae55fcd4795b47bdfe314476fc847f"
-  },
-  {
-   "source": "The Guardian",
-   "title": "OL Lyonnes show their class to hit Arsenal\u2019s ambitions for a top-four WCL finish",
-   "link": "https://www.theguardian.com/football/2026/nov/19/arsenal-ol-lyonnes-womens-champions-league-match-report",
-   "summary": "Arsenal\u2019s hopes of earning automatic progression to the Champions League quarter-finals were dashed by OL\u00a0Lyonnes, as the French side continued their statement form in Europe.Goals in either half from Jule Brand and\u2026",
-   "date": "2026-11-19T22:05:36+00:00",
-   "image": "https://i.guim.co.uk/img/media/34212d5ddf1d8daff4e51c5ee94d747f120dc11a/400_188_2380_1905/master/2380.jpg?width=140&quality=85&auto=format&fit=max&s=f84b9aaaca61d8be02fa723c4be5d447"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
-   "summary": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more.",
-   "date": "2026-11-19T21:57:22+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3f8fe980-e462-11f1-a094-5fdc692f3e33.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o?at_medium=RSS&at_campaign=rss",
-   "summary": "Ukraine great Andriy Shevchenko accuses Mykhailo Mudryk of a \"baseless slander\" after the on-loan Tottenham winger blamed his failed drugs test on the nation's football association.",
-   "date": "2026-11-19T20:44:11+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Frank happy to be 'back in the circus' at Palace",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
-   "summary": "Thomas Frank is happy to be \"back in the circus\" after speaking at his first news conference as Crystal Palace manager.",
-   "date": "2026-11-19T20:16:10+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ef/live/c3f26550-e452-11f1-8a3d-bb9751dc9556.jpg"
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
+   "title": "'Milan, Real & Man Utd eye Napoli's McTominay' - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckjwj2295640o?at_medium=RSS&at_campaign=rss",
+   "summary": "AC Milan, Manchester United and Real Madrid are reportedly interested in Napoli's Scott McTominay, while it is claimed Celtic would be interested in Aston Villa's John McGinn.",
+   "date": "2026-11-20T08:07:48+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be56/live/4497ae70-e4b9-11f1-99b6-a35a62fa4264.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "What history tells us about the Premier League table after 10 games of a season",
+   "link": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
+   "summary": "Past years suggest it is tough to make big positional gains after slow start but that someone now safe will be relegatedThe Premier League is about to enter the most intense phase of its season. After 10 rounds of\u2026",
+   "date": "2026-11-20T08:00:26+00:00",
+   "image": "https://i.guim.co.uk/img/media/e185115079ae67cbd5dd3b9ce8c2718c7753bdd7/368_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=65a2c981d70d1d04aa56ce42a6827cea"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Listen: Premiership preview - can Falkirk really finish third?",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pnz8rn?at_medium=RSS&at_campaign=rss",
+   "summary": "Can Falkirk finish third and will Rangers keep their unbeaten run going?",
+   "date": "2026-11-20T08:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnz951.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Inside the rise of 'humble' Nyoni and why Iraola trusts him",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Teenage midfielder Trey Nyoni backed himself in the summer to play regular football for Liverpool. He is doing exactly that and thriving under Andoni Iraola.",
+   "date": "2026-11-20T07:42:04+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f5/live/610e5c60-e361-11f1-a898-e7da1c1ebbf0.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Moore eyes Kane shirt as Spurs' past and future stars meet",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Cologne loanee Mikey Moore says he hopes to exchange shirts with former Spurs team-mate Harry Kane when they face Bayern Munich on Friday.",
+   "date": "2026-11-20T07:26:36+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726c/live/32741560-c8aa-11f1-9c75-6ff1271de385.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport's Fantasy Premier League expert Gianni Buttice gives his answers to some of the biggest dilemmas facing managers in gameweek 11.",
+   "date": "2026-11-20T07:08:51+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ccb/live/578a67d0-e3ff-11f1-99b6-a35a62fa4264.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw772r7g87y0o?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-20T06:43:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Loneliness & mood swings - what's it like to miss a season through injury?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
    "summary": "Not pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?",
    "date": "2026-11-20T06:13:23+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d5/live/baeaef60-e261-11f1-900c-895604014268.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "The male footballers best associated with each shirt number \u2013 the readers\u2019 edition",
+   "link": "https://www.theguardian.com/football/ng-interactive/2026/nov/20/male-footballers-best-associated-each-shirt-number-readers-edit",
+   "summary": "Last week we selected 50 players who are synonymous with their squad numbers. Our readers spotted notable absentees so came up with an alternative list, which does not start at No 1 or end at No 50Which footballers are\u2026",
+   "date": "2026-11-20T06:00:24+00:00",
+   "image": "https://i.guim.co.uk/img/media/e915b62b593d2af5c5615cc210a752d3196133d8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d09a7ae0ec26408d8da7df1088afe174"
   },
   {
    "source": "The Guardian",
@@ -128,7 +192,7 @@
    "link": "https://www.theguardian.com/football/2026/nov/19/england-one-match-suspended-away-tickets-ban-anti-pope-chants-spain-uefa",
    "summary": "Ban by Uefa is suspended for two yearsUefa also fines FA \u00a312,500 for offensive chantsEngland have been handed a \u00adsuspended \u00adone-match ban on away ticket sales by Uefa in relation to \u201c\u00adracist and/or \u00addiscriminatory\u201d\u2026",
    "date": "2026-11-19T22:05:54+00:00",
-   "image": "https://i.guim.co.uk/img/media/bd9ae43b1b7e247045ecc3f45bd55d9aa28a7541/648_0_4028_3224/master/4028.jpg?width=140&quality=85&auto=format&fit=max&s=11ae55fcd4795b47bdfe314476fc847f"
+   "image": "https://i.guim.co.uk/img/media/2d654d5e6705bb23f6cb8e5eedad71135d9db2d6/520_0_4878_3902/master/4878.jpg?width=140&quality=85&auto=format&fit=max&s=a7623f53ae1213fbe5f86d5677c14d56"
   },
   {
    "source": "The Guardian",
@@ -347,6 +411,14 @@
    "image": "https://i.guim.co.uk/img/media/e22830b4a32acbe9fdbf9e31083e2669856cf5ef/253_0_3254_2604/master/3254.jpg?width=140&quality=85&auto=format&fit=max&s=a2501748e532bf136c783022341e110b"
   },
   {
+   "source": "The Guardian",
+   "title": "Gonzalo Garc\u00eda: \u2018I love Craven Cottage \u2013 the fans can reach out and touch you\u2019",
+   "link": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
+   "summary": "Spain Under-21 striker admits the pace of the Premier League has surprised him but says he must stay calm over goal drought at FulhamThe first thing Rita Hayworth\u2019s great nephew says when he walks in is: \u201cSorry I\u2019m\u2026",
+   "date": "2026-11-19T12:16:42+00:00",
+   "image": "https://i.guim.co.uk/img/media/b718144f24f37dae43742dd1ba995a457165b72a/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bc397e0d070cd5403545f02a7d52d80c"
+  },
+  {
    "source": "BBC Sport",
    "title": "Leicester split with sponsor after porn actress row",
    "link": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
@@ -377,6 +449,14 @@
    "summary": "A 14-year civil war ravaged the country and ground women\u2019s football to a halt. Today, the first glimmers of hope are beginning to emerge amid difficultyIn December 2024, Syria\u2019s under-18 women\u2019s football team boarded a\u2026",
    "date": "2026-11-19T11:00:26+00:00",
    "image": "https://i.guim.co.uk/img/media/1cfe5283075e4dc161dd1aaaed8250b9d1d57b25/0_455_5377_4302/master/5377.jpg?width=140&quality=85&auto=format&fit=max&s=04d2f400b2fdaf8034fe4168e719a8d7"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Race for the Fifa presidency: lineup revealed to challenge Gianni Infantino",
+   "link": "https://www.theguardian.com/football/2026/nov/19/fifa-president-election-philippe-diallo-kozo-tashima-challenge-gianni-infantino",
+   "summary": "Philippe Diallo and Kozo Tashima are both standingBut Ramon Vega fails to get the necessary backingFifa has confirmed that Gianni Infantino will face challenges from Philippe Diallo of France and Japan\u2019s Kozo Tashima in\u2026",
+   "date": "2026-11-19T10:56:21+00:00",
+   "image": "https://i.guim.co.uk/img/media/aacc033c92ea7b4702140e1c229ca6cf6f34771d/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8d5d40ab308ea3f28fdd19496f2f2c2d"
   },
   {
    "source": "BBC Sport",
@@ -411,28 +491,12 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f24b/live/3bc2f180-e3ea-11f1-99b6-a35a62fa4264.png"
   },
   {
-   "source": "BBC Sport",
-   "title": "Armstrong would relish Rangers switch - gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm62pqd0v7dlo?at_medium=RSS&at_campaign=rss",
-   "summary": "Romania-based winger eyes reunion with manager at Ibrox as Celtic hero reveals approach from Rangers...",
-   "date": "2026-11-19T08:01:39+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ba9/live/e8eace60-e3ee-11f1-a094-5fdc692f3e33.png"
-  },
-  {
    "source": "The Guardian",
    "title": "Maine Road offer non-league haven to fans of scandal-hit Manchester City",
    "link": "https://www.theguardian.com/football/2026/nov/19/manchester-city-guilty-verdict-premier-league-charges-maine-road-non-league",
    "summary": "Tenth-tier club aim to become a new home for disillusioned supporters and those priced out of the Premier LeagueIt began with a timely message on social media. \u201cWe\u2019ve seen the posts. We\u2019ve read the comments. If all the\u2026",
    "date": "2026-11-19T08:00:21+00:00",
    "image": "https://i.guim.co.uk/img/media/326318953623c26ccae398fbce55b02685d812dc/149_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=57911f93142bd7d6234aabeb1622fd62"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Podcast: Who should be worried in Premiership bottom four?",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pnsj90?at_medium=RSS&at_campaign=rss",
-   "summary": "Aberdeen, Hibs, Motherwell & Killie... FIGHT!",
-   "date": "2026-11-19T08:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnsjj9.jpg"
   },
   {
    "source": "BBC Sport",
@@ -449,14 +513,6 @@
    "summary": "How has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?",
    "date": "2026-11-19T07:14:11+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfef/live/f045c5a0-dc43-11f1-95cf-a38331e6cb4b.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmde19r53008o?at_medium=RSS&at_campaign=rss",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "date": "2026-11-19T07:06:18+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
   },
   {
    "source": "BBC Sport",
@@ -505,62 +561,6 @@
    "summary": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.",
    "date": "2026-11-18T21:07:26+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2514/live/7b839f70-e392-11f1-b4f3-9f0685d52a1f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Strasbourg appoint Swansea boss Matos",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Strasbourg announce the appointment of Vitor Matos as the club's head coach - though Swansea City are yet to confirm the move.",
-   "date": "2026-11-18T20:57:54+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f2/live/25bf9080-e356-11f1-acd4-25eaaa5def63.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "FA explored legal challenge to Infantino staying on",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
-   "summary": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail.",
-   "date": "2026-11-18T20:55:01+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c1/live/e7141200-e37f-11f1-b879-03485a55c082.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss",
-   "summary": "Substitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League.",
-   "date": "2026-11-18T20:25:40+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9911/live/b9f39560-e385-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "\u2018An honour\u2019: Pochettino up for challenge of leading Manchester United revival",
-   "link": "https://www.theguardian.com/football/2026/nov/18/mauricio-pochettino-arrives-manchester-united-head-coach-premier-league",
-   "summary": "New head coach faces tough opening match at Anfield\u2018It\u2019s a big challenge but at the same time it\u2019s adrenaline\u2019Mauricio Pochettino said it was \u201can honour\u201d and \u201ca privilege\u201d to be the new Manchester United head coach\u2026",
-   "date": "2026-11-18T19:58:26+00:00",
-   "image": "https://i.guim.co.uk/img/media/c606b47d86e425730d31a6354ae735dcb57ef48b/450_186_3988_3190/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=ca5b136efb71d8a64a62ff36451d562f"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c61k9mz9vvkyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28.",
-   "date": "2026-11-18T19:09:00+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c880/live/28da6540-e37b-11f1-b879-03485a55c082.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Leicester part ways with BC Game after sponsor\u2019s partnership with porn actor",
-   "link": "https://www.theguardian.com/football/2026/nov/18/leicester-city-bc-game-porn-star-eva-elfie-sponsorship",
-   "summary": "Cryptocurrency casino made Eva Elfie a brand ambassadorClub end deal early citing \u2018differing commercial priorities\u2019Leicester City have ditched their front-of-shirt sponsor, BC Game, after the cryptocurrency casino\u2019s\u2026",
-   "date": "2026-11-18T19:01:59+00:00",
-   "image": "https://i.guim.co.uk/img/media/7044644398bc3a27fb87871dca4a0fb85c58ff05/933_1200_2646_2118/master/2646.jpg?width=140&quality=85&auto=format&fit=max&s=31e4c0002a73230e4d12c9b184513678"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Emma Hayes to assist in US Soccer hiring process for next USMNT coach",
-   "link": "https://www.theguardian.com/football/2026/nov/18/emma-hayes-usmnt-head-coach-hiring-process",
-   "summary": "US women\u2019s head coach won Olympics in 2024Hayes enjoyed trophy-laden tenure at ChelseaThe US women\u2019s national team head coach, Emma Hayes, said she was \u201cconfident in the group that is being put together\u201d to select her\u2026",
-   "date": "2026-11-18T18:44:26+00:00",
-   "image": "https://i.guim.co.uk/img/media/8ca83424102c163bcc76a3530cca7a176f8cfb56/18_0_2583_2067/master/2583.jpg?width=140&quality=85&auto=format&fit=max&s=4d6c46eaebcdbe86b8fb5b240941f572"
   }
  ],
  "videos": [
