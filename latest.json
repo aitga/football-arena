@@ -1,10 +1,26 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Cost of Man Utd hiring and firing managers nears \u00a3100m",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United borrowed \u00a310m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them \u00a37.5m in compensation to US Soccer.",
+   "date": "2026-11-20T23:18:16+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/765e/live/657e7940-e539-11f1-9616-8327139dcfc4.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "First defeat and first red for Ferguson as Glentoran falter",
+   "link": "https://www.bbc.co.uk/sport/articles/c3zxvnz5x7g1o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport Northern Ireland looks at Duncan Ferguson's first red card and defeat as Glentoran manager as they are edged out 3-2 by Cliftonville on Friday.",
+   "date": "2026-11-20T22:54:43+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0862/live/69b0f900-e531-11f1-a67d-39d55c7178b0.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Harry Kane \u2018out for next few months\u2019 after ankle ligament injury in Bayern Munich draw",
+   "title": "Bayern Munich confirm Harry Kane \u2018out for next few months\u2019 with ankle injury",
    "link": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
-   "summary": "England forward limped off early in 1-1 draw with CologneClub statement confirms \u2018tear of ligament in left ankle\u2019Bayern Munich have confirmed Harry Kane will be \u201cout for the next few months\u201d with ankle ligament damage\u2026",
+   "summary": "England forward injured in Friday\u2019s 1-1 draw with CologneClub statement confirms \u2018tear of ligament in left ankle\u2019Bayern Munich have confirmed Harry Kane will be \u201cout for the next few months\u201d with ankle ligament damage\u2026",
    "date": "2026-11-20T22:43:40+00:00",
    "image": "https://i.guim.co.uk/img/media/ff53406a06a9d58de8d9d3bb5b3fe5b627901588/12_0_2337_1869/master/2337.jpg?width=140&quality=85&auto=format&fit=max&s=0da5eb5f4c5b6fafe75d511f04a719bb"
   },
@@ -63,30 +79,30 @@
    "summary": "Spirit\u2019s run to the NWSL Championship final is in part based on a positive connection with fans at a time when DC is troubled in more ways than oneIn the moments after the Washington Spirit\u2019s 2-1 semi-final victory over\u2026",
    "date": "2026-11-20T19:56:49+00:00",
    "image": "https://i.guim.co.uk/img/media/12ce00de35ae4e4967ce3c21f4229b2fcc8d716d/367_0_4873_3900/master/4873.jpg?width=140&quality=85&auto=format&fit=max&s=abd42efe137a0a78a5721b2101b6def7"
-  },
-  {
-   "source": "The Guardian",
-   "title": "NWSL final tickets top $350 in \u2018perfect storm\u2019 even after fall from $755 peak",
-   "link": "https://www.theguardian.com/football/2026/nov/20/nwsl-championship-final-ticket-prices-755-washington-spirit-kansas-city-current",
-   "summary": "Get-in price peaked at $755 before dropping to $362Previous NWSL finals never topped $100 on matchdayAnalyst cites Spirit home game and thin resale supplyThe get-in price for tickets to Saturday\u2019s NWSL Championship\u2026",
-   "date": "2026-11-20T19:06:18+00:00",
-   "image": "https://i.guim.co.uk/img/media/e3f9a9dc22cc95e8aa9a931d53e848f020eb5c9e/429_0_4293_3435/master/4293.jpg?width=140&quality=85&auto=format&fit=max&s=a0f53baf125ed8e92f97ccdd6d689cfb"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Pochettino the connector: will human touch lift Manchester United?",
-   "link": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
-   "summary": "Argentinian has excelled in man-management \u2013 but will need his powers to energise new squad and impress ownersMauricio Pochettino celebrated his 50th birthday in style. It was March 2022, he was in charge at Paris\u2026",
-   "date": "2026-11-20T19:00:37+00:00",
-   "image": "https://i.guim.co.uk/img/media/9c87c77ae60b672cce0cee6858e9a269a7375c72/1494_325_6466_5173/master/6466.jpg?width=140&quality=85&auto=format&fit=max&s=5a9c52d9e1e46e6ab46614c955fb3005"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Cost of Man Utd hiring and firing managers nears \u00a3100m",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United borrowed \u00a310m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them \u00a37.5m in compensation to US Soccer.",
+   "date": "2026-11-20T23:18:16+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/765e/live/657e7940-e539-11f1-9616-8327139dcfc4.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "First defeat and first red for Ferguson as Glentoran falter",
+   "link": "https://www.bbc.co.uk/sport/articles/c3zxvnz5x7g1o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport Northern Ireland looks at Duncan Ferguson's first red card and defeat as Glentoran manager as they are edged out 3-2 by Cliftonville on Friday.",
+   "date": "2026-11-20T22:54:43+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0862/live/69b0f900-e531-11f1-a67d-39d55c7178b0.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Harry Kane \u2018out for next few months\u2019 after ankle ligament injury in Bayern Munich draw",
+   "title": "Bayern Munich confirm Harry Kane \u2018out for next few months\u2019 with ankle injury",
    "link": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
-   "summary": "England forward limped off early in 1-1 draw with CologneClub statement confirms \u2018tear of ligament in left ankle\u2019Bayern Munich have confirmed Harry Kane will be \u201cout for the next few months\u201d with ankle ligament damage\u2026",
+   "summary": "England forward injured in Friday\u2019s 1-1 draw with CologneClub statement confirms \u2018tear of ligament in left ankle\u2019Bayern Munich have confirmed Harry Kane will be \u201cout for the next few months\u201d with ankle ligament damage\u2026",
    "date": "2026-11-20T22:43:40+00:00",
    "image": "https://i.guim.co.uk/img/media/ff53406a06a9d58de8d9d3bb5b3fe5b627901588/12_0_2337_1869/master/2337.jpg?width=140&quality=85&auto=format&fit=max&s=0da5eb5f4c5b6fafe75d511f04a719bb"
   },
@@ -404,14 +420,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Moore eyes Kane shirt as Spurs' past and future stars meet",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Cologne loanee Mikey Moore says he hopes to exchange shirts with former Spurs team-mate Harry Kane when they face Bayern Munich on Friday.",
-   "date": "2026-11-20T07:26:36+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726c/live/32741560-c8aa-11f1-9c75-6ff1271de385.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
    "link": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
    "summary": "BBC Sport's Fantasy Premier League expert Gianni Buttice gives his answers to some of the biggest dilemmas facing managers in gameweek 11.",
@@ -553,14 +561,6 @@
    "summary": "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury.",
    "date": "2026-11-19T13:40:43+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/635f/live/71778330-e3f0-11f1-a1b0-810734adec41.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
-   "summary": "Premier League clubs vote to provide legal cover to the organisation's five board directors in the event Manchester City's sponsors sue them.",
-   "date": "2026-11-19T13:29:42+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4515/live/c1425af0-e41a-11f1-b37c-b3a71d7200af.jpg"
   }
  ],
  "videos": [
@@ -619,12 +619,6 @@
    "date": "2026-11-20T16:00:37+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "DmzRl_ALe_c",
-   "title": "Belgium v Vietnam | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-20T15:45:27+00:00"
-  },
-  {
    "channel": "UEFA",
    "id": "Z5jPiXu4jvg",
    "title": "EVERY Women's Champions League Goal From Matchday 5 | Highlights",
@@ -661,6 +655,12 @@
    "date": "2026-11-18T10:00:20+00:00"
   },
   {
+   "channel": "FIFA",
+   "id": "tT9DpqJu6YE",
+   "title": "Moroccan magic. \ud83c\uddf2\ud83c\udde6\ud83e\udd29 | #U17WC",
+   "date": "2026-11-20T23:42:54+00:00"
+  },
+  {
    "channel": "LaLiga",
    "id": "CYVg6uIou4o",
    "title": "ATHLETIC CLUB vs RCD ESPANYOL | RUEDA DE PRENSA",
@@ -689,12 +689,6 @@
    "id": "n1xmgbmkU80",
    "title": "DSC Arminia Bielefeld vs. 1. FC Magdeburg | Matchday 12 - Bundesliga 2 2026/27",
    "date": "2026-11-20T20:45:33+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "SHRF2xCAVdo",
-   "title": "\ud835\udde1\ud835\udddc\ud835\uddd6\ud835\udde2 \ud835\uddea\ud835\udddc\ud835\udddf\ud835\udddf\ud835\udddc\ud835\uddd4\ud835\udde0\ud835\udde6. \ud83d\udd25",
-   "date": "2026-11-20T20:31:12+00:00"
   }
  ],
  "fixtures": [
