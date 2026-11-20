@@ -1,6 +1,22 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Pochettino\u2019s first United training session leaked on drone footage; Premier League returns \u2013 football live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
+   "summary": "\u26bd All the latest football news going into the weekend\u26bd Fixtures | Tables | Ten things to look out for | Mail SimonNow I\u2019ve warmed you up, Simon Burnton is here to take over and get into the good stuff.I only got eight\u2026",
+   "date": "2026-11-20T10:04:11+00:00",
+   "image": "https://i.guim.co.uk/img/media/bb93f967665ae9fb691d3afd181a77af7f661bf7/928_685_4524_3622/master/4524.jpg?width=140&quality=85&auto=format&fit=max&s=071e5139925a0ae44d7ae5810a1e3964"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "EFL preview: Evans' gripes & unexpected departures",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport explores five things to capture your attention this EFL weekend.",
+   "date": "2026-11-20T08:24:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61b/live/371b89f0-e370-11f1-a094-5fdc692f3e33.png"
+  },
+  {
    "source": "BBC Sport",
    "title": "'Milan, Real & Man Utd eye Napoli's McTominay' - gossip",
    "link": "https://www.bbc.co.uk/sport/football/articles/ckjwj2295640o?at_medium=RSS&at_campaign=rss",
@@ -58,30 +74,30 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Loneliness & mood swings - what's it like to miss a season through injury?",
+   "title": "'I felt like I was a ghost' - when players miss a season through injury",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
    "summary": "Not pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?",
    "date": "2026-11-20T06:13:23+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d5/live/baeaef60-e261-11f1-900c-895604014268.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "The male footballers best associated with each shirt number \u2013 the readers\u2019 edition",
-   "link": "https://www.theguardian.com/football/ng-interactive/2026/nov/20/male-footballers-best-associated-each-shirt-number-readers-edit",
-   "summary": "Last week we selected 50 players who are synonymous with their squad numbers. Our readers spotted notable absentees so came up with an alternative list, which does not start at No 1 or end at No 50Which footballers are\u2026",
-   "date": "2026-11-20T06:00:24+00:00",
-   "image": "https://i.guim.co.uk/img/media/e915b62b593d2af5c5615cc210a752d3196133d8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d09a7ae0ec26408d8da7df1088afe174"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Socceroos\u2019 future looks bright as Australia stun Argentina in U17 World Cup",
-   "link": "https://www.theguardian.com/football/2026/nov/20/joeys-australia-stun-argentina-in-u17-world-cup",
-   "summary": "Akol Akon sealed a 2-0 win over football powerhouse in QatarJoeys mark return to tournament for first time in seven yearsSydney FC prodigy Akol Akon has demonstrated why he\u2019s one of the most exciting talents in\u2026",
-   "date": "2026-11-20T01:31:38+00:00",
-   "image": "https://i.guim.co.uk/img/media/0f5e6421f76f7aa9bb952e40d678dddd2333c60e/656_233_3822_3057/master/3822.jpg?width=140&quality=85&auto=format&fit=max&s=69b4a07bffe9a433ee07baa08d28ad8c"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Pochettino\u2019s first United training session leaked on drone footage; Premier League returns \u2013 football live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
+   "summary": "\u26bd All the latest football news going into the weekend\u26bd Fixtures | Tables | Ten things to look out for | Mail SimonNow I\u2019ve warmed you up, Simon Burnton is here to take over and get into the good stuff.I only got eight\u2026",
+   "date": "2026-11-20T10:04:11+00:00",
+   "image": "https://i.guim.co.uk/img/media/bb93f967665ae9fb691d3afd181a77af7f661bf7/928_685_4524_3622/master/4524.jpg?width=140&quality=85&auto=format&fit=max&s=071e5139925a0ae44d7ae5810a1e3964"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "EFL preview: Evans' gripes & unexpected departures",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport explores five things to capture your attention this EFL weekend.",
+   "date": "2026-11-20T08:24:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61b/live/371b89f0-e370-11f1-a094-5fdc692f3e33.png"
+  },
   {
    "source": "BBC Sport",
    "title": "'Milan, Real & Man Utd eye Napoli's McTominay' - gossip",
@@ -140,7 +156,7 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Loneliness & mood swings - what's it like to miss a season through injury?",
+   "title": "'I felt like I was a ghost' - when players miss a season through injury",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
    "summary": "Not pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?",
    "date": "2026-11-20T06:13:23+00:00",
@@ -545,25 +561,15 @@
    "summary": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
    "date": "2026-11-18T22:13:49+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7393/live/0b748390-e39a-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Veerle Buurman scrambles late WCL winner to push blunt Chelsea past PSG",
-   "link": "https://www.theguardian.com/football/2026/nov/18/chelsea-paris-saint-germain-womens-champions-league-match-report",
-   "summary": "Chelsea were made to work hard for three Champions League points against a resilient Paris Saint-Germain side but their patience paid off, Veerle Buurman squeezing the ball in at the near post to put them, temporarily\u2026",
-   "date": "2026-11-18T22:06:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/e6a874dbf4bddc966b34b0697e0af97e877130b0/523_0_3954_3164/master/3954.jpg?width=140&quality=85&auto=format&fit=max&s=fb6fc4ff9b3a4106ea3b775756da5da4"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "England defender Carter joins Bay FC after Gotham exit",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o?at_medium=RSS&at_campaign=rss",
-   "summary": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.",
-   "date": "2026-11-18T21:07:26+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2514/live/7b839f70-e392-11f1-b4f3-9f0685d52a1f.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "Serie A",
+   "id": "9vMCXlx7P4A",
+   "title": "NAPOLI-TORINO 2-1 | CLASSIC HIGHLIGHTS SERIE A 2025/26",
+   "date": "2026-11-20T10:00:37+00:00"
+  },
   {
    "channel": "FIFA",
    "id": "e7DE3RN2Ou4",
@@ -643,22 +649,34 @@
    "date": "2026-11-18T10:00:20+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "3W120AZvL8Y",
-   "title": "FROSINONE-SASSUOLO 4-2 | EXTENDED HIGHLIGHTS | SERIE A 2026/27",
-   "date": "2026-11-18T10:00:03+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "s69mM3YFJ5w",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u062f\u0646\u0645\u0627\u0631\u0643 \u0648\u0627\u0644\u0646\u0631\u0648\u064a\u062c | \u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0633\u0627\u062f\u0633\u0629",
-   "date": "2026-11-17T23:02:45+00:00"
-  },
-  {
    "channel": "UEFA",
    "id": "Z8RRCCZEUyc",
    "title": "The team move that led to Bale\u2019s iconic goal \ud83d\ude0d",
    "date": "2026-11-17T15:18:30+00:00"
+  },
+  {
+   "channel": "Ligue 1",
+   "id": "DftY3Sux_6I",
+   "title": "LIGUE 1 AFRICA : LA NOUVELLE MARQUE POUR RAPPROCHER LA LIGUE 1 DE SES MILLIONS DE FANS AFRICAINS",
+   "date": "2026-11-20T10:00:28+00:00"
+  },
+  {
+   "channel": "Premier League",
+   "id": "ghC20XAAlZs",
+   "title": "FPL Deadline Countdown | Last-Minute Advice | GW11",
+   "date": "2026-11-20T09:22:48+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "TihkZZBHpFM",
+   "title": "A few \ud83d\udcf8 before kick-off \ud83d\udd0b",
+   "date": "2026-11-20T09:02:02+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "z536dbDmh7M",
+   "title": "Los sombreros de FERM\u00cdN desde la REFCAM",
+   "date": "2026-11-20T09:00:11+00:00"
   },
   {
    "channel": "LaLiga",
@@ -671,30 +689,6 @@
    "id": "c8yI5Bt1vQM",
    "title": "Try And Stop Saka Challenge \ud83e\ude84",
    "date": "2026-11-19T19:58:03+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "i-NTzyO5OHE",
-   "title": "How To Prepare For BUSY Few Weeks | FPL Podcast 2026/27",
-   "date": "2026-11-19T19:55:49+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "E_bDYnKD63w",
-   "title": "VINICIUS JR.: \u00bfha llegado su MOMENTO? | LALIGA FANTASY SHOW #11",
-   "date": "2026-11-19T18:57:21+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "UgmGO5yTH68",
-   "title": "El bal\u00f3n se pega al pie de LAMINE YAMAL",
-   "date": "2026-11-19T17:00:31+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "e1KnuMsCGZ0",
-   "title": "Benzema starting and ending the move \ud83d\ude2e\u200d\ud83d\udca8",
-   "date": "2026-11-19T16:00:11+00:00"
   }
  ],
  "fixtures": [
