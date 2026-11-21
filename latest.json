@@ -2,6 +2,38 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Match of the Day",
+   "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+   "summary": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
+   "date": "2026-11-22T09:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp2xtf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Watch all 29 of Saturday's Scottish Premiership goals",
+   "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+   "summary": "Highlights from a full Scottish Premiership fixture card.",
+   "date": "2026-11-21T23:52:45+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp91qd.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'They looked like a team again' - Hearts  roar back with Dundee demolition",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno?at_medium=RSS&at_campaign=rss",
+   "summary": "After a worrying week before the international break, Hearts respond is style by thrashing Dundee 8-0 at Dens Park.",
+   "date": "2026-11-21T22:45:05+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf3/live/0bdf2a10-e5fc-11f1-9cff-035604b6272d.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Scottish Premiership roundup: Dundee left reeling after 8-0 mauling by Hearts",
+   "link": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
+   "summary": "Steven Pressley: \u2018I\u2019m embarrassed \u2026 I apologise\u2019 Celtic 4-1 St Mirren; Rangers 2-1 MotherwellWouter Vrancken said Hearts\u2019 remarkable 8-0 demolition of 10-man Dundee was his team\u2019s best performance since he took charge\u2026",
+   "date": "2026-11-21T22:20:19+00:00",
+   "image": "https://i.guim.co.uk/img/media/0c4eaf434ca237b594cffa07a9c244de9bb6e938/220_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=61f4d045bbc497d09374e4535d1315f5"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
    "link": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
    "summary": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
@@ -47,43 +79,43 @@
    "summary": "Dou\u00e9 injury adds to that of Kvaratskhelia last monthNice 2-3 PSG; Lazio 3-0 Lecce; Gladbach 0-1 DortmundD\u00e9sir\u00e9 Dou\u00e9 was carried off in tears after suffering what looked like a nasty knee injury as Paris Saint-Germain\u2026",
    "date": "2026-11-21T20:25:53+00:00",
    "image": "https://i.guim.co.uk/img/media/804efa5e8ed0f04d0847177a9410d55745e6820a/297_0_2972_2377/master/2972.jpg?width=140&quality=85&auto=format&fit=max&s=97fa607c796b3e792f1c54dafc582f54"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
-   "summary": "With a ninth successive win, Bournemouth continue to make history under new manager Marco Rose.",
-   "date": "2026-11-21T20:07:56+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab8/live/8d13ad90-e5e3-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Scottish Premiership roundup: Celtic sweep St Mirren aside to strengthen grip at top",
-   "link": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
-   "summary": "Alex Oxlade-Chamberlain and Luke McCowan on targetHearts thrash Dundee 8-0; Frick makes winning startThe recalled midfielders Alex Oxlade-Chamberlain and Luke McCowan both scored as Celtic beat St Mirren 4-1. The\u2026",
-   "date": "2026-11-21T20:05:28+00:00",
-   "image": "https://i.guim.co.uk/img/media/7a55b83ea67044a5e2f9c8da693d95d73cd1dda2/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=881a32437c16d84ac164518634d6c34e"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson",
-   "link": "https://www.theguardian.com/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
-   "summary": "Latest hire will depend on fresh faces and time to bed in at Old Trafford where the dugout churn is hardest to budgeEverybody knows the pattern. Performances fade. Results falter. A title challenge becomes clinging on\u2026",
-   "date": "2026-11-21T20:00:06+00:00",
-   "image": "https://i.guim.co.uk/img/media/90130f821c6f6f9d02561ca82719f5e6e79f0dfd/262_0_5492_4393/master/5492.jpg?width=140&quality=85&auto=format&fit=max&s=7f03bbef9cb73fc4427af16a9d47535a"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Arsenal go six points clear after lively draw at Newcastle",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-   "summary": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
-   "date": "2026-11-21T19:59:35+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d9/live/fcb7f580-e5e2-11f1-99a1-253766e7ad8b.jpg"
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
+   "title": "Match of the Day",
+   "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+   "summary": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
+   "date": "2026-11-22T09:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp2xtf.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Watch all 29 of Saturday's Scottish Premiership goals",
+   "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+   "summary": "Highlights from a full Scottish Premiership fixture card.",
+   "date": "2026-11-21T23:52:45+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp91qd.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'They looked like a team again' - Hearts  roar back with Dundee demolition",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno?at_medium=RSS&at_campaign=rss",
+   "summary": "After a worrying week before the international break, Hearts respond is style by thrashing Dundee 8-0 at Dens Park.",
+   "date": "2026-11-21T22:45:05+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf3/live/0bdf2a10-e5fc-11f1-9cff-035604b6272d.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Scottish Premiership roundup: Dundee left reeling after 8-0 mauling by Hearts",
+   "link": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
+   "summary": "Steven Pressley: \u2018I\u2019m embarrassed \u2026 I apologise\u2019 Celtic 4-1 St Mirren; Rangers 2-1 MotherwellWouter Vrancken said Hearts\u2019 remarkable 8-0 demolition of 10-man Dundee was his team\u2019s best performance since he took charge\u2026",
+   "date": "2026-11-21T22:20:19+00:00",
+   "image": "https://i.guim.co.uk/img/media/0c4eaf434ca237b594cffa07a9c244de9bb6e938/220_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=61f4d045bbc497d09374e4535d1315f5"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
    "link": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
    "summary": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
@@ -137,14 +169,6 @@
    "summary": "With a ninth successive win, Bournemouth continue to make history under new manager Marco Rose.",
    "date": "2026-11-21T20:07:56+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab8/live/8d13ad90-e5e3-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Scottish Premiership roundup: Celtic sweep St Mirren aside to strengthen grip at top",
-   "link": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
-   "summary": "Alex Oxlade-Chamberlain and Luke McCowan on targetHearts thrash Dundee 8-0; Frick makes winning startThe recalled midfielders Alex Oxlade-Chamberlain and Luke McCowan both scored as Celtic beat St Mirren 4-1. The\u2026",
-   "date": "2026-11-21T20:05:28+00:00",
-   "image": "https://i.guim.co.uk/img/media/7a55b83ea67044a5e2f9c8da693d95d73cd1dda2/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=881a32437c16d84ac164518634d6c34e"
   },
   {
    "source": "The Guardian",
@@ -220,7 +244,7 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Who was 'a consistent threat'? Newcastle v Arsenal player ratings",
+   "title": "Madueke 'a consistent threat' - Newcastle v Arsenal player ratings",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
    "summary": "BBC Sport's Alex Howell shares his player ratings for Newcastle and Arsenal's 2-2 draw in the Premier League - and you can rate the players too.",
    "date": "2026-11-21T19:29:48+00:00",
@@ -228,7 +252,7 @@
   },
   {
    "source": "BBC Sport",
-   "title": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
+   "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
    "summary": "BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs",
    "date": "2026-11-21T19:21:01+00:00",
@@ -436,14 +460,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Shevchenko lying about drugs test claims - Mudryk",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Mykhailo Mudryk accuses Ukraine legend Andriy Shevchenko of lying about the circumstances surrounding the winger's positive drugs test as his dispute with the country's football federation continues.",
-   "date": "2026-11-20T21:54:17+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Watch: Inverness and Ayr play out goalless draw",
    "link": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&at_campaign=rss",
    "summary": "Inverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands.",
@@ -545,25 +561,21 @@
    "summary": "How much in player salaries did it take to earn a point in the 2026 MLS regular season? The latest batch of salaries lends some insightLionel Messi has closer company at the top of MLS\u2019s list of highest-paid players,\u2026",
    "date": "2026-11-19T18:01:17+00:00",
    "image": "https://i.guim.co.uk/img/media/295eaf1b8e3e4febef1061f3822c8d8701d5310b/183_0_2356_1886/master/2356.jpg?width=140&quality=85&auto=format&fit=max&s=8357f6fe4ff7f873989ffc011b3c3754"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "All done deals from September-November 2026",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-   "date": "2026-11-19T17:54:30+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Manager ins and outs - 2026-27",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
-   "date": "2026-11-19T16:45:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/d9deae90-d832-11f1-87c3-29e1cdce63c6.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "Serie A",
+   "id": "hIn0YqsC8Cg",
+   "title": "McTominay Does It For Napoli | NAPOLI-TORINO | HIGHLIGHTS | Serie A 2026/27",
+   "date": "2026-11-21T22:30:44+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "pmjOx-ItOz4",
+   "title": "REAL MADRID 2 - 1 CELTA | RESUMEN LALIGA EA SPORTS",
+   "date": "2026-11-21T22:13:25+00:00"
+  },
   {
    "channel": "Serie A",
    "id": "fqd9Nn8oXkk",
@@ -662,51 +674,39 @@
   },
   {
    "channel": "FIFA",
-   "id": "M50meZwScWM",
-   "title": "Serbia v Honduras | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-21T15:50:28+00:00"
+   "id": "CA2RrvqUAV8",
+   "title": "Remember the name\u2026 Eduardo Conceicao. \ud83c\udde7\ud83c\uddf7\ud83d\ude2e\u200d\ud83d\udca8 | #U17WC",
+   "date": "2026-11-21T22:34:02+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "J9850b39qU8",
-   "title": "Japan v Colombia | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-21T15:40:45+00:00"
+   "channel": "LaLiga",
+   "id": "DmmOWKAgZAw",
+   "title": "\u00a1Esp\u00ed le da la vuelta a la situaci\u00f3n! \ud83e\udd2f",
+   "date": "2026-11-21T22:24:21+00:00"
+  },
+  {
+   "channel": "Premier League",
+   "id": "YbLV1AZYrKY",
+   "title": "Luca Williams-Barnett Is A STAR! \ud83c\udf1f",
+   "date": "2026-11-21T22:01:31+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "Vk6m71vR5mE",
+   "title": "Jude Bellingham brings Real Madrid level. \ud83e\udd0d",
+   "date": "2026-11-21T21:59:26+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "8bkMrgTBxSM",
+   "title": "FC St. Pauli vs. VfL Bochum 1848 | Matchday 12 - Bundesliga 2 2026/27",
+   "date": "2026-11-21T21:56:35+00:00"
   },
   {
    "channel": "LaLiga",
    "id": "oussGNuQ428",
    "title": "\u00a1Menuda parada! \ud83e\udd2f",
    "date": "2026-11-21T21:45:17+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "pJ86hx6vxY8",
-   "title": "Lazio just keep going \ud83d\ude82",
-   "date": "2026-11-21T21:22:30+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "w7gU5uuojLo",
-   "title": "SEVILLA FC vs REAL BETIS | RUEDA DE PRENSA",
-   "date": "2026-11-21T21:11:57+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "2ly3Jalhnrg",
-   "title": "\u00a1Menuda parada de Courtois! \ud83e\udde4",
-   "date": "2026-11-21T21:09:01+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "BC4AYjEQLXI",
-   "title": "Siempre en nuestro recuerdo. \ud83e\udd0d",
-   "date": "2026-11-21T21:00:12+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "nKVL47_Unjo",
-   "title": "\u00a1Pablo Dur\u00e1n adelanta al Celta! \ud83d\udd25",
-   "date": "2026-11-21T20:48:39+00:00"
   }
  ],
  "fixtures": [
@@ -1279,9 +1279,9 @@
    "away": "Celta Vigo",
    "hs": "2",
    "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "87'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
    "venue": "Santiago Bernab\u00e9u",
    "usa": [
     "ESPN Deportes",
@@ -3876,12 +3876,12 @@
       "rank": "2",
       "team": "Real Madrid",
       "short": "Real Madrid",
-      "p": "12",
-      "w": "10",
+      "p": "13",
+      "w": "11",
       "d": "0",
       "l": "2",
-      "gd": "+21",
-      "pts": "30",
+      "gd": "+22",
+      "pts": "33",
       "zone": "#81D6AC",
       "zone_name": "Champions League"
      },
@@ -4030,11 +4030,11 @@
       "rank": "13",
       "team": "Celta Vigo",
       "short": "Celta Vigo",
-      "p": "12",
+      "p": "13",
       "w": "2",
       "d": "7",
-      "l": "3",
-      "gd": "0",
+      "l": "4",
+      "gd": "-1",
       "pts": "13",
       "zone": "",
       "zone_name": ""
@@ -12523,9 +12523,9 @@
    "away": "Celta Vigo",
    "hs": "2",
    "as": "1",
-   "live": true,
-   "state": "in",
-   "clock": "87'",
+   "live": false,
+   "state": "post",
+   "clock": "90'+5'",
    "venue": "Santiago Bernab\u00e9u",
    "usa": [
     "ESPN Deportes",
