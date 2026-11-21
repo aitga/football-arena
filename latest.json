@@ -259,14 +259,6 @@
    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Football Daily | The Premier League resumes: here\u2019s our almost essential club-by-club recap",
-   "link": "https://www.theguardian.com/football/2026/nov/20/premier-league-resumes-club-by-club-recap-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Just like taking the Manchester United job or listening in on a conversation with Stephen Warnock, the men\u2019s international break can be a long, hard slog, a domestic\u2026",
-   "date": "2026-11-20T16:32:26+00:00",
-   "image": "https://i.guim.co.uk/img/media/39042ad070dbbb914fe259684a7051af9ced8e76/436_0_6109_4887/master/6109.jpg?width=140&quality=85&auto=format&fit=max&s=42af8f3b859f4668bb05599f211bcfb1"
-  },
-  {
    "source": "BBC Sport",
    "title": "Mowbray support no surprise, says interim boss Johnson",
    "link": "https://www.bbc.co.uk/sport/football/articles/c5m2lnp387kmo?at_medium=RSS&at_campaign=rss",
@@ -481,6 +473,14 @@
    "summary": "Ban by Uefa is suspended for two yearsUefa also fines FA \u00a312,500 for offensive chantsEngland have been handed a \u00adsuspended \u00adone-match ban on away ticket sales by Uefa in relation to \u201c\u00adracist and/or \u00addiscriminatory\u201d\u2026",
    "date": "2026-11-19T22:05:54+00:00",
    "image": "https://i.guim.co.uk/img/media/2d654d5e6705bb23f6cb8e5eedad71135d9db2d6/520_0_4878_3902/master/4878.jpg?width=140&quality=85&auto=format&fit=max&s=a7623f53ae1213fbe5f86d5677c14d56"
+  },
+  {
+   "source": "The Guardian",
+   "title": "OL Lyonnes show their class to hit Arsenal\u2019s ambitions for a top-four WCL finish",
+   "link": "https://www.theguardian.com/football/2026/nov/19/arsenal-ol-lyonnes-womens-champions-league-match-report",
+   "summary": "Arsenal\u2019s hopes of earning automatic progression to the Champions League quarter-finals were dashed by OL\u00a0Lyonnes, as the French side continued their statement form in Europe.Goals in either half from Jule Brand and\u2026",
+   "date": "2026-11-19T22:05:36+00:00",
+   "image": "https://i.guim.co.uk/img/media/34212d5ddf1d8daff4e51c5ee94d747f120dc11a/400_188_2380_1905/master/2380.jpg?width=140&quality=85&auto=format&fit=max&s=f84b9aaaca61d8be02fa723c4be5d447"
   },
   {
    "source": "BBC Sport",
@@ -2378,6 +2378,101 @@
    ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
+  },
+  {
+   "id": "401884720",
+   "code": "ger.1",
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-27T19:30Z",
+   "home": "Werder Bremen",
+   "away": "Borussia M\u00f6nchengladbach",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Weserstadion",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png"
+  },
+  {
+   "id": "401875004",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-27T19:45Z",
+   "home": "Venezia",
+   "away": "Bologna",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stadio Pier Luigi Penzo",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
+  },
+  {
+   "id": "401876392",
+   "code": "fra.1",
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-27T19:45Z",
+   "home": "Brest",
+   "away": "Paris FC",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stade Francis-Le Bl\u00e9",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
+  },
+  {
+   "id": "401879225",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-27T20:00Z",
+   "home": "Nottingham Forest",
+   "away": "Chelsea",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "The City Ground",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+  },
+  {
+   "id": "401882791",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-27T20:00Z",
+   "home": "Levante",
+   "away": "Racing Santander",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Estadi Ciutat de Val\u00e8ncia",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png"
   }
  ],
  "national": [
@@ -13526,6 +13621,101 @@
    ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
+  },
+  "401884720": {
+   "id": "401884720",
+   "code": "ger.1",
+   "l": "ger",
+   "comp": "German Bundesliga",
+   "date": "2026-11-27T19:30Z",
+   "home": "Werder Bremen",
+   "away": "Borussia M\u00f6nchengladbach",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Weserstadion",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png"
+  },
+  "401875004": {
+   "id": "401875004",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-27T19:45Z",
+   "home": "Venezia",
+   "away": "Bologna",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stadio Pier Luigi Penzo",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
+  },
+  "401876392": {
+   "id": "401876392",
+   "code": "fra.1",
+   "l": "fra",
+   "comp": "French Ligue 1",
+   "date": "2026-11-27T19:45Z",
+   "home": "Brest",
+   "away": "Paris FC",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stade Francis-Le Bl\u00e9",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
+  },
+  "401879225": {
+   "id": "401879225",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-11-27T20:00Z",
+   "home": "Nottingham Forest",
+   "away": "Chelsea",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "The City Ground",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+  },
+  "401882791": {
+   "id": "401882791",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-27T20:00Z",
+   "home": "Levante",
+   "away": "Racing Santander",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Estadi Ciutat de Val\u00e8ncia",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png"
   }
  }
 }
