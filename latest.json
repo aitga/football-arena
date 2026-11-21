@@ -613,12 +613,6 @@
    "date": "2026-11-20T16:30:11+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "e60S4gf2T6k",
-   "title": "Cuba v Tajikistan | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-20T16:00:37+00:00"
-  },
-  {
    "channel": "UEFA",
    "id": "Z5jPiXu4jvg",
    "title": "EVERY Women's Champions League Goal From Matchday 5 | Highlights",
@@ -656,6 +650,12 @@
   },
   {
    "channel": "FIFA",
+   "id": "jiAzst8eeTQ",
+   "title": "10-Minute Match | Ghana Leave It LATE Against Panama | 2026 World Cup",
+   "date": "2026-11-21T02:30:15+00:00"
+  },
+  {
+   "channel": "FIFA",
    "id": "tT9DpqJu6YE",
    "title": "Moroccan magic. \ud83c\uddf2\ud83c\udde6\ud83e\udd29 | #U17WC",
    "date": "2026-11-20T23:42:54+00:00"
@@ -683,12 +683,6 @@
    "id": "-OP9VsBOtjY",
    "title": "FORTU\u00d1O. \ud83e\uddb8",
    "date": "2026-11-20T20:52:12+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "n1xmgbmkU80",
-   "title": "DSC Arminia Bielefeld vs. 1. FC Magdeburg | Matchday 12 - Bundesliga 2 2026/27",
-   "date": "2026-11-20T20:45:33+00:00"
   }
  ],
  "fixtures": [
