@@ -2,11 +2,19 @@
  "news": [
   {
    "source": "BBC Sport",
-   "title": "Match of the Day",
-   "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-   "summary": "Highlights of Liverpool v Manchester United and Hull City v Brighton.",
-   "date": "2026-11-22T23:22:56+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp3162.jpg"
+   "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+   "date": "2026-11-22T23:20:16+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81a2/live/669edd40-e6c1-11f1-99a1-253766e7ad8b.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0ppcw2v?at_medium=RSS&at_campaign=rss",
+   "summary": "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd\u2019s 4-0 defeat at Liverpool.",
+   "date": "2026-11-22T23:14:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg"
   },
   {
    "source": "The Guardian",
@@ -71,24 +79,24 @@
    "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
    "date": "2026-11-22T19:59:38+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c3/live/e536fa10-e69f-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
-   "date": "2026-11-22T19:59:35+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/4cb54b80-e6a8-11f1-99a1-253766e7ad8b.jpg"
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
-   "title": "Match of the Day",
-   "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-   "summary": "Highlights of Liverpool v Manchester United and Hull City v Brighton.",
-   "date": "2026-11-22T23:22:56+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp3162.jpg"
+   "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+   "date": "2026-11-22T23:20:16+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81a2/live/669edd40-e6c1-11f1-99a1-253766e7ad8b.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/p0ppcw2v?at_medium=RSS&at_campaign=rss",
+   "summary": "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd\u2019s 4-0 defeat at Liverpool.",
+   "date": "2026-11-22T23:14:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg"
   },
   {
    "source": "The Guardian",
@@ -553,17 +561,87 @@
    "summary": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League.",
    "date": "2026-11-21T19:58:56+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0228/live/9a476370-e5e4-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Coventry beat Palace in Frank's first game after late own goal",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
-   "summary": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League.",
-   "date": "2026-11-21T19:58:52+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca40/live/81c33140-e5cf-11f1-a094-5fdc692f3e33.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "Bundesliga",
+   "id": "SlfD9fhbfK0",
+   "title": "Third Win In A Row! | SV ELVERSBERG - SC FREIBURG | Highlights | Matchday 10 \u2013 Bundesliga 2026/27",
+   "date": "2026-11-22T23:00:38+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "TIeusIZuHr4",
+   "title": "RB Shows No Mercy! | UNION BERLIN - RB LEIPZIG | Highlights | Matchday 10 \u2013 Bundesliga 2026/27",
+   "date": "2026-11-22T23:00:37+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "4wcq2of-eEI",
+   "title": "Dream Combination Earns K\u00f6ln A Draw! | FC BAYERN - 1. FC K\u00d6LN | Highlights | MD 10 \u2013 Bundesliga",
+   "date": "2026-11-22T23:00:35+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "chOt8WAx6Jo",
+   "title": "Gregoritsch Is On Fire! | FC AUGSBURG - MAINZ 05 | Highlights | Matchday 10 \u2013 Bundesliga 2026/27",
+   "date": "2026-11-22T23:00:35+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "SiEqo0jnp7Q",
+   "title": "Magical Performance! | BAYER 04 LEVERKUSEN - SC PADERBORN | Highlights | Matchday 10 \u2013 Bundesliga",
+   "date": "2026-11-22T23:00:28+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "YxsFVuJQNag",
+   "title": "TWO Missed Penalties! | EINTRACHT FRANKFURT - HOFFENHEIM | Highlights | Matchday 10 \u2013 Bundesliga",
+   "date": "2026-11-22T23:00:26+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "CcMEOKUjJak",
+   "title": "Another Draw At Home! | SCHALKE 04 - VFB STUTTGART | Highlights | Matchday 10 \u2013 Bundesliga 2026/27",
+   "date": "2026-11-22T23:00:25+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "gPCmhAwzrUU",
+   "title": "GETAFE CF 0 - 3 ATL\u00c9TICO DE MADRID | RESUMEN LALIGA EA SPORTS",
+   "date": "2026-11-22T23:00:23+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "mWFkG18O6qM",
+   "title": "ALL HIGHLIGHTS | BUNDESLIGA | MATCHDAY 10",
+   "date": "2026-11-22T23:00:22+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "7YIdoK1wFYY",
+   "title": "R. RACING CLUB 3 - 2 REAL SOCIEDAD | RESUMEN LALIGA EA SPORTS",
+   "date": "2026-11-22T23:00:19+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "7ZbShunDwDw",
+   "title": "FC BARCELONA 3 - 2 VILLARREAL CF | RESUMEN LALIGA EA SPORTS",
+   "date": "2026-11-22T23:00:17+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "s1blwgqVDZc",
+   "title": "Il Diavolo Domina A San Siro | MILAN-FROSINONE | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-22T22:59:08+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "KgnLPDco0PU",
+   "title": "Una Partita Fuori Di Testa A Bergamo | ATALANTA-INTER | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-22T22:57:56+00:00"
+  },
   {
    "channel": "Serie A",
    "id": "91CeztXQwPM",
@@ -584,12 +662,6 @@
   },
   {
    "channel": "Serie A",
-   "id": "s1blwgqVDZc",
-   "title": "Il Diavolo Domina A San Siro | MILAN-FROSINONE | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-22T20:10:34+00:00"
-  },
-  {
-   "channel": "Serie A",
    "id": "ntAByDUgT9Q",
    "title": "Zaniolo Salva I Friulani | BOLOGNA-UDINESE | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
    "date": "2026-11-22T19:59:09+00:00"
@@ -601,112 +673,40 @@
    "date": "2026-11-22T19:59:08+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "88S0aBcQ0Bc",
-   "title": "The Rossoneri Triumph At San Siro | MILAN-FROSINONE | HIGHLIGHTS | Serie A 2026/27",
-   "date": "2026-11-22T19:53:46+00:00"
+   "channel": "Ligue 1",
+   "id": "kEX6v73ZJCE",
+   "title": "TOUS LES BUTS de la 11\u00e8me journ\u00e9e | Ligue 1 McDonald's 26/27",
+   "date": "2026-11-22T23:04:08+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "hWS7KS8N-EM",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0644\u064a\u0641\u0631\u0628\u0648\u0644 \u0648\u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u064a\u0648\u0646\u0627\u064a\u062a\u062f\u00a0 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0627\u0644\u0645\u0645\u062a\u0627\u0632 - \u0627\u0644\u062c\u0648\u0644\u0629 11",
-   "date": "2026-11-22T19:03:57+00:00"
+   "channel": "Ligue 1",
+   "id": "PGXZMhu0PDg",
+   "title": "OGC NICE - PARIS SAINT-GERMAIN (2-3) | Week 11 - Ligue 1 McDonald's 26/27",
+   "date": "2026-11-22T23:00:38+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "suCdUiuhBLU",
-   "title": "Argentina v Mozambique | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-22T18:45:27+00:00"
+   "channel": "Ligue 1",
+   "id": "bSXBBCNKqbE",
+   "title": "AS MONACO - AJ AUXERRE (1-1) | Week 11 - Ligue 1 McDonald's 26/27",
+   "date": "2026-11-22T23:00:35+00:00"
   },
   {
-   "channel": "Bundesliga",
-   "id": "AjoE-9Br7bk",
-   "title": "Njinmah Lights Up The Nordderby! | WERDER BREMEN - HAMBURGER SV | Highlights | MD 10 \u2013 Bundesliga",
-   "date": "2026-11-22T18:39:40+00:00"
+   "channel": "Ligue 1",
+   "id": "iOIjwGR-iLQ",
+   "title": "ESTAC TROYES - LE HAVRE AC (3-1) | Week 11 - Ligue 1 McDonald's 26/27",
+   "date": "2026-11-22T23:00:31+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "SL-XsC4gGH8",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629  \u0637\u0631\u0627\u0628\u0632\u0648\u0646 \u0633\u0628\u0648\u0631 \u0648\u0623\u064a\u0648\u0628 \u0633\u0628\u0648\u0631\u00a0 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u062a\u0631\u0643\u064a - \u00a0\u0627\u0644\u062c\u0648\u0644\u0629 12",
-   "date": "2026-11-22T18:28:18+00:00"
+   "channel": "Ligue 1",
+   "id": "1yFz-3TZuhM",
+   "title": "Le TOP ARR\u00caTS de la 11\u00e8me journ\u00e9e | Ligue 1 McDonald's 26/27",
+   "date": "2026-11-22T23:00:30+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "hhyPebX10xs",
-   "title": "Uruguay v Haiti | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-22T18:27:23+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "_4dZsVpoKbs",
-   "title": "Qatar v Egypt | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-22T17:50:24+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "DRctRWvAGeY",
-   "title": "Korea Republic v New Caledonia | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-22T17:41:08+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "eba6SwiJn8c",
-   "title": "Kolo Muani e Woltemade A Segno! | JUVENTUS-VENEZIA | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-22T17:29:09+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "-9b2VmQQrhs",
-   "title": "Osmajic At The Double! | SASSUOLO-GENOA | HIGHLIGHTS | Serie A 2026/27",
-   "date": "2026-11-22T16:51:57+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "peRutfZlJmU",
-   "title": "Gregoritsch With The Brace! | FC AUGSBURG - MAINZ 05 | Highlights | Matchday 10 \u2013 Bundesliga 2026/27",
-   "date": "2026-11-22T16:46:22+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "SuL8cDPa-GI",
-   "title": "France v Saudi Arabia | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-22T16:30:22+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "dvIhVt-_b_c",
-   "title": "GETAFE CF vs ATL\u00c9TICO DE MADRID | RUEDA DE PRENSA",
-   "date": "2026-11-22T22:33:58+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "WNQrT-MMHCQ",
-   "title": "Cinco para Grimaldo. \ud83d\ude2e\ud83c\udfcc\ud83c\udffd",
-   "date": "2026-11-22T22:28:42+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "23f4vZkvOkk",
-   "title": "Woltemade \u2705 Kolo Muani \u2705",
-   "date": "2026-11-22T22:19:39+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "z0YpznOOGs4",
-   "title": "UNSTOPPABLE Rio Ngumoha v Man Utd \u2b50\ufe0f",
-   "date": "2026-11-22T22:01:11+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "Iwb9pGydeNk",
-   "title": "Esta parada: \ud83d\ude2e\ud83d\ude2e\ud83d\ude2e",
-   "date": "2026-11-22T21:45:37+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "W-1pvRo43io",
-   "title": "JOHNNY CARDOSO. \u2764\ufe0f\ud83e\udd0d",
-   "date": "2026-11-22T20:50:50+00:00"
+   "channel": "Ligue 1",
+   "id": "BQCSXkk9vlI",
+   "title": "1\u00c8RE de Carlos Vicens et JOLI COUP de L\u2019OL \u00e0 Lille | 11\u00e8me journ\u00e9e - Ligue 1 McDonald's 26/27",
+   "date": "2026-11-22T23:00:28+00:00"
   }
  ],
  "fixtures": [
