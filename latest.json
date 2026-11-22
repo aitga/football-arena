@@ -2,173 +2,181 @@
  "news": [
   {
    "source": "BBC Sport",
-   "title": "Fifa to confirm UK bid to host 2035 Women's World Cup",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
-   "date": "2026-11-22T21:44:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/557b/live/9cccbb70-e6b8-11f1-bb92-6d8a0512bfb0.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
-   "date": "2026-11-22T21:36:00+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e813/live/77008940-e6bc-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
-   "date": "2026-11-22T21:22:10+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6c/live/aa7667d0-e6bd-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Pepe did not injure eyes staring at sun, say Villarreal",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
-   "date": "2026-11-22T21:04:55+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fac4/live/e82d54b0-e6b5-11f1-a367-d7fb45f4e865.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Man Utd plotting Toney move - Monday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
-   "date": "2026-11-22T21:04:15+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174b/live/54b51b60-e6aa-11f1-99b6-a35a62fa4264.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Pochettino\u2019s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
-   "link": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
-   "summary": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpitChaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three\u2011ring\u2026",
-   "date": "2026-11-22T20:58:35+00:00",
-   "image": "https://i.guim.co.uk/img/media/2e5a4478b3bf6d18edc1a5b8efc06cb3779d0585/119_0_3133_2506/master/3133.jpg?width=140&quality=85&auto=format&fit=max&s=7e5218036dc8d5af89f2994335bd682e"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
-   "date": "2026-11-22T19:59:38+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c3/live/e536fa10-e69f-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
-   "date": "2026-11-22T19:59:35+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/4cb54b80-e6a8-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Charlton earn maiden WSL point against Villa",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cwq6e7gl5r4yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Charlton earn their first WSL point after 11 matches with a hard-fought draw against Aston Villa, who withstand late pressure from the hosts to avoid defeat.",
-   "date": "2026-11-22T19:50:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5929/live/d677bad0-e6a1-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Own-goal mishap gifts Brighton first away victory",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqx2w0m8v84wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Brighton secured their first Women's Super League away win of the season thanks to a bizarre own goal from Everton's Maz Pacheco.",
-   "date": "2026-11-22T19:50:33+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389a/live/5ab0e970-e6a2-11f1-99b6-a35a62fa4264.jpg"
-  }
- ],
- "news_all": [
-  {
-   "source": "BBC Sport",
-   "title": "Fifa to confirm UK bid to host 2035 Women's World Cup",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
-   "date": "2026-11-22T21:44:37+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/557b/live/9cccbb70-e6b8-11f1-bb92-6d8a0512bfb0.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
-   "date": "2026-11-22T21:36:00+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e813/live/77008940-e6bc-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
-   "date": "2026-11-22T21:22:10+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6c/live/aa7667d0-e6bd-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Pepe did not injure eyes staring at sun, say Villarreal",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
-   "date": "2026-11-22T21:04:55+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fac4/live/e82d54b0-e6b5-11f1-a367-d7fb45f4e865.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Man Utd plotting Toney move - Monday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
-   "date": "2026-11-22T21:04:15+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174b/live/54b51b60-e6aa-11f1-99b6-a35a62fa4264.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Pochettino\u2019s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
-   "link": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
-   "summary": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpitChaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three\u2011ring\u2026",
-   "date": "2026-11-22T20:58:35+00:00",
-   "image": "https://i.guim.co.uk/img/media/2e5a4478b3bf6d18edc1a5b8efc06cb3779d0585/119_0_3133_2506/master/3133.jpg?width=140&quality=85&auto=format&fit=max&s=7e5218036dc8d5af89f2994335bd682e"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
-   "date": "2026-11-22T19:59:38+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c3/live/e536fa10-e69f-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
-   "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
-   "date": "2026-11-22T19:59:35+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/4cb54b80-e6a8-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Charlton earn maiden WSL point against Villa",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cwq6e7gl5r4yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Charlton earn their first WSL point after 11 matches with a hard-fought draw against Aston Villa, who withstand late pressure from the hosts to avoid defeat.",
-   "date": "2026-11-22T19:50:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5929/live/d677bad0-e6a1-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Own-goal mishap gifts Brighton first away victory",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqx2w0m8v84wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Brighton secured their first Women's Super League away win of the season thanks to a bizarre own goal from Everton's Maz Pacheco.",
-   "date": "2026-11-22T19:50:33+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389a/live/5ab0e970-e6a2-11f1-99b6-a35a62fa4264.jpg"
+   "title": "Match of the Day",
+   "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+   "summary": "Highlights of Liverpool v Manchester United and Hull City v Brighton.",
+   "date": "2026-11-22T23:22:56+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp3162.jpg"
   },
   {
    "source": "The Guardian",
    "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
    "link": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
-   "summary": "Bar\u00e7a prevail 3-2 despite Lamine Yamal\u2019s missed penaltyJuventus put four past Venezia, Paris FC climb to secondBarcelona came back from two goals behind to beat Villarreal 3-2 at home on Sunday and restore their\u2026",
-   "date": "2026-11-22T19:39:27+00:00",
+   "summary": "Bar\u00e7a prevail 3-2 despite Lamine Yamal\u2019s missed penaltyAtalanta snatch point in thrilling 4-4 draw with InterBarcelona came back from two goals behind to beat Villarreal 3-2 at home on Sunday and restore their\u2026",
+   "date": "2026-11-22T22:20:43+00:00",
    "image": "https://i.guim.co.uk/img/media/e156c5f2d84c63c34abb465b35688771f70fdb64/0_0_2350_1880/master/2350.jpg?width=140&quality=85&auto=format&fit=max&s=47026d23bd0d42bf8fe223e1cfb712a6"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+   "date": "2026-11-22T21:44:37+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/557b/live/9cccbb70-e6b8-11f1-bb92-6d8a0512bfb0.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+   "date": "2026-11-22T21:36:00+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e813/live/77008940-e6bc-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+   "date": "2026-11-22T21:22:10+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6c/live/aa7667d0-e6bd-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Pepe did not injure eyes staring at sun, say Villarreal",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
+   "date": "2026-11-22T21:04:55+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fac4/live/e82d54b0-e6b5-11f1-a367-d7fb45f4e865.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Man Utd plotting Toney move - Monday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
+   "date": "2026-11-22T21:04:15+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174b/live/54b51b60-e6aa-11f1-99b6-a35a62fa4264.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Pochettino\u2019s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+   "link": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
+   "summary": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpitChaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three\u2011ring\u2026",
+   "date": "2026-11-22T20:58:35+00:00",
+   "image": "https://i.guim.co.uk/img/media/2e5a4478b3bf6d18edc1a5b8efc06cb3779d0585/119_0_3133_2506/master/3133.jpg?width=140&quality=85&auto=format&fit=max&s=7e5218036dc8d5af89f2994335bd682e"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+   "date": "2026-11-22T19:59:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c3/live/e536fa10-e69f-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+   "date": "2026-11-22T19:59:35+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/4cb54b80-e6a8-11f1-99a1-253766e7ad8b.jpg"
+  }
+ ],
+ "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Match of the Day",
+   "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+   "summary": "Highlights of Liverpool v Manchester United and Hull City v Brighton.",
+   "date": "2026-11-22T23:22:56+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp3162.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
+   "link": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
+   "summary": "Bar\u00e7a prevail 3-2 despite Lamine Yamal\u2019s missed penaltyAtalanta snatch point in thrilling 4-4 draw with InterBarcelona came back from two goals behind to beat Villarreal 3-2 at home on Sunday and restore their\u2026",
+   "date": "2026-11-22T22:20:43+00:00",
+   "image": "https://i.guim.co.uk/img/media/e156c5f2d84c63c34abb465b35688771f70fdb64/0_0_2350_1880/master/2350.jpg?width=140&quality=85&auto=format&fit=max&s=47026d23bd0d42bf8fe223e1cfb712a6"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+   "date": "2026-11-22T21:44:37+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/557b/live/9cccbb70-e6b8-11f1-bb92-6d8a0512bfb0.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+   "date": "2026-11-22T21:36:00+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e813/live/77008940-e6bc-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+   "date": "2026-11-22T21:22:10+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6c/live/aa7667d0-e6bd-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Pepe did not injure eyes staring at sun, say Villarreal",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
+   "date": "2026-11-22T21:04:55+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fac4/live/e82d54b0-e6b5-11f1-a367-d7fb45f4e865.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Man Utd plotting Toney move - Monday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
+   "date": "2026-11-22T21:04:15+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174b/live/54b51b60-e6aa-11f1-99b6-a35a62fa4264.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Pochettino\u2019s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+   "link": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
+   "summary": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpitChaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three\u2011ring\u2026",
+   "date": "2026-11-22T20:58:35+00:00",
+   "image": "https://i.guim.co.uk/img/media/2e5a4478b3bf6d18edc1a5b8efc06cb3779d0585/119_0_3133_2506/master/3133.jpg?width=140&quality=85&auto=format&fit=max&s=7e5218036dc8d5af89f2994335bd682e"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+   "date": "2026-11-22T19:59:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c3/live/e536fa10-e69f-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+   "date": "2026-11-22T19:59:35+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/4cb54b80-e6a8-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Charlton earn maiden WSL point against Villa",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cwq6e7gl5r4yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Charlton earn their first WSL point after 11 matches with a hard-fought draw against Aston Villa, who withstand late pressure from the hosts to avoid defeat.",
+   "date": "2026-11-22T19:50:45+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5929/live/d677bad0-e6a1-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Own-goal mishap gifts Brighton first away victory",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqx2w0m8v84wo?at_medium=RSS&at_campaign=rss",
+   "summary": "Brighton secured their first Women's Super League away win of the season thanks to a bizarre own goal from Everton's Maz Pacheco.",
+   "date": "2026-11-22T19:50:33+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389a/live/5ab0e970-e6a2-11f1-99b6-a35a62fa4264.jpg"
   },
   {
    "source": "BBC Sport",
@@ -198,7 +206,7 @@
    "source": "The Guardian",
    "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
    "link": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
-   "summary": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at \u00adManchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism\u2026",
+   "summary": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism\u2026",
    "date": "2026-11-22T18:35:14+00:00",
    "image": "https://i.guim.co.uk/img/media/eabaf0f7802df08b573f0b7df40105a767d353ce/338_150_2492_1994/master/2492.jpg?width=140&quality=85&auto=format&fit=max&s=a484b5f20173ec7e62930c8caf870d5f"
   },
@@ -443,14 +451,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6419/live/3883b000-e5e2-11f1-99a1-253766e7ad8b.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "'They looked like a team again' - Hearts  roar back with Dundee demolition",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno?at_medium=RSS&at_campaign=rss",
-   "summary": "After a worrying week before the international break, Hearts respond is style by thrashing Dundee 8-0 at Dens Park.",
-   "date": "2026-11-21T22:45:05+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf3/live/0bdf2a10-e5fc-11f1-9cff-035604b6272d.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Scottish Premiership roundup: Dundee left reeling after 8-0 mauling by Hearts",
    "link": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
@@ -566,6 +566,24 @@
  "videos": [
   {
    "channel": "Serie A",
+   "id": "91CeztXQwPM",
+   "title": "Eight Goals In A Crazy Game | ATALANTA-INTER | HIGHLIGHTS | Serie A 2026/27",
+   "date": "2026-11-22T22:31:20+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "DO8-Wy33ho0",
+   "title": "GETAFE CF 0 - 3 ATL\u00c9TICO DE MADRID | RESUMEN LALIGA EA SPORTS",
+   "date": "2026-11-22T22:08:06+00:00"
+  },
+  {
+   "channel": "Premier League",
+   "id": "jGoR3l7RW6I",
+   "title": "EVERY Weekend Goal | Matchweek 11 | 2026/27 Premier League Highlights",
+   "date": "2026-11-22T22:00:17+00:00"
+  },
+  {
+   "channel": "Serie A",
    "id": "s1blwgqVDZc",
    "title": "Il Diavolo Domina A San Siro | MILAN-FROSINONE | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
    "date": "2026-11-22T20:10:34+00:00"
@@ -587,12 +605,6 @@
    "id": "88S0aBcQ0Bc",
    "title": "The Rossoneri Triumph At San Siro | MILAN-FROSINONE | HIGHLIGHTS | Serie A 2026/27",
    "date": "2026-11-22T19:53:46+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "15YyZiloozk",
-   "title": "CA OSASUNA 1 - 0 M\u00c1LAGA CF | RESUMEN LALIGA EA SPORTS",
-   "date": "2026-11-22T19:38:41+00:00"
   },
   {
    "channel": "beIN SPORTS",
@@ -649,12 +661,6 @@
    "date": "2026-11-22T16:51:57+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "nuFJoRWpF-E",
-   "title": "Zaniolo Rescues A Point For Udinese | BOLOGNA-UDINESE | HIGHLIGHTS | Serie A 2026/27",
-   "date": "2026-11-22T16:49:32+00:00"
-  },
-  {
    "channel": "Bundesliga",
    "id": "peRutfZlJmU",
    "title": "Gregoritsch With The Brace! | FC AUGSBURG - MAINZ 05 | Highlights | Matchday 10 \u2013 Bundesliga 2026/27",
@@ -667,46 +673,40 @@
    "date": "2026-11-22T16:30:22+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "sOp97C7rprs",
-   "title": "Ecuador v Uganda | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-22T15:49:52+00:00"
+   "channel": "LaLiga",
+   "id": "dvIhVt-_b_c",
+   "title": "GETAFE CF vs ATL\u00c9TICO DE MADRID | RUEDA DE PRENSA",
+   "date": "2026-11-22T22:33:58+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "WNQrT-MMHCQ",
+   "title": "Cinco para Grimaldo. \ud83d\ude2e\ud83c\udfcc\ud83c\udffd",
+   "date": "2026-11-22T22:28:42+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "23f4vZkvOkk",
+   "title": "Woltemade \u2705 Kolo Muani \u2705",
+   "date": "2026-11-22T22:19:39+00:00"
+  },
+  {
+   "channel": "Premier League",
+   "id": "z0YpznOOGs4",
+   "title": "UNSTOPPABLE Rio Ngumoha v Man Utd \u2b50\ufe0f",
+   "date": "2026-11-22T22:01:11+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "Iwb9pGydeNk",
+   "title": "Esta parada: \ud83d\ude2e\ud83d\ude2e\ud83d\ude2e",
+   "date": "2026-11-22T21:45:37+00:00"
   },
   {
    "channel": "LaLiga",
    "id": "W-1pvRo43io",
    "title": "JOHNNY CARDOSO. \u2764\ufe0f\ud83e\udd0d",
    "date": "2026-11-22T20:50:50+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "Hx0HE0d_LfM",
-   "title": "DAVID SORIA. \ud83e\udde4\ud83d\udd77\ufe0f",
-   "date": "2026-11-22T20:42:00+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "Q6UOpHq8hrc",
-   "title": "CA OSASUNA vs M\u00c1LAGA CF | RUEDA DE PRENSA",
-   "date": "2026-11-22T20:03:06+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "5d6rVPFY_dE",
-   "title": "\ud83d\udd34 GETAFE CF vs ATL\u00c9TICO DE MADRID - PREVIA DEL PARTIDO",
-   "date": "2026-11-22T20:01:37+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "p3cybMHZ_sU",
-   "title": "SV Werder Bremen vs. Hamburger SV | Matchday 10 - Bundesliga 2026/27",
-   "date": "2026-11-22T19:08:19+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "4DRhqhzoeNo",
-   "title": "Por muy poco, Budi. \ud83e\udd0f\ud83c\udffc\ud83d\udca5",
-   "date": "2026-11-22T18:56:27+00:00"
   }
  ],
  "fixtures": [
@@ -4209,12 +4209,12 @@
       "rank": "3",
       "team": "Atl\u00e9tico Madrid",
       "short": "Atl\u00e9tico",
-      "p": "12",
-      "w": "9",
+      "p": "13",
+      "w": "10",
       "d": "1",
       "l": "2",
-      "gd": "+13",
-      "pts": "28",
+      "gd": "+16",
+      "pts": "31",
       "zone": "#81D6AC",
       "zone_name": "Champions League"
      },
@@ -4389,20 +4389,6 @@
      {
       "group": "",
       "rank": "16",
-      "team": "Getafe",
-      "short": "Getafe",
-      "p": "12",
-      "w": "3",
-      "d": "3",
-      "l": "6",
-      "gd": "-10",
-      "pts": "12",
-      "zone": "",
-      "zone_name": ""
-     },
-     {
-      "group": "",
-      "rank": "17",
       "team": "Valencia",
       "short": "Valencia",
       "p": "13",
@@ -4410,6 +4396,20 @@
       "d": "3",
       "l": "7",
       "gd": "-11",
+      "pts": "12",
+      "zone": "",
+      "zone_name": ""
+     },
+     {
+      "group": "",
+      "rank": "17",
+      "team": "Getafe",
+      "short": "Getafe",
+      "p": "13",
+      "w": "3",
+      "d": "3",
+      "l": "7",
+      "gd": "-13",
       "pts": "12",
       "zone": "",
       "zone_name": ""
@@ -6917,18 +6917,18 @@
    },
    {
     "l": "esp",
-    "name": "Getafe",
-    "short": "Getafe",
-    "keys": [
-     "getafe"
-    ]
-   },
-   {
-    "l": "esp",
     "name": "Valencia",
     "short": "Valencia",
     "keys": [
      "valencia"
+    ]
+   },
+   {
+    "l": "esp",
+    "name": "Getafe",
+    "short": "Getafe",
+    "keys": [
+     "getafe"
     ]
    },
    {
