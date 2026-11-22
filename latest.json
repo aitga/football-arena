@@ -1,206 +1,94 @@
 {
  "news": [
   {
-   "source": "ESPN",
-   "title": "Follow live: KC Current closing in on NWSL title",
-   "link": "https://www.espn.com/soccer/match/_/gameId/401934232/kansas-city-current-washington-spirit",
-   "summary": "null",
-   "date": "2026-11-22T02:58:36+00:00",
-   "image": null
+   "source": "The Guardian",
+   "title": "Kansas City Current stun Washington Spirit to win NWSL Championship \u2013 live reaction",
+   "link": "https://www.theguardian.com/football/live/2026/nov/21/washington-spirit-kansas-city-current-nwsl-championship-live-updates",
+   "summary": "\u26bd\ufe0f Current win first NWSL Championship in club history\u26bd\ufe0f Spirit lose third consecutive Championship\u26bd\ufe0f Email Jeff | Newsletter sign-up | InstagramThe KC Current posted their lineup first. Brazil netminder Lorena starts\u2026",
+   "date": "2026-11-22T03:49:02+00:00",
+   "image": "https://i.guim.co.uk/img/media/f46a6e15a164294245bfaac719e6da277baaf411/469_0_4475_3582/master/4475.jpg?width=140&quality=85&auto=format&fit=max&s=845feef068d6484389755f04fb47b513"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Match of the Day pundit Joe Hart explains how teenager Luca Williams-Barnett caused problems for Ipswich Town on his first Premier League start for Tottenham in their 2-0 home win.",
+   "date": "2026-11-22T00:13:01+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf6/live/116c8440-e607-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "I wish referee had opportunity to see 'handball' again - Hart",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds\u2026",
+   "date": "2026-11-22T00:08:13+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b7c/live/99f4c5e0-e600-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Naderi's 'lucky punch' keeps Rangers in touch",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckzd930mjp1po?at_medium=RSS&at_campaign=rss",
+   "summary": "On a Saturday laden with Scottish Premiership goals, Ryan Naderi's was far from the most impressive - but vital for Rangers all the same.",
+   "date": "2026-11-22T00:01:31+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4b0/live/ab978b20-e600-11f1-b58d-2d14eb0c7952.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "London City keep up title hunt with emphatic win over Crystal Palace",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6n83rrknrj2o?at_medium=RSS&at_campaign=rss",
+   "summary": "London City Lionesses stay in the hunt for the Women's Super League title, with a statement second-half performance to give them a 6-2 win over Crystal Palace.",
+   "date": "2026-11-21T23:14:10+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6419/live/3883b000-e5e2-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'They looked like a team again' - Hearts  roar back with Dundee demolition",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno?at_medium=RSS&at_campaign=rss",
+   "summary": "After a worrying week before the international break, Hearts respond is style by thrashing Dundee 8-0 at Dens Park.",
+   "date": "2026-11-21T22:45:05+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf3/live/0bdf2a10-e5fc-11f1-9cff-035604b6272d.jpg"
   },
   {
    "source": "The Guardian",
-   "title": "Washington Spirit v Kansas City Current: NWSL Championship \u2013 live updates",
-   "link": "https://www.theguardian.com/football/live/2026/nov/21/washington-spirit-kansas-city-current-nwsl-championship-live-updates",
-   "summary": "\u26bd\ufe0f Trinity Rodman: We bring the fans into everything\u26bd\ufe0f Where the final will be won and lost | Ticket prices\u26bd\ufe0f Email Jeff | Newsletter sign-up | InstagramThe KC Current posted their lineup first. Brazil netminder Lorena\u2026",
-   "date": "2026-11-22T02:54:37+00:00",
-   "image": "https://i.guim.co.uk/img/media/c07b5c56d0f9fc9bc653ba09cb9c8d5608e2cc37/689_302_4003_3202/master/4003.jpg?width=140&quality=85&auto=format&fit=max&s=ff2543321a22f4c36e397ddd4a0155a4"
+   "title": "Scottish Premiership roundup: Dundee left reeling after 8-0 mauling by Hearts",
+   "link": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
+   "summary": "Steven Pressley: \u2018I\u2019m embarrassed \u2026 I apologise\u2019 Celtic 4-1 St Mirren; Rangers 2-1 MotherwellWouter Vrancken said Hearts\u2019 remarkable 8-0 demolition of 10-man Dundee was his team\u2019s best performance since he took charge\u2026",
+   "date": "2026-11-21T22:20:19+00:00",
+   "image": "https://i.guim.co.uk/img/media/0c4eaf434ca237b594cffa07a9c244de9bb6e938/220_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=61f4d045bbc497d09374e4535d1315f5"
   },
   {
-   "source": "ESPN",
-   "title": "Arsenal's near-collapse at Newcastle a wake-up call -- and a missed opportunity",
-   "link": "https://www.espn.com/soccer/story/_/id/50553100/arsenal-collapse-newcastle-premier-league",
-   "summary": "Arsenal could have moved eight points clear at the top of the Premier League. Instead, they completely lost their way in the second half vs. Newcastle.",
-   "date": "2026-11-22T01:49:45+00:00",
-   "image": null
+   "source": "BBC Sport",
+   "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
+   "summary": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
+   "date": "2026-11-21T21:14:08+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a1/live/dec0b5d0-e5ec-11f1-99a1-253766e7ad8b.jpg"
   },
   {
-   "source": "ESPN",
-   "title": "Man City at a crossroads as a shell of themselves",
-   "link": "https://www.espn.com/soccer/story/_/id/50550244/man-city-fulham-premier-league-erling-haaland-maresca",
-   "summary": "When Man City can't beat Fulham -- a team they had beaten 20 times in a row entering Saturday -- you know they're struggling.",
-   "date": "2026-11-22T01:49:45+00:00",
-   "image": null
+   "source": "The Guardian",
+   "title": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
+   "link": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
+   "summary": "Keating\u2019s resilience keeps Chelsea at bay in 0-0 drawVan de Donk and Putellas score twice to sink Palace 6-2Khiara Keating\u2019s resilient performance in goal denied Chelsea, the Women\u2019s Super League leaders, and earned\u2026",
+   "date": "2026-11-21T20:54:39+00:00",
+   "image": "https://i.guim.co.uk/img/media/f9fdedef7f806355de107b35c4546feeb0038014/286_0_4382_3505/master/4382.jpg?width=140&quality=85&auto=format&fit=max&s=56f29efda715e79b44c44c8e9fa49406"
   },
   {
-   "source": "ESPN",
-   "title": "Pochettino's Man United moment has finally arrived. Is he up to the task?",
-   "link": "https://www.espn.com/soccer/story/_/id/50543478/pochettino-manchester-united-debut-liverpool",
-   "summary": "Mauricio Pochettino faces the sizable challenge of restoring Man United to their former glory. Can he succeed where Michael Carrick, Ruben Amorim and others failed?",
-   "date": "2026-11-22T01:44:33+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Liverpool are terrible at Anfield this season, but will it matter vs. Man United?",
-   "link": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
-   "summary": "Anfield has a power to propel Liverpool to greatness, but the team are struggling for form there this season.",
-   "date": "2026-11-22T01:44:33+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Messi, Miami staring at early playoff exit after Columbus rout in Game 1",
-   "link": "https://www.espn.com/soccer/story/_/id/50556052/inter-miami-columbus-crew-lionel-messi-game-1-mls-playoffs",
-   "summary": "Inter Miami and star Lionel Messi are facing the prospect of an early exit from the MLS playoffs after a 3-0 home loss to the Columbus Crew in Game 1.",
-   "date": "2026-11-22T01:13:27+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Milan boss Amorim heaps praise on Pulisic: 'The player we cannot replace'",
-   "link": "https://www.espn.com/soccer/story/_/id/50553931/ruben-amorim-christian-pulisic-milan",
-   "summary": "AC Milan head coach Ruben Amorim has heaped praise on Christian Pulisic, calling him \"the player we cannot replace.\"",
-   "date": "2026-11-22T01:13:27+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "PSG star Dou\u00e9 'sad' and 'worried' after suffering 'serious' knee injury",
-   "link": "https://www.espn.com/soccer/story/_/id/50554155/psg-desire-doue-injury-nice-knee",
-   "summary": "PSG forward D\u00e9sir\u00e9 Dou\u00e9 was carried off on a stretcher with a serious knee injury late in the first half of the team's 3-2 win at Nice in Ligue 1 on Saturday.",
-   "date": "2026-11-22T01:13:27+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Supersub Esp\u00ed's 'most special' goal earns win for Madrid and praise from Nadal",
-   "link": "https://www.espn.com/soccer/story/_/id/50555627/real-madrid-carlos-espi-celta-vigo-rafael-nadal",
-   "summary": "Real Madrid supersub Carlos Esp\u00ed said his late goal against Celta Vigo was his \"most special\" yet after earning his team the win and praise from Rafael Nadal.",
-   "date": "2026-11-22T01:13:27+00:00",
-   "image": null
+   "source": "BBC Sport",
+   "title": "Hirst key for Stoke, injuries derail Millwall - Sam Parkin's EFL takeaways",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6r7g8253e3yo?at_medium=RSS&at_campaign=rss",
+   "summary": "After the last international break of the year, Final score pundit and former Swindon Town, Luton Town and Northampton Town striker selects his takeaways from the Championship, League One and League Two.",
+   "date": "2026-11-21T20:36:43+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png"
   }
  ],
  "news_all": [
   {
-   "source": "ESPN",
-   "title": "Follow live: KC Current closing in on NWSL title",
-   "link": "https://www.espn.com/soccer/match/_/gameId/401934232/kansas-city-current-washington-spirit",
-   "summary": "null",
-   "date": "2026-11-22T02:58:36+00:00",
-   "image": null
-  },
-  {
    "source": "The Guardian",
-   "title": "Washington Spirit v Kansas City Current: NWSL Championship \u2013 live updates",
+   "title": "Kansas City Current stun Washington Spirit to win NWSL Championship \u2013 live reaction",
    "link": "https://www.theguardian.com/football/live/2026/nov/21/washington-spirit-kansas-city-current-nwsl-championship-live-updates",
-   "summary": "\u26bd\ufe0f Trinity Rodman: We bring the fans into everything\u26bd\ufe0f Where the final will be won and lost | Ticket prices\u26bd\ufe0f Email Jeff | Newsletter sign-up | InstagramThe KC Current posted their lineup first. Brazil netminder Lorena\u2026",
-   "date": "2026-11-22T02:54:37+00:00",
-   "image": "https://i.guim.co.uk/img/media/c07b5c56d0f9fc9bc653ba09cb9c8d5608e2cc37/689_302_4003_3202/master/4003.jpg?width=140&quality=85&auto=format&fit=max&s=ff2543321a22f4c36e397ddd4a0155a4"
-  },
-  {
-   "source": "ESPN",
-   "title": "Arsenal's near-collapse at Newcastle a wake-up call -- and a missed opportunity",
-   "link": "https://www.espn.com/soccer/story/_/id/50553100/arsenal-collapse-newcastle-premier-league",
-   "summary": "Arsenal could have moved eight points clear at the top of the Premier League. Instead, they completely lost their way in the second half vs. Newcastle.",
-   "date": "2026-11-22T01:49:45+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Man City at a crossroads as a shell of themselves",
-   "link": "https://www.espn.com/soccer/story/_/id/50550244/man-city-fulham-premier-league-erling-haaland-maresca",
-   "summary": "When Man City can't beat Fulham -- a team they had beaten 20 times in a row entering Saturday -- you know they're struggling.",
-   "date": "2026-11-22T01:49:45+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Pochettino's Man United moment has finally arrived. Is he up to the task?",
-   "link": "https://www.espn.com/soccer/story/_/id/50543478/pochettino-manchester-united-debut-liverpool",
-   "summary": "Mauricio Pochettino faces the sizable challenge of restoring Man United to their former glory. Can he succeed where Michael Carrick, Ruben Amorim and others failed?",
-   "date": "2026-11-22T01:44:33+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Liverpool are terrible at Anfield this season, but will it matter vs. Man United?",
-   "link": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
-   "summary": "Anfield has a power to propel Liverpool to greatness, but the team are struggling for form there this season.",
-   "date": "2026-11-22T01:44:33+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Messi, Miami staring at early playoff exit after Columbus rout in Game 1",
-   "link": "https://www.espn.com/soccer/story/_/id/50556052/inter-miami-columbus-crew-lionel-messi-game-1-mls-playoffs",
-   "summary": "Inter Miami and star Lionel Messi are facing the prospect of an early exit from the MLS playoffs after a 3-0 home loss to the Columbus Crew in Game 1.",
-   "date": "2026-11-22T01:13:27+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Milan boss Amorim heaps praise on Pulisic: 'The player we cannot replace'",
-   "link": "https://www.espn.com/soccer/story/_/id/50553931/ruben-amorim-christian-pulisic-milan",
-   "summary": "AC Milan head coach Ruben Amorim has heaped praise on Christian Pulisic, calling him \"the player we cannot replace.\"",
-   "date": "2026-11-22T01:13:27+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "PSG star Dou\u00e9 'sad' and 'worried' after suffering 'serious' knee injury",
-   "link": "https://www.espn.com/soccer/story/_/id/50554155/psg-desire-doue-injury-nice-knee",
-   "summary": "PSG forward D\u00e9sir\u00e9 Dou\u00e9 was carried off on a stretcher with a serious knee injury late in the first half of the team's 3-2 win at Nice in Ligue 1 on Saturday.",
-   "date": "2026-11-22T01:13:27+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Supersub Esp\u00ed's 'most special' goal earns win for Madrid and praise from Nadal",
-   "link": "https://www.espn.com/soccer/story/_/id/50555627/real-madrid-carlos-espi-celta-vigo-rafael-nadal",
-   "summary": "Real Madrid supersub Carlos Esp\u00ed said his late goal against Celta Vigo was his \"most special\" yet after earning his team the win and praise from Rafael Nadal.",
-   "date": "2026-11-22T01:13:27+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Raya exits with injury as Arsenal held by Newcastle: 'Never good news'",
-   "link": "https://www.espn.com/soccer/story/_/id/50552162/david-raya-injured-arsenal-newcastle-premier-league",
-   "summary": "David Raya was forced off with an injury during Arsenal's 2-2 draw at Newcastle United on Saturday.",
-   "date": "2026-11-22T01:13:27+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Chelsea in 'fragile moment' as Caicedo injury adds to pain of Leeds rout",
-   "link": "https://www.espn.com/soccer/story/_/id/50554949/chelsea-leeds-united-moises-caicedo-injury-xabi-alonso",
-   "summary": "Another crisis might be unfolding at Chelsea, just a few months into Xabi Alonso's tenure.",
-   "date": "2026-11-22T01:13:27+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "Maresca: Man City denied 'clear' goal in Fulham draw",
-   "link": "https://www.espn.com/soccer/story/_/id/50551332/man-city-fulham-haaland-disallowed-goal-premier-league",
-   "summary": "Enzo Maresca said Manchester City were denied a \"clear\" goal in their 1-1 draw with Fulham after Erling Haaland was judged to have fouled goalkeeper Bernd Leno.",
-   "date": "2026-11-22T01:13:27+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "FIFPRO slams Bayern's treatment of Musiala: Club has 'duty of care'",
-   "link": "https://www.espn.com/soccer/story/_/id/50550461/fifpro-bayern-munich-jamal-musiala-rummenigge",
-   "summary": "Global players' union FIFPRO has criticized Bayern Munich and urged the Bundesliga champions to respect its \"duty of care\" to Jamal Musiala.",
-   "date": "2026-11-22T01:13:27+00:00",
-   "image": null
-  },
-  {
-   "source": "ESPN",
-   "title": "\u26bd Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd",
-   "link": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
-   "summary": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
-   "date": "2026-11-22T01:13:27+00:00",
-   "image": null
+   "summary": "\u26bd\ufe0f Current win first NWSL Championship in club history\u26bd\ufe0f Spirit lose third consecutive Championship\u26bd\ufe0f Email Jeff | Newsletter sign-up | InstagramThe KC Current posted their lineup first. Brazil netminder Lorena starts\u2026",
+   "date": "2026-11-22T03:49:02+00:00",
+   "image": "https://i.guim.co.uk/img/media/f46a6e15a164294245bfaac719e6da277baaf411/469_0_4475_3582/master/4475.jpg?width=140&quality=85&auto=format&fit=max&s=845feef068d6484389755f04fb47b513"
   },
   {
    "source": "BBC Sport",
@@ -475,14 +363,6 @@
    "image": "https://i.guim.co.uk/img/media/6e5090c8011369262fdaad326a97aa73ce62ebf4/470_0_4200_3360/master/4200.jpg?width=140&quality=85&auto=format&fit=max&s=a7b931d38b89e9768f6361b6bb790cf5"
   },
   {
-   "source": "ESPN",
-   "title": "Transfer rumors, news: Could McTominay make sensational Man United return?",
-   "link": "https://www.espn.com/soccer/story/_/id/50548678/transfer-rumors-news-scott-mctominay-man-united-return",
-   "summary": "A trio of Premier League giants are eyeing Atalanta defender Giorgio Scalvini. Transfer Talk has the latest.",
-   "date": "2026-11-21T17:30:49+00:00",
-   "image": null
-  },
-  {
    "source": "The Guardian",
    "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
    "link": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
@@ -555,12 +435,132 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d89/live/9aee2530-e5ac-11f1-99a1-253766e7ad8b.jpg"
   },
   {
-   "source": "ESPN",
-   "title": "Est\u00eav\u00e3o is Brazil's brightest young talent. Is Chelsea the right place for him?",
-   "link": "https://www.espn.com/soccer/story/_/id/50523536/estevao-brazil-young-talent-chelsea",
-   "summary": "Est\u00eav\u00e3o is widely regarded as Brazil's brightest young talent, but he has struggled for playing time at Chelsea.",
-   "date": "2026-11-21T12:08:06+00:00",
-   "image": null
+   "source": "BBC Sport",
+   "title": "The Chelsea loanee turning heads and Championship defenders at 17",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6d91xj9vee3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Ryan Kavuma-McQueen has been \"unplayable\" at times since joining Portsmouth from Chelsea, says boss John Mousinho.",
+   "date": "2026-11-21T08:05:46+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f88b/live/a0afcec0-e1e6-11f1-9f14-b33806cfd783.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Jeers, injuries and doubters - White's journey back to the top",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss",
+   "summary": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win.",
+   "date": "2026-11-21T06:17:32+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d5/live/855e6740-e1db-11f1-b8c8-67fa35f5afdb.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Brighton are rocking the Premier League elite. But can they mount a title tilt?",
+   "link": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
+   "summary": "A combination of smart analytics, a young manager and players hand-picked for their particular skills has the Seagulls flying highThey lined up in sky\u2011blue shirts, white shorts. A combined value of \u00a3327m. Enzo\u2026",
+   "date": "2026-11-21T06:00:52+00:00",
+   "image": "https://i.guim.co.uk/img/media/8d33d6d3a16efaa8873bce778879cff4b83e758c/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3ec71670fecb7b9e0d42d24f97fa81df"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Cost of Man Utd hiring and firing managers nears \u00a3100m",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United borrowed \u00a310m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them \u00a37.5m in compensation to US Soccer.",
+   "date": "2026-11-20T23:18:16+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/765e/live/657e7940-e539-11f1-9616-8327139dcfc4.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Bayern Munich confirm Harry Kane \u2018out for next few months\u2019 with ankle injury",
+   "link": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
+   "summary": "England forward injured in Friday\u2019s 1-1 draw with CologneClub statement confirms \u2018tear of ligament in left ankle\u2019Bayern Munich have confirmed Harry Kane will be \u201cout for the next few months\u201d with ankle ligament damage\u2026",
+   "date": "2026-11-20T22:43:40+00:00",
+   "image": "https://i.guim.co.uk/img/media/ff53406a06a9d58de8d9d3bb5b3fe5b627901588/12_0_2337_1869/master/2337.jpg?width=140&quality=85&auto=format&fit=max&s=0da5eb5f4c5b6fafe75d511f04a719bb"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Premier League news: Moyes demands more from Grealish, Iraola wary of United threat",
+   "link": "https://www.theguardian.com/football/2026/nov/20/premier-league-news-everton-jack-grealish-manchester-city-liverpool-chelsea",
+   "summary": "Everton\u2019s playmaker returns after being stood down, while Liverpool\u2019s head coach keeps focus for Anfield showdown Continue reading...",
+   "date": "2026-11-20T22:31:19+00:00",
+   "image": "https://i.guim.co.uk/img/media/7855f7f1d353032a06c5069503b1302dd7bfd775/224_0_4276_3421/master/4276.jpg?width=140&quality=85&auto=format&fit=max&s=ee06cd7184eee7df15c523b623a513d3"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Washington Spirit provide hope and joy in a city that badly needs it",
+   "link": "https://www.theguardian.com/football/2026/nov/20/washington-spirit-provide-hope-and-joy-in-a-city-that-badly-needs-it",
+   "summary": "Spirit\u2019s run to the NWSL Championship final is in part based on a positive connection with fans at a time when DC is troubled in more ways than oneIn the moments after the Washington Spirit\u2019s 2-1 semi-final victory over\u2026",
+   "date": "2026-11-20T19:56:49+00:00",
+   "image": "https://i.guim.co.uk/img/media/12ce00de35ae4e4967ce3c21f4229b2fcc8d716d/367_0_4873_3900/master/4873.jpg?width=140&quality=85&auto=format&fit=max&s=abd42efe137a0a78a5721b2101b6def7"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
+   "link": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
+   "summary": "The 30-year-old former England star combines Twitch streaming with working to return to the top as a playerConsider the training regime Dele Alli has followed since he left Como 18 months ago and it becomes clear why he\u2026",
+   "date": "2026-11-20T19:00:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/4644b48da02f5c51bd8878e38586c24dd5e559b7/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7c4ecf1aed33efe60b95b709dd286064"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Pochettino\u2019s fiery start, Las Vegas Grand Prix and ATP Finals finale \u2013 follow with us",
+   "link": "https://www.theguardian.com/sport/2026/nov/20/pochettinos-fiery-start-plus-england-v-all-blacks-and-atp-finals-finale-follow-with-us",
+   "summary": "Here\u2019s how to follow along with our coverage \u2013 the finest writing and up-to-the-minute reports Continue reading...",
+   "date": "2026-11-20T17:27:24+00:00",
+   "image": "https://i.guim.co.uk/img/media/7680afc70975a891a74a4d3ee5d80fd3440b9947/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=26ff89da867c397ebcf230d12ef12caf"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "10 games, 0 points & 30 goals conceded - why Charlton are struggling",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0kxg5k4zo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport looks at why promoted Charlton Athletic have had one of the worst starts in Women's Super League history.",
+   "date": "2026-11-20T16:00:04+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e82f/live/889e19c0-e4cc-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Tom Brady in talks over buying Chelsea stake after Birmingham City exit",
+   "link": "https://www.theguardian.com/football/2026/nov/20/tom-brady-chelsea-talks-stake-birmingham-city",
+   "summary": "NFL legend was Chelsea guest at Club World CupBrady has good relationship with Behdad EghbaliTom Brady is in discussions about buying a small stake in Chelsea. The NFL legend sold a minority share in Birmingham City\u2026",
+   "date": "2026-11-20T14:50:09+00:00",
+   "image": "https://i.guim.co.uk/img/media/198529f81f6dba23850eb64f7625cf727281191d/491_197_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=05f1484fe2a131e3a7a9771f2c945b10"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Arsenal\u2019s Lisa Baum: \u2018I believe in us. I think it\u2019s all about the small margins\u2019",
+   "link": "https://www.theguardian.com/football/2026/nov/20/arsenal-lisa-baum-germany-brother-dennis",
+   "summary": "Germany forward on her new life in London and drawing strength from the memory of her late brother, DennisLisa Baum is 19, for the next few days at least, but you wouldn\u2019t know it. The Germany forward plays with a\u2026",
+   "date": "2026-11-20T13:00:29+00:00",
+   "image": "https://i.guim.co.uk/img/media/44f5f906aeb57a1ace3dd69b629ed48500585e7d/1054_0_6581_5266/master/6581.jpg?width=140&quality=85&auto=format&fit=max&s=7806d0c4f22aecac0497a510d0c7a294"
+  },
+  {
+   "source": "The Guardian",
+   "title": "What history tells us about the Premier League table after 10 games of a season",
+   "link": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
+   "summary": "Past years suggest it is tough to make big positional gains after slow start but that someone now safe will be relegatedThe Premier League is about to enter the most intense phase of its season. After 10 rounds of\u2026",
+   "date": "2026-11-20T08:00:26+00:00",
+   "image": "https://i.guim.co.uk/img/media/e185115079ae67cbd5dd3b9ce8c2718c7753bdd7/368_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=65a2c981d70d1d04aa56ce42a6827cea"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
+   "summary": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.",
+   "date": "2026-11-19T23:57:54+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f42a/live/723c9160-e473-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Sutton's predictions v world champion boxer Lauren Price",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport football expert Chris Sutton takes on world champion boxer Lauren Price, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
+   "date": "2026-11-19T18:52:00+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db10/live/2d275fd0-e28c-11f1-a094-5fdc692f3e33.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Summer signings join Lionel Messi among MLS\u2019s top earners: Takeaways from the league\u2019s salary release",
+   "link": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
+   "summary": "How much in player salaries did it take to earn a point in the 2026 MLS regular season? The latest batch of salaries lends some insightLionel Messi has closer company at the top of MLS\u2019s list of highest-paid players,\u2026",
+   "date": "2026-11-19T18:01:17+00:00",
+   "image": "https://i.guim.co.uk/img/media/295eaf1b8e3e4febef1061f3822c8d8701d5310b/183_0_2356_1886/master/2356.jpg?width=140&quality=85&auto=format&fit=max&s=8357f6fe4ff7f873989ffc011b3c3754"
   }
  ],
  "videos": [
