@@ -2,6 +2,30 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Bundesliga",
+   "link": "https://www.bbc.co.uk/iplayer/episode/l0059298?at_medium=RSS&at_campaign=rss",
+   "summary": "Watch highlights from matchday ten in the Bundesliga.",
+   "date": "2026-11-22T20:13:29+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8slj9.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+   "date": "2026-11-22T19:59:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c3/live/e536fa10-e69f-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+   "date": "2026-11-22T19:59:35+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/4cb54b80-e6a8-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Charlton earn maiden WSL point against Villa",
    "link": "https://www.bbc.co.uk/sport/football/videos/cwq6e7gl5r4yo?at_medium=RSS&at_campaign=rss",
    "summary": "Charlton earn their first WSL point after 11 matches with a hard-fought draw against Aston Villa, who withstand late pressure from the hosts to avoid defeat.",
@@ -52,38 +76,38 @@
    "source": "The Guardian",
    "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
    "link": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
-   "summary": "Green shoots of recovery have lasted longer in a blast-furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino\u2019s debut descended\u2026",
+   "summary": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at \u00adManchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism\u2026",
    "date": "2026-11-22T18:35:14+00:00",
    "image": "https://i.guim.co.uk/img/media/eabaf0f7802df08b573f0b7df40105a767d353ce/260_0_2689_2152/master/2689.jpg?width=140&quality=85&auto=format&fit=max&s=efb2d5bc1f2e6a5c4d66ad74919ce2d6"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
-   "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
-   "date": "2026-11-22T18:28:51+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f96/live/26ee3650-e694-11f1-936e-1fd1d31671db.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "The red card that changed Liverpool-Man Utd: correct call?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-   "date": "2026-11-22T17:55:54+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d35/live/ce5f0cc0-e694-11f1-936e-1fd1d31671db.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Spurs deny Man City top spot with statement win",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss",
-   "summary": "Despite taking an early lead through Khadija Shaw, Manchester City suffer a second consecutive defeat as Spurs earn an impressive victory and deny them the chance to return to the top of the table.",
-   "date": "2026-11-22T17:54:36+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e34/live/d35df9b0-e68b-11f1-99b6-a35a62fa4264.jpg"
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
+   "title": "Bundesliga",
+   "link": "https://www.bbc.co.uk/iplayer/episode/l0059298?at_medium=RSS&at_campaign=rss",
+   "summary": "Watch highlights from matchday ten in the Bundesliga.",
+   "date": "2026-11-22T20:13:29+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8slj9.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+   "date": "2026-11-22T19:59:38+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c3/live/e536fa10-e69f-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+   "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+   "date": "2026-11-22T19:59:35+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/4cb54b80-e6a8-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Charlton earn maiden WSL point against Villa",
    "link": "https://www.bbc.co.uk/sport/football/videos/cwq6e7gl5r4yo?at_medium=RSS&at_campaign=rss",
    "summary": "Charlton earn their first WSL point after 11 matches with a hard-fought draw against Aston Villa, who withstand late pressure from the hosts to avoid defeat.",
@@ -134,7 +158,7 @@
    "source": "The Guardian",
    "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
    "link": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
-   "summary": "Green shoots of recovery have lasted longer in a blast-furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino\u2019s debut descended\u2026",
+   "summary": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at \u00adManchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism\u2026",
    "date": "2026-11-22T18:35:14+00:00",
    "image": "https://i.guim.co.uk/img/media/eabaf0f7802df08b573f0b7df40105a767d353ce/260_0_2689_2152/master/2689.jpg?width=140&quality=85&auto=format&fit=max&s=efb2d5bc1f2e6a5c4d66ad74919ce2d6"
   },
@@ -144,7 +168,7 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
    "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
    "date": "2026-11-22T18:28:51+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f96/live/26ee3650-e694-11f1-936e-1fd1d31671db.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d14/live/a0909ae0-e6b0-11f1-99a1-253766e7ad8b.jpg"
   },
   {
    "source": "BBC Sport",
@@ -152,7 +176,7 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
    "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
    "date": "2026-11-22T17:55:54+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d35/live/ce5f0cc0-e694-11f1-936e-1fd1d31671db.jpg"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9413/live/785f7370-e6b0-11f1-99b6-a35a62fa4264.jpg"
   },
   {
    "source": "BBC Sport",
@@ -172,7 +196,23 @@
   },
   {
    "source": "BBC Sport",
+   "title": "Holders Celtic win 17-0 in Women's Scottish Cup",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8zx91z9xe9yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
+   "date": "2026-11-22T17:53:41+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a64/live/b7373ba0-e692-11f1-936e-1fd1d31671db.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Big wins as Celtic, Rangers, City & Hearts progress",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8zx91z9xe9yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
+   "date": "2026-11-22T17:53:41+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a64/live/b7373ba0-e692-11f1-936e-1fd1d31671db.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Holders Celtic win 17-0 in Scottish Cup - Rangers, Hearts, City also through",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8zx91z9xe9yo?at_medium=RSS&at_campaign=rss",
    "summary": "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
    "date": "2026-11-22T17:53:41+00:00",
@@ -238,7 +278,7 @@
    "source": "The Guardian",
    "title": "Blackburn earn derby draw for Mowbray and extend Burnley\u2019s wait for home win",
    "link": "https://www.theguardian.com/football/2026/nov/22/burnley-blackburn-championship-match-report",
-   "summary": "Todd Cantwell\u2019s penalty earned Blackburn a 2-2 draw at Burnley in their first match since head coach Tony Mowbray stepped back because of health issues.In a gripping, physical East Lancashire derby, the home side led\u2026",
+   "summary": "Todd Cantwell\u2019s penalty earned Blackburn a 2-2 draw at Burnley in their first match since Tony Mowbray stepped back because of health issues.In a gripping, physical East Lancashire derby, the home side led twice,\u2026",
    "date": "2026-11-22T15:12:24+00:00",
    "image": "https://i.guim.co.uk/img/media/2c45cfda91deef2290dded2e8a84f5f69bbb04dd/96_0_2585_2069/master/2585.jpg?width=140&quality=85&auto=format&fit=max&s=ee137eb9a99b3726a3c384e66f03ef10"
   },
@@ -313,6 +353,14 @@
    "summary": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future.",
    "date": "2026-11-22T08:41:20+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/104e/live/c689eea0-e64b-11f1-a563-e14cd8b02601.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Robins \u2018aims for the stars\u2019 as Stoke dream of Premier League return",
+   "link": "https://www.theguardian.com/football/2026/nov/22/mark-robins-stoke-birmingham-championship-premier-league-promotion",
+   "summary": "The Championship\u2019s form side climbed to second after holding on resiliently with 10 men to knock Birmingham off the summitThere have been false dawns before. Plenty of them. This time last year, with Christmas on the\u2026",
+   "date": "2026-11-22T08:00:22+00:00",
+   "image": "https://i.guim.co.uk/img/media/af7fbf085ba15e87e4e285c14565ba656a8028b7/187_0_2238_1791/master/2238.jpg?width=140&quality=85&auto=format&fit=max&s=e6ac373650668b6b5e5ec4160fd006a3"
   },
   {
    "source": "The Guardian",
@@ -409,14 +457,6 @@
    "summary": "After the last international break of the year, Final score pundit and former Swindon Town, Luton Town and Northampton Town striker selects his takeaways from the Championship, League One and League Two.",
    "date": "2026-11-21T20:36:43+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "AC Milan monitoring Man Utd's Fernandes - Sunday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq8j4e8nlvm1o?at_medium=RSS&at_campaign=rss",
-   "summary": "AC Milan monitoring Manchester United midfielder Bruno Fernandes, Arsenal pair yet to start talks on new deals and Trabzonspor renew interest in Tottenham forward Richarlison, plus more.",
-   "date": "2026-11-21T20:35:12+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a72/live/543c3860-e5da-11f1-99a1-253766e7ad8b.png"
   },
   {
    "source": "The Guardian",
@@ -521,49 +561,33 @@
    "summary": "The honeymoon period is over for Chelsea manager Xabi Alonso, who is now in firefighting mode after a 4-1 defeat by Leeds at Stamford Bridge.",
    "date": "2026-11-21T19:04:09+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7a/live/8ad75db0-e5d9-11f1-9ab8-8737221634d6.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Officials can't use common sense' - was Rogers handball correct?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss",
-   "summary": "The decision to give Leeds a crucial penalty in their win at Chelsea reopens the Premier League handball debate around intent.",
-   "date": "2026-11-21T18:30:22+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11ac/live/6985e260-e5d6-11f1-9ab8-8737221634d6.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Fifpro criticises Bayern Munich for Musiala comments",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
-   "summary": "Football players' union Fifpro says it is concerned by German club Bayern Munich's comments about Jamal Musiala's contract.",
-   "date": "2026-11-21T17:43:44+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4348/live/f6872900-e5cf-11f1-a738-4787e1a18cce.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Aston Villa held at home as dogged Sunderland battle for R\u00e9gis Le Bris",
-   "link": "https://www.theguardian.com/football/2026/nov/21/aston-villa-sunderland-premier-league-match-report",
-   "summary": "For Aston Villa, a painful stalemate at home to Sunderland, but for R\u00e9gis Le Bris and his players, this was another triumph of sorts. The raw numbers spoke volumes of Villa\u2019s struggles against a defence that backed\u2026",
-   "date": "2026-11-21T17:32:34+00:00",
-   "image": "https://i.guim.co.uk/img/media/6e5090c8011369262fdaad326a97aa73ce62ebf4/470_0_4200_3360/master/4200.jpg?width=140&quality=85&auto=format&fit=max&s=a7b931d38b89e9768f6361b6bb790cf5"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
-   "link": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
-   "summary": "Marco Rose saluted the in-form Evanilson after the Brazilian scored for a sixth Premier League game in a row to lift Bournemouth up to fourth place with a 2-0 win over Nottingham Forest.Evanilson\u2019s brilliantly taken\u2026",
-   "date": "2026-11-21T17:10:24+00:00",
-   "image": "https://i.guim.co.uk/img/media/3ba7a70900bc728922056eb4c3f67c0a9073afa1/536_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=329bf4a45593557ff040e293eef83409"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Coventry edge thriller to keep Crystal Palace bottom and ruin Thomas Frank\u2019s start",
-   "link": "https://www.theguardian.com/football/2026/nov/21/coventry-crystal-palace-premier-league-match-report",
-   "summary": "New manager, new formation, familiar defensive failings. Twice Crystal Palace equalised. They seemed to have stabilised after half-time. But sometimes the rot is so deep-rooted that the new manager bounce manifests as\u2026",
-   "date": "2026-11-21T17:09:02+00:00",
-   "image": "https://i.guim.co.uk/img/media/05c36b6bd3b047d922297d9139c4b0ca978f9b2e/501_0_2783_2226/master/2783.jpg?width=140&quality=85&auto=format&fit=max&s=871673438d52a94d7f13016fac372fcf"
   }
  ],
  "videos": [
+  {
+   "channel": "Serie A",
+   "id": "s1blwgqVDZc",
+   "title": "Il Diavolo Domina A San Siro | MILAN-FROSINONE | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-22T20:10:34+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "ntAByDUgT9Q",
+   "title": "Zaniolo Salva I Friulani | BOLOGNA-UDINESE | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-22T19:59:09+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "_YAaNR3N17w",
+   "title": "Osmajic Trascina Il Grifone | SASSUOLO-GENOA | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
+   "date": "2026-11-22T19:59:08+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "88S0aBcQ0Bc",
+   "title": "The Rossoneri Triumph At San Siro | MILAN-FROSINONE | HIGHLIGHTS | Serie A 2026/27",
+   "date": "2026-11-22T19:53:46+00:00"
+  },
   {
    "channel": "LaLiga",
    "id": "15YyZiloozk",
@@ -619,24 +643,6 @@
    "date": "2026-11-22T17:29:09+00:00"
   },
   {
-   "channel": "LaLiga",
-   "id": "YeOPNxoh0lQ",
-   "title": "R. RACING CLUB 3 - 2 REAL SOCIEDAD | RESUMEN LALIGA EA SPORTS",
-   "date": "2026-11-22T17:23:41+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "_YAaNR3N17w",
-   "title": "Osmajic Trascina Il Grifone | SASSUOLO-GENOA | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-22T17:18:44+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "ntAByDUgT9Q",
-   "title": "Zaniolo Salva I Friulani | BOLOGNA-UDINESE | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-22T16:57:03+00:00"
-  },
-  {
    "channel": "Serie A",
    "id": "-9b2VmQQrhs",
    "title": "Osmajic At The Double! | SASSUOLO-GENOA | HIGHLIGHTS | Serie A 2026/27",
@@ -667,10 +673,28 @@
    "date": "2026-11-22T15:49:52+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "cAuVAeeA4PQ",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629\u00a0\u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0648\u0641\u064a\u0627\u0631\u064a\u0627\u0644\u00a0| \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a -\u00a0\u0627\u0644\u062c\u0648\u0644\u0629 13",
-   "date": "2026-11-22T15:37:48+00:00"
+   "channel": "LaLiga",
+   "id": "W-1pvRo43io",
+   "title": "JOHNNY CARDOSO. \u2764\ufe0f\ud83e\udd0d",
+   "date": "2026-11-22T20:50:50+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "Hx0HE0d_LfM",
+   "title": "DAVID SORIA. \ud83e\udde4\ud83d\udd77\ufe0f",
+   "date": "2026-11-22T20:42:00+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "Q6UOpHq8hrc",
+   "title": "CA OSASUNA vs M\u00c1LAGA CF | RUEDA DE PRENSA",
+   "date": "2026-11-22T20:03:06+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "5d6rVPFY_dE",
+   "title": "\ud83d\udd34 GETAFE CF vs ATL\u00c9TICO DE MADRID - PREVIA DEL PARTIDO",
+   "date": "2026-11-22T20:01:37+00:00"
   },
   {
    "channel": "Bundesliga",
@@ -683,30 +707,6 @@
    "id": "4DRhqhzoeNo",
    "title": "Por muy poco, Budi. \ud83e\udd0f\ud83c\udffc\ud83d\udca5",
    "date": "2026-11-22T18:56:27+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "CArRJDH-4Nk",
-   "title": "FC Augsburg vs. 1. FSV Mainz 05 | Matchday 10 - Bundesliga 2026/27",
-   "date": "2026-11-22T18:46:46+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "ix_6x9NVwvY",
-   "title": "\ud83d\udeab\ud83d\udeab\ud83d\udeab",
-   "date": "2026-11-22T18:20:07+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "5u_c4Rx99Vo",
-   "title": "R. RACING CLUB vs REAL SOCIEDAD | RUEDA DE PRENSA",
-   "date": "2026-11-22T17:59:13+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "3wnpWHSvVbo",
-   "title": "\ud83d\udd34 CA OSASUNA vs M\u00c1LAGA CF - PREVIA DEL PARTIDO",
-   "date": "2026-11-22T17:30:51+00:00"
   }
  ],
  "fixtures": [
@@ -1505,11 +1505,11 @@
    "date": "2026-11-22T19:45Z",
    "home": "Atalanta",
    "away": "Internazionale",
-   "hs": "0",
-   "as": "0",
+   "hs": "1",
+   "as": "3",
    "live": true,
    "state": "in",
-   "clock": "14'",
+   "clock": "53'",
    "venue": "New Balance Arena",
    "usa": [
     "Paramount+"
@@ -1525,11 +1525,11 @@
    "date": "2026-11-22T19:45Z",
    "home": "Marseille",
    "away": "Le Mans",
-   "hs": "0",
+   "hs": "2",
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "13'",
+   "clock": "52'",
    "venue": "Stade V\u00e9lodrome",
    "usa": [
     "beIn Sports"
@@ -1546,10 +1546,10 @@
    "home": "Getafe",
    "away": "Atl\u00e9tico Madrid",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "2",
+   "live": true,
+   "state": "in",
+   "clock": "45'+3'",
    "venue": "Estadio Coliseum",
    "usa": [
     "ESPN Deportes",
@@ -13127,11 +13127,11 @@
    "date": "2026-11-22T19:45Z",
    "home": "Atalanta",
    "away": "Internazionale",
-   "hs": "0",
-   "as": "0",
+   "hs": "1",
+   "as": "3",
    "live": true,
    "state": "in",
-   "clock": "14'",
+   "clock": "53'",
    "venue": "New Balance Arena",
    "usa": [
     "Paramount+"
@@ -13147,11 +13147,11 @@
    "date": "2026-11-22T19:45Z",
    "home": "Marseille",
    "away": "Le Mans",
-   "hs": "0",
+   "hs": "2",
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "13'",
+   "clock": "52'",
    "venue": "Stade V\u00e9lodrome",
    "usa": [
     "beIn Sports"
@@ -13168,10 +13168,10 @@
    "home": "Getafe",
    "away": "Atl\u00e9tico Madrid",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "2",
+   "live": true,
+   "state": "in",
+   "clock": "45'+3'",
    "venue": "Estadio Coliseum",
    "usa": [
     "ESPN Deportes",
