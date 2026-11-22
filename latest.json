@@ -1,20 +1,44 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Listen to Off The Ball",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+   "summary": "The most petty and ill-informed football show on radio.",
+   "date": "2026-11-22T14:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Bruno Fernandes puts Manchester United contract talks on hold \u2013 matchday live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
-   "summary": "The latest Premier League and WSL news and buildupToday\u2019s games | Tables | Follow on TikTok | And mail usThe Tottenham head coach Roberto De Zerbi compared Luca Williams-Barnett to Lamine Yamal following his heroics\u2026",
-   "date": "2026-11-22T11:38:29+00:00",
-   "image": "https://i.guim.co.uk/img/media/05fc711a1690bb75157556422c2683ba3395a06f/911_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c46f69b85b8ff613bad9f3c6d84cdeed"
+   "title": "Manchester City v Tottenham, Birmingham v Manchester United: WSL clockwatch \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/22/wsl-manchester-city-tottenham-birmingham-manchester-united-arsenal-west-ham-live",
+   "summary": "Women\u2019s Super League news, kicking off from 12pm GMTLive scores | Table | Follow on TikTok | And email EmilliaShaw strikes for City!Rose wins the ball high up the pitch before passing to Shaw, who is left in plenty of\u2026",
+   "date": "2026-11-22T13:00:02+00:00",
+   "image": "https://i.guim.co.uk/img/media/5c48df027374abd595e6bbbe073ab1df49b70705/401_0_4034_3228/master/4034.jpg?width=140&quality=85&auto=format&fit=max&s=02aca933bfb4eda2e43c5d7d2ae4b87c"
   },
   {
    "source": "BBC Sport",
    "title": "Manager ins and outs - 2026-27",
    "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
    "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
-   "date": "2026-11-22T10:56:00+00:00",
+   "date": "2026-11-22T12:02:00+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/d9deae90-d832-11f1-87c3-29e1cdce63c6.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Watford sack head coach Alessio Dionisi after 18 games in charge.",
+   "date": "2026-11-22T12:00:45+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e672/live/da29eaa0-adfc-11f1-8169-6fdea7f79791.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Bruno Fernandes reveals talks over new Manchester United contract are on hold",
+   "link": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold",
+   "summary": "Club captain confirms he has been offered a new deal\u2018Not the right moment to be talking about negotiations\u2019Bruno Fernandes has revealed that Manchester United have offered him a new contract, but discussions have been\u2026",
+   "date": "2026-11-22T11:33:54+00:00",
+   "image": "https://i.guim.co.uk/img/media/375f706ba2be2bc2857790c27dd96da939d2dde9/320_0_4160_3328/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=3d8837fcb7612cbb4c8ded63f6487e61"
   },
   {
    "source": "BBC Sport",
@@ -55,48 +79,48 @@
    "summary": "Former defender reflects on his record-breaking longevity, kicking Eden Hazard in training, and life after retirementC\u00e9sar Azpilicueta looks well. C\u00e9sar Azpilicueta always looks well \u2013 \u201cah, Captain Handsome,\u201d one\u2026",
    "date": "2026-11-22T08:00:21+00:00",
    "image": "https://i.guim.co.uk/img/media/af3248e2ee441e7d2f137ca7fb9611270fe9bb7e/792_360_4551_3640/master/4551.jpg?width=140&quality=85&auto=format&fit=max&s=8aefea8ca5efaeeabc5ee70bed2bfac5"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Scottish Football Podcast",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pp1j7j?at_medium=RSS&at_campaign=rss",
-   "summary": "Scotland head coach Mel Andreatta on Scotland, Sweden and chasing her World Cup dream.",
-   "date": "2026-11-22T08:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp3rdg.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who am I? Guess WSL star No 13",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq770yn580j3o?at_medium=RSS&at_campaign=rss",
-   "summary": "Work out the identity of today's player in as few attempts as possible.",
-   "date": "2026-11-22T07:19:58+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e1/live/1b00e450-9afe-11f1-a291-b542ee92de7c.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Why Arsenal are behind in race for Champions League spots",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
-   "date": "2026-11-22T07:17:10+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf84/live/b3a1cf10-e01f-11f1-ad34-45f8f10f7c55.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Listen to Off The Ball",
+   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+   "summary": "The most petty and ill-informed football show on radio.",
+   "date": "2026-11-22T14:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Bruno Fernandes puts Manchester United contract talks on hold \u2013 matchday live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
-   "summary": "The latest Premier League and WSL news and buildupToday\u2019s games | Tables | Follow on TikTok | And mail usThe Tottenham head coach Roberto De Zerbi compared Luca Williams-Barnett to Lamine Yamal following his heroics\u2026",
-   "date": "2026-11-22T11:38:29+00:00",
-   "image": "https://i.guim.co.uk/img/media/05fc711a1690bb75157556422c2683ba3395a06f/911_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c46f69b85b8ff613bad9f3c6d84cdeed"
+   "title": "Manchester City v Tottenham, Birmingham v Manchester United: WSL clockwatch \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/22/wsl-manchester-city-tottenham-birmingham-manchester-united-arsenal-west-ham-live",
+   "summary": "Women\u2019s Super League news, kicking off from 12pm GMTLive scores | Table | Follow on TikTok | And email EmilliaShaw strikes for City!Rose wins the ball high up the pitch before passing to Shaw, who is left in plenty of\u2026",
+   "date": "2026-11-22T13:00:02+00:00",
+   "image": "https://i.guim.co.uk/img/media/5c48df027374abd595e6bbbe073ab1df49b70705/401_0_4034_3228/master/4034.jpg?width=140&quality=85&auto=format&fit=max&s=02aca933bfb4eda2e43c5d7d2ae4b87c"
   },
   {
    "source": "BBC Sport",
    "title": "Manager ins and outs - 2026-27",
    "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
    "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
-   "date": "2026-11-22T10:56:00+00:00",
+   "date": "2026-11-22T12:02:00+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/d9deae90-d832-11f1-87c3-29e1cdce63c6.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Watford sack head coach Alessio Dionisi after 18 games in charge.",
+   "date": "2026-11-22T12:00:45+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e672/live/da29eaa0-adfc-11f1-8169-6fdea7f79791.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Bruno Fernandes reveals talks over new Manchester United contract are on hold",
+   "link": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold",
+   "summary": "Club captain confirms he has been offered a new deal\u2018Not the right moment to be talking about negotiations\u2019Bruno Fernandes has revealed that Manchester United have offered him a new contract, but discussions have been\u2026",
+   "date": "2026-11-22T11:33:54+00:00",
+   "image": "https://i.guim.co.uk/img/media/375f706ba2be2bc2857790c27dd96da939d2dde9/320_0_4160_3328/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=3d8837fcb7612cbb4c8ded63f6487e61"
   },
   {
    "source": "BBC Sport",
@@ -275,14 +299,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a1/live/dec0b5d0-e5ec-11f1-99a1-253766e7ad8b.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
-   "link": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
-   "summary": "Keating\u2019s resilience keeps Chelsea at bay in 0-0 drawVan de Donk and Putellas score twice to sink Palace 6-2Khiara Keating\u2019s resilient performance in goal denied Chelsea, the Women\u2019s Super League leaders, and earned\u2026",
-   "date": "2026-11-21T20:54:39+00:00",
-   "image": "https://i.guim.co.uk/img/media/f9fdedef7f806355de107b35c4546feeb0038014/286_0_4382_3505/master/4382.jpg?width=140&quality=85&auto=format&fit=max&s=56f29efda715e79b44c44c8e9fa49406"
-  },
-  {
    "source": "BBC Sport",
    "title": "Hirst key for Stoke, injuries derail Millwall - Sam Parkin's EFL takeaways",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6r7g8253e3yo?at_medium=RSS&at_campaign=rss",
@@ -350,7 +366,7 @@
    "source": "BBC Sport",
    "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
    "link": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
-   "summary": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge.  They move up to sixth in the Premier League.",
+   "summary": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. Daniel Farke's side move up to sixth in the Premier League.",
    "date": "2026-11-21T19:59:13+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed41/live/db5e04d0-e5d6-11f1-99b6-a35a62fa4264.jpg"
   },
@@ -545,22 +561,6 @@
    "summary": "A combination of smart analytics, a young manager and players hand-picked for their particular skills has the Seagulls flying highThey lined up in sky\u2011blue shirts, white shorts. A combined value of \u00a3327m. Enzo\u2026",
    "date": "2026-11-21T06:00:52+00:00",
    "image": "https://i.guim.co.uk/img/media/8d33d6d3a16efaa8873bce778879cff4b83e758c/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3ec71670fecb7b9e0d42d24f97fa81df"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Bayern Munich confirm Harry Kane \u2018out for next few months\u2019 with ankle injury",
-   "link": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
-   "summary": "England forward injured in Friday\u2019s 1-1 draw with CologneClub statement confirms \u2018tear of ligament in left ankle\u2019Bayern Munich have confirmed Harry Kane will be \u201cout for the next few months\u201d with ankle ligament damage\u2026",
-   "date": "2026-11-20T22:43:40+00:00",
-   "image": "https://i.guim.co.uk/img/media/ff53406a06a9d58de8d9d3bb5b3fe5b627901588/12_0_2337_1869/master/2337.jpg?width=140&quality=85&auto=format&fit=max&s=0da5eb5f4c5b6fafe75d511f04a719bb"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
-   "link": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
-   "summary": "The 30-year-old former England star combines Twitch streaming with working to return to the top as a playerConsider the training regime Dele Alli has followed since he left Como 18 months ago and it becomes clear why he\u2026",
-   "date": "2026-11-20T19:00:37+00:00",
-   "image": "https://i.guim.co.uk/img/media/4644b48da02f5c51bd8878e38586c24dd5e559b7/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7c4ecf1aed33efe60b95b709dd286064"
   }
  ],
  "videos": [
@@ -643,12 +643,6 @@
    "date": "2026-11-21T19:59:09+00:00"
   },
   {
-   "channel": "Bundesliga",
-   "id": "OH2RDPHmdBA",
-   "title": "SCHALKE 04 - VFB STUTTGART | Highlights | Matchday 10 \u2013 Bundesliga 2026/27",
-   "date": "2026-11-21T19:53:45+00:00"
-  },
-  {
    "channel": "Serie A",
    "id": "njM0-6hREPM",
    "title": "Malen Scores FOUR! | PARMA-ROMA | HIGHLIGHTS | Serie A 2026/27",
@@ -673,6 +667,24 @@
    "date": "2026-11-21T18:10:41+00:00"
   },
   {
+   "channel": "beIN SPORTS",
+   "id": "-2g1uIj_IbE",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u062a\u0634\u064a\u0644\u0633\u064a \u0648\u0644\u064a\u062f\u0632 \u064a\u0648\u0646\u0627\u064a\u062a\u062f | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0627\u0644\u0645\u0645\u062a\u0627\u0632 - \u0627\u0644\u062c\u0648\u0644\u0629  11",
+   "date": "2026-11-21T17:42:41+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "-KZ75e3eRC0",
+   "title": "\ud83d\udd34 FC BARCELONA vs VILLARREAL CF - PREVIA DEL PARTIDO",
+   "date": "2026-11-22T13:01:37+00:00"
+  },
+  {
+   "channel": "UEFA",
+   "id": "4_UcgjQ_U90",
+   "title": "How?! \ud83e\udd23",
+   "date": "2026-11-22T12:00:02+00:00"
+  },
+  {
    "channel": "Bundesliga",
    "id": "i4OmZGriE04",
    "title": "Think you could make it as a Bundesliga ref? \ud83d\udc40",
@@ -695,18 +707,6 @@
    "id": "dRZ1SO5acas",
    "title": "You NEED To See This Skill \ud83e\ude84",
    "date": "2026-11-22T00:30:24+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "p0teqxQI5nA",
-   "title": "The Intelligence Of Kai Havertz \ud83e\udde0",
-   "date": "2026-11-21T23:30:02+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "Tx7ZMF9S72Y",
-   "title": "Eintracht Frankfurt vs. TSG Hoffenheim | Matchday 10 - Bundesliga 2026/27",
-   "date": "2026-11-21T23:05:13+00:00"
   }
  ],
  "fixtures": [
@@ -1239,11 +1239,11 @@
    "date": "2026-11-22T11:30Z",
    "home": "Juventus",
    "away": "Venezia",
-   "hs": "0",
+   "hs": "4",
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "23'",
+   "clock": "85'",
    "venue": "Allianz Stadium",
    "usa": [
     "Paramount+"
@@ -1260,10 +1260,10 @@
    "home": "Barcelona",
    "away": "Villarreal",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "2",
+   "live": true,
+   "state": "in",
+   "clock": "9'",
    "venue": "Spotify Camp Nou",
    "usa": [
     "ESPN Deportes",
@@ -12861,11 +12861,11 @@
    "date": "2026-11-22T11:30Z",
    "home": "Juventus",
    "away": "Venezia",
-   "hs": "0",
+   "hs": "4",
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "23'",
+   "clock": "85'",
    "venue": "Allianz Stadium",
    "usa": [
     "Paramount+"
@@ -12882,10 +12882,10 @@
    "home": "Barcelona",
    "away": "Villarreal",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "2",
+   "live": true,
+   "state": "in",
+   "clock": "9'",
    "venue": "Spotify Camp Nou",
    "usa": [
     "ESPN Deportes",
