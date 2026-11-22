@@ -1,6 +1,14 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Bruno Fernandes puts Manchester United contract talks on hold \u2013 matchday live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
+   "summary": "The latest Premier League and WSL news and buildupToday\u2019s games | Tables | Follow on TikTok | And mail usThe Tottenham head coach Roberto De Zerbi compared Luca Williams-Barnett to Lamine Yamal following his heroics\u2026",
+   "date": "2026-11-22T11:38:29+00:00",
+   "image": "https://i.guim.co.uk/img/media/05fc711a1690bb75157556422c2683ba3395a06f/911_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c46f69b85b8ff613bad9f3c6d84cdeed"
+  },
+  {
    "source": "BBC Sport",
    "title": "Manager ins and outs - 2026-27",
    "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
@@ -9,12 +17,12 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/d9deae90-d832-11f1-87c3-29e1cdce63c6.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Bruno Fernandes puts Manchester United contract talks on hold \u2013 matchday live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
-   "summary": "The latest Premier League and WSL news and buildupToday\u2019s games | Tables | Follow on TikTok | And mail usThe Tottenham head coach Roberto De Zerbi compared Luca Williams-Barnett to Lamine Yamal following his heroics\u2026",
-   "date": "2026-11-22T10:32:01+00:00",
-   "image": "https://i.guim.co.uk/img/media/05fc711a1690bb75157556422c2683ba3395a06f/911_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c46f69b85b8ff613bad9f3c6d84cdeed"
+   "source": "BBC Sport",
+   "title": "Rochdale sack boss Watson after Northampton defeat",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo?at_medium=RSS&at_campaign=rss",
+   "summary": "Rochdale sack head coach Ian Watson after only five months at the League Two club",
+   "date": "2026-11-22T10:55:05+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f89/live/28d78d60-e660-11f1-8ebd-1d2173202734.jpg"
   },
   {
    "source": "BBC Sport",
@@ -71,17 +79,17 @@
    "summary": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
    "date": "2026-11-22T07:17:10+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf84/live/b3a1cf10-e01f-11f1-ad34-45f8f10f7c55.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Argentina midfielder Paredes collapses during TV interview",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwnv45818z59o?at_medium=RSS&at_campaign=rss",
-   "summary": "World Cup winning midfielder Leandro Paredes collapses while giving a post-match interview minutes after winning a trophy with Boca Juniors.",
-   "date": "2026-11-22T07:13:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c81e/live/26d6d700-e642-11f1-acea-8b4bc3bc92cd.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Bruno Fernandes puts Manchester United contract talks on hold \u2013 matchday live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
+   "summary": "The latest Premier League and WSL news and buildupToday\u2019s games | Tables | Follow on TikTok | And mail usThe Tottenham head coach Roberto De Zerbi compared Luca Williams-Barnett to Lamine Yamal following his heroics\u2026",
+   "date": "2026-11-22T11:38:29+00:00",
+   "image": "https://i.guim.co.uk/img/media/05fc711a1690bb75157556422c2683ba3395a06f/911_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c46f69b85b8ff613bad9f3c6d84cdeed"
+  },
   {
    "source": "BBC Sport",
    "title": "Manager ins and outs - 2026-27",
@@ -91,12 +99,12 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/d9deae90-d832-11f1-87c3-29e1cdce63c6.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Bruno Fernandes puts Manchester United contract talks on hold \u2013 matchday live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
-   "summary": "The latest Premier League and WSL news and buildupToday\u2019s games | Tables | Follow on TikTok | And mail usThe Tottenham head coach Roberto De Zerbi compared Luca Williams-Barnett to Lamine Yamal following his heroics\u2026",
-   "date": "2026-11-22T10:32:01+00:00",
-   "image": "https://i.guim.co.uk/img/media/05fc711a1690bb75157556422c2683ba3395a06f/911_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c46f69b85b8ff613bad9f3c6d84cdeed"
+   "source": "BBC Sport",
+   "title": "Rochdale sack boss Watson after Northampton defeat",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo?at_medium=RSS&at_campaign=rss",
+   "summary": "Rochdale sack head coach Ian Watson after only five months at the League Two club",
+   "date": "2026-11-22T10:55:05+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f89/live/28d78d60-e660-11f1-8ebd-1d2173202734.jpg"
   },
   {
    "source": "BBC Sport",
@@ -531,14 +539,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d89/live/9aee2530-e5ac-11f1-99a1-253766e7ad8b.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "Jeers, injuries and doubters - White's journey back to the top",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss",
-   "summary": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win.",
-   "date": "2026-11-21T06:17:32+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d5/live/855e6740-e1db-11f1-b8c8-67fa35f5afdb.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Brighton are rocking the Premier League elite. But can they mount a title tilt?",
    "link": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
@@ -547,20 +547,20 @@
    "image": "https://i.guim.co.uk/img/media/8d33d6d3a16efaa8873bce778879cff4b83e758c/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3ec71670fecb7b9e0d42d24f97fa81df"
   },
   {
-   "source": "BBC Sport",
-   "title": "Cost of Man Utd hiring and firing managers nears \u00a3100m",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United borrowed \u00a310m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them \u00a37.5m in compensation to US Soccer.",
-   "date": "2026-11-20T23:18:16+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/765e/live/657e7940-e539-11f1-9616-8327139dcfc4.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Bayern Munich confirm Harry Kane \u2018out for next few months\u2019 with ankle injury",
    "link": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
    "summary": "England forward injured in Friday\u2019s 1-1 draw with CologneClub statement confirms \u2018tear of ligament in left ankle\u2019Bayern Munich have confirmed Harry Kane will be \u201cout for the next few months\u201d with ankle ligament damage\u2026",
    "date": "2026-11-20T22:43:40+00:00",
    "image": "https://i.guim.co.uk/img/media/ff53406a06a9d58de8d9d3bb5b3fe5b627901588/12_0_2337_1869/master/2337.jpg?width=140&quality=85&auto=format&fit=max&s=0da5eb5f4c5b6fafe75d511f04a719bb"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
+   "link": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
+   "summary": "The 30-year-old former England star combines Twitch streaming with working to return to the top as a playerConsider the training regime Dele Alli has followed since he left Como 18 months ago and it becomes clear why he\u2026",
+   "date": "2026-11-20T19:00:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/4644b48da02f5c51bd8878e38586c24dd5e559b7/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7c4ecf1aed33efe60b95b709dd286064"
   }
  ],
  "videos": [
@@ -673,6 +673,12 @@
    "date": "2026-11-21T18:10:41+00:00"
   },
   {
+   "channel": "Bundesliga",
+   "id": "i4OmZGriE04",
+   "title": "Think you could make it as a Bundesliga ref? \ud83d\udc40",
+   "date": "2026-11-22T11:00:22+00:00"
+  },
+  {
    "channel": "Ligue 1",
    "id": "7rnRJ_GsG_c",
    "title": "Quitte le SAV quand tu entends un meilleur joueur que Paul Pogba \ud83d\udc19 #football #ligue1 #foot #sports",
@@ -701,12 +707,6 @@
    "id": "Tx7ZMF9S72Y",
    "title": "Eintracht Frankfurt vs. TSG Hoffenheim | Matchday 10 - Bundesliga 2026/27",
    "date": "2026-11-21T23:05:13+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "fNDklzCjYz0",
-   "title": "MALEN TAKE A BOW \ud83d\udc4f",
-   "date": "2026-11-21T23:00:12+00:00"
   }
  ],
  "fixtures": [
@@ -1241,9 +1241,9 @@
    "away": "Venezia",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "23'",
    "venue": "Allianz Stadium",
    "usa": [
     "Paramount+"
@@ -12863,9 +12863,9 @@
    "away": "Venezia",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "23'",
    "venue": "Allianz Stadium",
    "usa": [
     "Paramount+"
