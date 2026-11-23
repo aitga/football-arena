@@ -1,6 +1,14 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Madness erupts as Sevilla deny Betis in wild end to Spain\u2019s \u2018derby of derbies\u2019",
+   "link": "https://www.theguardian.com/football/2026/nov/23/sevilla-real-betis-seville-derby-la-liga-kike-salas",
+   "summary": "Rivals have been heading in opposite directions in recent years but latest clash showed some things never change\u201cIf we didn\u2019t celebrate a goal, especially in this game, that would be madness,\u201d Kike Salas said. Instead,\u2026",
+   "date": "2026-11-23T17:49:56+00:00",
+   "image": "https://i.guim.co.uk/img/media/78eb4438af997a0ecf96018dd1a84e293136cbc4/204_0_3363_2690/master/3363.jpg?width=140&quality=85&auto=format&fit=max&s=0dc5b62b7fcc04192a0344e30de11411"
+  },
+  {
    "source": "BBC Sport",
    "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo?at_medium=RSS&at_campaign=rss",
@@ -71,17 +79,17 @@
    "summary": "The Irish Football Association's director of women's football Angela Platt says they are \"still working through\" plans with the Northern Ireland government to ensure there is funding available to make the necessary\u2026",
    "date": "2026-11-23T15:26:23+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea9/live/8424c170-e74f-11f1-86cc-39a390efba72.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Raya to miss Dortmund game but injury 'not serious'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal goalkeeper David Raya will miss Tuesday's Champions League game against Borussia Dortmund but his shoulder injury will not require an operation.",
-   "date": "2026-11-23T15:23:09+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65dc/live/03482e80-e753-11f1-88dc-f746e0cde621.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Madness erupts as Sevilla deny Betis in wild end to Spain\u2019s \u2018derby of derbies\u2019",
+   "link": "https://www.theguardian.com/football/2026/nov/23/sevilla-real-betis-seville-derby-la-liga-kike-salas",
+   "summary": "Rivals have been heading in opposite directions in recent years but latest clash showed some things never change\u201cIf we didn\u2019t celebrate a goal, especially in this game, that would be madness,\u201d Kike Salas said. Instead,\u2026",
+   "date": "2026-11-23T17:49:56+00:00",
+   "image": "https://i.guim.co.uk/img/media/78eb4438af997a0ecf96018dd1a84e293136cbc4/204_0_3363_2690/master/3363.jpg?width=140&quality=85&auto=format&fit=max&s=0dc5b62b7fcc04192a0344e30de11411"
+  },
   {
    "source": "BBC Sport",
    "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
@@ -166,7 +174,7 @@
    "source": "The Guardian",
    "title": "David Raya\u2019s shoulder injury \u2018not too serious\u2019 and no surgery needed for Arsenal goalkeeper",
    "link": "https://www.theguardian.com/football/2026/nov/23/david-raya-shoulder-injury-arsenal-surgery-mikel-arteta",
-   "summary": "No 1 to miss Dortmund game but could return for City clash\u2018We were worried \u2026 he\u2019s better than expected,\u2019 says managerMikel Arteta is hopeful the shoulder injury David Raya sustained at Newcastle is not too serious but\u2026",
+   "summary": "No 1 to miss Dortmund game but could return for City clash\u2018We were worried \u2026 he\u2019s better than expected,\u2019 says managerMikel Arteta is hopeful the \u00adshoulder injury David Raya sustained at Newcastle is not too serious, but\u2026",
    "date": "2026-11-23T15:13:56+00:00",
    "image": "https://i.guim.co.uk/img/media/4ef21402dd1e8fd333a3f3481a00a7b5f63ed696/0_0_1957_1565/master/1957.jpg?width=140&quality=85&auto=format&fit=max&s=78cb0b721a466e40fae217280b58db1c"
   },
@@ -507,14 +515,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7609/live/a91923c0-e6a7-11f1-a094-5fdc692f3e33.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
-   "link": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
-   "summary": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism\u2026",
-   "date": "2026-11-22T18:35:14+00:00",
-   "image": "https://i.guim.co.uk/img/media/eabaf0f7802df08b573f0b7df40105a767d353ce/338_150_2492_1994/master/2492.jpg?width=140&quality=85&auto=format&fit=max&s=a484b5f20173ec7e62930c8caf870d5f"
-  },
-  {
    "source": "BBC Sport",
    "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
    "link": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
@@ -569,6 +569,12 @@
    "id": "7MFwvcGAzr4",
    "title": "Italy v C\u00f4te d'Ivoire | HIGHLIGHTS | FIFA U-17 World Cup 2026",
    "date": "2026-11-23T17:10:29+00:00"
+  },
+  {
+   "channel": "UEFA",
+   "id": "rX9LQ3oMqR0",
+   "title": "Insigne\u2019s first Champions League goal \ud83e\udd2f",
+   "date": "2026-11-23T17:03:32+00:00"
   },
   {
    "channel": "FIFA",
@@ -668,15 +674,15 @@
   },
   {
    "channel": "LaLiga",
-   "id": "7YIdoK1wFYY",
-   "title": "R. RACING CLUB 3 - 2 REAL SOCIEDAD | RESUMEN LALIGA EA SPORTS",
-   "date": "2026-11-22T23:00:19+00:00"
-  },
-  {
-   "channel": "LaLiga",
    "id": "dKApzqqa4ik",
    "title": "REFCAM Sevilla FC v Real Betis",
    "date": "2026-11-23T17:06:34+00:00"
+  },
+  {
+   "channel": "Ligue 1",
+   "id": "JKW8xzSmNKA",
+   "title": "ARR\u00caTS, R\u00c9FLEXES, JEU AU PIED : DE LANGE PASSE AU CRIBLE SON JEU !",
+   "date": "2026-11-23T17:00:04+00:00"
   },
   {
    "channel": "Serie A",
@@ -701,12 +707,6 @@
    "id": "8Y0yo4amZ8s",
    "title": "POV: In Charge of the DERBY \ud83e\udd75\ud83e\udd2f REF CAM \ud83d\udcf9",
    "date": "2026-11-23T15:07:08+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "USHmH5fhPp8",
-   "title": "KIKE SALAS fue el h\u00e9roe en #ELGRANDERBI",
-   "date": "2026-11-23T15:00:00+00:00"
   }
  ],
  "fixtures": [
