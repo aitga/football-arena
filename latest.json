@@ -2,6 +2,14 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Watch Tuesday's Sportscene highlights",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m0034wbc?at_medium=RSS&at_campaign=rss",
+   "summary": "Action and reaction to Hibernian v Dundee and Rangers v Aberdeen.",
+   "date": "2026-11-24T23:11:04+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq92k.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
    "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
@@ -10,7 +18,7 @@
   },
   {
    "source": "The Guardian",
-   "title": "Rayan Cherki snatches draw for Manchester City against spirited Napoli",
+   "title": "Rayan Cherki magic denies Napoli but Manchester City\u2019s struggles continue",
    "link": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report",
    "summary": "This was the perfect snapshot of Manchester City\u2019s autumn difficulties. They simply cannot keep the door shut and looked like being picked off by Napoli, who had scored through Rasmus H\u00f8jlund and Noa Lang either side of\u2026",
    "date": "2026-11-24T22:01:51+00:00",
@@ -18,7 +26,7 @@
   },
   {
    "source": "The Guardian",
-   "title": "Rice denied by post late on as Dortmund\u2019s Beier holds Arsenal to frustrating draw",
+   "title": "Dortmund\u2019s Beier halts Arsenal charge after thunderbolt from Gy\u00f6keres",
    "link": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
    "summary": "Arsenal\u2019s sky-high standards are slipping. For the second time in four days, Mikel Arteta\u2019s side found themselves a goal up at half-time and apparently cruising towards victory, only for their opponents to rouse\u2026",
    "date": "2026-11-24T22:01:50+00:00",
@@ -49,16 +57,8 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d34b/live/8ee6d700-e840-11f1-a094-5fdc692f3e33.png"
   },
   {
-   "source": "BBC Sport",
-   "title": "Bellingham stunner helps Real Madrid see off PSV",
-   "link": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
-   "summary": "Jude Bellingham scores a stunning goal as Real Madrid come from behind to beat PSV Eindhoven and maintain their 100% start in the Champions League.",
-   "date": "2026-11-24T20:48:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acb3/live/8cf665c0-e84d-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
    "source": "The Guardian",
-   "title": "Gul swoops late for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
+   "title": "Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
    "link": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
    "summary": "This was Aston Villa\u2019s third trip to Istanbul in the calendar year but, this time, they departed with different emotions. Unlike on the banks of the Bosphorus at Besiktas Park in May, the scene of their unforgettable\u2026",
    "date": "2026-11-24T20:03:50+00:00",
@@ -84,6 +84,14 @@
  "news_all": [
   {
    "source": "BBC Sport",
+   "title": "Watch Tuesday's Sportscene highlights",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m0034wbc?at_medium=RSS&at_campaign=rss",
+   "summary": "Action and reaction to Hibernian v Dundee and Rangers v Aberdeen.",
+   "date": "2026-11-24T23:11:04+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq92k.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
    "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
@@ -92,7 +100,7 @@
   },
   {
    "source": "The Guardian",
-   "title": "Rayan Cherki snatches draw for Manchester City against spirited Napoli",
+   "title": "Rayan Cherki magic denies Napoli but Manchester City\u2019s struggles continue",
    "link": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report",
    "summary": "This was the perfect snapshot of Manchester City\u2019s autumn difficulties. They simply cannot keep the door shut and looked like being picked off by Napoli, who had scored through Rasmus H\u00f8jlund and Noa Lang either side of\u2026",
    "date": "2026-11-24T22:01:51+00:00",
@@ -100,7 +108,7 @@
   },
   {
    "source": "The Guardian",
-   "title": "Rice denied by post late on as Dortmund\u2019s Beier holds Arsenal to frustrating draw",
+   "title": "Dortmund\u2019s Beier halts Arsenal charge after thunderbolt from Gy\u00f6keres",
    "link": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
    "summary": "Arsenal\u2019s sky-high standards are slipping. For the second time in four days, Mikel Arteta\u2019s side found themselves a goal up at half-time and apparently cruising towards victory, only for their opponents to rouse\u2026",
    "date": "2026-11-24T22:01:50+00:00",
@@ -131,16 +139,8 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d34b/live/8ee6d700-e840-11f1-a094-5fdc692f3e33.png"
   },
   {
-   "source": "BBC Sport",
-   "title": "Bellingham stunner helps Real Madrid see off PSV",
-   "link": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
-   "summary": "Jude Bellingham scores a stunning goal as Real Madrid come from behind to beat PSV Eindhoven and maintain their 100% start in the Champions League.",
-   "date": "2026-11-24T20:48:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acb3/live/8cf665c0-e84d-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
    "source": "The Guardian",
-   "title": "Gul swoops late for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
+   "title": "Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
    "link": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
    "summary": "This was Aston Villa\u2019s third trip to Istanbul in the calendar year but, this time, they departed with different emotions. Unlike on the banks of the Bosphorus at Besiktas Park in May, the scene of their unforgettable\u2026",
    "date": "2026-11-24T20:03:50+00:00",
@@ -324,14 +324,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Republic of Ireland boss Ward signs new contract",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn31z553go?at_medium=RSS&at_campaign=rss",
-   "summary": "Republic of Ireland manager Carla Ward signs a contract extension until the conclusion of the side's Euro 2029 campaign.",
-   "date": "2026-11-24T10:45:30+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc8/live/272a6460-e7e6-11f1-8b26-c1adae33e7f2.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Which Premier League players are set for yellow card suspensions?",
    "link": "https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo?at_medium=RSS&at_campaign=rss",
    "summary": "Seventeen players are on the brink of a one-match ban in the 2026-27 Premier League season.",
@@ -499,14 +491,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/042f/live/fe5449a0-e751-11f1-99a1-253766e7ad8b.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "Scotland to co-host 2035 Women's World Cup, Fifa confirms",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-   "summary": "The United Kingdom will host a football World Cup for the first time since 1966.",
-   "date": "2026-11-23T15:09:50+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/042f/live/fe5449a0-e751-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "PSG had the best attack in Europe but Dou\u00e9 and Kvaratskhelia injuries will test Luis Enrique",
    "link": "https://www.theguardian.com/football/2026/nov/23/psg-best-attack-europe-desire-doue-acl-khvicha-kvaratskhelia-luis-enrique",
@@ -531,14 +515,6 @@
    "image": "https://i.guim.co.uk/img/media/eea81f3ed1f7c91c80a518c533c0b1997f19b0f2/52_0_3445_2756/master/3445.jpg?width=140&quality=85&auto=format&fit=max&s=bdde4b7e90418a658b6b0dc585d2035c"
   },
   {
-   "source": "BBC Sport",
-   "title": "Watford set to appoint former Romania boss Iordanescu",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj7523r0vrp0o?at_medium=RSS&at_campaign=rss",
-   "summary": "Watford are set to appoint former Romania coach Edward Iordanescu as their new head coach, reports BBC Three Counties Radio.",
-   "date": "2026-11-23T12:36:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d7/live/ff0018d0-e737-11f1-8294-033bd8ee7e95.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Jamal Musiala controversy the nadir of Bayern Munich\u2019s turbulent week",
    "link": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
@@ -561,9 +537,75 @@
    "summary": "Republic of Ireland defender Chloe Mustaki is forced to withdraw from her side's 2027 Women's World Cup play-off final against Poland after rupturing her anterior cruciate ligament.",
    "date": "2026-11-23T11:35:50+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a9/live/ae500e30-e72e-11f1-8294-033bd8ee7e95.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Infantino\u2019s $20bn World Cup sell-off plan was to run for up to 96 years, documents show",
+   "link": "https://www.theguardian.com/football/2026/nov/23/gianni-infantino-world-cup-sell-off-plan-96-years-documents-payouts",
+   "summary": "Management team were in line for huge payoutsFifa denies Infantino would have profited from planGianni Infantino\u2019s failed Fifa Forward Enterprise plan could have locked football in for up to 96 years while paying its\u2026",
+   "date": "2026-11-23T11:34:42+00:00",
+   "image": "https://i.guim.co.uk/img/media/22241a86129d743f7397b60e9fe8fc9a1e35f147/646_297_2146_1716/master/2146.jpg?width=140&quality=85&auto=format&fit=max&s=7d7d6889c384f6c25cb383d54be59fb5"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Every goal from the Women's Super League - matchweek 11",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cq8j4glgw4pvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Watch all the goals from matchweek 11 in the WSL, including Annabelle Blanchard's delightful volley against London City Lionesses and Lee Geum-Min's thumping finish for Birmingham City.",
+   "date": "2026-11-23T09:34:52+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88ab/live/3959dbf0-e6b7-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Watch highlights of the weekend's SPFL action",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6p3e4388lq1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
+   "date": "2026-11-23T08:14:17+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "beIN SPORTS",
+   "id": "PfSoe1QlBKQ",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0622\u0631\u0633\u0646\u0627\u0644 \u0648\u0628\u0648\u0631\u0648\u0633\u064a\u0627 \u062f\u0648\u0631\u062a\u0645\u0648\u0646\u062f | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
+   "date": "2026-11-24T23:09:08+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "bcCP-U1zn7s",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0631\u064a\u0627\u0644 \u0645\u062f\u0631\u064a\u062f \u0648\u0623\u064a\u0646\u062f\u0647\u0648\u0641\u0646 | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
+   "date": "2026-11-24T23:03:12+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "-8A_OkoX4AU",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u0633\u064a\u062a\u064a \u0648\u0646\u0627\u0628\u0648\u0644\u064a | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
+   "date": "2026-11-24T22:43:25+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "ZeBKIpEQlO8",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0643\u0648\u0645\u0648 \u0648\u0622\u064a\u0643 \u0623\u062b\u064a\u0646\u0627 | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
+   "date": "2026-11-24T22:40:26+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "t_Fdno3nbJw",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0641\u0627\u064a\u0646\u0648\u0631\u062f \u0648\u0628\u0648\u0631\u062a\u0648 | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
+   "date": "2026-11-24T22:37:21+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "-m8eipHMNnA",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629  \u0644\u0627\u064a\u0628\u062a\u0633\u064a\u063a \u0648\u0644\u0648\u0646\u0633 | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
+   "date": "2026-11-24T22:31:47+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "QlztvO_y5Jk",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629  \u0633\u0644\u0648\u0641\u0627\u0646 \u0628\u0631\u0627\u062a\u064a\u0633\u0644\u0627\u0641\u0627 \u0648\u0631\u064a\u0627\u0644 \u0628\u064a\u062a\u064a\u0633 | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
+   "date": "2026-11-24T22:27:40+00:00"
+  },
   {
    "channel": "beIN SPORTS",
    "id": "ywbCGhi64bQ",
@@ -587,18 +629,6 @@
    "id": "oUZTyB9vEKE",
    "title": "Brazil v Tanzania | HIGHLIGHTS | FIFA U-17 World Cup 2026",
    "date": "2026-11-24T20:30:35+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "LPKtwFJ6oK8",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u063a\u0644\u0637\u0629 \u0633\u0631\u0627\u064a \u0648\u0623\u0633\u062a\u0648\u0646 \u0641\u064a\u0644\u0627 | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
-   "date": "2026-11-24T20:16:40+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "JBUu3qs1OlM",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0628\u0648\u062f\u0648/\u063a\u0644\u064a\u0645\u062a \u0648\u0644\u0627\u0633\u0643 | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
-   "date": "2026-11-24T20:15:55+00:00"
   },
   {
    "channel": "FIFA",
@@ -641,36 +671,6 @@
    "id": "D-djRtVpZNU",
    "title": "Backing Arsenal to score three at home? \ud83e\udd14 Expecting goals in Bod\u00f8 this week? \u26bd\ufe0f",
    "date": "2026-11-24T15:00:01+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "ZBqyzvoObrE",
-   "title": "INCREDIBLE Goals Scored During Matchday 5 In The Champions League!",
-   "date": "2026-11-24T13:00:23+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "mZvNkoBSlho",
-   "title": "MAXI SINTESI ATALANTA-INTER 4-4 | EXTENDED HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-24T12:00:11+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "YTxdw9SDVbw",
-   "title": "ATALANTA-INTER 4-4 | EXTENDED HIGHLIGHTS | SERIE A 2026/27",
-   "date": "2026-11-24T12:00:05+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "jdH9kSxrZ7Y",
-   "title": "GOAL OF THE SEASON?!?!? \ud83e\udee8",
-   "date": "2026-11-24T10:39:17+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "dC6DwrxLmkA",
-   "title": "MILAN-FROSINONE 5-1 | EXTENDED HIGHLIGHTS | SERIE A 2026/27",
-   "date": "2026-11-24T10:00:13+00:00"
   },
   {
    "channel": "LaLiga",
