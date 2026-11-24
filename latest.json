@@ -2,6 +2,22 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Klopp advice and Iraola confidence boosts Wirtz",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Florian Wirtz opens up on why it's the best he has felt since joining Liverpool.",
+   "date": "2026-11-24T17:19:08+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c1/live/b4c97960-e826-11f1-93d4-6d580946ad80.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+   "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
+   "date": "2026-11-24T17:16:09+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Yoro red card overturned, but refs' chief Webb backs decision",
    "link": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
    "summary": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
@@ -23,14 +39,6 @@
    "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Sometimes, the beautiful game can make Football Daily feel old. Even Monday\u2019s ostensibly old-school fixture between Brentford and Everton felt like the future\u2026",
    "date": "2026-11-24T16:16:52+00:00",
    "image": "https://i.guim.co.uk/img/media/3eda96c51e687b89ec23ffed48e6243fa071738e/140_0_2488_1990/master/2488.jpg?width=140&quality=85&auto=format&fit=max&s=42b3992699bc3ac39c561124e8857d90"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-   "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
-   "date": "2026-11-24T16:11:33+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg"
   },
   {
    "source": "The Guardian",
@@ -68,22 +76,30 @@
    "source": "The Guardian",
    "title": "Senegal restored as Africa Cup of Nations champions after court ruling",
    "link": "https://www.theguardian.com/football/2026/nov/24/afcon-verdict-senegal-morocco-africa-cup-of-nations-champions-court-ruling-cas",
-   "summary": "Senegal won January\u2019s final 1-0 after walking offResult was overturned in March as 3-0 win for MoroccoSenegal have been restored as the Africa Cup of Nations champions after a ruling by the court of arbitration for\u2026",
+   "summary": "Senegal won January\u2019s final 1-0 after walking offResult was overturned in March as 3-0 win for MoroccoSenegal have been reinstated as the champions of Africa, and their controversial 1-0 victory over Morocco confirmed\u2026",
    "date": "2026-11-24T14:22:36+00:00",
    "image": "https://i.guim.co.uk/img/media/a6ed91cef442f9734b4f289ce6ba75b0587c54f8/705_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=d61d57239bba6eca1e1bf84eddd2ff8b"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "SFA leads tributes to former president Peat",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwz0kd0zjvkmo?at_medium=RSS&at_campaign=rss",
-   "summary": "Former Scottish FA president George Peat dies at the age of 86.",
-   "date": "2026-11-24T13:35:17+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/850b/live/8c488a70-e809-11f1-95bb-3f37d3e026b0.jpg"
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
+   "title": "Klopp advice and Iraola confidence boosts Wirtz",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Florian Wirtz opens up on why it's the best he has felt since joining Liverpool.",
+   "date": "2026-11-24T17:19:08+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c1/live/b4c97960-e826-11f1-93d4-6d580946ad80.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+   "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
+   "date": "2026-11-24T17:16:09+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Yoro red card overturned, but refs' chief Webb backs decision",
    "link": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
    "summary": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
@@ -105,14 +121,6 @@
    "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Sometimes, the beautiful game can make Football Daily feel old. Even Monday\u2019s ostensibly old-school fixture between Brentford and Everton felt like the future\u2026",
    "date": "2026-11-24T16:16:52+00:00",
    "image": "https://i.guim.co.uk/img/media/3eda96c51e687b89ec23ffed48e6243fa071738e/140_0_2488_1990/master/2488.jpg?width=140&quality=85&auto=format&fit=max&s=42b3992699bc3ac39c561124e8857d90"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-   "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
-   "date": "2026-11-24T16:11:33+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg"
   },
   {
    "source": "The Guardian",
@@ -150,7 +158,7 @@
    "source": "The Guardian",
    "title": "Senegal restored as Africa Cup of Nations champions after court ruling",
    "link": "https://www.theguardian.com/football/2026/nov/24/afcon-verdict-senegal-morocco-africa-cup-of-nations-champions-court-ruling-cas",
-   "summary": "Senegal won January\u2019s final 1-0 after walking offResult was overturned in March as 3-0 win for MoroccoSenegal have been restored as the Africa Cup of Nations champions after a ruling by the court of arbitration for\u2026",
+   "summary": "Senegal won January\u2019s final 1-0 after walking offResult was overturned in March as 3-0 win for MoroccoSenegal have been reinstated as the champions of Africa, and their controversial 1-0 victory over Morocco confirmed\u2026",
    "date": "2026-11-24T14:22:36+00:00",
    "image": "https://i.guim.co.uk/img/media/a6ed91cef442f9734b4f289ce6ba75b0587c54f8/705_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=d61d57239bba6eca1e1bf84eddd2ff8b"
   },
@@ -553,17 +561,15 @@
    "summary": "Italy\u2019s new cover star enjoyed a \u2018beautiful\u2019 treble but could not celebrate it after his side threw away two-goal leads three times to draw 4-4 with AtalantaThis ought to have been a magic moment for Pio Esposito. He\u2026",
    "date": "2026-11-23T13:18:20+00:00",
    "image": "https://i.guim.co.uk/img/media/eea81f3ed1f7c91c80a518c533c0b1997f19b0f2/52_0_3445_2756/master/3445.jpg?width=140&quality=85&auto=format&fit=max&s=bdde4b7e90418a658b6b0dc585d2035c"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'You don't win 345 matches by defending' - Simeone breaks La Liga record",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o?at_medium=RSS&at_campaign=rss",
-   "summary": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark.",
-   "date": "2026-11-23T13:07:12+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa0/live/1a7ae070-e726-11f1-914b-6d226d813a52.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "Serie A",
+   "id": "mvtqyrVa2c0",
+   "title": "TOP GOALS \u26bd\ufe0f From Serie A Round 12 | 2026/27",
+   "date": "2026-11-24T17:30:01+00:00"
+  },
   {
    "channel": "FIFA",
    "id": "fwmui9tFzL0",
@@ -623,12 +629,6 @@
    "id": "dC6DwrxLmkA",
    "title": "MILAN-FROSINONE 5-1 | EXTENDED HIGHLIGHTS | SERIE A 2026/27",
    "date": "2026-11-24T10:00:13+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "HbRETDR-cYk",
-   "title": "\ud83d\udd25 GOAL SERIE A | PIO ESPOSITO's First HAT-TRICK! | Goal Collection | Round 12 | Serie A 2026/27",
-   "date": "2026-11-24T07:00:27+00:00"
   },
   {
    "channel": "FIFA",
@@ -781,9 +781,9 @@
    "away": "LASK Linz",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "21'",
    "venue": "Aspmyra Stadion",
    "usa": [
     "Paramount+"
@@ -801,9 +801,9 @@
    "away": "Aston Villa",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "22'",
    "venue": "RAMS Park",
    "usa": [
     "Paramount+"
@@ -12846,9 +12846,9 @@
    "away": "LASK Linz",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "21'",
    "venue": "Aspmyra Stadion",
    "usa": [
     "Paramount+"
@@ -12866,9 +12866,9 @@
    "away": "Aston Villa",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "22'",
    "venue": "RAMS Park",
    "usa": [
     "Paramount+"
