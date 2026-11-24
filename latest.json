@@ -2,11 +2,59 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Yoro red card overturned, but refs' chief Webb backs decision",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
+   "date": "2026-11-24T17:00:32+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8849/live/f41d1460-e820-11f1-a58d-43263bea41a8.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "FA chief signs NDA to view Fifa sell-off plot documents",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Debbie Hewitt is among several football chiefs to view documents made available by Fifa, but cannot speak about them.",
+   "date": "2026-11-24T16:34:18+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719b/live/558488f0-e821-11f1-a58d-43263bea41a8.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Football Daily | The game\u2019s gone: has fantasy football been ruined by AI gafferbots?",
+   "link": "https://www.theguardian.com/football/2026/nov/24/fpl-ruined-ai-football-daily-newsletter",
+   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Sometimes, the beautiful game can make Football Daily feel old. Even Monday\u2019s ostensibly old-school fixture between Brentford and Everton felt like the future\u2026",
+   "date": "2026-11-24T16:16:52+00:00",
+   "image": "https://i.guim.co.uk/img/media/3eda96c51e687b89ec23ffed48e6243fa071738e/140_0_2488_1990/master/2488.jpg?width=140&quality=85&auto=format&fit=max&s=42b3992699bc3ac39c561124e8857d90"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
    "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
    "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
-   "date": "2026-11-24T15:16:15+00:00",
+   "date": "2026-11-24T16:11:33+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "2028 Copa Am\u00e9rica to be played in United States with six Concacaf teams",
+   "link": "https://www.theguardian.com/football/2026/nov/24/2028-copa-america-united-states-concacaf-conmebol",
+   "summary": "South American tournament was in US in 2024 and 2016Concacaf teams determined by 2027 Gold CupGames will overlap with Euro 2028 but not OlympicsThe 2028 Copa Am\u00e9rica will be played in the United States and expanded to\u2026",
+   "date": "2026-11-24T16:08:56+00:00",
+   "image": "https://i.guim.co.uk/img/media/70641649219c3867cb0a492f6b2138ad3f5e243e/142_0_3773_3019/master/3773.jpg?width=140&quality=85&auto=format&fit=max&s=b56dafd9583cd965881fda9a41e0e3b2"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Defender Heaven open to leaving Man Utd",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crd61gy4ednvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United defender Ayden Heaven is open to a loan move in January amid concerns over his game time as his side battles in the Premier League relegation zone.",
+   "date": "2026-11-24T15:56:55+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23be/live/b56694d0-e807-11f1-95bb-3f37d3e026b0.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester United win appeal over Yoro\u2019s one-match suspension after Anfield red card",
+   "link": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+   "summary": "Mauricio Pochettino said after game it was \u2018never a foul\u2019Player now eligible to face Brentford on SaturdayManchester United have successfully appealed against the decision to send off Leny Yoro in their 4-0 defeat to\u2026",
+   "date": "2026-11-24T15:49:02+00:00",
+   "image": "https://i.guim.co.uk/img/media/7a1a4bacec389b5bc1af1db0bec9ad7be7c7dda1/377_76_2758_2206/master/2758.jpg?width=140&quality=85&auto=format&fit=max&s=9a0bb87b496186fdd001f7d172f4cbdf"
   },
   {
    "source": "BBC Sport",
@@ -31,64 +79,64 @@
    "summary": "Former Scottish FA president George Peat dies at the age of 86.",
    "date": "2026-11-24T13:35:17+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/850b/live/8c488a70-e809-11f1-95bb-3f37d3e026b0.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "\u2018I\u2019m loving it at Brugge\u2019: Freddie Potts on going from West Ham\u2019s bench to Champions League",
-   "link": "https://www.theguardian.com/football/2026/nov/24/freddie-potts-brugge-champions-league-liverpool-west-ham",
-   "summary": "Midfielder is preparing to face Liverpool after leaving the club he loves and overcoming a tough start in BelgiumIn April Freddie Potts was absorbing the disappointment of being substituted at half-time during West\u2026",
-   "date": "2026-11-24T13:00:47+00:00",
-   "image": "https://i.guim.co.uk/img/media/009ae39f5dafdf2a626834892e694ee73d0935d6/432_0_6220_4976/master/6220.jpg?width=140&quality=85&auto=format&fit=max&s=57344264b66417a7289ef044211d0a23"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Non-league player injured falling down badger hole",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw0k636m0vr3o?at_medium=RSS&at_campaign=rss",
-   "summary": "Cav Miley missed Chelmsford City's draw with Walton and Hersham after spraining an ankle falling down a badger hole.",
-   "date": "2026-11-24T12:31:12+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da19/live/dba64620-e7ff-11f1-99a1-253766e7ad8b.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Palace docked points for using four sub windows in WSL win",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\".",
-   "date": "2026-11-24T12:14:19+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/a5fbf0d0-e7fd-11f1-ab60-79086b6495b8.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "The NWSL 2026 goals, players and nutmegs we won\u2019t forget",
-   "link": "https://www.theguardian.com/football/2026/nov/24/nwsl-awards-goals-players-moving-the-goalposts-newsletter",
-   "summary": "An Olimpico tops the list of season highlights, with mention for Croix Bethune\u2019s feats and a four-player nutmegSurely the final strands of gold and silver confetti have been picked out of the well worn surface of Audi\u2026",
-   "date": "2026-11-24T12:00:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/8ab5b94e5250b648f860c69de58c7cc31ac5c5ca/177_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=7315b9eeaea148ca7aeb8a99e9051194"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Crystal Palace docked three WSL points for extra substitution against Everton",
-   "link": "https://www.theguardian.com/football/2026/nov/24/crystal-palace-docked-three-points-wsl-extra-substitution-everton",
-   "summary": "Too many substitutes used during win in opening gameThey drop place to 13th but no extra points for EvertonCrystal Palace have been deducted three points in the Women\u2019s Super League after they made substitutions in four\u2026",
-   "date": "2026-11-24T11:40:14+00:00",
-   "image": "https://i.guim.co.uk/img/media/fdcb312fcb71e6edaac31aaf2f1b585f3a05a024/803_883_6153_4922/master/6153.jpg?width=140&quality=85&auto=format&fit=max&s=420d9b197c9a56b3cc884ad594321b77"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Glens boss Ferguson apologises after seven-game ban",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Glentoran manager Duncan Ferguson will be suspended for seven games following his red card in the side's 3-2 defeat by Cliftonville last week.",
-   "date": "2026-11-24T11:36:18+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e31/live/ab98c410-e7f7-11f1-ab60-79086b6495b8.jpg"
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
+   "title": "Yoro red card overturned, but refs' chief Webb backs decision",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
+   "date": "2026-11-24T17:00:32+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8849/live/f41d1460-e820-11f1-a58d-43263bea41a8.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "FA chief signs NDA to view Fifa sell-off plot documents",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Debbie Hewitt is among several football chiefs to view documents made available by Fifa, but cannot speak about them.",
+   "date": "2026-11-24T16:34:18+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719b/live/558488f0-e821-11f1-a58d-43263bea41a8.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Football Daily | The game\u2019s gone: has fantasy football been ruined by AI gafferbots?",
+   "link": "https://www.theguardian.com/football/2026/nov/24/fpl-ruined-ai-football-daily-newsletter",
+   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Sometimes, the beautiful game can make Football Daily feel old. Even Monday\u2019s ostensibly old-school fixture between Brentford and Everton felt like the future\u2026",
+   "date": "2026-11-24T16:16:52+00:00",
+   "image": "https://i.guim.co.uk/img/media/3eda96c51e687b89ec23ffed48e6243fa071738e/140_0_2488_1990/master/2488.jpg?width=140&quality=85&auto=format&fit=max&s=42b3992699bc3ac39c561124e8857d90"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
    "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
    "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
-   "date": "2026-11-24T15:16:15+00:00",
+   "date": "2026-11-24T16:11:33+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "2028 Copa Am\u00e9rica to be played in United States with six Concacaf teams",
+   "link": "https://www.theguardian.com/football/2026/nov/24/2028-copa-america-united-states-concacaf-conmebol",
+   "summary": "South American tournament was in US in 2024 and 2016Concacaf teams determined by 2027 Gold CupGames will overlap with Euro 2028 but not OlympicsThe 2028 Copa Am\u00e9rica will be played in the United States and expanded to\u2026",
+   "date": "2026-11-24T16:08:56+00:00",
+   "image": "https://i.guim.co.uk/img/media/70641649219c3867cb0a492f6b2138ad3f5e243e/142_0_3773_3019/master/3773.jpg?width=140&quality=85&auto=format&fit=max&s=b56dafd9583cd965881fda9a41e0e3b2"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Defender Heaven open to leaving Man Utd",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crd61gy4ednvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United defender Ayden Heaven is open to a loan move in January amid concerns over his game time as his side battles in the Premier League relegation zone.",
+   "date": "2026-11-24T15:56:55+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23be/live/b56694d0-e807-11f1-95bb-3f37d3e026b0.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester United win appeal over Yoro\u2019s one-match suspension after Anfield red card",
+   "link": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+   "summary": "Mauricio Pochettino said after game it was \u2018never a foul\u2019Player now eligible to face Brentford on SaturdayManchester United have successfully appealed against the decision to send off Leny Yoro in their 4-0 defeat to\u2026",
+   "date": "2026-11-24T15:49:02+00:00",
+   "image": "https://i.guim.co.uk/img/media/7a1a4bacec389b5bc1af1db0bec9ad7be7c7dda1/377_76_2758_2206/master/2758.jpg?width=140&quality=85&auto=format&fit=max&s=9a0bb87b496186fdd001f7d172f4cbdf"
   },
   {
    "source": "BBC Sport",
@@ -219,14 +267,6 @@
    "image": "https://i.guim.co.uk/img/media/3a9a18108966c41643474b6cd071b57cdd474271/302_0_2740_2192/master/2740.jpg?width=140&quality=85&auto=format&fit=max&s=99b04e6bf5a7a1cc03974388cbd56ce3"
   },
   {
-   "source": "The Guardian",
-   "title": "Timothy Weah: \u2018I don\u2019t want to beg to be back in the national team\u2019",
-   "link": "https://www.theguardian.com/football/2026/nov/24/timothy-weah-i-dont-want-to-beg-to-be-back-in-the-national-team",
-   "summary": "Winger has not played for the USMNT since the World Cup and believes good club form is his route back into the squadThis was the USMNT\u2019s summer. By extension, it was also that of the 26 players selected by Mauricio\u2026",
-   "date": "2026-11-24T10:00:13+00:00",
-   "image": "https://i.guim.co.uk/img/media/356d671b895eda33dcbc76e38ffc607132334d55/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=549d233afb2ea5f442e1ce1b91436c18"
-  },
-  {
    "source": "BBC Sport",
    "title": "Which Premier League players are set for yellow card suspensions?",
    "link": "https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo?at_medium=RSS&at_campaign=rss",
@@ -273,14 +313,6 @@
    "summary": "BBC Sport NI looks at Michael McArdle's decision to recall striker Kerry Beattie and the uncapped Ella Haughey to his squad for a friendly double-header against Greece.",
    "date": "2026-11-24T08:08:33+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d056/live/5df5ba70-e5c1-11f1-a188-ff49e70cc466.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Nwaneri at risk of becoming Arsenal\u2019s forgotten teenager on return with Dortmund",
-   "link": "https://www.theguardian.com/football/2026/nov/24/ethan-nwaneri-arsenal-dortmund-mikel-arteta-champions-league",
-   "summary": "Youngest player to appear in Premier League is struggling to establish himself on loan at the Bundesliga clubEthan Nwaneri has one record Max Dowman can never break. It is more than four years since he became the\u2026",
-   "date": "2026-11-24T08:00:11+00:00",
-   "image": "https://i.guim.co.uk/img/media/b93b7729718a26b83d329975503223430a55d865/0_0_6254_5004/master/6254.jpg?width=140&quality=85&auto=format&fit=max&s=a2e130717346e294e93a23e77e81aaf8"
   },
   {
    "source": "The Guardian",
@@ -404,14 +436,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal and PSG are both looking at a move for RB Leipzig winger Antonio Nusa, Xabi Alonso has Chelsea hierarchy backing, Liverpool open contract talks with keeper Alisson Becker, plus more.",
-   "date": "2026-11-23T21:41:52+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb85/live/ac9a3220-e781-11f1-99a1-253766e7ad8b.png"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Hosting World Cup means decade of excitement - Weir",
    "link": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo?at_medium=RSS&at_campaign=rss",
    "summary": "Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" for the game in her homeland.",
@@ -433,14 +457,6 @@
    "summary": "Pioneering or problematic? Why Gino Pozzo's 14-year Watford ownership is at a crossroads as the club search for their 25th managerial appointment on his watch.",
    "date": "2026-11-23T17:16:13+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5cb/live/6cddf170-cef5-11f1-93e1-3b657b665bcf.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
-   "summary": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League",
-   "date": "2026-11-23T16:30:59+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca84/live/d15e3100-e75a-11f1-b407-33329b1ec67a.jpg"
   },
   {
    "source": "BBC Sport",
@@ -545,25 +561,27 @@
    "summary": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark.",
    "date": "2026-11-23T13:07:12+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa0/live/1a7ae070-e726-11f1-914b-6d226d813a52.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Watford set to appoint former Romania boss Iordanescu",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj7523r0vrp0o?at_medium=RSS&at_campaign=rss",
-   "summary": "Watford are set to appoint former Romania coach Edward Iordanescu as their new head coach, reports BBC Three Counties Radio.",
-   "date": "2026-11-23T12:36:46+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d7/live/ff0018d0-e737-11f1-8294-033bd8ee7e95.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Jamal Musiala controversy the nadir of Bayern Munich\u2019s turbulent week",
-   "link": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
-   "summary": "German giants\u2019 treatment of midfielder has raised questions about how far the reputation of a family club still holdsIt was, on paper, a perfect Friday evening for Bayern to flex their muscles once again, in the chill\u2026",
-   "date": "2026-11-23T12:08:28+00:00",
-   "image": "https://i.guim.co.uk/img/media/9eace40516648a98a3c0ef73ac2c754f2e01f46a/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e55c63df0b9ad2c31c2c02eccb086ab9"
   }
  ],
  "videos": [
+  {
+   "channel": "FIFA",
+   "id": "fwmui9tFzL0",
+   "title": "Japan v Serbia | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+   "date": "2026-11-24T16:15:39+00:00"
+  },
+  {
+   "channel": "FIFA",
+   "id": "lUAS9sLM_VI",
+   "title": "Costa Rica v Republic of Ireland | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+   "date": "2026-11-24T16:00:35+00:00"
+  },
+  {
+   "channel": "FIFA",
+   "id": "bkFUXeXhwSs",
+   "title": "Venezuela v Romania | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+   "date": "2026-11-24T15:49:31+00:00"
+  },
   {
    "channel": "UEFA",
    "id": "D-djRtVpZNU",
@@ -619,12 +637,6 @@
    "date": "2026-11-24T05:30:13+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "88F2bmN3kVQ",
-   "title": "Fenomeno Varela Trascina il Monza | MONZA-FIORENTINA | HIGHLIGHTS | SERIE A ENILIVE 2026/27",
-   "date": "2026-11-24T01:44:10+00:00"
-  },
-  {
    "channel": "FIFA",
    "id": "Nv7EdZRG6HQ",
    "title": "Congo DR v Uzbekistan | EXTENDED MATCH HIGHLIGHTS | 2026 FIFA World Cup",
@@ -635,18 +647,6 @@
    "id": "o_F96UrfXhU",
    "title": "A Goal So Good... Even The Goalkeeper Appreciated It! \ud83d\ude02",
    "date": "2026-11-24T00:12:47+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "W1XS5zSvtzs",
-   "title": "Incredible Varela Show! | MONZA-FIORENTINA | HIGHLIGHTS | Serie A 2026/27",
-   "date": "2026-11-23T22:25:59+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "YBi-3FM8-3U",
-   "title": "LEVANTE UD 1 - 1 ELCHE CF | RESUMEN LALIGA EA SPORTS",
-   "date": "2026-11-23T22:06:49+00:00"
   },
   {
    "channel": "beIN SPORTS",
@@ -673,40 +673,40 @@
    "date": "2026-11-23T18:40:21+00:00"
   },
   {
-   "channel": "Ligue 1",
-   "id": "RNFh1rSCv7A",
-   "title": "L\u2019anecdote dingue de notre invit\u00e9 sur le crack marocain du RCSA \ud83c\uddf2\ud83c\udde6 #football #ligue1 #foot #sports",
-   "date": "2026-11-24T14:00:29+00:00"
+   "channel": "UEFA",
+   "id": "PyqXaoZ05iQ",
+   "title": "Jake YT VideosArs v Dor UCL   Previous Meets   Arsenal v B Dortmund   Nov 2026 Update UEEC 16x9 Dirt",
+   "date": "2026-11-24T17:00:24+00:00"
   },
   {
    "channel": "LaLiga",
-   "id": "kAi2LEKw_o4",
-   "title": "REFCAM Real Madrid vs Celta",
-   "date": "2026-11-24T14:00:17+00:00"
+   "id": "rdH-60e-48Q",
+   "title": "Ordenamos los 10+1 GOLES de ZABIRI en LALIGA",
+   "date": "2026-11-24T17:00:11+00:00"
   },
   {
-   "channel": "Premier League",
-   "id": "218EoqMM7XM",
-   "title": "PRIME Arsenal Football \ud83d\ude2e\u200d\ud83d\udca8",
-   "date": "2026-11-24T13:56:40+00:00"
+   "channel": "LaLiga",
+   "id": "VPkgE9f3QzU",
+   "title": "La conexi\u00f3n Juli\u00e1n-Baena en el ATLETI funciona",
+   "date": "2026-11-24T17:00:06+00:00"
   },
   {
    "channel": "Serie A",
-   "id": "riuZXFUKUIw",
-   "title": "A signature MCTOMINAY strike \ud83d\ude0f",
-   "date": "2026-11-24T13:00:39+00:00"
+   "id": "QMX-jjX0qy0",
+   "title": "Your Seat for a THRILLING COMEBACK \ud83c\udf9f\ufe0f | Atalanta-Inter 4-4 | Serie A Enilive",
+   "date": "2026-11-24T16:35:28+00:00"
+  },
+  {
+   "channel": "Ligue 1",
+   "id": "a_0cGzA1YBc",
+   "title": "Lo\u00efs Openda se d\u00e9guise pour surprendre un jeune supporter ! \ud83e\udd78 | Ma Super Ligue 1- Saison2, \u00e9pisode10",
+   "date": "2026-11-24T16:00:27+00:00"
   },
   {
    "channel": "UEFA",
-   "id": "j6v11d5wkvM",
-   "title": "10/10 Alex Song assist!",
-   "date": "2026-11-24T13:00:09+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "LtO05Z3mtDY",
-   "title": "POV: Eres Adri\u00e1n Cordero en pleno Real Madrid - Celta",
-   "date": "2026-11-24T13:00:01+00:00"
+   "id": "H2MiuE87B1s",
+   "title": "Greatest counter-attack of all time? \ud83d\ude33",
+   "date": "2026-11-24T15:35:30+00:00"
   }
  ],
  "fixtures": [
