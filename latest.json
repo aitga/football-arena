@@ -2,6 +2,22 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Who has made Troy's Premier League team of the week?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
+   "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+   "date": "2026-11-23T23:26:35+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2b3/live/d71ba9d0-e78f-11f1-8e8a-577b415bb9af.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Key questions as Rangers host Aberdeen & Dundee visit Hibs",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqe9kvdr2mmyo?at_medium=RSS&at_campaign=rss",
+   "summary": "What are the key things to look out for as Rangers host Aberdeen while Hibernian entertain Dundee in the Scottish Premiership on Tuesday?",
+   "date": "2026-11-23T23:07:48+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d006/live/690c20c0-e792-11f1-9de1-132f01162c71.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Andrews praises 'versatile' Lewis-Potter",
    "link": "https://www.bbc.co.uk/sport/football/videos/c6z0kdgz39p3o?at_medium=RSS&at_campaign=rss",
    "summary": "Brentford manager Keith Andrews praises the performance of Keane Lewis-Potter, who scored twice in his side's 4-0 win against Everton.",
@@ -63,25 +79,25 @@
    "summary": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier League's financial rules.",
    "date": "2026-11-23T21:05:23+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3392/live/719320d0-e77a-11f1-978f-df545a5c5c20.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Hosting World Cup means decade of excitement - Weir",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" for the game in her homeland.",
-   "date": "2026-11-23T21:03:42+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1560/live/65c426e0-e780-11f1-8707-dd4660fa8d9d.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "The 2035 Women\u2019s World Cup has huge potential for women and girls in UK",
-   "link": "https://www.theguardian.com/football/2026/nov/23/2035-womens-world-cup-potential-women-girls-uk",
-   "summary": "Maximising the societal impact of the tournament, especially combating misogyny, should be a top priorityThe announcement that the 2035 Women\u2019s World Cup will be hosted in England, Scotland, Wales and Northern Ireland\u2026",
-   "date": "2026-11-23T21:02:10+00:00",
-   "image": "https://i.guim.co.uk/img/media/a24dcaf157b8eff86323d9791630fb56d2875ebe/108_0_3009_2407/master/3009.jpg?width=140&quality=85&auto=format&fit=max&s=4e4ea647d47d7fc37609ccec2c8f9494"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Who has made Troy's Premier League team of the week?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
+   "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+   "date": "2026-11-23T23:26:35+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2b3/live/d71ba9d0-e78f-11f1-8e8a-577b415bb9af.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Key questions as Rangers host Aberdeen & Dundee visit Hibs",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqe9kvdr2mmyo?at_medium=RSS&at_campaign=rss",
+   "summary": "What are the key things to look out for as Rangers host Aberdeen while Hibernian entertain Dundee in the Scottish Premiership on Tuesday?",
+   "date": "2026-11-23T23:07:48+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d006/live/690c20c0-e792-11f1-9de1-132f01162c71.jpg"
+  },
   {
    "source": "BBC Sport",
    "title": "Andrews praises 'versatile' Lewis-Potter",
@@ -516,14 +532,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Watch Scotland striker McBurnie's double sink Brighton",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
-   "date": "2026-11-22T19:59:38+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c3/live/e536fa10-e69f-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
    "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
    "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
@@ -553,14 +561,6 @@
    "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
    "date": "2026-11-22T18:28:51+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d14/live/a0909ae0-e6b0-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "The red card that changed Liverpool-Man Utd: correct call?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-   "date": "2026-11-22T17:55:54+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9413/live/785f7370-e6b0-11f1-99b6-a35a62fa4264.jpg"
   }
  ],
  "videos": [
@@ -710,333 +710,6 @@
   }
  ],
  "fixtures": [
-  {
-   "id": "401875008",
-   "code": "ita.1",
-   "l": "ita",
-   "comp": "Italian Serie A",
-   "date": "2026-11-22T11:30Z",
-   "home": "Juventus",
-   "away": "Venezia",
-   "hs": "4",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Allianz Stadium",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
-  },
-  {
-   "id": "401882804",
-   "code": "esp.1",
-   "l": "esp",
-   "comp": "Spanish LALIGA",
-   "date": "2026-11-22T13:00Z",
-   "home": "Barcelona",
-   "away": "Villarreal",
-   "hs": "3",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+6'",
-   "venue": "Spotify Camp Nou",
-   "usa": [
-    "ESPN Deportes",
-    "ESPN+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
-  },
-  {
-   "id": "401879234",
-   "code": "eng.1",
-   "l": "eng",
-   "comp": "English Premier League",
-   "date": "2026-11-22T14:00Z",
-   "home": "Hull City",
-   "away": "Brighton & Hove Albion",
-   "hs": "2",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+6'",
-   "venue": "The MKM Stadium",
-   "usa": [
-    "Tele",
-    "USA Net"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
-  },
-  {
-   "id": "401875047",
-   "code": "ita.1",
-   "l": "ita",
-   "comp": "Italian Serie A",
-   "date": "2026-11-22T14:00Z",
-   "home": "Bologna",
-   "away": "Udinese",
-   "hs": "1",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Renato Dall'Ara",
-   "usa": [
-    "CBSSN",
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
-  },
-  {
-   "id": "401874960",
-   "code": "ita.1",
-   "l": "ita",
-   "comp": "Italian Serie A",
-   "date": "2026-11-22T14:00Z",
-   "home": "Sassuolo",
-   "away": "Genoa",
-   "hs": "0",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "Mapei Stadium",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
-  },
-  {
-   "id": "401876397",
-   "code": "fra.1",
-   "l": "fra",
-   "comp": "French Ligue 1",
-   "date": "2026-11-22T14:00Z",
-   "home": "Paris FC",
-   "away": "Angers",
-   "hs": "4",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+8'",
-   "venue": "Stade Jean Bouin",
-   "usa": [
-    "beIn Sports"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
-  },
-  {
-   "id": "401884733",
-   "code": "ger.1",
-   "l": "ger",
-   "comp": "German Bundesliga",
-   "date": "2026-11-22T14:30Z",
-   "home": "FC Augsburg",
-   "away": "Mainz",
-   "hs": "3",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "WWK Arena",
-   "usa": [
-    "Fandango"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
-  },
-  {
-   "id": "401882800",
-   "code": "esp.1",
-   "l": "esp",
-   "comp": "Spanish LALIGA",
-   "date": "2026-11-22T15:15Z",
-   "home": "Racing Santander",
-   "away": "Real Sociedad",
-   "hs": "3",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "El Sardineros",
-   "usa": [
-    "ESPN Deportes",
-    "ESPN+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
-  },
-  {
-   "id": "401876401",
-   "code": "fra.1",
-   "l": "fra",
-   "comp": "French Ligue 1",
-   "date": "2026-11-22T16:15Z",
-   "home": "Lorient",
-   "away": "Stade Rennais",
-   "hs": "1",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "Stade du Moustoir - Yves Allainmat",
-   "usa": [
-    "beIn Sports"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
-  },
-  {
-   "id": "401878755",
-   "code": "eng.1",
-   "l": "eng",
-   "comp": "English Premier League",
-   "date": "2026-11-22T16:30Z",
-   "home": "Liverpool",
-   "away": "Manchester United",
-   "hs": "4",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+3'",
-   "venue": "Anfield",
-   "usa": [
-    "Tele",
-    "USA Net"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
-  },
-  {
-   "id": "401884730",
-   "code": "ger.1",
-   "l": "ger",
-   "comp": "German Bundesliga",
-   "date": "2026-11-22T16:30Z",
-   "home": "Werder Bremen",
-   "away": "Hamburg SV",
-   "hs": "4",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Weserstadion",
-   "usa": [
-    "Fandango"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
-  },
-  {
-   "id": "401874989",
-   "code": "ita.1",
-   "l": "ita",
-   "comp": "Italian Serie A",
-   "date": "2026-11-22T17:00Z",
-   "home": "AC Milan",
-   "away": "Frosinone",
-   "hs": "5",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+2'",
-   "venue": "San Siro",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
-  },
-  {
-   "id": "401882801",
-   "code": "esp.1",
-   "l": "esp",
-   "comp": "Spanish LALIGA",
-   "date": "2026-11-22T17:30Z",
-   "home": "Osasuna",
-   "away": "M\u00e1laga",
-   "hs": "1",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "El Sadar",
-   "usa": [
-    "ESPN Deportes",
-    "ESPN+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png"
-  },
-  {
-   "id": "401875001",
-   "code": "ita.1",
-   "l": "ita",
-   "comp": "Italian Serie A",
-   "date": "2026-11-22T19:45Z",
-   "home": "Atalanta",
-   "away": "Internazionale",
-   "hs": "4",
-   "as": "4",
-   "live": false,
-   "state": "post",
-   "clock": "90'+6'",
-   "venue": "New Balance Arena",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
-  },
-  {
-   "id": "401876400",
-   "code": "fra.1",
-   "l": "fra",
-   "comp": "French Ligue 1",
-   "date": "2026-11-22T19:45Z",
-   "home": "Marseille",
-   "away": "Le Mans",
-   "hs": "2",
-   "as": "3",
-   "live": false,
-   "state": "post",
-   "clock": "90'+6'",
-   "venue": "Stade V\u00e9lodrome",
-   "usa": [
-    "beIn Sports"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
-  },
-  {
-   "id": "401882803",
-   "code": "esp.1",
-   "l": "esp",
-   "comp": "Spanish LALIGA",
-   "date": "2026-11-22T20:00Z",
-   "home": "Getafe",
-   "away": "Atl\u00e9tico Madrid",
-   "hs": "0",
-   "as": "3",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "Estadio Coliseum",
-   "usa": [
-    "ESPN Deportes",
-    "ESPN+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
-  },
   {
    "id": "401875009",
    "code": "ita.1",
@@ -2672,6 +2345,67 @@
    ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+  },
+  {
+   "id": "401875095",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-30T17:30Z",
+   "home": "Lecce",
+   "away": "Atalanta",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Via Del Mare",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
+  },
+  {
+   "id": "401875019",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-30T19:45Z",
+   "home": "Cagliari",
+   "away": "AC Milan",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Unipol Domus",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+  },
+  {
+   "id": "401882792",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-30T20:00Z",
+   "home": "Espanyol",
+   "away": "Getafe",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "RCDE Stadium",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
   }
  ],
  "national": [
@@ -14676,6 +14410,67 @@
    ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+  },
+  "401875095": {
+   "id": "401875095",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-30T17:30Z",
+   "home": "Lecce",
+   "away": "Atalanta",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Via Del Mare",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
+  },
+  "401875019": {
+   "id": "401875019",
+   "code": "ita.1",
+   "l": "ita",
+   "comp": "Italian Serie A",
+   "date": "2026-11-30T19:45Z",
+   "home": "Cagliari",
+   "away": "AC Milan",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Unipol Domus",
+   "usa": [
+    "Paramount+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+  },
+  "401882792": {
+   "id": "401882792",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-11-30T20:00Z",
+   "home": "Espanyol",
+   "away": "Getafe",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "RCDE Stadium",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
   }
  }
 }
