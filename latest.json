@@ -1,6 +1,30 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
+   "summary": "\u26bd Live coverage from six 8pm GMT kick-offs\u26bd De Bruyne\u2019s return reminds City what they are missing\u26bd Live scores | League phase standings | Email SimonTeam news has landed for the 8pm games, and here are the lineups for\u2026",
+   "date": "2026-11-24T19:02:49+00:00",
+   "image": "https://i.guim.co.uk/img/media/c764b3f3281b5b526aeefd1125f21226bdc332b9/275_0_2100_1680/master/2100.jpg?width=140&quality=85&auto=format&fit=max&s=3a3a59a0c2f6d859fd5854b06ef07712"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Arsenal v Borussia Dortmund: Champions League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
+   "summary": "\u26bd\ufe0f Minute-by-minute updates from the 8pm GMT kick-off\u26bd\ufe0f Nwaneri risks becoming forgotten teenager at Dortmund\u26bd Live scores | League phase standings | Email ScottArsenal make six changes to their starting XI following\u2026",
+   "date": "2026-11-24T18:59:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/dc45a1d05bb3aed46b9475fa3c8b6bab8ee38e45/469_0_3687_2949/master/3687.jpg?width=140&quality=85&auto=format&fit=max&s=b5f6f804ac811330e9ab95b9a743f396"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester United win appeal over Yoro\u2019s red card despite Webb backing decision",
+   "link": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+   "summary": "Player now eligible to face Brentford on SaturdayReferees\u2019 chief Webb said it was \u2018certainly not clearly wrong\u2019Manchester United have successfully appealed against Leny Yoro\u2019s red card in their 4-0 defeat to Liverpool\u2026",
+   "date": "2026-11-24T18:19:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/7a1a4bacec389b5bc1af1db0bec9ad7be7c7dda1/377_76_2758_2206/master/2758.jpg?width=140&quality=85&auto=format&fit=max&s=9a0bb87b496186fdd001f7d172f4cbdf"
+  },
+  {
    "source": "BBC Sport",
    "title": "Klopp advice and Iraola confidence boosts Wirtz",
    "link": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
@@ -55,34 +79,34 @@
    "summary": "Manchester United defender Ayden Heaven is open to a loan move in January amid concerns over his game time as his side battles in the Premier League relegation zone.",
    "date": "2026-11-24T15:56:55+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23be/live/b56694d0-e807-11f1-95bb-3f37d3e026b0.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Manchester United win appeal over Yoro\u2019s one-match suspension after Anfield red card",
-   "link": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
-   "summary": "Mauricio Pochettino said after game it was \u2018never a foul\u2019Player now eligible to face Brentford on SaturdayManchester United have successfully appealed against the decision to send off Leny Yoro in their 4-0 defeat to\u2026",
-   "date": "2026-11-24T15:49:02+00:00",
-   "image": "https://i.guim.co.uk/img/media/7a1a4bacec389b5bc1af1db0bec9ad7be7c7dda1/377_76_2758_2206/master/2758.jpg?width=140&quality=85&auto=format&fit=max&s=9a0bb87b496186fdd001f7d172f4cbdf"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Millwall face partial stadium closure after discriminatory chants",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss",
-   "summary": "Millwall must play a home game in front of a partially-closed stadium as punishment for fans' discriminatory chants.",
-   "date": "2026-11-24T14:23:49+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d0/live/0672fcd0-e7fc-11f1-ab60-79086b6495b8.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Senegal restored as Africa Cup of Nations champions after court ruling",
-   "link": "https://www.theguardian.com/football/2026/nov/24/afcon-verdict-senegal-morocco-africa-cup-of-nations-champions-court-ruling-cas",
-   "summary": "Senegal won January\u2019s final 1-0 after walking offResult was overturned in March as 3-0 win for MoroccoSenegal have been reinstated as the champions of Africa, and their controversial 1-0 victory over Morocco confirmed\u2026",
-   "date": "2026-11-24T14:22:36+00:00",
-   "image": "https://i.guim.co.uk/img/media/a6ed91cef442f9734b4f289ce6ba75b0587c54f8/705_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=d61d57239bba6eca1e1bf84eddd2ff8b"
   }
  ],
  "news_all": [
   {
+   "source": "The Guardian",
+   "title": "Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
+   "summary": "\u26bd Live coverage from six 8pm GMT kick-offs\u26bd De Bruyne\u2019s return reminds City what they are missing\u26bd Live scores | League phase standings | Email SimonTeam news has landed for the 8pm games, and here are the lineups for\u2026",
+   "date": "2026-11-24T19:02:49+00:00",
+   "image": "https://i.guim.co.uk/img/media/c764b3f3281b5b526aeefd1125f21226bdc332b9/275_0_2100_1680/master/2100.jpg?width=140&quality=85&auto=format&fit=max&s=3a3a59a0c2f6d859fd5854b06ef07712"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Arsenal v Borussia Dortmund: Champions League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
+   "summary": "\u26bd\ufe0f Minute-by-minute updates from the 8pm GMT kick-off\u26bd\ufe0f Nwaneri risks becoming forgotten teenager at Dortmund\u26bd Live scores | League phase standings | Email ScottArsenal make six changes to their starting XI following\u2026",
+   "date": "2026-11-24T18:59:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/dc45a1d05bb3aed46b9475fa3c8b6bab8ee38e45/469_0_3687_2949/master/3687.jpg?width=140&quality=85&auto=format&fit=max&s=b5f6f804ac811330e9ab95b9a743f396"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester United win appeal over Yoro\u2019s red card despite Webb backing decision",
+   "link": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+   "summary": "Player now eligible to face Brentford on SaturdayReferees\u2019 chief Webb said it was \u2018certainly not clearly wrong\u2019Manchester United have successfully appealed against Leny Yoro\u2019s red card in their 4-0 defeat to Liverpool\u2026",
+   "date": "2026-11-24T18:19:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/7a1a4bacec389b5bc1af1db0bec9ad7be7c7dda1/377_76_2758_2206/master/2758.jpg?width=140&quality=85&auto=format&fit=max&s=9a0bb87b496186fdd001f7d172f4cbdf"
+  },
+  {
    "source": "BBC Sport",
    "title": "Klopp advice and Iraola confidence boosts Wirtz",
    "link": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
@@ -139,14 +163,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23be/live/b56694d0-e807-11f1-95bb-3f37d3e026b0.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Manchester United win appeal over Yoro\u2019s one-match suspension after Anfield red card",
-   "link": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
-   "summary": "Mauricio Pochettino said after game it was \u2018never a foul\u2019Player now eligible to face Brentford on SaturdayManchester United have successfully appealed against the decision to send off Leny Yoro in their 4-0 defeat to\u2026",
-   "date": "2026-11-24T15:49:02+00:00",
-   "image": "https://i.guim.co.uk/img/media/7a1a4bacec389b5bc1af1db0bec9ad7be7c7dda1/377_76_2758_2206/master/2758.jpg?width=140&quality=85&auto=format&fit=max&s=9a0bb87b496186fdd001f7d172f4cbdf"
-  },
-  {
    "source": "BBC Sport",
    "title": "Millwall face partial stadium closure after discriminatory chants",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss",
@@ -158,7 +174,7 @@
    "source": "The Guardian",
    "title": "Senegal restored as Africa Cup of Nations champions after court ruling",
    "link": "https://www.theguardian.com/football/2026/nov/24/afcon-verdict-senegal-morocco-africa-cup-of-nations-champions-court-ruling-cas",
-   "summary": "Senegal won January\u2019s final 1-0 after walking offResult was overturned in March as 3-0 win for MoroccoSenegal have been reinstated as the champions of Africa, and their controversial 1-0 victory over Morocco confirmed\u2026",
+   "summary": "Senegal won January\u2019s final 1-0 after walking offResult was overturned in March as 3-0 win for MoroccoSenegal have been reinstated as the champions of Africa, and their controversial 1-0 victory against Morocco\u2026",
    "date": "2026-11-24T14:22:36+00:00",
    "image": "https://i.guim.co.uk/img/media/a6ed91cef442f9734b4f289ce6ba75b0587c54f8/705_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=d61d57239bba6eca1e1bf84eddd2ff8b"
   },
@@ -270,7 +286,7 @@
    "source": "The Guardian",
    "title": "Philippe Diallo learns harsh reality of mounting global challenge to Infantino",
    "link": "https://www.theguardian.com/football/2026/nov/24/philippe-diallo-gianni-infantino-fifa-president-confederation-african-football",
-   "summary": "French Football president faces uphill battle to win backing of continent\u2019s decision-makers in March\u2019s Fifa electionPhilippe Diallo must be learning very quickly that the battle to wrest the Fifa presidency from Gianni\u2026",
+   "summary": "French Football Federation president faces uphill battle to win backing of Africa\u2019s decision-makers in Fifa electionPhilippe Diallo must be learning very quickly that the battle to wrest the Fifa presidency from Gianni\u2026",
    "date": "2026-11-24T10:07:44+00:00",
    "image": "https://i.guim.co.uk/img/media/3a9a18108966c41643474b6cd071b57cdd474271/302_0_2740_2192/master/2740.jpg?width=140&quality=85&auto=format&fit=max&s=99b04e6bf5a7a1cc03974388cbd56ce3"
   },
@@ -321,6 +337,14 @@
    "summary": "BBC Sport NI looks at Michael McArdle's decision to recall striker Kerry Beattie and the uncapped Ella Haughey to his squad for a friendly double-header against Greece.",
    "date": "2026-11-24T08:08:33+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d056/live/5df5ba70-e5c1-11f1-a188-ff49e70cc466.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Nwaneri at risk of becoming Arsenal\u2019s forgotten teenager on return with Dortmund",
+   "link": "https://www.theguardian.com/football/2026/nov/24/ethan-nwaneri-arsenal-dortmund-mikel-arteta-champions-league",
+   "summary": "Youngest player to appear in Premier League is struggling to establish himself on loan at the Bundesliga clubEthan Nwaneri has one record Max Dowman can never break. It is more than four years since he became the\u2026",
+   "date": "2026-11-24T08:00:11+00:00",
+   "image": "https://i.guim.co.uk/img/media/b93b7729718a26b83d329975503223430a55d865/0_0_6254_5004/master/6254.jpg?width=140&quality=85&auto=format&fit=max&s=a2e130717346e294e93a23e77e81aaf8"
   },
   {
    "source": "The Guardian",
@@ -537,30 +561,6 @@
    "summary": "The United Kingdom will host a football World Cup for the first time since 1966.",
    "date": "2026-11-23T15:09:50+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/042f/live/fe5449a0-e751-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "PSG had the best attack in Europe but Dou\u00e9 and Kvaratskhelia injuries will test Luis Enrique",
-   "link": "https://www.theguardian.com/football/2026/nov/23/psg-best-attack-europe-desire-doue-acl-khvicha-kvaratskhelia-luis-enrique",
-   "summary": "D\u00e9sir\u00e9 Dou\u00e9 sustained an ACL injury in PSG\u2019s 3-2 win at Nice and joins Khvicha Kvaratskhelia on the treatment tableBy Get French Football NewsLuis Enrique is in uncharted territory, even if he insists that \u201cit isn\u2019t a\u2026",
-   "date": "2026-11-23T14:19:24+00:00",
-   "image": "https://i.guim.co.uk/img/media/73ce2c6d554a700dd0ca4bcd0d857bbd44097474/355_0_2806_2245/master/2806.jpg?width=140&quality=85&auto=format&fit=max&s=822b2af45927b60141a5e0f813d1f27a"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Welcome to Manchester United, Mauricio | Football Weekly \u2013 video",
-   "link": "https://www.theguardian.com/football/video/2026/nov/23/welcome-to-manchester-united-mauricio-football-weekly-video",
-   "summary": "Max Rushden is joined by Barry Glendenning, Jordan Jarrett-Bryan and Lars Sivertsen as Mauricio Pochettino\u2019s first game in charge at Manchester United sees them thrashed by Liverpool Continue reading...",
-   "date": "2026-11-23T13:36:29+00:00",
-   "image": "https://i.guim.co.uk/img/media/ae303e822c5d26d9a3eacea66b3336ad901217d8/279_0_2362_1889/master/2362.jpg?width=140&quality=85&auto=format&fit=max&s=3cf6651f5054419d0859586f94151da9"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Esposito emulates Vieri with Inter hat-trick but De Ketelaere haunts him again",
-   "link": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
-   "summary": "Italy\u2019s new cover star enjoyed a \u2018beautiful\u2019 treble but could not celebrate it after his side threw away two-goal leads three times to draw 4-4 with AtalantaThis ought to have been a magic moment for Pio Esposito. He\u2026",
-   "date": "2026-11-23T13:18:20+00:00",
-   "image": "https://i.guim.co.uk/img/media/eea81f3ed1f7c91c80a518c533c0b1997f19b0f2/52_0_3445_2756/master/3445.jpg?width=140&quality=85&auto=format&fit=max&s=bdde4b7e90418a658b6b0dc585d2035c"
   }
  ],
  "videos": [
@@ -673,6 +673,12 @@
    "date": "2026-11-23T18:40:21+00:00"
   },
   {
+   "channel": "Premier League",
+   "id": "2IzP1W4u_K8",
+   "title": "Alexander Isak Is So Slick With It \u2728",
+   "date": "2026-11-24T18:30:00+00:00"
+  },
+  {
    "channel": "UEFA",
    "id": "PyqXaoZ05iQ",
    "title": "Jake YT VideosArs v Dor UCL   Previous Meets   Arsenal v B Dortmund   Nov 2026 Update UEEC 16x9 Dirt",
@@ -701,12 +707,6 @@
    "id": "a_0cGzA1YBc",
    "title": "Lo\u00efs Openda se d\u00e9guise pour surprendre un jeune supporter ! \ud83e\udd78 | Ma Super Ligue 1- Saison2, \u00e9pisode10",
    "date": "2026-11-24T16:00:27+00:00"
-  },
-  {
-   "channel": "UEFA",
-   "id": "H2MiuE87B1s",
-   "title": "Greatest counter-attack of all time? \ud83d\ude33",
-   "date": "2026-11-24T15:35:30+00:00"
   }
  ],
  "fixtures": [
@@ -783,7 +783,7 @@
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "21'",
+   "clock": "73'",
    "venue": "Aspmyra Stadion",
    "usa": [
     "Paramount+"
@@ -803,7 +803,7 @@
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "22'",
+   "clock": "74'",
    "venue": "RAMS Park",
    "usa": [
     "Paramount+"
@@ -12848,7 +12848,7 @@
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "21'",
+   "clock": "73'",
    "venue": "Aspmyra Stadion",
    "usa": [
     "Paramount+"
@@ -12868,7 +12868,7 @@
    "as": "0",
    "live": true,
    "state": "in",
-   "clock": "22'",
+   "clock": "74'",
    "venue": "RAMS Park",
    "usa": [
     "Paramount+"
