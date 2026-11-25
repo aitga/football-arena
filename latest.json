@@ -1,88 +1,208 @@
 {
  "news": [
   {
-   "source": "The Guardian",
-   "title": "Peter Storey obituary",
-   "link": "https://www.theguardian.com/football/2026/nov/25/peter-storey-obituary",
-   "summary": "Arsenal midfielder capped by England 19 times whose life after football suffered a drink-fuelled declineThe footballer Peter Storey, who has died aged 81, was a tough-tackling midfielder for Arsenal when they won the\u2026",
-   "date": "2026-11-25T17:40:02+00:00",
-   "image": "https://i.guim.co.uk/img/media/7d1560c4060ba280f563b805421b66bc6049dc5c/124_0_1796_1437/master/1796.jpg?width=140&quality=85&auto=format&fit=max&s=73e12dbc3410ab83553dfc78b7e6e6fb"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Justice for sport' - Afcon reaction as Senegal reinstated as winners",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6vg2e32e7vno?at_medium=RSS&at_campaign=rss",
-   "summary": "Players and officials in Senegal have welcomed the decision to reinstate the West Africans as Afcon 2025 champions, but those in Morocco still contest the decision.",
-   "date": "2026-11-25T17:32:30+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c6/live/764fb5d0-e8eb-11f1-8808-1d4222955d7e.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "EFL Trophy holders Luton face Palace U21s in last 32",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckzd9vqed5d7o?at_medium=RSS&at_campaign=rss",
-   "summary": "EFL Trophy holders Luton Town will meet Crystal Palace Under-21s in the last 32 of the competition.",
-   "date": "2026-11-25T17:12:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f8f/live/bd1aa2b0-e8da-11f1-99b6-a35a62fa4264.jpg"
+   "source": "ESPN",
+   "title": "How do teams qualify via interconfederation playoffs?",
+   "link": "https://www.espn.com/soccer/story/_/id/50594146/2026-womens-world-cup-interconfederation-playoffs",
+   "summary": "Here's everything you need to know about the interconfederation playoffs -- the last chance for teams to qualify for the Women's World Cup.",
+   "date": "2026-11-25T19:02:07+00:00",
+   "image": null
   },
   {
    "source": "The Guardian",
-   "title": "Alejandro Garnacho and the curious case of Aston Villa\u2019s outcast loanees | Ben Fisher",
-   "link": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
-   "summary": "Unai Emery wanted the winger but, like Harvey Elliott last season, he has been left out in the cold despite Villa\u2019s attacking strugglesIt is three years this week since Alejandro Garnacho opened the scoring for\u2026",
-   "date": "2026-11-25T17:00:31+00:00",
-   "image": "https://i.guim.co.uk/img/media/6aedff1e5bab4e3fdc05ec5a5ed13780f7ca60e1/385_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=88fe309c1fcb34cb723e2687a80dc201"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Best midfielder in the world' - where does Bellingham rank?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
-   "summary": "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?",
-   "date": "2026-11-25T16:46:36+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9f/live/a0a1a1c0-e8e8-11f1-8808-1d4222955d7e.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
-   "summary": "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref.",
-   "date": "2026-11-25T16:28:10+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6250/live/db25bcb0-e8c9-11f1-ac76-db9e97f93d67.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Leicester no longer for sale as owner looks to future",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck1l0j77j43eo?at_medium=RSS&at_campaign=rss",
-   "summary": "Leicester owner Khun Aiyawatt 'Top' Srivaddhanaprabha confirms the one-time Premier League title winners are no longer up for sale.",
-   "date": "2026-11-25T16:19:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a27/live/39af5f80-e8e7-11f1-8808-1d4222955d7e.jpg"
+   "title": "Sporting v Manchester United: Champions League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
+   "summary": "\u26bd\ufe0f Match at Est\u00e1dio Jos\u00e9 Alvalade kicks off at 8pm GMT\u26bd\ufe0f Live scoreboard | Read Football Daily | Email RobMauricio Pochettino makes four changes to the Man Utd side that started at Anfield. Matthijs de Ligt, Diogo\u2026",
+   "date": "2026-11-25T18:56:06+00:00",
+   "image": "https://i.guim.co.uk/img/media/a7de2f1fec7264278a7d4a86df23a82e4cbf4f65/433_185_2615_2092/master/2615.jpg?width=140&quality=85&auto=format&fit=max&s=bcd400d29064266cf0695774ba434d79"
   },
   {
    "source": "The Guardian",
-   "title": "Saudi Arabia\u2019s PIF looking to sell 25% of Newcastle through share issue",
-   "link": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
-   "summary": "PIF seeking investment to fund infrastructure projectsJP Morgan appointed to handle the saleNewcastle United\u2019s owner, Saudi Arabia\u2019s Public Investment Fund (PIF), is looking to sell up to 25% of the club by issuing new\u2026",
-   "date": "2026-11-25T15:36:32+00:00",
-   "image": "https://i.guim.co.uk/img/media/bd383c7e5be79a925d59ba5e4da8252652885f95/376_0_4400_3520/master/4400.jpg?width=140&quality=85&auto=format&fit=max&s=456d4aac5b98308fb6630bdae1cae6f0"
+   "title": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
+   "summary": "\u26bd\ufe0f Updates from Wednesday\u2019s 8pm GMT matches\u26bd\ufe0f Live scoreboard | Read Football Daily | Email SimonA second goal for Barcelona and a second for Anthony Gordon! It\u2019s a straightforward finish, after Stas Pokatilov in the\u2026",
+   "date": "2026-11-25T18:55:59+00:00",
+   "image": "https://i.guim.co.uk/img/media/734d81bf31eae15db06332d50f0cf8e4413141ca/112_0_2838_2271/master/2838.jpg?width=140&quality=85&auto=format&fit=max&s=23d91619a70288468eb2e04f5aa65496"
   },
   {
    "source": "The Guardian",
-   "title": "Botty? AI helps resurrect voice of John Motson for football video game",
-   "link": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
-   "summary": "Late broadcaster\u2019s family allows EA Sports to create digital version of \u2018Motty\u2019 to commentate on popular FC27First it was Val Kilmer, then Greta Garbo, but finally AI has resurrected a star the terraces can cheer for:\u2026",
-   "date": "2026-11-25T15:13:10+00:00",
-   "image": "https://i.guim.co.uk/img/media/d52e8fa78cedadca70c70f6e59bfcd90f9e39367/57_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=3114b2b42e73428bec0fd49db5beb3e5"
+   "title": "Raheem Sterling\u2019s rise and fall: a sign football is broken? - The Latest",
+   "link": "https://www.theguardian.com/news/video/2026/nov/25/raheem-sterlings-rise-and-fall-a-sign-football-is-broken-the-latest",
+   "summary": "Raheem Sterling has been handed a 12-month jail term, suspended for 18 months, for reckless driving and possession of nitrous oxide. It marks a remarkable fall from grace for the former England and Manchester City\u2026",
+   "date": "2026-11-25T18:48:50+00:00",
+   "image": "https://i.guim.co.uk/img/media/a9b96b0471b48f5234786bef7c4f469b09220cee/82_53_1596_1277/master/1596.jpg?width=140&quality=85&auto=format&fit=max&s=9b2bf74b62e723073060b93506301d0f"
   },
   {
-   "source": "The Guardian",
-   "title": "Football Daily | Manchester City get that empty feeling as they fail to win again",
-   "link": "https://www.theguardian.com/football/2026/nov/25/manchester-city-empty-feeling-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Early in the second half of Tuesday night\u2019s National League South match between Torquay United and Chesham, play was briefly suspended due to an ear-splitting din\u2026",
-   "date": "2026-11-25T15:13:01+00:00",
-   "image": "https://i.guim.co.uk/img/media/3fc6bfc443e98b86522aa0f8ae8b3529af0c7f26/1160_203_4603_3683/master/4603.jpg?width=140&quality=85&auto=format&fit=max&s=dd76eb4dd3a991cdb94e0f0fa0617364"
+   "source": "ESPN",
+   "title": "Pep 'embarrassed' to turn down Italy job, says national team 'next step'",
+   "link": "https://www.espn.com/soccer/story/_/id/50587357/guardiola-embarrassed-italy-national-team-next",
+   "summary": "Pep Guardiola said he felt \"embarrassed\" to turn down the head coaching position with Italy, but added he could return to coaching in the future and, if he did, would like to do it with a national team.",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "FIFA's Jill Ellis: '27 Women's World Cup will be first to turn a profit",
+   "link": "https://www.espn.com/soccer/story/_/id/50595064/2027-women-world-cup-first-turn-profit-fifa-jill-ellis",
+   "summary": "FIFA chief football officer Jill Ellis said that the 2027 Women's World Cup will be the first edition of the tournament to turn a profit.",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Su\u00e1rez says 'no excuses left' as Miami looks to avoid early playoff exit",
+   "link": "https://www.espn.com/soccer/story/_/id/50594966/inter-miami-mls-playoffs-columbus-crews-luis-suarez",
+   "summary": "Luis Su\u00e1rez said there are \"no excuses left\" for Inter Miami as the defending MLS Cup champion stares at a possible first-round playoff exit.",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Sterling avoids jail after smashing Lamborghini while inhaling from balloon",
+   "link": "https://www.espn.com/soccer/story/_/id/50591753/raheem-sterling-court-england-manchester-city-liverpool-chelsea",
+   "summary": "Former England footballer Raheem Sterling has avoided jail after admitting dangerously driving his Lamborghini while inhaling from a balloon on a motorway during rush hour before crashing into a metal gate.",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Trinity Rodman ruled out of Women's World Cup qualifier with shoulder injury",
+   "link": "https://www.espn.com/soccer/story/_/id/50589808/trinity-rodman-concacaf-w-shoulder-injury",
+   "summary": "A shoulder injury suffered in the NWSL Championship will sideline Trinity Rodman for the United States at the Concacaf W Championship, which serves as qualifying for the 2027 Women's World Cup.",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Haaland: 'You start questioning everything' when Man City fail to win",
+   "link": "https://www.espn.com/soccer/story/_/id/50590889/erling-haaland-man-city-napoli",
+   "summary": "Erling Haaland has reacted to Manchester City's latest failure to win by \"questioning everything.\"",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
   }
  ],
  "news_all": [
   {
+   "source": "ESPN",
+   "title": "How do teams qualify via interconfederation playoffs?",
+   "link": "https://www.espn.com/soccer/story/_/id/50594146/2026-womens-world-cup-interconfederation-playoffs",
+   "summary": "Here's everything you need to know about the interconfederation playoffs -- the last chance for teams to qualify for the Women's World Cup.",
+   "date": "2026-11-25T19:02:07+00:00",
+   "image": null
+  },
+  {
+   "source": "The Guardian",
+   "title": "Sporting v Manchester United: Champions League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
+   "summary": "\u26bd\ufe0f Match at Est\u00e1dio Jos\u00e9 Alvalade kicks off at 8pm GMT\u26bd\ufe0f Live scoreboard | Read Football Daily | Email RobMauricio Pochettino makes four changes to the Man Utd side that started at Anfield. Matthijs de Ligt, Diogo\u2026",
+   "date": "2026-11-25T18:56:06+00:00",
+   "image": "https://i.guim.co.uk/img/media/a7de2f1fec7264278a7d4a86df23a82e4cbf4f65/433_185_2615_2092/master/2615.jpg?width=140&quality=85&auto=format&fit=max&s=bcd400d29064266cf0695774ba434d79"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
+   "summary": "\u26bd\ufe0f Updates from Wednesday\u2019s 8pm GMT matches\u26bd\ufe0f Live scoreboard | Read Football Daily | Email SimonA second goal for Barcelona and a second for Anthony Gordon! It\u2019s a straightforward finish, after Stas Pokatilov in the\u2026",
+   "date": "2026-11-25T18:55:59+00:00",
+   "image": "https://i.guim.co.uk/img/media/734d81bf31eae15db06332d50f0cf8e4413141ca/112_0_2838_2271/master/2838.jpg?width=140&quality=85&auto=format&fit=max&s=23d91619a70288468eb2e04f5aa65496"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Raheem Sterling\u2019s rise and fall: a sign football is broken? - The Latest",
+   "link": "https://www.theguardian.com/news/video/2026/nov/25/raheem-sterlings-rise-and-fall-a-sign-football-is-broken-the-latest",
+   "summary": "Raheem Sterling has been handed a 12-month jail term, suspended for 18 months, for reckless driving and possession of nitrous oxide. It marks a remarkable fall from grace for the former England and Manchester City\u2026",
+   "date": "2026-11-25T18:48:50+00:00",
+   "image": "https://i.guim.co.uk/img/media/a9b96b0471b48f5234786bef7c4f469b09220cee/82_53_1596_1277/master/1596.jpg?width=140&quality=85&auto=format&fit=max&s=9b2bf74b62e723073060b93506301d0f"
+  },
+  {
+   "source": "ESPN",
+   "title": "Pep 'embarrassed' to turn down Italy job, says national team 'next step'",
+   "link": "https://www.espn.com/soccer/story/_/id/50587357/guardiola-embarrassed-italy-national-team-next",
+   "summary": "Pep Guardiola said he felt \"embarrassed\" to turn down the head coaching position with Italy, but added he could return to coaching in the future and, if he did, would like to do it with a national team.",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "FIFA's Jill Ellis: '27 Women's World Cup will be first to turn a profit",
+   "link": "https://www.espn.com/soccer/story/_/id/50595064/2027-women-world-cup-first-turn-profit-fifa-jill-ellis",
+   "summary": "FIFA chief football officer Jill Ellis said that the 2027 Women's World Cup will be the first edition of the tournament to turn a profit.",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Su\u00e1rez says 'no excuses left' as Miami looks to avoid early playoff exit",
+   "link": "https://www.espn.com/soccer/story/_/id/50594966/inter-miami-mls-playoffs-columbus-crews-luis-suarez",
+   "summary": "Luis Su\u00e1rez said there are \"no excuses left\" for Inter Miami as the defending MLS Cup champion stares at a possible first-round playoff exit.",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Sterling avoids jail after smashing Lamborghini while inhaling from balloon",
+   "link": "https://www.espn.com/soccer/story/_/id/50591753/raheem-sterling-court-england-manchester-city-liverpool-chelsea",
+   "summary": "Former England footballer Raheem Sterling has avoided jail after admitting dangerously driving his Lamborghini while inhaling from a balloon on a motorway during rush hour before crashing into a metal gate.",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Trinity Rodman ruled out of Women's World Cup qualifier with shoulder injury",
+   "link": "https://www.espn.com/soccer/story/_/id/50589808/trinity-rodman-concacaf-w-shoulder-injury",
+   "summary": "A shoulder injury suffered in the NWSL Championship will sideline Trinity Rodman for the United States at the Concacaf W Championship, which serves as qualifying for the 2027 Women's World Cup.",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Haaland: 'You start questioning everything' when Man City fail to win",
+   "link": "https://www.espn.com/soccer/story/_/id/50590889/erling-haaland-man-city-napoli",
+   "summary": "Erling Haaland has reacted to Manchester City's latest failure to win by \"questioning everything.\"",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Guardiola: Messi's and Ronaldo's legendary careers prolonged by their rivalry",
+   "link": "https://www.espn.com/soccer/story/_/id/50592183/pep-guardiola-lionel-messi-cristiano-ronaldo",
+   "summary": "Pep Guardiola believes Cristiano Ronaldo and Lionel Messi would not have enjoyed such long and dominant careers without each other.",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Sources: Barcelona to appeal Ferm\u00edn L\u00f3pez's two-match ban",
+   "link": "https://www.espn.com/soccer/story/_/id/50591588/fermin-lopez-barcelona-ban-appeal-sources",
+   "summary": "Ferm\u00edn L\u00f3pez has been hit with a two-match suspension after getting sent off in Barcelona's comeback win against Villarreal last weekend.",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "\u26bd 'Ted Lasso' to return for Season 5 on Apple TV",
+   "link": "https://www.espn.com/soccer/story/_/id/50583598/ted-lasso-season-5-apple-tv",
+   "summary": "A release date for the upcoming season of the award-winning show has yet to be announced.",
+   "date": "2026-11-25T18:48:16+00:00",
+   "image": null
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Can Iordanescu make a difference at Watford & how do you become a free-kick specialist?",
+   "link": "https://www.bbc.co.uk/sounds/play/p0ppxp3z?at_medium=RSS&at_campaign=rss",
+   "summary": "Stockport County's Ollie Norwood tells us what has meant he keeps scoring epic free kicks",
+   "date": "2026-11-25T18:35:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Glasner criticises Forest players yet to learn English",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
+   "summary": "Nottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years.",
+   "date": "2026-11-25T18:32:55+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3f7/live/c0988ec0-e8ee-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Peter Storey obituary",
    "link": "https://www.theguardian.com/football/2026/nov/25/peter-storey-obituary",
@@ -97,6 +217,22 @@
    "summary": "Players and officials in Senegal have welcomed the decision to reinstate the West Africans as Afcon 2025 champions, but those in Morocco still contest the decision.",
    "date": "2026-11-25T17:32:30+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c6/live/764fb5d0-e8eb-11f1-8808-1d4222955d7e.jpg"
+  },
+  {
+   "source": "ESPN",
+   "title": "Champions League live updates: Sabah take on Bar\u00e7a, Sporting host United",
+   "link": "https://www.espn.com/soccer/story/_/id/50574274/uefa-champions-league-live-updates",
+   "summary": "Enjoy all the updates from Wednesday's UEFA Champions League matches across Europe as Matchday 5 continues.",
+   "date": "2026-11-25T17:26:34+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Dortmund draw shows that the jury is still out on Gy\u00f6keres",
+   "link": "https://www.espn.com/soccer/story/_/id/50586544/arsenal-champions-league-dortmund-jury-viktor-gyokeres",
+   "summary": "Brought in to provide the cutting edge that Arsenal needed up front, Viktor Gy\u00f6keres hasn't quite done that.",
+   "date": "2026-11-25T17:26:34+00:00",
+   "image": null
   },
   {
    "source": "BBC Sport",
@@ -161,6 +297,14 @@
    "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Early in the second half of Tuesday night\u2019s National League South match between Torquay United and Chesham, play was briefly suspended due to an ear-splitting din\u2026",
    "date": "2026-11-25T15:13:01+00:00",
    "image": "https://i.guim.co.uk/img/media/3fc6bfc443e98b86522aa0f8ae8b3529af0c7f26/1160_203_4603_3683/master/4603.jpg?width=140&quality=85&auto=format&fit=max&s=dd76eb4dd3a991cdb94e0f0fa0617364"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "More than the Score",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct9tpd?at_medium=RSS&at_campaign=rss",
+   "summary": "The Court of Arbitration for Sport reinstates Senegal as Africa Cup of Nations champions",
+   "date": "2026-11-25T14:57:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pptwc3.jpg"
   },
   {
    "source": "The Guardian",
@@ -185,6 +329,38 @@
    "summary": "Coach turned down Italy offer, needing \u2018time for myself\u2019Pochettino says he\u2019d tell Guardiola to take USMNT jobPep Guardiola has said he doesn\u2019t know when he\u2019ll return to football but that his next coaching role will be\u2026",
    "date": "2026-11-25T14:07:50+00:00",
    "image": "https://i.guim.co.uk/img/media/89e9ccb4065b2400ef52ce52b5c559b91f32404d/491_0_4908_3926/master/4908.jpg?width=140&quality=85&auto=format&fit=max&s=356255dccfc06a1d3258734a3d0d35af"
+  },
+  {
+   "source": "ESPN",
+   "title": "Transfer rumors, news: Man United's Bruno Fernandes wanted by Juventus",
+   "link": "https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes",
+   "summary": "Manchester United captain Bruno Fernandes, who is out of contract at the end of the season, is a target for Juventus. Transfer Talk has the latest.",
+   "date": "2026-11-25T13:22:11+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Which USMNT players could follow Pochettino to Manchester United?",
+   "link": "https://www.espn.com/soccer/story/_/id/50573929/usmnt-players-pochettino-manchester-united",
+   "summary": "Man United are a mess, but could Mauricio Pochettino turn to any of his former USMNT players to help pull the Red Devils out of the relegation zone?",
+   "date": "2026-11-25T13:22:11+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side",
+   "link": "https://www.espn.com/soccer/story/_/id/50585229/mls-cup-playoffs-chaos-clubs",
+   "summary": "Your favorite team isn't going to win MLS Cup, so we dug into our catalog of statistics to pinpoint three chaos clubs to follow for the postseason.",
+   "date": "2026-11-25T13:22:06+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "How B.J. Callaghan's long, winding coaching journey led to Nashville success",
+   "link": "https://www.espn.com/soccer/story/_/id/50542113/bj-callaghan-nashville-usmnt-coach",
+   "summary": "Callaghan was a fairly unassuming hire when he took over Nashville. Now he's a Supporters' Shield-winning coach being linked with the USMNT job.",
+   "date": "2026-11-25T13:22:06+00:00",
+   "image": null
   },
   {
    "source": "The Guardian",
@@ -291,12 +467,12 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "'Most frustrating of career' - Martin on Foxes draw at Blackpool",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6y97xpqe4e5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Leicester City boss Russell Martin describes Tuesday's 1-1 draw with Blackpool as the most frustrating result of his career.",
-   "date": "2026-11-25T10:09:10+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4458/live/c2e53fb0-e8b3-11f1-9e64-bddd508b9881.jpg"
+   "source": "ESPN",
+   "title": "Who are Sabah? Bar\u00e7a's Champions League opponents from near Iranian border",
+   "link": "https://www.espn.com/soccer/story/_/id/49742966/who-champions-league-debutants-sabah-fk-heres-need-know",
+   "summary": "Sabah, a club near the Iranian border that didn't exist a decade ago, with a coach who owes his career to a Lithuanian quiz show, are in this season Champions League. How did they make it?",
+   "date": "2026-11-25T10:06:21+00:00",
+   "image": null
   },
   {
    "source": "The Guardian",
@@ -315,12 +491,36 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0469/live/eb169590-e8b0-11f1-a094-5fdc692f3e33.jpg"
   },
   {
+   "source": "ESPN",
+   "title": "Meet Brazilian soccer star who's played for clubs on six continents",
+   "link": "https://www.espn.com/soccer/story/_/id/50461455/soccer-star-played-clubs-six-continents",
+   "summary": "null",
+   "date": "2026-11-25T09:27:44+00:00",
+   "image": null
+  },
+  {
+   "source": "ESPN",
+   "title": "Man United crisis explained: How did it start? Who is to blame? Is Pochettino the answer?",
+   "link": "https://www.espn.com/soccer/story/_/id/50581456/manchester-united-premier-league-pochettino-ratcliffe",
+   "summary": "Struggling Manchester United find themselves in a familiar place and fans are getting tired of the cycle repeating itself. But can Mauricio Pochettino find the answer, or do the issues run deeper?",
+   "date": "2026-11-25T09:14:07+00:00",
+   "image": null
+  },
+  {
    "source": "BBC Sport",
    "title": "'Two faces' & rudely named set-pieces end Hibs' long wait for home win",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn898zl80o?at_medium=RSS&at_campaign=rss",
    "summary": "Hibs show they are capable of winning ugly with the help of a beautiful goal as Marink Reedijk guides them to a first home league win in nearly eight months against Dundee.",
    "date": "2026-11-25T09:04:27+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/179d/live/07f05db0-e8af-11f1-869a-f96fd5660210.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "The story of how Pel\u00e9 and Maradona went from friends to bitter rivals",
+   "link": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
+   "summary": "A new book charts the complicated relationship between the two legends, starting on a sunny afternoon in Rio in 1979 Pel\u00e9 and Diego Maradona first met in April 1979, not long after the Argentinian led his country\u2019s\u2026",
+   "date": "2026-11-25T08:00:10+00:00",
+   "image": "https://i.guim.co.uk/img/media/bb9d6d8791969fec67ddd59e5fa7b98b7516adf3/0_110_720_576/master/720.jpg?width=140&quality=85&auto=format&fit=max&s=2d14a341d33fbdf2456a522145fe5d60"
   },
   {
    "source": "The Guardian",
@@ -361,209 +561,15 @@
    "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
    "date": "2026-11-25T06:56:11+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Are Manchester United this season's Tottenham?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
-   "summary": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?",
-   "date": "2026-11-25T06:22:36+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6874/live/00c21c60-e8b2-11f1-869a-f96fd5660210.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Rangers 'dug it out' despite naivety & complacency - McInnes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo?at_medium=RSS&at_campaign=rss",
-   "summary": "Rangers manager Derek McInnes says his team's naivety and complacency made their task more difficult in their thrilling 3-2 win over Aberdeen, but hails their ability to get the job done.",
-   "date": "2026-11-25T01:20:53+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/894a/live/51627690-e86e-11f1-bcda-1d03b8eb883f.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Bellingham plays down Zidane comparison after wonder goal",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
-   "summary": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
-   "date": "2026-11-24T23:54:10+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/204f/live/561f0780-e85e-11f1-8c24-5f78b2492e15.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Arteta says Arsenal need more luck to kill off games",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund.",
-   "date": "2026-11-24T23:44:04+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58f/live/d9bad6f0-e859-11f1-9b85-e50d1e9de678.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli.",
-   "date": "2026-11-24T23:17:42+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc72/live/fbc81740-e853-11f1-aa88-031e8213533d.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
-   "date": "2026-11-24T22:05:31+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5078/live/783a6be0-e848-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Rayan Cherki magic denies Napoli but Manchester City\u2019s struggles continue",
-   "link": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report",
-   "summary": "For reasons best known to those eyeing the pound signs, Manchester City gave a debut to a special rust-coloured kit in front of a nonplussed crowd. It was of a piece with their performance for most of a familiarly\u2026",
-   "date": "2026-11-24T22:01:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/1467e2809dfaf6050071198fa1a65e4b7a209165/336_0_2743_2194/master/2743.jpg?width=140&quality=85&auto=format&fit=max&s=712d0beccde4efd185619919cbba2c23"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Dortmund\u2019s Beier halts Arsenal charge after thunderbolt from Gy\u00f6keres",
-   "link": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
-   "summary": "Arsenal\u2019s sky-high standards are slipping. For the second time in four days, Mikel Arteta\u2019s side found themselves a goal up at half-time and apparently coasting toward victory, only for their opponents to rouse\u2026",
-   "date": "2026-11-24T22:01:50+00:00",
-   "image": "https://i.guim.co.uk/img/media/18f2fd21c98696c091fd67acabf0c30cdac59595/258_0_2325_1860/master/2325.jpg?width=140&quality=85&auto=format&fit=max&s=bb169b7e85159c963b43df5aa6caf30e"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Man Utd target Collins - Wednesday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United target Brentford defender Nathan Collins, Bournemouth price forward Eli Junior Kroupi at \u00a3100m and Liverpool close in on new Rio Ngumoha contract.",
-   "date": "2026-11-24T20:51:44+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d34b/live/8ee6d700-e840-11f1-a094-5fdc692f3e33.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
-   "link": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
-   "summary": "This was Aston Villa\u2019s third trip to Istanbul in the calendar year but, this time, they departed with different emotions. Unlike on the banks of the Bosphorus at Besiktas Park in May, the scene of their unforgettable\u2026",
-   "date": "2026-11-24T20:03:50+00:00",
-   "image": "https://i.guim.co.uk/img/media/17acd8358e42f610050fa08970ffdfaa8d37e7ac/0_0_2985_2387/master/2985.jpg?width=140&quality=85&auto=format&fit=max&s=45f25d2a3519c4f82610138aa8da945e"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Bayern hold 'constructive' talks over Musiala's health",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9x2ejnypp8jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Bayern Munich are only focused on getting Jamal Musiala back from injury and not interested in the comments made regarding his contract, the club's sporting director Max Eberl insists.",
-   "date": "2026-11-24T19:58:58+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4fa/live/a6b3ed00-e83b-11f1-917e-35f1674fb52c.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Florian Wirtz hails Iraola and Klopp as he reaches new levels for Liverpool",
-   "link": "https://www.theguardian.com/football/2026/nov/24/florian-wirtz-hails-iraola-and-klopp-as-he-reaches-new-levels-for-liverpool",
-   "summary": "Playmaker in best form since moving to Anfield\u2018I am really enjoying playing under Iraola\u2019Florian Wirtz has credited Andoni Iraola with helping him recapture the form that made him one of the most coveted players in\u2026",
-   "date": "2026-11-24T19:02:09+00:00",
-   "image": "https://i.guim.co.uk/img/media/e3c654b16203f677c30937b9d4930062eed2c363/819_1051_2289_1831/master/2289.jpg?width=140&quality=85&auto=format&fit=max&s=7ed5de912f42e68430b56419f2bab4a8"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Klopp advice and Iraola confidence boosts Wirtz",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Florian Wirtz opens up on why it's the best he has felt since joining Liverpool.",
-   "date": "2026-11-24T17:19:08+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c1/live/b4c97960-e826-11f1-93d4-6d580946ad80.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-   "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
-   "date": "2026-11-24T17:16:09+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | The game\u2019s gone: has fantasy football been ruined by AI gafferbots?",
-   "link": "https://www.theguardian.com/football/2026/nov/24/fpl-ruined-ai-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Sometimes, the beautiful game can make Football Daily feel old. Even Monday\u2019s ostensibly old-school fixture between Brentford and Everton felt like the future\u2026",
-   "date": "2026-11-24T16:16:52+00:00",
-   "image": "https://i.guim.co.uk/img/media/3eda96c51e687b89ec23ffed48e6243fa071738e/140_0_2488_1990/master/2488.jpg?width=140&quality=85&auto=format&fit=max&s=42b3992699bc3ac39c561124e8857d90"
-  },
-  {
-   "source": "The Guardian",
-   "title": "\u2018I\u2019m loving it at Brugge\u2019: Freddie Potts on going from West Ham\u2019s bench to Champions League",
-   "link": "https://www.theguardian.com/football/2026/nov/24/freddie-potts-brugge-champions-league-liverpool-west-ham",
-   "summary": "Midfielder is preparing to face Liverpool after leaving the club he loves and overcoming a tough start in BelgiumIn April Freddie Potts was absorbing the disappointment of being substituted at half-time during West\u2026",
-   "date": "2026-11-24T13:00:47+00:00",
-   "image": "https://i.guim.co.uk/img/media/009ae39f5dafdf2a626834892e694ee73d0935d6/432_0_6220_4976/master/6220.jpg?width=140&quality=85&auto=format&fit=max&s=57344264b66417a7289ef044211d0a23"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Palace docked points for using four sub windows in WSL win",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\".",
-   "date": "2026-11-24T12:14:19+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/a5fbf0d0-e7fd-11f1-ab60-79086b6495b8.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "The NWSL 2026 goals, players and nutmegs we won\u2019t forget",
-   "link": "https://www.theguardian.com/football/2026/nov/24/nwsl-awards-goals-players-moving-the-goalposts-newsletter",
-   "summary": "An Olimpico tops the list of season highlights, with mention for Croix Bethune\u2019s feats and a four-player nutmegSurely the final strands of gold and silver confetti have been picked out of the well worn surface of Audi\u2026",
-   "date": "2026-11-24T12:00:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/8ab5b94e5250b648f860c69de58c7cc31ac5c5ca/177_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=7315b9eeaea148ca7aeb8a99e9051194"
-  },
-  {
-   "source": "The Guardian",
-   "title": "David Squires on \u2026 Pochettino flying into a storm at Manchester United. Here we go again",
-   "link": "https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again",
-   "summary": "Our cartoonist on a nightmare start for the Argentinian as he took charge of the Premier League\u2019s biggest crisis clubBuy this cartoon | Some of David\u2019s favourite worksAnd his latest book, Chaos in the Box: get it now\u2026",
-   "date": "2026-11-24T11:31:27+00:00",
-   "image": "https://i.guim.co.uk/img/media/f320ed372cca5172de3faa3ccb927ed7f47e7a84/54_905_981_784/master/981.jpg?width=140&quality=85&auto=format&fit=max&s=bd5705eface22dca5303846bb1f44919"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Philippe Diallo learns harsh reality of mounting global challenge to Infantino",
-   "link": "https://www.theguardian.com/football/2026/nov/24/philippe-diallo-gianni-infantino-fifa-president-confederation-african-football",
-   "summary": "French Football Federation president faces uphill battle to win backing of Africa\u2019s decision-makers in Fifa electionPhilippe Diallo must be learning very quickly that the battle to wrest the Fifa presidency from Gianni\u2026",
-   "date": "2026-11-24T10:07:44+00:00",
-   "image": "https://i.guim.co.uk/img/media/3a9a18108966c41643474b6cd071b57cdd474271/302_0_2740_2192/master/2740.jpg?width=140&quality=85&auto=format&fit=max&s=99b04e6bf5a7a1cc03974388cbd56ce3"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Which Premier League players are set for yellow card suspensions?",
-   "link": "https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Seventeen players are on the brink of a one-match ban in the 2026-27 Premier League season.",
-   "date": "2026-11-24T09:47:51+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42f9/live/2d735fc0-e728-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "The youngest Premier League goalscorers this season",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
-   "summary": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season.",
-   "date": "2026-11-24T09:10:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329e/live/957cac80-e7c7-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Can returning Beattie and Haughey make an impact?",
-   "link": "https://www.bbc.co.uk/sport/articles/cm04wz6ez2rgo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport NI looks at Michael McArdle's decision to recall striker Kerry Beattie and the uncapped Ella Haughey to his squad for a friendly double-header against Greece.",
-   "date": "2026-11-24T08:08:33+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d056/live/5df5ba70-e5c1-11f1-a188-ff49e70cc466.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Andrews praises 'versatile' Lewis-Potter",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6z0kdgz39p3o?at_medium=RSS&at_campaign=rss",
-   "summary": "Brentford manager Keith Andrews praises the performance of Keane Lewis-Potter, who scored twice in his side's 4-0 win against Everton.",
-   "date": "2026-11-23T22:59:14+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd6f/live/0a40f760-e791-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Moyes questions Tarkowski red in Brentford loss",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
-   "summary": "Everton manager David Moyes questions whether the force of James Tarkowski's challenge was taken into consideration, after the defender was shown a red card in his side's 4-0 loss by Brentford.",
-   "date": "2026-11-23T22:54:51+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6ae/live/3f15c680-e78e-11f1-99b6-a35a62fa4264.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "FIFA",
+   "id": "tVgHalWj1Oc",
+   "title": "Denmark v Argentina | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+   "date": "2026-11-25T18:47:27+00:00"
+  },
   {
    "channel": "FIFA",
    "id": "75UMcqVkltM",
@@ -611,12 +617,6 @@
    "id": "yI9E-PuCmOM",
    "title": "From Kick-Off To Goal In 15 Seconds Or Less!",
    "date": "2026-11-25T14:55:18+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "JUqxG4slgH8",
-   "title": "Austria Start Strong Against Debutants Jordan | 2026 World Cup EXTENDED HIGHLIGHTS",
-   "date": "2026-11-25T04:30:36+00:00"
   },
   {
    "channel": "LaLiga",
@@ -673,6 +673,12 @@
    "date": "2026-11-24T17:30:01+00:00"
   },
   {
+   "channel": "Serie A",
+   "id": "iUPqTVlj27M",
+   "title": "#UNROSSOALLAVIOLENZA \ud83d\udfe5 | MW12 #SerieAEnilive | \"Tu cosa faresti?\"",
+   "date": "2026-11-25T18:00:07+00:00"
+  },
+  {
    "channel": "UEFA",
    "id": "LiV5XMv1FT8",
    "title": "Magic feet from Nico Paz",
@@ -701,12 +707,6 @@
    "id": "_35mgkCzAXo",
    "title": "120 ANS DU RC STRASBOURG : UNE JOURN\u00c9E AVEC LES L\u00c9GENDES DU RACING",
    "date": "2026-11-25T16:00:06+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "o6AzWRvITes",
-   "title": "BELLINGHAM est\u00e1 IMPARABLE",
-   "date": "2026-11-25T15:00:02+00:00"
   }
  ],
  "fixtures": [
@@ -898,11 +898,11 @@
    "date": "2026-11-25T17:45Z",
    "home": "Sabah FK",
    "away": "Barcelona",
-   "hs": "0",
-   "as": "0",
+   "hs": "1",
+   "as": "4",
    "live": true,
    "state": "in",
-   "clock": "13'",
+   "clock": "68'",
    "venue": "Baku Olympic Stadium",
    "usa": [
     "Paramount+"
@@ -919,10 +919,10 @@
    "home": "Slavia Prague",
    "away": "Villarreal",
    "hs": "0",
-   "as": "0",
+   "as": "1",
    "live": true,
    "state": "in",
-   "clock": "13'",
+   "clock": "67'",
    "venue": "Fortuna Arena",
    "usa": [
     "Paramount+"
@@ -13043,11 +13043,11 @@
    "date": "2026-11-25T17:45Z",
    "home": "Sabah FK",
    "away": "Barcelona",
-   "hs": "0",
-   "as": "0",
+   "hs": "1",
+   "as": "4",
    "live": true,
    "state": "in",
-   "clock": "13'",
+   "clock": "68'",
    "venue": "Baku Olympic Stadium",
    "usa": [
     "Paramount+"
@@ -13064,10 +13064,10 @@
    "home": "Slavia Prague",
    "away": "Villarreal",
    "hs": "0",
-   "as": "0",
+   "as": "1",
    "live": true,
    "state": "in",
-   "clock": "13'",
+   "clock": "67'",
    "venue": "Fortuna Arena",
    "usa": [
     "Paramount+"
