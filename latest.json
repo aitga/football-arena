@@ -1,6 +1,30 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "How to unearth young stars, the Bayern Munich way",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
+   "summary": "Bayern Munich initially aim to find local young players from Bavaria before looking further afield - here's how they do it.",
+   "date": "2026-11-25T07:22:27+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ef6/live/befff4e0-e4f2-11f1-8781-bf15c9202663.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxvg2e6l57j7o?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-25T06:56:11+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Are Manchester United this season's Tottenham?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+   "summary": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Man Utd in danger of being the new Spurs?",
+   "date": "2026-11-25T06:22:36+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f7/live/c5b34650-e80f-11f1-ab42-55d8d8278025.jpg"
+  },
+  {
    "source": "The Guardian",
    "title": "Matildas keeper reveals head trauma-induced neurological disorder almost ended career",
    "link": "https://www.theguardian.com/football/2026/nov/25/matildas-goalkeeper-teagan-micah-neurological-disorder-head-trauma",
@@ -55,33 +79,33 @@
    "summary": "Preston revival continues in 4-0 thrashing of CardiffScott Parker still waiting for first win at HammersWill Lankshear was back among the goals as Middlesbrough cemented their position at the top of the Championship\u2026",
    "date": "2026-11-24T22:44:08+00:00",
    "image": "https://i.guim.co.uk/img/media/f50ab40e01de09d62c34b52d83537d478368311f/63_0_3789_3032/master/3789.jpg?width=140&quality=85&auto=format&fit=max&s=f003eff2f4d87550b28e142c00c449ff"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
-   "date": "2026-11-24T22:05:31+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5078/live/783a6be0-e848-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Rayan Cherki magic denies Napoli but Manchester City\u2019s struggles continue",
-   "link": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report",
-   "summary": "For reasons best known to those eyeing the pound signs, Manchester City gave a debut to a special rust-coloured kit in front of a nonplussed crowd. It was of a piece with their performance for most of a familiarly\u2026",
-   "date": "2026-11-24T22:01:51+00:00",
-   "image": "https://i.guim.co.uk/img/media/1467e2809dfaf6050071198fa1a65e4b7a209165/336_0_2743_2194/master/2743.jpg?width=140&quality=85&auto=format&fit=max&s=712d0beccde4efd185619919cbba2c23"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Dortmund\u2019s Beier halts Arsenal charge after thunderbolt from Gy\u00f6keres",
-   "link": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
-   "summary": "Arsenal\u2019s sky-high standards are slipping. For the second time in four days, Mikel Arteta\u2019s side found themselves a goal up at half-time and apparently coasting toward victory, only for their opponents to rouse\u2026",
-   "date": "2026-11-24T22:01:50+00:00",
-   "image": "https://i.guim.co.uk/img/media/18f2fd21c98696c091fd67acabf0c30cdac59595/258_0_2325_1860/master/2325.jpg?width=140&quality=85&auto=format&fit=max&s=bb169b7e85159c963b43df5aa6caf30e"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "How to unearth young stars, the Bayern Munich way",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
+   "summary": "Bayern Munich initially aim to find local young players from Bavaria before looking further afield - here's how they do it.",
+   "date": "2026-11-25T07:22:27+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ef6/live/befff4e0-e4f2-11f1-8781-bf15c9202663.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxvg2e6l57j7o?at_medium=RSS&at_campaign=rss",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "date": "2026-11-25T06:56:11+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Are Manchester United this season's Tottenham?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+   "summary": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Man Utd in danger of being the new Spurs?",
+   "date": "2026-11-25T06:22:36+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f7/live/c5b34650-e80f-11f1-ab42-55d8d8278025.jpg"
+  },
   {
    "source": "The Guardian",
    "title": "Matildas keeper reveals head trauma-induced neurological disorder almost ended career",
@@ -332,14 +356,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "Glens boss Ferguson apologises after seven-game ban",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Glentoran manager Duncan Ferguson will be suspended for seven games following his red card in the side's 3-2 defeat by Cliftonville last week.",
-   "date": "2026-11-24T11:36:18+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e31/live/ab98c410-e7f7-11f1-ab60-79086b6495b8.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Ferguson apologises after receiving seven-game ban as Glentoran boss",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm0evqv7nyq5o?at_medium=RSS&at_campaign=rss",
    "summary": "Glentoran manager Duncan Ferguson will be suspended for seven games following his red card in the side's 3-2 defeat by Cliftonville last week.",
@@ -425,22 +441,6 @@
    "summary": "Youngest player to appear in Premier League is struggling to establish himself on loan at the Bundesliga clubEthan Nwaneri has one record Max Dowman can never break. It is more than four years since he became the\u2026",
    "date": "2026-11-24T08:00:11+00:00",
    "image": "https://i.guim.co.uk/img/media/b93b7729718a26b83d329975503223430a55d865/0_0_6254_5004/master/6254.jpg?width=140&quality=85&auto=format&fit=max&s=a2e130717346e294e93a23e77e81aaf8"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cke89ve1lnzvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "date": "2026-11-24T06:42:40+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Fifa president Gianni Infantino's globetrotting by private jet since his plan to sell off a stake in the World Cup has come under scrutiny.",
-   "date": "2026-11-24T06:16:53+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a18/live/c4779660-e5bc-11f1-a188-ff49e70cc466.jpg"
   },
   {
    "source": "BBC Sport",
