@@ -2,6 +2,22 @@
  "news": [
   {
    "source": "The Guardian",
+   "title": "Neville, Carragher and the inescapable podcasting feedback loop of doom | Jonathan Liew",
+   "link": "https://www.theguardian.com/football/2026/nov/26/gary-neville-jamie-carragher-podcast-manchester-united-michael-carrick",
+   "summary": "Even the best managers can struggle to escape ex-players\u2019 need to manufacture a crisis for content. Enter Michael Carrick \u2026A podcast studio in Manchester. A production runner pours water into jugs. Gary Neville enters\u2026",
+   "date": "2026-11-26T10:19:16+00:00",
+   "image": "https://i.guim.co.uk/img/media/19f239a29b7d3969a88008f55b58ef0c4e3c85e0/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dc87b83539c2d7b54369bc719bbeeaa0"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018Not Bayern-like\u2019: Joshua Kimmich fumes at club\u2019s treatment of Jamal Musiala",
+   "link": "https://www.theguardian.com/football/2026/nov/26/bayern-munich-joshua-kimmich-jamal-musiala",
+   "summary": "Bundesliga champions lost 2-1 to Lille on WednesdayKimmich defends Musiala\u2019s neurological condition The Bayern Munich midfielder Joshua Kimmich has launched a stinging attack on the club\u2019s \u201cnot Bayern-like\u201d treatment of\u2026",
+   "date": "2026-11-26T10:19:07+00:00",
+   "image": "https://i.guim.co.uk/img/media/3a4d6a0c81799d0b18edce883eb4d23cfff14f32/329_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4df0525570ada9376fc6074b1e39bdce"
+  },
+  {
+   "source": "The Guardian",
    "title": "Pochettino claims officials \u2018punished\u2019 Manchester United in chaotic Sporting draw",
    "link": "https://www.theguardian.com/football/2026/nov/25/mauricio-pochettino-officials-punished-manchester-united-sporting",
    "summary": "Head coach questions \u2018difficult to understand\u2019 decisionsZirkzee joins Pochettino in offering support to LammensMauricio Pochettino claimed Manchester United were punished unfairly after again appearing to suffer from\u2026",
@@ -63,25 +79,25 @@
    "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
    "date": "2026-11-26T06:53:51+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Laughing gas has ended careers' - so how common is it in football?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6kgdrj9nxgdo?at_medium=RSS&at_campaign=rss",
-   "summary": "After Raheem Sterling's court case, BBC Sport looks at how common the use of nitrous oxide is among footballers.",
-   "date": "2026-11-26T06:18:30+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0a/live/8a3de1f0-e8fc-11f1-a77a-271abcb79951.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "More ref frustration as Pochettino's chaotic start at Man Utd continues",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
-   "summary": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
-   "date": "2026-11-26T00:24:48+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aff/live/89296710-e930-11f1-99a1-253766e7ad8b.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Neville, Carragher and the inescapable podcasting feedback loop of doom | Jonathan Liew",
+   "link": "https://www.theguardian.com/football/2026/nov/26/gary-neville-jamie-carragher-podcast-manchester-united-michael-carrick",
+   "summary": "Even the best managers can struggle to escape ex-players\u2019 need to manufacture a crisis for content. Enter Michael Carrick \u2026A podcast studio in Manchester. A production runner pours water into jugs. Gary Neville enters\u2026",
+   "date": "2026-11-26T10:19:16+00:00",
+   "image": "https://i.guim.co.uk/img/media/19f239a29b7d3969a88008f55b58ef0c4e3c85e0/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dc87b83539c2d7b54369bc719bbeeaa0"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018Not Bayern-like\u2019: Joshua Kimmich fumes at club\u2019s treatment of Jamal Musiala",
+   "link": "https://www.theguardian.com/football/2026/nov/26/bayern-munich-joshua-kimmich-jamal-musiala",
+   "summary": "Bundesliga champions lost 2-1 to Lille on WednesdayKimmich defends Musiala\u2019s neurological condition The Bayern Munich midfielder Joshua Kimmich has launched a stinging attack on the club\u2019s \u201cnot Bayern-like\u201d treatment of\u2026",
+   "date": "2026-11-26T10:19:07+00:00",
+   "image": "https://i.guim.co.uk/img/media/3a4d6a0c81799d0b18edce883eb4d23cfff14f32/329_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4df0525570ada9376fc6074b1e39bdce"
+  },
   {
    "source": "The Guardian",
    "title": "Pochettino claims officials \u2018punished\u2019 Manchester United in chaotic Sporting draw",
@@ -296,7 +312,7 @@
    "link": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
    "summary": "Liverpool, from big money individuals to the collective, are building formidable momentum. On a bitterly cold night in Belgium, Andoni Iraola\u2019s team delivered an accomplished away display to bring Club Brugge\u2019s\u2026",
    "date": "2026-11-25T22:04:10+00:00",
-   "image": "https://i.guim.co.uk/img/media/217f37b87ab0b8f2137224791cf4ae48697dcf9d/131_0_3251_2601/master/3251.jpg?width=140&quality=85&auto=format&fit=max&s=88683324012f2215918ddb2cfc727ced"
+   "image": "https://i.guim.co.uk/img/media/7f5594be0e1a2dc758f3598b04ccc453de05b28b/1617_333_5847_4677/master/5847.jpg?width=140&quality=85&auto=format&fit=max&s=aa464307b89e2007137f55f1bcc88eff"
   },
   {
    "source": "BBC Sport",
@@ -545,25 +561,27 @@
    "summary": "Ffion Morgan looks set to miss the rest of the season for club and country following knee surgery.",
    "date": "2026-11-25T10:38:44+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1bf/live/a9284a50-e407-11f1-ab35-e1af93fa5cce.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Why Man City can't wear their new kit in Premier League",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvgvezj19yyo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport's Ask Me Anything team explains why Manchester City will not be able to wear their new fourth kit in the Premier League.",
-   "date": "2026-11-25T09:38:16+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0469/live/eb169590-e8b0-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "The story of how Pel\u00e9 and Maradona went from friends to bitter rivals",
-   "link": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
-   "summary": "A new book charts the complicated relationship between the two legends, starting on a sunny afternoon in Rio in 1979 Pel\u00e9 and Diego Maradona first met in April 1979, not long after the Argentinian led his country\u2019s\u2026",
-   "date": "2026-11-25T08:00:10+00:00",
-   "image": "https://i.guim.co.uk/img/media/bb9d6d8791969fec67ddd59e5fa7b98b7516adf3/0_110_720_576/master/720.jpg?width=140&quality=85&auto=format&fit=max&s=2d14a341d33fbdf2456a522145fe5d60"
   }
  ],
  "videos": [
+  {
+   "channel": "FIFA",
+   "id": "SQMErcMyEow",
+   "title": "Legends Ronaldo & James Face Off | Colombia v Portugal | 2026 World Cup EXTENDED HIGHLIGHTS",
+   "date": "2026-11-26T10:30:13+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "6CR4IJ6SIbo",
+   "title": "Malen \u27a1\ufe0f 12 goals in 11 games \ud83d\ude31",
+   "date": "2026-11-26T10:00:25+00:00"
+  },
+  {
+   "channel": "Serie A",
+   "id": "g7JaDbummIM",
+   "title": "INTER-GENOA 2-0 | CLASSIC HIGHLIGHTS SERIE A 2025/26",
+   "date": "2026-11-26T10:00:20+00:00"
+  },
   {
    "channel": "beIN SPORTS",
    "id": "_Wvy0CqIvks",
@@ -607,12 +625,6 @@
    "date": "2026-11-25T22:21:11+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "3t2Rw7w4kis",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0635\u0628\u0627\u062d \u0648\u0628\u0631\u0634\u0644\u0648\u0646\u0629 | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
-   "date": "2026-11-25T20:31:10+00:00"
-  },
-  {
    "channel": "Serie A",
    "id": "i21tuQcunpg",
    "title": "MONZA FIRE THROUGH \ud83d\udd25 | MONZA-FIORENTINA CINEMATIC HIGHLIGHTS | Serie A 2026/27",
@@ -649,12 +661,6 @@
    "date": "2026-11-25T17:00:26+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "dB92eBwKpLU",
-   "title": "Uruguay v France | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-25T16:45:38+00:00"
-  },
-  {
    "channel": "Serie A",
    "id": "Gl5P70UfNlA",
    "title": "VARELA\u2019s BACKHEEL!! GOAL OF THE SEASON?! \ud83e\udd2f | Every Angle | Serie A Enilive 2026/27",
@@ -667,10 +673,16 @@
    "date": "2026-11-25T14:55:18+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "mvtqyrVa2c0",
-   "title": "TOP GOALS \u26bd\ufe0f From Serie A Round 12 | 2026/27",
-   "date": "2026-11-24T17:30:01+00:00"
+   "channel": "LaLiga",
+   "id": "JQAppl6vtGE",
+   "title": "Los 18 MINUTOS FINALES del REAL MADRID con UNO MENOS | LALIGA EA SPORTS",
+   "date": "2026-11-26T11:00:13+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "CEAA1bNXkkg",
+   "title": "D\u00edaz vs. Brown Nutmeg Challenge \ud83d\udc40\u26bd\ufe0f",
+   "date": "2026-11-26T11:00:02+00:00"
   },
   {
    "channel": "LaLiga",
@@ -679,34 +691,22 @@
    "date": "2026-11-26T09:00:25+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "ehk1auURMJo",
-   "title": "10-Minute Match | Croatia v Ghana | 2026 World Cup Group Stage",
-   "date": "2026-11-26T06:30:31+00:00"
+   "channel": "Bundesliga",
+   "id": "98Kfvc7z0G4",
+   "title": "LIVE \ud83d\udd34 SpVgg Greuther F\u00fcrth vs. DSC Arminia Bielefeld | Matchday 13 - Bundesliga 2 2026/27",
+   "date": "2026-11-26T08:28:59+00:00"
   },
   {
-   "channel": "LaLiga",
-   "id": "Vm2f61kpZh0",
-   "title": "Pedri \u2728",
-   "date": "2026-11-26T03:00:35+00:00"
+   "channel": "Bundesliga",
+   "id": "OWJh2oUXx9Y",
+   "title": "LIVE \ud83d\udd34 Eintracht Braunschweig vs. VfL Wolfsburg | Matchday 13 - Bundesliga 2 2026/27",
+   "date": "2026-11-26T08:28:56+00:00"
   },
   {
-   "channel": "LaLiga",
-   "id": "QeO4uCotrPw",
-   "title": "Pedri \u2728",
-   "date": "2026-11-26T03:00:08+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "laWrOoGrte8",
-   "title": "10-Minute Match | Jordan v Algeria | 2026 World Cup Group Stage",
-   "date": "2026-11-26T02:30:33+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "xXynefuR40w",
-   "title": "The Determination To Keep A Clean Sheet \ud83d\ude24",
-   "date": "2026-11-25T22:08:21+00:00"
+   "channel": "Bundesliga",
+   "id": "UDhbaCW4g1k",
+   "title": "LIVE \ud83d\udd34 1. FC Magdeburg vs. FC Energie Cottbus | Matchday 13 - Bundesliga 2 2026/27",
+   "date": "2026-11-26T08:28:53+00:00"
   }
  ],
  "fixtures": [
@@ -3696,8 +3696,100 @@
       "zone_name": "Relegation"
      }
     ],
-    "scorers": [],
-    "assists": [],
+    "scorers": [
+     {
+      "player": "Erling Haaland",
+      "team": "Manchester City",
+      "value": 9,
+      "matches": "11"
+     },
+     {
+      "player": "Alexander Isak",
+      "team": "Liverpool",
+      "value": 7,
+      "matches": "10"
+     },
+     {
+      "player": "Evanilson",
+      "team": "AFC Bournemouth",
+      "value": 6,
+      "matches": "11"
+     },
+     {
+      "player": "Thierno Barry",
+      "team": "Everton",
+      "value": 6,
+      "matches": "11"
+     },
+     {
+      "player": "Nicolas Jackson",
+      "team": "Aston Villa",
+      "value": 6,
+      "matches": "10"
+     },
+     {
+      "player": "Morgan Rogers",
+      "team": "Chelsea",
+      "value": 5,
+      "matches": "11"
+     },
+     {
+      "player": "Marcus Tavernier",
+      "team": "AFC Bournemouth",
+      "value": 5,
+      "matches": "11"
+     },
+     {
+      "player": "Rayan Cherki",
+      "team": "Manchester City",
+      "value": 5,
+      "matches": "10"
+     },
+     {
+      "player": "Jo\u00e3o Pedro",
+      "team": "Chelsea",
+      "value": 5,
+      "matches": "6"
+     },
+     {
+      "player": "Oliver McBurnie",
+      "team": "Hull City",
+      "value": 4,
+      "matches": "11"
+     }
+    ],
+    "assists": [
+     {
+      "player": "Declan Rice",
+      "team": "Arsenal",
+      "value": 5,
+      "matches": "11"
+     },
+     {
+      "player": "Pascal Gross",
+      "team": "Brighton & Hove Albion",
+      "value": 4,
+      "matches": "11"
+     },
+     {
+      "player": "Evanilson",
+      "team": "AFC Bournemouth",
+      "value": 4,
+      "matches": "11"
+     },
+     {
+      "player": "Florian Wirtz",
+      "team": "Liverpool",
+      "value": 4,
+      "matches": "11"
+     },
+     {
+      "player": "John McGinn",
+      "team": "Aston Villa",
+      "value": 4,
+      "matches": "11"
+     }
+    ],
     "season": "2026-27 English Premier League"
    },
    {
