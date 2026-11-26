@@ -1,12 +1,36 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
+   "summary": "Bournemouth are dreaming of winning the Europa League after joining a select band of teams who have won their first five European games.",
+   "date": "2026-11-26T22:27:52+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/278c/live/15481e30-e9e0-11f1-9361-cd8ed0157587.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Crystal Palace 2-1 Real Sociedad, Sunderland 1-1 Jagiellonia Bialystok, and more: Europa League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/26/sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-live",
-   "summary": "\u26bd\ufe0f Updates from Thursday\u2019s 8pm GMT matches\u26bd\ufe0f Live scoreboard | Read Football Daily | Email WillOne man down? No problem as the Brazilian put the Cherries ahead.Sunderland: Roefs, Hume, Danso, Alderete, Mandava, Fofana,\u2026",
-   "date": "2026-11-26T21:54:28+00:00",
-   "image": "https://i.guim.co.uk/img/media/961f02abec06046cb1eb1044c3a8db92b4922257/378_68_2391_1912/master/2391.jpg?width=140&quality=85&auto=format&fit=max&s=6ac99c35cd74f7e0bdda275081d10517"
+   "title": "Reinildo error extends Sunderland woe as Jagiellonia grab Europa League draw",
+   "link": "https://www.theguardian.com/football/2026/nov/26/sunderland-jagiellonia-bialystok-europa-league-match-report",
+   "summary": "Jagiellonia Bialystok\u2019s head coach, Adrian Siemieniec claimed this trip to Wearside to face Premier League opposition represented one of the biggest highlights of a career that has already seen him celebrate a Polish\u2026",
+   "date": "2026-11-26T22:27:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/2707ddccbc36b55cf5c8f584d664b731ba569647/246_0_2656_2125/master/2656.jpg?width=140&quality=85&auto=format&fit=max&s=8a7485339f7339e77ac47a0706c9c575"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Euro Leagues",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pq4ydb?at_medium=RSS&at_campaign=rss",
+   "summary": "Is Jude Bellingham the best midfielder in the world, & even better than Zidane once was?!",
+   "date": "2026-11-26T22:13:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
+   "link": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
+   "summary": "Football seasons can pivot on certain moments and Thomas Frank will hope that Crystal Palace\u2019s came 17 minutes from time here. Deservedly trailing to Mamadou Sarr\u2019s goal having been second best throughout against Real\u2026",
+   "date": "2026-11-26T22:10:14+00:00",
+   "image": "https://i.guim.co.uk/img/media/584eb1f496ef84b308a7ffd146d702e7bec08b44/337_229_2222_1779/master/2222.jpg?width=140&quality=85&auto=format&fit=max&s=f2e40537fed82fbc7e0af619c4a9d46d"
   },
   {
    "source": "BBC Sport",
@@ -31,6 +55,14 @@
    "summary": "Turkey\u2019s top diplomat speaks with Georgian counterpartEuropa League match halted after police enter standsTurkey\u2019s top diplomat has spoken with his Georgian counterpart after incidents at Besiktas\u2019s Europa League match\u2026",
    "date": "2026-11-26T20:47:37+00:00",
    "image": "https://i.guim.co.uk/img/media/ecd73176aebcd89b80ff1f812ea3b676027a4f87/1168_1062_5552_4442/master/5552.jpg?width=140&quality=85&auto=format&fit=max&s=6f6acfdf2cee6543056b2e74d8a294c2"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Europa League: Bournemouth make it 10 wins in a row despite early red for Diakit\u00e9",
+   "link": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica",
+   "summary": "Marco Rose\u2019s team close in on qualificationMarseille v Levski Sofia marred by crowd troubleBournemouth moved a step closer to automatic qualification for the Europa League last 16 after coming from behind with 10 men to\u2026",
+   "date": "2026-11-26T20:44:44+00:00",
+   "image": "https://i.guim.co.uk/img/media/c098ddcf6dba3f60becaa97c8a881352d0e8ba3e/429_0_4299_3439/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=ce66757403f9171dfaf472366f14f63e"
   },
   {
    "source": "The Guardian",
@@ -47,48 +79,40 @@
    "summary": "England have won the past two European Under-21 Championships, and Lee Carsley says they will \"go all out\" for a hat-trick.",
    "date": "2026-11-26T19:35:17+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1924/live/70bc6b80-e9cd-11f1-82cb-3544f07293b5.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Referee being 'drunk' claims are 'entirely unfounded'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
-   "summary": "A referee who was replaced at half-time of an Asian Football Confederation (AFC) Champions League Two match denies he was drunk during the fixture.",
-   "date": "2026-11-26T19:19:49+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d92/live/3f83f370-e9c4-11f1-8d2a-f5d2aabc11cb.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "What will returning Magill bring to Northern Ireland?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm93rdqrgkz2o?at_medium=RSS&at_campaign=rss",
-   "summary": "As she gears up for her international return, what will Simone Magill bring to Northern Ireland against Greece in Friday's friendly?",
-   "date": "2026-11-26T18:34:20+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08b0/live/e216c380-e9ae-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Calvert-Lewin signs new Leeds deal until 2029",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
-   "summary": "England international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029.",
-   "date": "2026-11-26T18:00:31+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aba/live/b46ac100-e9ba-11f1-8d2a-f5d2aabc11cb.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Germany's Freigang given 16-month ban over drugs test issues",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
-   "summary": "Germany international Laura Freigang is suspended from football for 16 months over issues relating to three drugs tests.",
-   "date": "2026-11-26T17:12:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5436/live/5b4afef0-e9b5-11f1-8d2a-f5d2aabc11cb.jpg"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
+   "summary": "Bournemouth are dreaming of winning the Europa League after joining a select band of teams who have won their first five European games.",
+   "date": "2026-11-26T22:27:52+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/278c/live/15481e30-e9e0-11f1-9361-cd8ed0157587.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Crystal Palace 2-1 Real Sociedad, Sunderland 1-1 Jagiellonia Bialystok, and more: Europa League \u2013 live",
-   "link": "https://www.theguardian.com/football/live/2026/nov/26/sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-live",
-   "summary": "\u26bd\ufe0f Updates from Thursday\u2019s 8pm GMT matches\u26bd\ufe0f Live scoreboard | Read Football Daily | Email WillOne man down? No problem as the Brazilian put the Cherries ahead.Sunderland: Roefs, Hume, Danso, Alderete, Mandava, Fofana,\u2026",
-   "date": "2026-11-26T21:54:28+00:00",
-   "image": "https://i.guim.co.uk/img/media/961f02abec06046cb1eb1044c3a8db92b4922257/378_68_2391_1912/master/2391.jpg?width=140&quality=85&auto=format&fit=max&s=6ac99c35cd74f7e0bdda275081d10517"
+   "title": "Reinildo error extends Sunderland woe as Jagiellonia grab Europa League draw",
+   "link": "https://www.theguardian.com/football/2026/nov/26/sunderland-jagiellonia-bialystok-europa-league-match-report",
+   "summary": "Jagiellonia Bialystok\u2019s head coach, Adrian Siemieniec claimed this trip to Wearside to face Premier League opposition represented one of the biggest highlights of a career that has already seen him celebrate a Polish\u2026",
+   "date": "2026-11-26T22:27:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/2707ddccbc36b55cf5c8f584d664b731ba569647/246_0_2656_2125/master/2656.jpg?width=140&quality=85&auto=format&fit=max&s=8a7485339f7339e77ac47a0706c9c575"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Euro Leagues",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pq4ydb?at_medium=RSS&at_campaign=rss",
+   "summary": "Is Jude Bellingham the best midfielder in the world, & even better than Zidane once was?!",
+   "date": "2026-11-26T22:13:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
+   "link": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
+   "summary": "Football seasons can pivot on certain moments and Thomas Frank will hope that Crystal Palace\u2019s came 17 minutes from time here. Deservedly trailing to Mamadou Sarr\u2019s goal having been second best throughout against Real\u2026",
+   "date": "2026-11-26T22:10:14+00:00",
+   "image": "https://i.guim.co.uk/img/media/584eb1f496ef84b308a7ffd146d702e7bec08b44/337_229_2222_1779/master/2222.jpg?width=140&quality=85&auto=format&fit=max&s=f2e40537fed82fbc7e0af619c4a9d46d"
   },
   {
    "source": "BBC Sport",
@@ -113,6 +137,14 @@
    "summary": "Turkey\u2019s top diplomat speaks with Georgian counterpartEuropa League match halted after police enter standsTurkey\u2019s top diplomat has spoken with his Georgian counterpart after incidents at Besiktas\u2019s Europa League match\u2026",
    "date": "2026-11-26T20:47:37+00:00",
    "image": "https://i.guim.co.uk/img/media/ecd73176aebcd89b80ff1f812ea3b676027a4f87/1168_1062_5552_4442/master/5552.jpg?width=140&quality=85&auto=format&fit=max&s=6f6acfdf2cee6543056b2e74d8a294c2"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Europa League: Bournemouth make it 10 wins in a row despite early red for Diakit\u00e9",
+   "link": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica",
+   "summary": "Marco Rose\u2019s team close in on qualificationMarseille v Levski Sofia marred by crowd troubleBournemouth moved a step closer to automatic qualification for the Europa League last 16 after coming from behind with 10 men to\u2026",
+   "date": "2026-11-26T20:44:44+00:00",
+   "image": "https://i.guim.co.uk/img/media/c098ddcf6dba3f60becaa97c8a881352d0e8ba3e/429_0_4299_3439/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=ce66757403f9171dfaf472366f14f63e"
   },
   {
    "source": "The Guardian",
@@ -332,14 +364,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "The Portuguese second-tier team hosting Celtic in Europe",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o?at_medium=RSS&at_campaign=rss",
-   "summary": "Portuguese second-tier side Torreense host Celtic in the Europa League. But how did they end up here?",
-   "date": "2026-11-26T07:26:12+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c7/live/e5a471f0-c2fd-11f1-b8c6-6d610e41a5d9.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Who am I? Plus today's other quizzes",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6ly5125qgy9o?at_medium=RSS&at_campaign=rss",
    "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -500,6 +524,14 @@
   },
   {
    "source": "BBC Sport",
+   "title": "Can Iordanescu make a difference at Watford & how do you become a free-kick specialist?",
+   "link": "https://www.bbc.co.uk/sounds/play/p0ppxp3z?at_medium=RSS&at_campaign=rss",
+   "summary": "Stockport County's Ollie Norwood tells us what has meant he keeps scoring epic free kicks",
+   "date": "2026-11-25T18:35:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Glasner criticises Forest players yet to learn English",
    "link": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
    "summary": "Nottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years.",
@@ -523,47 +555,27 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9f/live/a0a1a1c0-e8e8-11f1-8808-1d4222955d7e.jpg"
   },
   {
-   "source": "The Guardian",
-   "title": "Saudi Arabia\u2019s PIF looking to sell 25% of Newcastle through share issue",
-   "link": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
-   "summary": "PIF seeking investment to fund infrastructure projectsJP Morgan appointed to handle the saleNewcastle United\u2019s owner, Saudi Arabia\u2019s Public Investment Fund (PIF), is looking to sell up to 25% of the club by issuing new\u2026",
-   "date": "2026-11-25T15:36:32+00:00",
-   "image": "https://i.guim.co.uk/img/media/bd383c7e5be79a925d59ba5e4da8252652885f95/376_0_4400_3520/master/4400.jpg?width=140&quality=85&auto=format&fit=max&s=456d4aac5b98308fb6630bdae1cae6f0"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | Manchester City get that empty feeling as they fail to win again",
-   "link": "https://www.theguardian.com/football/2026/nov/25/manchester-city-empty-feeling-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Early in the second half of Tuesday night\u2019s National League South match between Torquay United and Chesham, play was briefly suspended due to an ear-splitting din\u2026",
-   "date": "2026-11-25T15:13:01+00:00",
-   "image": "https://i.guim.co.uk/img/media/3fc6bfc443e98b86522aa0f8ae8b3529af0c7f26/1160_203_4603_3683/master/4603.jpg?width=140&quality=85&auto=format&fit=max&s=dd76eb4dd3a991cdb94e0f0fa0617364"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Premier League\u2019s burst of early sendings-off may not last \u2013 but red cards are on the rise for a reason",
-   "link": "https://www.theguardian.com/football/2026/nov/25/premier-league-red-cards-costinha-leny-yoro-james-tarkowski-referees",
-   "summary": "While referees tend to reach for red early in the season before easing off, players are under increasing pressure to keep pace in a frenetic environmentOff! Off! Off! The past three Premier League games have featured a\u2026",
-   "date": "2026-11-25T14:46:33+00:00",
-   "image": "https://i.guim.co.uk/img/media/3e2a19fd3ecbcd96050a909700f49268a8beb57e/1377_276_3513_2810/master/3513.jpg?width=140&quality=85&auto=format&fit=max&s=281ab8b3c21be4514185ab1c50876fa1"
-  },
-  {
    "source": "BBC Sport",
-   "title": "Raheem Sterling - from national icon to suspended jail sentence",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
-   "summary": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence.",
-   "date": "2026-11-25T12:42:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/4b3ef840-e8a2-11f1-869a-f96fd5660210.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Senegal regaining Afcon title is the right end to fiasco but issues do not stop there | Osasu Obayiuwana",
-   "link": "https://www.theguardian.com/football/2026/nov/25/senegal-regaining-afcon-title-right-end-african-football",
-   "summary": "After African football was dragged into needless disrepute the next step is to tackle two key areas of governanceA journey of 310 days and three legal proceedings to confirm two things we know \u2013 that Senegal beat\u2026",
-   "date": "2026-11-25T12:41:11+00:00",
-   "image": "https://i.guim.co.uk/img/media/6c1261b0ad77184331382c12edebc2ec700d3eef/330_0_3297_2637/master/3297.jpg?width=140&quality=85&auto=format&fit=max&s=84e731ae269dec0d90838f4dceebb50b"
+   "title": "Scotcast: Is hosting the World Cup a game-changer?",
+   "link": "https://www.bbc.co.uk/sounds/play/m0034nqc?at_medium=RSS&at_campaign=rss",
+   "summary": "The 2035 women's tournament will be co-hosted by UK nations.",
+   "date": "2026-11-25T16:00:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppvv88.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "beIN SPORTS",
+   "id": "zO5bvligmwM",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u064a\u0648\u0641\u0646\u062a\u0648\u0633 \u0648\u0623\u0648\u0645\u0648\u0646\u064a\u0627 | \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
+   "date": "2026-11-26T22:45:42+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "rpplzVWmfxE",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0633\u0633\u0643\u0627 \u0635\u0648\u0641\u064a\u0627 \u0648\u0637\u0631\u0627\u0628\u0632\u0648\u0646 \u0633\u0628\u0648\u0631| \u062f\u0648\u0631\u064a \u0627\u0644\u0645\u0624\u062a\u0645\u0631 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
+   "date": "2026-11-26T22:44:34+00:00"
+  },
   {
    "channel": "beIN SPORTS",
    "id": "CCYAZfngabQ",
@@ -653,18 +665,6 @@
    "id": "_Wvy0CqIvks",
    "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0634\u0627\u062e\u062a\u0627\u0631 \u062f\u0648\u0646\u064a\u062a\u0633\u0643 \u0648\u0641\u0646\u0631\u0628\u0647\u062a\u0634\u0647 | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
    "date": "2026-11-25T23:20:10+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "IZGhH8XVSCM",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0644\u064a\u0644 \u0648\u0628\u0627\u064a\u0631\u0646 \u0645\u064a\u0648\u0646\u064a\u062e | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
-   "date": "2026-11-25T23:16:20+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "DOAn179sPh0",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0625\u0646\u062a\u0631 \u0648\u0634\u062a\u0648\u062a\u063a\u0627\u0631\u062a | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
-   "date": "2026-11-25T23:12:26+00:00"
   },
   {
    "channel": "Serie A",
