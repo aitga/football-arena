@@ -2,6 +2,22 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Not even making a 12-man bench - what next for Garnacho?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
+   "summary": "Alejandro Garnacho's brief Aston Villa career already looks over, so what next for the 22-year-old?",
+   "date": "2026-11-26T13:23:05+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a084/live/87c18b60-e8bc-11f1-9e64-bddd508b9881.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? | Football Weekly",
+   "link": "https://www.theguardian.com/football/video/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
+   "summary": "Max Rushden is joined by Barry Glendenning, Nedum Onuoha and Mark Langdon to mop up all the Champions League midweek action Continue reading...",
+   "date": "2026-11-26T12:36:31+00:00",
+   "image": "https://i.guim.co.uk/img/media/49e65c3cda37a9f58a2cb9f61888f4fc0aefadb2/282_0_2824_2259/master/2824.jpg?width=140&quality=85&auto=format&fit=max&s=389de59dffda71120f26a398041016ae"
+  },
+  {
+   "source": "BBC Sport",
    "title": "How to follow the Premier League on the BBC this weekend",
    "link": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
    "summary": "Our Ask Me Anything team explains how to follow matches from week 12 of the Premier League season on the BBC this weekend.",
@@ -63,25 +79,25 @@
    "summary": "Bundesliga champions lost 2-1 to Lille on WednesdayKimmich defends Musiala\u2019s neurological condition The Bayern Munich midfielder Joshua Kimmich has launched a stinging attack on the club\u2019s \u201cnot Bayern-like\u201d treatment of\u2026",
    "date": "2026-11-26T10:19:07+00:00",
    "image": "https://i.guim.co.uk/img/media/3a4d6a0c81799d0b18edce883eb4d23cfff14f32/329_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4df0525570ada9376fc6074b1e39bdce"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Pochettino claims officials \u2018punished\u2019 Manchester United in chaotic Sporting draw",
-   "link": "https://www.theguardian.com/football/2026/nov/25/mauricio-pochettino-officials-punished-manchester-united-sporting",
-   "summary": "Head coach questions \u2018difficult to understand\u2019 decisionsZirkzee joins Pochettino in offering support to LammensMauricio Pochettino claimed Manchester United were punished unfairly after again appearing to suffer from\u2026",
-   "date": "2026-11-26T09:00:56+00:00",
-   "image": "https://i.guim.co.uk/img/media/6e6ca893cdab6d034efc544c6e8cfe0707a63f69/225_0_2075_1660/master/2075.jpg?width=140&quality=85&auto=format&fit=max&s=6dbaab38581ee81f24ba10bcceed5e9c"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Weekly sports quiz: What year will the UK host the Women's World Cup?",
-   "link": "https://www.bbc.co.uk/sport/articles/cm5y1g91xq3po?at_medium=RSS&at_campaign=rss",
-   "summary": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
-   "date": "2026-11-26T08:02:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5a8/live/4c6ac610-e8fa-11f1-a094-5fdc692f3e33.png"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Not even making a 12-man bench - what next for Garnacho?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
+   "summary": "Alejandro Garnacho's brief Aston Villa career already looks over, so what next for the 22-year-old?",
+   "date": "2026-11-26T13:23:05+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a084/live/87c18b60-e8bc-11f1-9e64-bddd508b9881.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? | Football Weekly",
+   "link": "https://www.theguardian.com/football/video/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
+   "summary": "Max Rushden is joined by Barry Glendenning, Nedum Onuoha and Mark Langdon to mop up all the Champions League midweek action Continue reading...",
+   "date": "2026-11-26T12:36:31+00:00",
+   "image": "https://i.guim.co.uk/img/media/49e65c3cda37a9f58a2cb9f61888f4fc0aefadb2/282_0_2824_2259/master/2824.jpg?width=140&quality=85&auto=format&fit=max&s=389de59dffda71120f26a398041016ae"
+  },
   {
    "source": "BBC Sport",
    "title": "How to follow the Premier League on the BBC this weekend",
@@ -484,14 +500,6 @@
   },
   {
    "source": "The Guardian",
-   "title": "Premier League sides stumble in Europe and Bellingham brilliance | Football Weekly video",
-   "link": "https://www.theguardian.com/football/video/2026/nov/25/premier-league-sides-stumble-in-europe-and-bellingham-brilliance-football-weekly-video",
-   "summary": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Jonathan Liew as Manchester City\u2019s terrible recent run continues with a draw at home to Napoli. Continue reading...",
-   "date": "2026-11-25T14:38:54+00:00",
-   "image": "https://i.guim.co.uk/img/media/34dd6db8dd0e4cf42cbc6462417a4f2cc21e486d/346_0_3464_2771/master/3464.jpg?width=140&quality=85&auto=format&fit=max&s=bf0d8af7d1ef9c0cd91947a00ef51027"
-  },
-  {
-   "source": "The Guardian",
    "title": "Pep Guardiola says next coaching role will be with a national team amid USA links",
    "link": "https://www.theguardian.com/football/2026/nov/25/pep-guardiola-coaching-job-usmnt-italy",
    "summary": "Coach turned down Italy offer, needing \u2018time for myself\u2019Pochettino says he\u2019d tell Guardiola to take USMNT jobPep Guardiola has said he doesn\u2019t know when he\u2019ll return to football but that his next coaching role will be\u2026",
@@ -553,14 +561,6 @@
    "summary": "He gets 12-month sentence suspended for 18 monthsFormer England forward must do community serviceRaheem Sterling has avoided being sent to jail after he received a suspended sentence of 12 months for pleading guilty to\u2026",
    "date": "2026-11-25T11:34:10+00:00",
    "image": "https://i.guim.co.uk/img/media/2b1459a01a14b00a3d2b7e1950f6dc87cb804800/930_204_2446_1956/master/2446.jpg?width=140&quality=85&auto=format&fit=max&s=8f14f22ac4ebe6704e263605a0eaffb9"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Lincoln sack head coach duo Cohen and Shaw after only six months",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss",
-   "summary": "Lincoln sack head coaches Chris Cohen and Tom Shaw just six months after they took joint charge of the Championship side.",
-   "date": "2026-11-25T11:32:28+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb84/live/59c159f0-e8be-11f1-ac76-db9e97f93d67.jpg"
   }
  ],
  "videos": [
@@ -673,6 +673,12 @@
    "date": "2026-11-24T13:00:23+00:00"
   },
   {
+   "channel": "LaLiga",
+   "id": "O35TIqrFrCY",
+   "title": "El descaro de LAMINE\u2026",
+   "date": "2026-11-26T13:00:13+00:00"
+  },
+  {
    "channel": "Premier League",
    "id": "atIAdXO7_gA",
    "title": "Commentator Reacts To Rio Ngumoha's Fine Finish \ud83c\udf99\ufe0f",
@@ -701,12 +707,6 @@
    "id": "CEAA1bNXkkg",
    "title": "D\u00edaz vs. Brown Nutmeg Challenge \ud83d\udc40\u26bd\ufe0f",
    "date": "2026-11-26T11:00:02+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "rbN7svy64pg",
-   "title": "VINI JR y sus regates inagotables",
-   "date": "2026-11-26T09:00:25+00:00"
   }
  ],
  "fixtures": [
