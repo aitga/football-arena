@@ -1,6 +1,54 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "How to follow the Premier League on the BBC this weekend",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+   "summary": "Our Ask Me Anything team explains how to follow matches from week 12 of the Premier League season on the BBC this weekend.",
+   "date": "2026-11-26T12:06:15+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f4/live/64ea96a0-e8bb-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
+   "link": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
+   "summary": "Rivals engage law firm Wiggin as they seek damagesClaim could be worth hundreds of millions of poundsManchester United, Liverpool and Tottenham are using the same law firm to prepare a legal claim against Manchester\u2026",
+   "date": "2026-11-26T12:00:34+00:00",
+   "image": "https://i.guim.co.uk/img/media/2d8800366f7f8332f94b19e7e27114372d9bb59f/286_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=1c912317d976925cbd96a776d873bc3e"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Fifa confirms internal data stolen in cyber attack",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crd61nvg4d84o?at_medium=RSS&at_campaign=rss",
+   "summary": "Fifa has confirmed it has been the victim of a cyber-attack which resulted in personal and business information being stolen.",
+   "date": "2026-11-26T11:30:07+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e820/live/06ab4690-e98b-11f1-9d1c-4dcc8fcde666.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who is close to a yellow card suspension in Champions League?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport's Ask Me Anything team explains what the rules are regarding yellow card suspensions in this season's Champions League",
+   "date": "2026-11-26T11:21:53+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26a/live/ded10400-cc86-11f1-bed8-c51b95c602ec.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "BBC Women's Football Weekly",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pq0m9k?at_medium=RSS&at_campaign=rss",
+   "summary": "Three Lionesses join Ellen, Ben & Em ahead of their 2027 World Cup play-off final.",
+   "date": "2026-11-26T11:18:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq0mdz.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018We are on the edge\u2019: how Swedish league declined from summit of women\u2019s game",
+   "link": "https://www.theguardian.com/football/2026/nov/26/damallsvenskan-swedish-league-decline-fans-attendances-media-coverage-finances",
+   "summary": "The Damallsvenskan once mastered Europe and attracted the best players, but many are now worried for its futureOn 12 October 2003, Sweden stood still. The women\u2019s football team were playing Germany in the World Cup\u2026",
+   "date": "2026-11-26T11:00:32+00:00",
+   "image": "https://i.guim.co.uk/img/media/1b36361c93f69bb7624d3664caa44f16d5a9fb3e/864_125_5459_4366/master/5459.jpg?width=140&quality=85&auto=format&fit=max&s=b35c886a21eec9710c4d1caae0af57d2"
+  },
+  {
    "source": "The Guardian",
    "title": "Neville, Carragher and the inescapable podcasting feedback loop of doom | Jonathan Liew",
    "link": "https://www.theguardian.com/football/2026/nov/26/gary-neville-jamie-carragher-podcast-manchester-united-michael-carrick",
@@ -31,57 +79,57 @@
    "summary": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
    "date": "2026-11-26T08:02:45+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5a8/live/4c6ac610-e8fa-11f1-a094-5fdc692f3e33.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "No drums, no tifo \u2026 no point? The impact of Palace\u2019s missing Holmesdale Fanatics",
-   "link": "https://www.theguardian.com/football/2026/nov/26/no-drums-no-tifo-no-point-the-impact-of-palaces-missing-holmesdale-fanatics",
-   "summary": "Crystal Palace\u2019s influential supporters\u2019 group disbanded 24 hours before their first home game this season \u2013 and Selhurst Park has not been the same sinceSimon Teesdale could not help feeling mixed emotions when his\u2026",
-   "date": "2026-11-26T08:00:50+00:00",
-   "image": "https://i.guim.co.uk/img/media/b98062d97743330de3efb9433265b218c63ecfe9/118_141_4007_3205/master/4007.jpg?width=140&quality=85&auto=format&fit=max&s=f1172153a4a6dd7f13fc7d7f9694c090"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Podcast: Celtic's European curse & Hearts' Monaco mission",
-   "link": "https://www.bbc.co.uk/sounds/play/p0ppzlbj?at_medium=RSS&at_campaign=rss",
-   "summary": "Can Celtic end their European away-day misery as Hearts welcome Monaco?",
-   "date": "2026-11-26T08:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppzldg.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Dundee United's Farrugia out until new year - gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6m2lv3k29gpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Injury blow for Dundee United midfielder as Monaco boss pinpoints Hearts danger men.",
-   "date": "2026-11-26T07:42:21+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d731/live/ac0d2b40-e96c-11f1-99b6-a35a62fa4264.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Why KMI Panel frustrates referees too - and impacts their salary",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq20x16zxxzeo?at_medium=RSS&at_campaign=rss",
-   "summary": "For Premier League referees, the KMI Panel is more important than you might realise. It determines a significant portion of their salary.",
-   "date": "2026-11-26T07:28:18+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca44/live/8c9006a0-e7fc-11f1-85d8-8d5c5b3dc8c8.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "The Portuguese second-tier team hosting Celtic in Europe",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o?at_medium=RSS&at_campaign=rss",
-   "summary": "Portuguese second-tier side Torreense host Celtic in the Europa League. But how did they end up here?",
-   "date": "2026-11-26T07:26:12+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c7/live/e5a471f0-c2fd-11f1-b8c6-6d610e41a5d9.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6ly5125qgy9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "date": "2026-11-26T06:53:51+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "How to follow the Premier League on the BBC this weekend",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+   "summary": "Our Ask Me Anything team explains how to follow matches from week 12 of the Premier League season on the BBC this weekend.",
+   "date": "2026-11-26T12:06:15+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f4/live/64ea96a0-e8bb-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
+   "link": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
+   "summary": "Rivals engage law firm Wiggin as they seek damagesClaim could be worth hundreds of millions of poundsManchester United, Liverpool and Tottenham are using the same law firm to prepare a legal claim against Manchester\u2026",
+   "date": "2026-11-26T12:00:34+00:00",
+   "image": "https://i.guim.co.uk/img/media/2d8800366f7f8332f94b19e7e27114372d9bb59f/286_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=1c912317d976925cbd96a776d873bc3e"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Fifa confirms internal data stolen in cyber attack",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crd61nvg4d84o?at_medium=RSS&at_campaign=rss",
+   "summary": "Fifa has confirmed it has been the victim of a cyber-attack which resulted in personal and business information being stolen.",
+   "date": "2026-11-26T11:30:07+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e820/live/06ab4690-e98b-11f1-9d1c-4dcc8fcde666.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Who is close to a yellow card suspension in Champions League?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport's Ask Me Anything team explains what the rules are regarding yellow card suspensions in this season's Champions League",
+   "date": "2026-11-26T11:21:53+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26a/live/ded10400-cc86-11f1-bed8-c51b95c602ec.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "BBC Women's Football Weekly",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pq0m9k?at_medium=RSS&at_campaign=rss",
+   "summary": "Three Lionesses join Ellen, Ben & Em ahead of their 2027 World Cup play-off final.",
+   "date": "2026-11-26T11:18:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq0mdz.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018We are on the edge\u2019: how Swedish league declined from summit of women\u2019s game",
+   "link": "https://www.theguardian.com/football/2026/nov/26/damallsvenskan-swedish-league-decline-fans-attendances-media-coverage-finances",
+   "summary": "The Damallsvenskan once mastered Europe and attracted the best players, but many are now worried for its futureOn 12 October 2003, Sweden stood still. The women\u2019s football team were playing Germany in the World Cup\u2026",
+   "date": "2026-11-26T11:00:32+00:00",
+   "image": "https://i.guim.co.uk/img/media/1b36361c93f69bb7624d3664caa44f16d5a9fb3e/864_125_5459_4366/master/5459.jpg?width=140&quality=85&auto=format&fit=max&s=b35c886a21eec9710c4d1caae0af57d2"
+  },
   {
    "source": "The Guardian",
    "title": "Neville, Carragher and the inescapable podcasting feedback loop of doom | Jonathan Liew",
@@ -227,14 +275,6 @@
    "image": "https://i.guim.co.uk/img/media/c03596aa7a3bdfc36f7e71d5cd4826c5036b0bd0/418_170_4292_3434/master/4292.jpg?width=140&quality=85&auto=format&fit=max&s=355c9e8fe37965c945a317eb51a8102e"
   },
   {
-   "source": "The Guardian",
-   "title": "Champions League: Lille comeback adds to Bayern woes, Gordon leads Barcelona rout",
-   "link": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
-   "summary": "Lille 2-1 Bayern Munich, Sabah 1-4 BarcelonaMalen penalty earns Roma 2-2 draw at PSGBayern Munich endured their first defeat of the season on Wednesday, losing 2-1 at Lille in the Champions League as a tough week for\u2026",
-   "date": "2026-11-25T22:38:19+00:00",
-   "image": "https://i.guim.co.uk/img/media/70ff1631a55330fa8e31075bfa9dfffa34ed7787/261_0_2382_1906/master/2382.jpg?width=140&quality=85&auto=format&fit=max&s=e2c7695f45e930ccd0648eba44ddaffe"
-  },
-  {
    "source": "BBC Sport",
    "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
    "link": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
@@ -334,7 +374,7 @@
    "source": "The Guardian",
    "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
    "link": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
-   "summary": "\u2018Players are here for four years and can\u2019t speak English\u2019Glasner has held talks with owner over January movesNottingham Forest\u2019s manager, Oliver Glasner, believes standards at the club were not good enough prior to his\u2026",
+   "summary": "\u2018Players are here for four years and can\u2019t speak English\u2019Glasner has held talks with owner over January movesNottingham Forest\u2019s manager, Oliver Glasner, believes standards at the club were not good enough before his\u2026",
    "date": "2026-11-25T21:17:34+00:00",
    "image": "https://i.guim.co.uk/img/media/194c1b6d3009e70cf1192360a3d6f2db9f64af5a/344_0_4079_3264/master/4079.jpg?width=140&quality=85&auto=format&fit=max&s=a3eb7790da7e624d2841981f7fbd28bd"
   },
@@ -345,14 +385,6 @@
    "summary": "Liverpool consider return for Jarrell Quansah, Tottenham scout Vangelis Pavlidis and Paris St-Germain target Estevao Willian, plus more",
    "date": "2026-11-25T20:57:48+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cda/live/3cd95070-e901-11f1-a094-5fdc692f3e33.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "EFL Trophy holders Luton face Palace U21s in last 32",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckzd9vqed5d7o?at_medium=RSS&at_campaign=rss",
-   "summary": "EFL Trophy holders Luton Town will meet Crystal Palace Under-21s in the last 32 of the competition.",
-   "date": "2026-11-25T20:55:13+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f8f/live/bd1aa2b0-e8da-11f1-99b6-a35a62fa4264.jpg"
   },
   {
    "source": "The Guardian",
@@ -433,14 +465,6 @@
    "summary": "PIF seeking investment to fund infrastructure projectsJP Morgan appointed to handle the saleNewcastle United\u2019s owner, Saudi Arabia\u2019s Public Investment Fund (PIF), is looking to sell up to 25% of the club by issuing new\u2026",
    "date": "2026-11-25T15:36:32+00:00",
    "image": "https://i.guim.co.uk/img/media/bd383c7e5be79a925d59ba5e4da8252652885f95/376_0_4400_3520/master/4400.jpg?width=140&quality=85&auto=format&fit=max&s=456d4aac5b98308fb6630bdae1cae6f0"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Botty? AI helps resurrect voice of John Motson for football video game",
-   "link": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
-   "summary": "Late broadcaster\u2019s family allows EA Sports to create digital version of \u2018Motty\u2019 to commentate on popular FC27First it was Val Kilmer, then Greta Garbo, but finally AI has resurrected a star the terraces can cheer for:\u2026",
-   "date": "2026-11-25T15:13:10+00:00",
-   "image": "https://i.guim.co.uk/img/media/d52e8fa78cedadca70c70f6e59bfcd90f9e39367/57_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=3114b2b42e73428bec0fd49db5beb3e5"
   },
   {
    "source": "The Guardian",
@@ -537,30 +561,6 @@
    "summary": "Lincoln sack head coaches Chris Cohen and Tom Shaw just six months after they took joint charge of the Championship side.",
    "date": "2026-11-25T11:32:28+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb84/live/59c159f0-e8be-11f1-ac76-db9e97f93d67.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Why are there 2:05pm kick-offs in the Premier League on Sunday?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn8pneklxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Our Ask Me Anything team explain why the Premier League fixtures have some unusual kick-off times this weekend.",
-   "date": "2026-11-25T11:25:51+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93e1/live/1b641f20-e8bf-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Watford appoint Iordanescu as head coach",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cv1j65j2lw3po?at_medium=RSS&at_campaign=rss",
-   "summary": "Watford appoint former Romania boss Edward Iordanescu as their new head coach after sacking Alessio Dionisi.",
-   "date": "2026-11-25T11:15:34+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18bc/live/26f95460-e809-11f1-95bb-3f37d3e026b0.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Wales and West Ham's Morgan suffers serious injury",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c920xdl6d6kpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Ffion Morgan looks set to miss the rest of the season for club and country following knee surgery.",
-   "date": "2026-11-25T10:38:44+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1bf/live/a9284a50-e407-11f1-ab35-e1af93fa5cce.jpg"
   }
  ],
  "videos": [
@@ -613,18 +613,6 @@
    "date": "2026-11-25T22:49:26+00:00"
   },
   {
-   "channel": "beIN SPORTS",
-   "id": "geViK49gMmY",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0633\u0628\u0648\u0631\u062a\u064a\u0646\u063a \u0648\u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u064a\u0648\u0646\u0627\u064a\u062a\u062f | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
-   "date": "2026-11-25T22:25:28+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "FKm2QhmhJyg",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0623\u062a\u0644\u064a\u062a\u064a\u0643\u0648 \u0645\u062f\u0631\u064a\u062f \u0648\u0641\u0627\u064a\u0643\u0646\u063a | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
-   "date": "2026-11-25T22:21:11+00:00"
-  },
-  {
    "channel": "Serie A",
    "id": "i21tuQcunpg",
    "title": "MONZA FIRE THROUGH \ud83d\udd25 | MONZA-FIORENTINA CINEMATIC HIGHLIGHTS | Serie A 2026/27",
@@ -673,6 +661,36 @@
    "date": "2026-11-25T14:55:18+00:00"
   },
   {
+   "channel": "UEFA",
+   "id": "D-djRtVpZNU",
+   "title": "Backing Arsenal to score three at home? \ud83e\udd14 Expecting goals in Bod\u00f8 this week? \u26bd\ufe0f",
+   "date": "2026-11-24T15:00:01+00:00"
+  },
+  {
+   "channel": "UEFA",
+   "id": "ZBqyzvoObrE",
+   "title": "INCREDIBLE Goals Scored During Matchday 5 In The Champions League!",
+   "date": "2026-11-24T13:00:23+00:00"
+  },
+  {
+   "channel": "Premier League",
+   "id": "atIAdXO7_gA",
+   "title": "Commentator Reacts To Rio Ngumoha's Fine Finish \ud83c\udf99\ufe0f",
+   "date": "2026-11-26T11:45:45+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "JsMxD2gSM2Y",
+   "title": "ZABIRI es COMPRA FANTASY: \u00bfpuja ideal? | LALIGA FANTASY SHOW #12",
+   "date": "2026-11-26T11:28:10+00:00"
+  },
+  {
+   "channel": "Premier League",
+   "id": "QBGHJoQCZvQ",
+   "title": "How A Winless Team Won FIVE In A Row!",
+   "date": "2026-11-26T11:01:02+00:00"
+  },
+  {
    "channel": "LaLiga",
    "id": "JQAppl6vtGE",
    "title": "Los 18 MINUTOS FINALES del REAL MADRID con UNO MENOS | LALIGA EA SPORTS",
@@ -689,24 +707,6 @@
    "id": "rbN7svy64pg",
    "title": "VINI JR y sus regates inagotables",
    "date": "2026-11-26T09:00:25+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "98Kfvc7z0G4",
-   "title": "LIVE \ud83d\udd34 SpVgg Greuther F\u00fcrth vs. DSC Arminia Bielefeld | Matchday 13 - Bundesliga 2 2026/27",
-   "date": "2026-11-26T08:28:59+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "OWJh2oUXx9Y",
-   "title": "LIVE \ud83d\udd34 Eintracht Braunschweig vs. VfL Wolfsburg | Matchday 13 - Bundesliga 2 2026/27",
-   "date": "2026-11-26T08:28:56+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "UDhbaCW4g1k",
-   "title": "LIVE \ud83d\udd34 1. FC Magdeburg vs. FC Energie Cottbus | Matchday 13 - Bundesliga 2 2026/27",
-   "date": "2026-11-26T08:28:53+00:00"
   }
  ],
  "fixtures": [
