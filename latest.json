@@ -2,11 +2,43 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss",
+   "summary": "Match of the Day's Stephen Warnock and Nedum Onuoha analyse the recent resurgence of Alexander Isak and Florian Wirtz for as they led Liverpool to victory against Club Brugge.debut seasons last year.",
+   "date": "2026-11-25T23:38:42+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70be/live/120c5330-e927-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'All coming together' - Isak repaying Liverpool faith",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid \u00a3125m to bring him to the club.",
+   "date": "2026-11-25T23:25:30+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ef/live/25c99400-e927-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Fenerbahce squeeze past Shakhtar to seal back-to-back wins",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6ly51452xe7o?at_medium=RSS&at_campaign=rss",
+   "summary": "Turkish side Fenerbahce defeat Shakhtar Donetsk in a close affair at Stamford Bridge to give their hopes of Champions League qualification a huge boost.",
+   "date": "2026-11-25T23:16:18+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0815/live/f4273cf0-e925-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Martinez secures Inter win against Stuttgart",
    "link": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
    "summary": "Lautaro Martinez comes off the bench to score as Inter Milan beat Stuttgart and boost their chances of reaching the Champions League knockout stages.",
    "date": "2026-11-25T23:02:15+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7485/live/5a5ede90-e923-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Championship roundup: Stoke rise to second, Birmingham condemn Burnley to record drought",
+   "link": "https://www.theguardian.com/football/2026/nov/25/championship-roundup-stoke-millwall-burnley-home-record-birmingham",
+   "summary": "George Hirst double earns Potters 2-1 win over MillwallBurnley\u2019s winless home run extends to 24 matchesGeorge Hirst scored both goals as Stoke secured a fifth successive Championship win by beating Millwall 2-1 to go\u2026",
+   "date": "2026-11-25T22:55:48+00:00",
+   "image": "https://i.guim.co.uk/img/media/c03596aa7a3bdfc36f7e71d5cd4826c5036b0bd0/418_170_4292_3434/master/4292.jpg?width=140&quality=85&auto=format&fit=max&s=355c9e8fe37965c945a317eb51a8102e"
   },
   {
    "source": "The Guardian",
@@ -47,48 +79,48 @@
    "summary": "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last  Champions League match.",
    "date": "2026-11-25T22:12:19+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7011/live/1961c530-e91c-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Gordon stars in comfortable Barca win over Sabah",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
-   "summary": "Anthony Gordon scores Barcelona's opening two goals as they ease past Sabah with a 4-1 win in the Champions League.",
-   "date": "2026-11-25T22:07:02+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebd6/live/0a4713c0-e903-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Borussia Dortmund fight back to draw with Arsenal",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo?at_medium=RSS&at_campaign=rss",
-   "summary": "Borussia Dortmund fight back from a goal behind to draw with Arsenal in the Champions League.",
-   "date": "2026-11-25T22:05:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e240/live/832f36d0-e860-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Blunt Villa beaten by late Galatasaray winner",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6r7g92p5k79o?at_medium=RSS&at_campaign=rss",
-   "summary": "Deniz Gul scores a late winner for Galatasaray as Aston Villa slip to successive Champions League defeats.",
-   "date": "2026-11-25T22:05:53+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/aa1d08d0-e860-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Cherki rescues point for Man City against Napoli",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cjy5xwygqg9do?at_medium=RSS&at_campaign=rss",
-   "summary": "Rayan Cherki's late equaliser rescues a point for Manchester City at home to Napoli in the Champions League, who have now won just one of their past seven games in all competitions.",
-   "date": "2026-11-25T22:05:49+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d0a/live/4cdf0f20-e85f-11f1-99a1-253766e7ad8b.jpg"
   }
  ],
  "news_all": [
   {
    "source": "BBC Sport",
+   "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss",
+   "summary": "Match of the Day's Stephen Warnock and Nedum Onuoha analyse the recent resurgence of Alexander Isak and Florian Wirtz for as they led Liverpool to victory against Club Brugge.debut seasons last year.",
+   "date": "2026-11-25T23:38:42+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70be/live/120c5330-e927-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'All coming together' - Isak repaying Liverpool faith",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid \u00a3125m to bring him to the club.",
+   "date": "2026-11-25T23:25:30+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ef/live/25c99400-e927-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Fenerbahce squeeze past Shakhtar to seal back-to-back wins",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6ly51452xe7o?at_medium=RSS&at_campaign=rss",
+   "summary": "Turkish side Fenerbahce defeat Shakhtar Donetsk in a close affair at Stamford Bridge to give their hopes of Champions League qualification a huge boost.",
+   "date": "2026-11-25T23:16:18+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0815/live/f4273cf0-e925-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Martinez secures Inter win against Stuttgart",
    "link": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
    "summary": "Lautaro Martinez comes off the bench to score as Inter Milan beat Stuttgart and boost their chances of reaching the Champions League knockout stages.",
    "date": "2026-11-25T23:02:15+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7485/live/5a5ede90-e923-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Championship roundup: Stoke rise to second, Birmingham condemn Burnley to record drought",
+   "link": "https://www.theguardian.com/football/2026/nov/25/championship-roundup-stoke-millwall-burnley-home-record-birmingham",
+   "summary": "George Hirst double earns Potters 2-1 win over MillwallBurnley\u2019s winless home run extends to 24 matchesGeorge Hirst scored both goals as Stoke secured a fifth successive Championship win by beating Millwall 2-1 to go\u2026",
+   "date": "2026-11-25T22:55:48+00:00",
+   "image": "https://i.guim.co.uk/img/media/c03596aa7a3bdfc36f7e71d5cd4826c5036b0bd0/418_170_4292_3434/master/4292.jpg?width=140&quality=85&auto=format&fit=max&s=355c9e8fe37965c945a317eb51a8102e"
   },
   {
    "source": "The Guardian",
@@ -164,9 +196,9 @@
   },
   {
    "source": "The Guardian",
-   "title": "Lammens howler costs Manchester United victory in frantic finale at Sporting",
+   "title": "Lammens errors cost Manchester United victory in frantic finale at Sporting",
    "link": "https://www.theguardian.com/football/2026/nov/25/sporting-lisbon-manchester-united-champions-league-match-report",
-   "summary": "\u201cWe are a strong team,\u201d Mauricio Pochettino exhorted, then saw Manchester United\u2019s unerring ability to cause drama each and every time they lace their boots up.Cruising, it seemed, at 2-1 and with 10 minutes left, they\u2026",
+   "summary": "\u201cWe are a strong team,\u201d Mauricio Pochettino exhorted, then watched Manchester United\u2019s unerring ability to cause drama every time they lace up their boots.Cruising, it seemed, at 2-1 and with 10 minutes left, they\u2026",
    "date": "2026-11-25T22:05:49+00:00",
    "image": "https://i.guim.co.uk/img/media/eb512e59989ac0286132296b5b400dccf7e67206/198_0_2822_2258/master/2822.jpg?width=140&quality=85&auto=format&fit=max&s=3ab64215c3742294f3de7a1475d978a7"
   },
@@ -182,7 +214,7 @@
    "source": "The Guardian",
    "title": "Isak and Wirtz on target as resurgent Liverpool sweep aside Club Brugge",
    "link": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
-   "summary": "Liverpool brought Club Brugge\u2019s impressive run in the Champions League to an abrupt halt on a bitterly cold night in Belgium with an exhibition of outstanding finishing and composed defending. Alexander Isak took his\u2026",
+   "summary": "Liverpool, from big money individuals to the collective, are building formidable momentum. On a bitterly cold night in Belgium, Andoni Iraola\u2019s team delivered an accomplished away display to bring Club Brugge\u2019s\u2026",
    "date": "2026-11-25T22:04:10+00:00",
    "image": "https://i.guim.co.uk/img/media/217f37b87ab0b8f2137224791cf4ae48697dcf9d/131_0_3251_2601/master/3251.jpg?width=140&quality=85&auto=format&fit=max&s=88683324012f2215918ddb2cfc727ced"
   },
@@ -332,6 +364,14 @@
   },
   {
    "source": "The Guardian",
+   "title": "Premier League\u2019s burst of early sendings-off may not last \u2013 but red cards are on the rise for a reason",
+   "link": "https://www.theguardian.com/football/2026/nov/25/premier-league-red-cards-costinha-leny-yoro-james-tarkowski-referees",
+   "summary": "While referees tend to reach for red early in the season before easing off, players are under increasing pressure to keep pace in a frenetic environmentOff! Off! Off! The past three Premier League games have featured a\u2026",
+   "date": "2026-11-25T14:46:33+00:00",
+   "image": "https://i.guim.co.uk/img/media/3e2a19fd3ecbcd96050a909700f49268a8beb57e/1377_276_3513_2810/master/3513.jpg?width=140&quality=85&auto=format&fit=max&s=281ab8b3c21be4514185ab1c50876fa1"
+  },
+  {
+   "source": "The Guardian",
    "title": "Premier League sides stumble in Europe and Bellingham brilliance | Football Weekly video",
    "link": "https://www.theguardian.com/football/video/2026/nov/25/premier-league-sides-stumble-in-europe-and-bellingham-brilliance-football-weekly-video",
    "summary": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Jonathan Liew as Manchester City\u2019s terrible recent run continues with a draw at home to Napoli. Continue reading...",
@@ -369,6 +409,14 @@
    "summary": "After African football was dragged into needless disrepute the next step is to tackle two key areas of governanceA journey of 310 days and three legal proceedings to confirm two things we know \u2013 that Senegal beat\u2026",
    "date": "2026-11-25T12:41:11+00:00",
    "image": "https://i.guim.co.uk/img/media/6c1261b0ad77184331382c12edebc2ec700d3eef/330_0_3297_2637/master/3297.jpg?width=140&quality=85&auto=format&fit=max&s=84e731ae269dec0d90838f4dceebb50b"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018It threw me off my bowling a bit\u2019: Isobel Goodwin living dream after England callup",
+   "link": "https://www.theguardian.com/football/2026/nov/25/isobel-goodwin-england-callup-london-city-lionesses-bowling",
+   "summary": "London City striker, who was playing tenpin bowling when Wiegman called, says her journey has not been easyNot many phone calls are important enough to justify Isobel Goodwin missing her turn in a game of tenpin\u2026",
+   "date": "2026-11-25T12:24:49+00:00",
+   "image": "https://i.guim.co.uk/img/media/eea8068cb17dd4af829234f4889c968aa7011b38/513_0_6658_5328/master/6658.jpg?width=140&quality=85&auto=format&fit=max&s=c405fe0c00ff7f63522fad36b09e0eee"
   },
   {
    "source": "BBC Sport",
@@ -417,14 +465,6 @@
    "summary": "Watford appoint former Romania boss Edward Iordanescu as their new head coach after sacking Alessio Dionisi.",
    "date": "2026-11-25T11:15:34+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18bc/live/26f95460-e809-11f1-95bb-3f37d3e026b0.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Millwall face partial stadium closure after discriminatory chants",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss",
-   "summary": "Millwall must play a home game in front of a partially-closed stadium as punishment for fans' discriminatory chants.",
-   "date": "2026-11-25T10:58:32+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d0/live/0672fcd0-e7fc-11f1-ab60-79086b6495b8.jpg"
   },
   {
    "source": "BBC Sport",
@@ -521,49 +561,27 @@
    "summary": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
    "date": "2026-11-24T23:54:10+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/204f/live/561f0780-e85e-11f1-8c24-5f78b2492e15.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Arteta says Arsenal need more luck to kill off games",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund.",
-   "date": "2026-11-24T23:44:04+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58f/live/d9bad6f0-e859-11f1-9b85-e50d1e9de678.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli.",
-   "date": "2026-11-24T23:17:42+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc72/live/fbc81740-e853-11f1-aa88-031e8213533d.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Dortmund\u2019s Beier halts Arsenal charge after thunderbolt from Gy\u00f6keres",
-   "link": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
-   "summary": "Arsenal\u2019s sky-high standards are slipping. For the second time in four days, Mikel Arteta\u2019s side found themselves a goal up at half-time and apparently coasting toward victory, only for their opponents to rouse\u2026",
-   "date": "2026-11-24T22:01:50+00:00",
-   "image": "https://i.guim.co.uk/img/media/18f2fd21c98696c091fd67acabf0c30cdac59595/258_0_2325_1860/master/2325.jpg?width=140&quality=85&auto=format&fit=max&s=bb169b7e85159c963b43df5aa6caf30e"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | The game\u2019s gone: has fantasy football been ruined by AI gafferbots?",
-   "link": "https://www.theguardian.com/football/2026/nov/24/fpl-ruined-ai-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Sometimes, the beautiful game can make Football Daily feel old. Even Monday\u2019s ostensibly old-school fixture between Brentford and Everton felt like the future\u2026",
-   "date": "2026-11-24T16:16:52+00:00",
-   "image": "https://i.guim.co.uk/img/media/3eda96c51e687b89ec23ffed48e6243fa071738e/140_0_2488_1990/master/2488.jpg?width=140&quality=85&auto=format&fit=max&s=42b3992699bc3ac39c561124e8857d90"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Palace docked points for using four sub windows in WSL win",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\".",
-   "date": "2026-11-24T12:14:19+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/a5fbf0d0-e7fd-11f1-ab60-79086b6495b8.jpg"
   }
  ],
  "videos": [
+  {
+   "channel": "beIN SPORTS",
+   "id": "_Wvy0CqIvks",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0634\u0627\u062e\u062a\u0627\u0631 \u062f\u0648\u0646\u064a\u062a\u0633\u0643 \u0648\u0641\u0646\u0631\u0628\u0647\u062a\u0634\u0647 | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
+   "date": "2026-11-25T23:20:10+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "IZGhH8XVSCM",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0644\u064a\u0644 \u0648\u0628\u0627\u064a\u0631\u0646 \u0645\u064a\u0648\u0646\u064a\u062e | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
+   "date": "2026-11-25T23:16:20+00:00"
+  },
+  {
+   "channel": "beIN SPORTS",
+   "id": "DOAn179sPh0",
+   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0625\u0646\u062a\u0631 \u0648\u0634\u062a\u0648\u062a\u063a\u0627\u0631\u062a | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
+   "date": "2026-11-25T23:12:26+00:00"
+  },
   {
    "channel": "beIN SPORTS",
    "id": "x72UAB0-PMg",
@@ -593,12 +611,6 @@
    "id": "3t2Rw7w4kis",
    "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0635\u0628\u0627\u062d \u0648\u0628\u0631\u0634\u0644\u0648\u0646\u0629 | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
    "date": "2026-11-25T20:31:10+00:00"
-  },
-  {
-   "channel": "beIN SPORTS",
-   "id": "F4qASUY_fG0",
-   "title": "\u0645\u0644\u062e\u0635 \u0645\u0628\u0627\u0631\u0627\u0629 \u0633\u0644\u0627\u0641\u064a\u0627 \u0628\u0631\u0627\u063a \u0648\u0641\u064a\u0627\u0631\u064a\u0627\u0644 | \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 - \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062e\u0627\u0645\u0633\u0629 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a",
-   "date": "2026-11-25T20:09:17+00:00"
   },
   {
    "channel": "Serie A",
@@ -662,18 +674,6 @@
   },
   {
    "channel": "Premier League",
-   "id": "yI9E-PuCmOM",
-   "title": "From Kick-Off To Goal In 15 Seconds Or Less!",
-   "date": "2026-11-25T14:55:18+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "EkZro_upiIo",
-   "title": "The Highlight Hattrick of MD13 by Goalitos LALIGA!",
-   "date": "2026-11-25T03:00:40+00:00"
-  },
-  {
-   "channel": "Premier League",
    "id": "xXynefuR40w",
    "title": "The Determination To Keep A Clean Sheet \ud83d\ude24",
    "date": "2026-11-25T22:08:21+00:00"
@@ -710,186 +710,6 @@
   }
  ],
  "fixtures": [
-  {
-   "id": "401915380",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-24T17:45Z",
-   "home": "Bodo/Glimt",
-   "away": "LASK Linz",
-   "hs": "1",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Aspmyra Stadion",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
-  },
-  {
-   "id": "401915300",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-24T17:45Z",
-   "home": "Galatasaray",
-   "away": "Aston Villa",
-   "hs": "1",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+7'",
-   "venue": "RAMS Park",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
-  },
-  {
-   "id": "401915295",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-24T20:00Z",
-   "home": "Arsenal",
-   "away": "Borussia Dortmund",
-   "hs": "1",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Emirates Stadium",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
-  },
-  {
-   "id": "401915296",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-24T20:00Z",
-   "home": "Como",
-   "away": "AEK Athens",
-   "hs": "1",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+3'",
-   "venue": "Giuseppe Sinigaglia",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
-  },
-  {
-   "id": "401915294",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-24T20:00Z",
-   "home": "Feyenoord Rotterdam",
-   "away": "FC Porto",
-   "hs": "0",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+6'",
-   "venue": "De Kuip",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png"
-  },
-  {
-   "id": "401915379",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-24T20:00Z",
-   "home": "Manchester City",
-   "away": "Napoli",
-   "hs": "2",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+2'",
-   "venue": "Etihad Stadium",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
-  },
-  {
-   "id": "401915299",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-24T20:00Z",
-   "home": "RB Leipzig",
-   "away": "Lens",
-   "hs": "3",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Red Bull Arena",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
-  },
-  {
-   "id": "401915298",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-24T20:00Z",
-   "home": "Real Madrid",
-   "away": "PSV Eindhoven",
-   "hs": "5",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+3'",
-   "venue": "Santiago Bernab\u00e9u",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
-  },
-  {
-   "id": "401915297",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-24T20:00Z",
-   "home": "Slovan Bratislava",
-   "away": "Real Betis",
-   "hs": "0",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+3'",
-   "venue": "N\u00e1rodny Futbalovy Stadi\u00f3n",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
-  },
   {
    "id": "401915378",
    "code": "uefa.champions",
@@ -2425,6 +2245,194 @@
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
+  },
+  {
+   "id": "401882698",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-12-02T18:00Z",
+   "home": "Real Sociedad",
+   "away": "Real Madrid",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Reale Arena",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+",
+    "ESPN2"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+  },
+  {
+   "id": "401879222",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T19:30Z",
+   "home": "Chelsea",
+   "away": "Crystal Palace",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stamford Bridge",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
+  },
+  {
+   "id": "401879220",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T19:30Z",
+   "home": "Hull City",
+   "away": "Nottingham Forest",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "The MKM Stadium",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
+  },
+  {
+   "id": "401879219",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T19:30Z",
+   "home": "Liverpool",
+   "away": "Sunderland",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Anfield",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
+  },
+  {
+   "id": "401879218",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T19:30Z",
+   "home": "Manchester City",
+   "away": "Leeds United",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Etihad Stadium",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
+  },
+  {
+   "id": "401879223",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T20:15Z",
+   "home": "AFC Bournemouth",
+   "away": "Brighton & Hove Albion",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Vitality Stadium",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
+  },
+  {
+   "id": "401878751",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T20:15Z",
+   "home": "Aston Villa",
+   "away": "Everton",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Villa Park",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
+  },
+  {
+   "id": "401878750",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T20:15Z",
+   "home": "Brentford",
+   "away": "Arsenal",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Gtech Community Stadium",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+  },
+  {
+   "id": "401879217",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T20:15Z",
+   "home": "Newcastle United",
+   "away": "Manchester United",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "St. James' Park",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+  },
+  {
+   "id": "401882700",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-12-02T20:30Z",
+   "home": "Barcelona",
+   "away": "Atl\u00e9tico Madrid",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Spotify Camp Nou",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+",
+    "ESPN2"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
   }
  ],
  "national": [
@@ -14570,6 +14578,194 @@
    "usa": [],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
+  },
+  "401882698": {
+   "id": "401882698",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-12-02T18:00Z",
+   "home": "Real Sociedad",
+   "away": "Real Madrid",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Reale Arena",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+",
+    "ESPN2"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+  },
+  "401879222": {
+   "id": "401879222",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T19:30Z",
+   "home": "Chelsea",
+   "away": "Crystal Palace",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Stamford Bridge",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
+  },
+  "401879220": {
+   "id": "401879220",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T19:30Z",
+   "home": "Hull City",
+   "away": "Nottingham Forest",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "The MKM Stadium",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
+  },
+  "401879219": {
+   "id": "401879219",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T19:30Z",
+   "home": "Liverpool",
+   "away": "Sunderland",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Anfield",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
+  },
+  "401879218": {
+   "id": "401879218",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T19:30Z",
+   "home": "Manchester City",
+   "away": "Leeds United",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Etihad Stadium",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
+  },
+  "401879223": {
+   "id": "401879223",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T20:15Z",
+   "home": "AFC Bournemouth",
+   "away": "Brighton & Hove Albion",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Vitality Stadium",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
+  },
+  "401878751": {
+   "id": "401878751",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T20:15Z",
+   "home": "Aston Villa",
+   "away": "Everton",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Villa Park",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
+  },
+  "401878750": {
+   "id": "401878750",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T20:15Z",
+   "home": "Brentford",
+   "away": "Arsenal",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Gtech Community Stadium",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+  },
+  "401879217": {
+   "id": "401879217",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-02T20:15Z",
+   "home": "Newcastle United",
+   "away": "Manchester United",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "St. James' Park",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+  },
+  "401882700": {
+   "id": "401882700",
+   "code": "esp.1",
+   "l": "esp",
+   "comp": "Spanish LALIGA",
+   "date": "2026-12-02T20:30Z",
+   "home": "Barcelona",
+   "away": "Atl\u00e9tico Madrid",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Spotify Camp Nou",
+   "usa": [
+    "ESPN Deportes",
+    "ESPN+",
+    "ESPN2"
+   ],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
   }
  }
 }
