@@ -1,6 +1,30 @@
 {
  "news": [
   {
+   "source": "The Guardian",
+   "title": "Sunderland v Jagiellonia Bialystok, Crystal Palace v Real Sociedad, and more: Europa League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/26/sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-live",
+   "summary": "\u26bd\ufe0f Updates from Thursday\u2019s 8pm GMT matches\u26bd\ufe0f Live scoreboard | Read Football Daily | Email WillCrystal Palace: Henderson, Richards, Disasi, Canvot, Timber, Hughes, Kamada, Chilwell, Nketiah, Pino, Mateta.Subs: Benitez,\u2026",
+   "date": "2026-11-26T19:04:55+00:00",
+   "image": "https://i.guim.co.uk/img/media/b8548635f42a002451a2f8b17c0bd2bd6d773de5/807_0_4036_3229/master/4036.jpg?width=140&quality=85&auto=format&fit=max&s=666ee1661e9ccc8107e2fc2725733c03"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Calvert-Lewin signs new Leeds deal until 2029",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
+   "summary": "England international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029.",
+   "date": "2026-11-26T18:00:31+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aba/live/b46ac100-e9ba-11f1-8d2a-f5d2aabc11cb.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/m00352c4?at_medium=RSS&at_campaign=rss",
+   "summary": "Adam Clery & Luke Kempner join Rick & Lloyd to review Arsenal\u2019s difficult week.",
+   "date": "2026-11-26T17:25:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg"
+  },
+  {
    "source": "BBC Sport",
    "title": "Germany's Freigang given 16-month ban over drugs test issues",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
@@ -55,33 +79,33 @@
    "summary": "Manchester United goalkeeper Senne Lammens made two major mistakes in the 2-2 draw with Sporting - could Mauricio Pochettino drop his goalkeeper?",
    "date": "2026-11-26T14:56:30+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/482e/live/b53f8050-e971-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "David Squires on \u2026 youth development and nightmare parents on the touchline",
-   "link": "https://www.theguardian.com/sport/picture/2026/nov/27/david-squires-cartoon-youth-development-and-nightmare-football-parents",
-   "summary": "Our cartoonist on those parents who live vicariously through the successes of their children on the football pitch Continue reading...",
-   "date": "2026-11-26T14:00:37+00:00",
-   "image": "https://i.guim.co.uk/img/media/226857dec500c8ed3f20e08f1d2452ed8e4af411/113_1037_855_683/master/855.jpg?width=140&quality=85&auto=format&fit=max&s=6d43388fa4f989086321fb5dba369fdc"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "The American manager with a maths degree making history in La Liga",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Real Sociedad boss Pellegrino Matarazzo made history as the first American manager in La Liga. His side face Crystal Palace in the Europa League on Thursday.",
-   "date": "2026-11-26T13:49:20+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c4/live/370bcdd0-e997-11f1-b880-15b494ba858d.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Not even making a 12-man bench - what next for Garnacho?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
-   "summary": "Alejandro Garnacho's brief Aston Villa career already looks over, so what next for the 22-year-old?",
-   "date": "2026-11-26T13:23:05+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a084/live/87c18b60-e8bc-11f1-9e64-bddd508b9881.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "The Guardian",
+   "title": "Sunderland v Jagiellonia Bialystok, Crystal Palace v Real Sociedad, and more: Europa League \u2013 live",
+   "link": "https://www.theguardian.com/football/live/2026/nov/26/sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-live",
+   "summary": "\u26bd\ufe0f Updates from Thursday\u2019s 8pm GMT matches\u26bd\ufe0f Live scoreboard | Read Football Daily | Email WillCrystal Palace: Henderson, Richards, Disasi, Canvot, Timber, Hughes, Kamada, Chilwell, Nketiah, Pino, Mateta.Subs: Benitez,\u2026",
+   "date": "2026-11-26T19:04:55+00:00",
+   "image": "https://i.guim.co.uk/img/media/b8548635f42a002451a2f8b17c0bd2bd6d773de5/807_0_4036_3229/master/4036.jpg?width=140&quality=85&auto=format&fit=max&s=666ee1661e9ccc8107e2fc2725733c03"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Calvert-Lewin signs new Leeds deal until 2029",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
+   "summary": "England international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029.",
+   "date": "2026-11-26T18:00:31+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aba/live/b46ac100-e9ba-11f1-8d2a-f5d2aabc11cb.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Football Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/m00352c4?at_medium=RSS&at_campaign=rss",
+   "summary": "Adam Clery & Luke Kempner join Rick & Lloyd to review Arsenal\u2019s difficult week.",
+   "date": "2026-11-26T17:25:00+00:00",
+   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg"
+  },
   {
    "source": "BBC Sport",
    "title": "Germany's Freigang given 16-month ban over drugs test issues",
@@ -459,14 +483,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cda/live/3cd95070-e901-11f1-a094-5fdc692f3e33.png"
   },
   {
-   "source": "The Guardian",
-   "title": "Raheem Sterling\u2019s rise and fall: a sign football is broken? - The Latest",
-   "link": "https://www.theguardian.com/news/video/2026/nov/25/raheem-sterlings-rise-and-fall-a-sign-football-is-broken-the-latest",
-   "summary": "Raheem Sterling has been handed a 12-month jail term, suspended for 18 months, for reckless driving and possession of nitrous oxide. It marks a remarkable fall from grace for the former England and Manchester City\u2026",
-   "date": "2026-11-25T18:48:50+00:00",
-   "image": "https://i.guim.co.uk/img/media/a9b96b0471b48f5234786bef7c4f469b09220cee/82_53_1596_1277/master/1596.jpg?width=140&quality=85&auto=format&fit=max&s=9b2bf74b62e723073060b93506301d0f"
-  },
-  {
    "source": "BBC Sport",
    "title": "Glasner criticises Forest players yet to learn English",
    "link": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
@@ -475,12 +491,12 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3f7/live/c0988ec0-e8ee-11f1-99a1-253766e7ad8b.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "'Justice for sport' - Afcon reaction as Senegal reinstated as winners",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6vg2e32e7vno?at_medium=RSS&at_campaign=rss",
-   "summary": "Players and officials in Senegal have welcomed the decision to reinstate the West Africans as Afcon 2025 champions, but those in Morocco still contest the decision.",
-   "date": "2026-11-25T17:32:30+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c6/live/764fb5d0-e8eb-11f1-8808-1d4222955d7e.jpg"
+   "source": "The Guardian",
+   "title": "Peter Storey obituary",
+   "link": "https://www.theguardian.com/football/2026/nov/25/peter-storey-obituary",
+   "summary": "Arsenal midfielder capped by England 19 times whose life after football suffered a drink-fuelled declineThe footballer Peter Storey, who has died aged 81, was a tough-tackling midfielder for Arsenal when they won the\u2026",
+   "date": "2026-11-25T17:40:02+00:00",
+   "image": "https://i.guim.co.uk/img/media/7d1560c4060ba280f563b805421b66bc6049dc5c/124_0_1796_1437/master/1796.jpg?width=140&quality=85&auto=format&fit=max&s=73e12dbc3410ab83553dfc78b7e6e6fb"
   },
   {
    "source": "The Guardian",
@@ -545,25 +561,27 @@
    "summary": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence.",
    "date": "2026-11-25T12:42:57+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/4b3ef840-e8a2-11f1-869a-f96fd5660210.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Senegal regaining Afcon title is the right end to fiasco but issues do not stop there | Osasu Obayiuwana",
-   "link": "https://www.theguardian.com/football/2026/nov/25/senegal-regaining-afcon-title-right-end-african-football",
-   "summary": "After African football was dragged into needless disrepute the next step is to tackle two key areas of governanceA journey of 310 days and three legal proceedings to confirm two things we know \u2013 that Senegal beat\u2026",
-   "date": "2026-11-25T12:41:11+00:00",
-   "image": "https://i.guim.co.uk/img/media/6c1261b0ad77184331382c12edebc2ec700d3eef/330_0_3297_2637/master/3297.jpg?width=140&quality=85&auto=format&fit=max&s=84e731ae269dec0d90838f4dceebb50b"
-  },
-  {
-   "source": "The Guardian",
-   "title": "\u2018It threw me off my bowling a bit\u2019: Isobel Goodwin living dream after England callup",
-   "link": "https://www.theguardian.com/football/2026/nov/25/isobel-goodwin-england-callup-london-city-lionesses-bowling",
-   "summary": "London City striker, who was playing tenpin bowling when Wiegman called, says her journey has not been easyNot many phone calls are important enough to justify Isobel Goodwin missing her turn in a game of tenpin\u2026",
-   "date": "2026-11-25T12:24:49+00:00",
-   "image": "https://i.guim.co.uk/img/media/eea8068cb17dd4af829234f4889c968aa7011b38/513_0_6658_5328/master/6658.jpg?width=140&quality=85&auto=format&fit=max&s=c405fe0c00ff7f63522fad36b09e0eee"
   }
  ],
  "videos": [
+  {
+   "channel": "FIFA",
+   "id": "tr7SqpfS2VM",
+   "title": "Morocco v Spain | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+   "date": "2026-11-26T17:50:26+00:00"
+  },
+  {
+   "channel": "FIFA",
+   "id": "aZkaYSGmBFM",
+   "title": "China PR v Fiji | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+   "date": "2026-11-26T17:30:02+00:00"
+  },
+  {
+   "channel": "FIFA",
+   "id": "3l2KcKSIhvY",
+   "title": "Uzbekistan v Italy | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+   "date": "2026-11-26T17:10:07+00:00"
+  },
   {
    "channel": "Serie A",
    "id": "fpd0PEZoLsU",
@@ -649,28 +667,22 @@
    "date": "2026-11-25T20:00:23+00:00"
   },
   {
-   "channel": "FIFA",
-   "id": "m329TQAKbyI",
-   "title": "Australia v Mozambique | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-25T19:00:24+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "tVgHalWj1Oc",
-   "title": "Denmark v Argentina | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-   "date": "2026-11-25T18:47:27+00:00"
-  },
-  {
    "channel": "Serie A",
    "id": "Gl5P70UfNlA",
    "title": "VARELA\u2019s BACKHEEL!! GOAL OF THE SEASON?! \ud83e\udd2f | Every Angle | Serie A Enilive 2026/27",
    "date": "2026-11-25T15:00:27+00:00"
   },
   {
+   "channel": "LaLiga",
+   "id": "JsMxD2gSM2Y",
+   "title": "ZABIRI es COMPRA FANTASY: \u00bfpuja ideal? | LALIGA FANTASY SHOW #12",
+   "date": "2026-11-26T17:48:02+00:00"
+  },
+  {
    "channel": "Premier League",
-   "id": "yI9E-PuCmOM",
-   "title": "From Kick-Off To Goal In 15 Seconds Or Less!",
-   "date": "2026-11-25T14:55:18+00:00"
+   "id": "U_w4EfTojGc",
+   "title": "Is It Time To Remove Erling Haaland From Your Team | FPL Podcast 2026/27",
+   "date": "2026-11-26T17:21:01+00:00"
   },
   {
    "channel": "LaLiga",
@@ -695,18 +707,6 @@
    "id": "H6fAc566Vu8",
    "title": "Mac Allister Does Not Feel Pressure \ud83d\ude2e\u200d\ud83d\udca8\ud83e\udd5c",
    "date": "2026-11-26T14:51:33+00:00"
-  },
-  {
-   "channel": "Premier League",
-   "id": "BYmTEhHddIM",
-   "title": "Rayan Cherki Rates His BEST Attacking Moments for Man City",
-   "date": "2026-11-26T14:01:32+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "8gyg-YSEU3c",
-   "title": "RAMON in attacco, MUSAH in difesa: le letture decisive della giornata 12 \ud83d\udcdd | TATTICAMENTE S1 E10",
-   "date": "2026-11-26T14:00:29+00:00"
   }
  ],
  "fixtures": [
@@ -900,9 +900,9 @@
    "away": "Hapoel Be'er",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+5'",
    "venue": "Batumi Stadium (Adjarabet Arena)",
    "usa": [
     "Paramount+"
@@ -918,11 +918,11 @@
    "date": "2026-11-26T17:45Z",
    "home": "Celta Vigo",
    "away": "AFC Bournemouth",
-   "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "hs": "1",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "72'",
    "venue": "Balaidos",
    "usa": [
     "Paramount+"
@@ -939,10 +939,10 @@
    "home": "Dinamo Zagreb",
    "away": "Bayer Leverkusen",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "2",
+   "live": true,
+   "state": "in",
+   "clock": "73'",
    "venue": "Maksimir Stadium",
    "usa": [
     "Paramount+"
@@ -958,11 +958,11 @@
    "date": "2026-11-26T17:45Z",
    "home": "Marseille",
    "away": "Levski Sofia",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "72'",
    "venue": "Stade V\u00e9lodrome",
    "usa": [
     "Paramount+"
@@ -978,11 +978,11 @@
    "date": "2026-11-26T17:45Z",
    "home": "Olympiacos",
    "away": "AC Milan",
-   "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "hs": "2",
+   "as": "3",
+   "live": true,
+   "state": "in",
+   "clock": "73'",
    "venue": "Georgios Karaiskakis Stadium",
    "usa": [
     "Paramount+"
@@ -998,11 +998,11 @@
    "date": "2026-11-26T17:45Z",
    "home": "RB Salzburg",
    "away": "Ararat-Armenia",
-   "hs": "0",
+   "hs": "2",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "74'",
    "venue": "Red Bull Arena Salzburg",
    "usa": [
     "Paramount+"
@@ -1018,11 +1018,11 @@
    "date": "2026-11-26T17:45Z",
    "home": "Union St.-Gilloise",
    "away": "Lech Poznan",
-   "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "hs": "2",
+   "as": "2",
+   "live": true,
+   "state": "in",
+   "clock": "72'",
    "venue": "King Power at Den Dreef Stadion",
    "usa": [
     "Paramount+"
@@ -1038,11 +1038,11 @@
    "date": "2026-11-26T17:45Z",
    "home": "Viktoria Plzen",
    "away": "Benfica",
-   "hs": "0",
+   "hs": "4",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "73'",
    "venue": "Doosan Arena",
    "usa": [
     "Paramount+"
@@ -13233,9 +13233,9 @@
    "away": "Hapoel Be'er",
    "hs": "0",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "45'+5'",
    "venue": "Batumi Stadium (Adjarabet Arena)",
    "usa": [
     "Paramount+"
@@ -13251,11 +13251,11 @@
    "date": "2026-11-26T17:45Z",
    "home": "Celta Vigo",
    "away": "AFC Bournemouth",
-   "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "hs": "1",
+   "as": "1",
+   "live": true,
+   "state": "in",
+   "clock": "72'",
    "venue": "Balaidos",
    "usa": [
     "Paramount+"
@@ -13272,10 +13272,10 @@
    "home": "Dinamo Zagreb",
    "away": "Bayer Leverkusen",
    "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "as": "2",
+   "live": true,
+   "state": "in",
+   "clock": "73'",
    "venue": "Maksimir Stadium",
    "usa": [
     "Paramount+"
@@ -13291,11 +13291,11 @@
    "date": "2026-11-26T17:45Z",
    "home": "Marseille",
    "away": "Levski Sofia",
-   "hs": "0",
+   "hs": "1",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "72'",
    "venue": "Stade V\u00e9lodrome",
    "usa": [
     "Paramount+"
@@ -13311,11 +13311,11 @@
    "date": "2026-11-26T17:45Z",
    "home": "Olympiacos",
    "away": "AC Milan",
-   "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "hs": "2",
+   "as": "3",
+   "live": true,
+   "state": "in",
+   "clock": "73'",
    "venue": "Georgios Karaiskakis Stadium",
    "usa": [
     "Paramount+"
@@ -13331,11 +13331,11 @@
    "date": "2026-11-26T17:45Z",
    "home": "RB Salzburg",
    "away": "Ararat-Armenia",
-   "hs": "0",
+   "hs": "2",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "74'",
    "venue": "Red Bull Arena Salzburg",
    "usa": [
     "Paramount+"
@@ -13351,11 +13351,11 @@
    "date": "2026-11-26T17:45Z",
    "home": "Union St.-Gilloise",
    "away": "Lech Poznan",
-   "hs": "0",
-   "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "hs": "2",
+   "as": "2",
+   "live": true,
+   "state": "in",
+   "clock": "72'",
    "venue": "King Power at Den Dreef Stadion",
    "usa": [
     "Paramount+"
@@ -13371,11 +13371,11 @@
    "date": "2026-11-26T17:45Z",
    "home": "Viktoria Plzen",
    "away": "Benfica",
-   "hs": "0",
+   "hs": "4",
    "as": "0",
-   "live": false,
-   "state": "pre",
-   "clock": "0'",
+   "live": true,
+   "state": "in",
+   "clock": "73'",
    "venue": "Doosan Arena",
    "usa": [
     "Paramount+"
