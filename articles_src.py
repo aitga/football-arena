@@ -16,7 +16,7 @@ ARTICLES = [
 <p>Without offside, a team could leave one striker standing next to the opponent's goalkeeper all match, waiting for long balls. The rule forces attackers to time their runs, and it rewards clever movement. Watch a top striker like a hawk and you will see them drifting along the defensive line, waiting for the exact moment to sprint in behind.</p>
 <h2>A quick example</h2>
 <p>A midfielder passes forward. At that moment the striker is half a step behind the last defender. Flag up: offside. If the striker had stayed level and only started running after the pass was played, it would be a perfectly good goal.</p>
-<p><strong>Your turn:</strong> what is the most controversial offside decision you have ever seen? Share it with us on our Facebook Page.</p>
+<p><strong>Your turn:</strong> what is the most controversial offside decision you have ever seen? Share it with us on TikTok.</p>
 """},
 {"slug": "football-formations-explained", "title": "Football Formations Explained: 4-4-2, 4-3-3 and 3-5-2", "date": "2026-11-04", "tag": "Tactics",
  "summary": "What do those numbers like 4-3-3 actually mean? A simple guide to the most popular football formations.",

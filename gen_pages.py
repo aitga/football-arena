@@ -34,11 +34,11 @@ open("about.html", "w").write(page("About Football Arena", "About Football Arena
 <li><strong>Articles:</strong> our own easy-to-read guides about the rules, tactics and history of football.</li></ul>
 <h2>Our approach</h2>
 <p>We respect the work of clubs, leagues and journalists. We never re-upload other people's videos or copy their articles: we link to the official source so the creators get the credit. Our own articles are written by the Football Arena team.</p>
-<p>Follow us on <a href="{FB}" target="_blank" rel="noopener">Facebook</a> and <a href="{TT}" target="_blank" rel="noopener">TikTok</a> for daily match recaps, stories and videos.</p>""", 0, path="about.html"))
+<p>Follow us on <a href="{TT}" target="_blank" rel="noopener">TikTok</a> for daily match recaps, stories and videos.</p>""", 0, path="about.html"))
 open("contact.html", "w").write(page("Contact Football Arena", "How to contact Football Arena.", f"""
 <h1>Contact us</h1>
 <p>We'd love to hear from you — whether you have a question, a correction, a story idea or a business enquiry.</p>
-<p>The fastest way to reach us is to send a message to our <a href="{FB}" target="_blank" rel="noopener">Football Arena Facebook Page</a>. We usually reply within 48 hours.</p>
+<p>The fastest way to reach us is to send a message to our <a href="{TT}" target="_blank" rel="noopener">Football Arena TikTok account</a>. We usually reply within 48 hours.</p>
 <p>If you believe any content on this site should be credited differently or removed, please tell us and we will act quickly.</p>""", 0, path="contact.html"))
 print("pages built:", len(arts))
 
