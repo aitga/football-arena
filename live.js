@@ -99,14 +99,26 @@ cmStyle.textContent = ".lv-cm{display:flex;flex-wrap:wrap;align-items:center;gap
 document.head.appendChild(cmStyle);
 function voiceFor(l) {
   if (!window.speechSynthesis) return null;
-  var vs = speechSynthesis.getVoices() || [];
-  return vs.filter(function (v) { return v.lang && v.lang.toLowerCase().indexOf(l) === 0; })[0] || null;
+  var vs = (speechSynthesis.getVoices() || []).filter(function (v) { return v.lang && v.lang.toLowerCase().indexOf(l) === 0; });
+  // pick the most human-sounding voice the device has: neural/online voices first, the old robotic ones last
+  var score = function (v) {
+    var n = v.name || "", s = 0;
+    if (/natural|neural/i.test(n)) s += 50;
+    if (/online|premium|enhanced|siri/i.test(n)) s += 30;
+    if (/google/i.test(n)) s += 20;
+    if (!v.localService) s += 10;
+    if (/espeak|compact|robot/i.test(n)) s -= 50;
+    if (v.lang.toLowerCase().replace("_", "-") === CM_LANG[l].toLowerCase()) s += 5;
+    return s;
+  };
+  vs.sort(function (a, b) { return score(b) - score(a); });
+  return vs[0] || null;
 }
 function say(text) {
   if (cm === "off" || !window.speechSynthesis || !text) return;
   var u = new SpeechSynthesisUtterance(text);
   u.lang = CM_LANG[cm]; var v = voiceFor(cm); if (v) u.voice = v;
-  u.rate = 1.05; u.pitch = 1.05;
+  u.rate = 1; u.pitch = 1;
   speechSynthesis.speak(u);
 }
 function cmBar() {
