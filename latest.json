@@ -2,6 +2,22 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "Hearts' European hopes hang by a thread but Vrancken proud",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
+   "summary": "Hearts head coach Wouter Vrancken expresses both pride and disappointment after his team came out on the wrong side of a five-goal thriller against Monaco.",
+   "date": "2026-11-26T23:59:43+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50e/live/fd3df170-e9df-11f1-9361-cd8ed0157587.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Europa League: Bournemouth make it a perfect 10 while Celtic leave it late",
+   "link": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica",
+   "summary": "Marco Rose\u2019s team close in on qualificationMarseille v Levski Sofia marred by crowd troubleBournemouth moved a step closer to automatic qualification for the Europa League last 16 after coming from behind with 10 men to\u2026",
+   "date": "2026-11-26T23:24:43+00:00",
+   "image": "https://i.guim.co.uk/img/media/c098ddcf6dba3f60becaa97c8a881352d0e8ba3e/429_0_4299_3439/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=ce66757403f9171dfaf472366f14f63e"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
    "summary": "Bournemouth are dreaming of winning the Europa League after joining a select band of teams who have won their first five European games.",
@@ -12,7 +28,7 @@
    "source": "The Guardian",
    "title": "Reinildo error extends Sunderland woe as Jagiellonia grab Europa League draw",
    "link": "https://www.theguardian.com/football/2026/nov/26/sunderland-jagiellonia-bialystok-europa-league-match-report",
-   "summary": "Jagiellonia Bialystok\u2019s head coach, Adrian Siemieniec claimed this trip to Wearside to face Premier League opposition represented one of the biggest highlights of a career that has already seen him celebrate a Polish\u2026",
+   "summary": "Jagiellonia Bialystok\u2019s head coach, Adrian Siemieniec, claimed this trip to Wearside to face Premier League opposition represented one of the biggest highlights of a career in which he has already celebrated a Polish\u2026",
    "date": "2026-11-26T22:27:37+00:00",
    "image": "https://i.guim.co.uk/img/media/2707ddccbc36b55cf5c8f584d664b731ba569647/246_0_2656_2125/master/2656.jpg?width=140&quality=85&auto=format&fit=max&s=8a7485339f7339e77ac47a0706c9c575"
   },
@@ -28,7 +44,7 @@
    "source": "The Guardian",
    "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
    "link": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
-   "summary": "Football seasons can pivot on certain moments and Thomas Frank will hope that Crystal Palace\u2019s came 17 minutes from time here. Deservedly trailing to Mamadou Sarr\u2019s goal having been second best throughout against Real\u2026",
+   "summary": "Football seasons can pivot on certain moments and Thomas Frank will hope that Crystal Palace\u2019s turning point came 17 minutes from full time here. Deservedly trailing to Mamadou Sarr\u2019s goal having been second best\u2026",
    "date": "2026-11-26T22:10:14+00:00",
    "image": "https://i.guim.co.uk/img/media/584eb1f496ef84b308a7ffd146d702e7bec08b44/337_229_2222_1779/master/2222.jpg?width=140&quality=85&auto=format&fit=max&s=f2e40537fed82fbc7e0af619c4a9d46d"
   },
@@ -55,14 +71,6 @@
    "summary": "Turkey\u2019s top diplomat speaks with Georgian counterpartEuropa League match halted after police enter standsTurkey\u2019s top diplomat has spoken with his Georgian counterpart after incidents at Besiktas\u2019s Europa League match\u2026",
    "date": "2026-11-26T20:47:37+00:00",
    "image": "https://i.guim.co.uk/img/media/ecd73176aebcd89b80ff1f812ea3b676027a4f87/1168_1062_5552_4442/master/5552.jpg?width=140&quality=85&auto=format&fit=max&s=6f6acfdf2cee6543056b2e74d8a294c2"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Europa League: Bournemouth make it 10 wins in a row despite early red for Diakit\u00e9",
-   "link": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica",
-   "summary": "Marco Rose\u2019s team close in on qualificationMarseille v Levski Sofia marred by crowd troubleBournemouth moved a step closer to automatic qualification for the Europa League last 16 after coming from behind with 10 men to\u2026",
-   "date": "2026-11-26T20:44:44+00:00",
-   "image": "https://i.guim.co.uk/img/media/c098ddcf6dba3f60becaa97c8a881352d0e8ba3e/429_0_4299_3439/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=ce66757403f9171dfaf472366f14f63e"
   },
   {
    "source": "The Guardian",
@@ -71,17 +79,25 @@
    "summary": "Before the release of a new documentary, the unrepentant Manchester United icon reflects on his deep bond with English football and his darker instincts\u201cI\u2019m an angel and a demon,\u201d \u00c9ric Cantona says intently during a\u2026",
    "date": "2026-11-26T20:00:44+00:00",
    "image": "https://i.guim.co.uk/img/media/02aba3b5b8d7b90caccf2d25723032f3e27d8bf1/3_1404_5298_4238/master/5298.jpg?width=140&quality=85&auto=format&fit=max&s=1413906ca0a5d7bd999447808ce94856"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Carsley eyes Euros history with England U21s after draw",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o?at_medium=RSS&at_campaign=rss",
-   "summary": "England have won the past two European Under-21 Championships, and Lee Carsley says they will \"go all out\" for a hat-trick.",
-   "date": "2026-11-26T19:35:17+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1924/live/70bc6b80-e9cd-11f1-82cb-3544f07293b5.jpg"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "Hearts' European hopes hang by a thread but Vrancken proud",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
+   "summary": "Hearts head coach Wouter Vrancken expresses both pride and disappointment after his team came out on the wrong side of a five-goal thriller against Monaco.",
+   "date": "2026-11-26T23:59:43+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50e/live/fd3df170-e9df-11f1-9361-cd8ed0157587.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Europa League: Bournemouth make it a perfect 10 while Celtic leave it late",
+   "link": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica",
+   "summary": "Marco Rose\u2019s team close in on qualificationMarseille v Levski Sofia marred by crowd troubleBournemouth moved a step closer to automatic qualification for the Europa League last 16 after coming from behind with 10 men to\u2026",
+   "date": "2026-11-26T23:24:43+00:00",
+   "image": "https://i.guim.co.uk/img/media/c098ddcf6dba3f60becaa97c8a881352d0e8ba3e/429_0_4299_3439/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=ce66757403f9171dfaf472366f14f63e"
+  },
   {
    "source": "BBC Sport",
    "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
@@ -94,7 +110,7 @@
    "source": "The Guardian",
    "title": "Reinildo error extends Sunderland woe as Jagiellonia grab Europa League draw",
    "link": "https://www.theguardian.com/football/2026/nov/26/sunderland-jagiellonia-bialystok-europa-league-match-report",
-   "summary": "Jagiellonia Bialystok\u2019s head coach, Adrian Siemieniec claimed this trip to Wearside to face Premier League opposition represented one of the biggest highlights of a career that has already seen him celebrate a Polish\u2026",
+   "summary": "Jagiellonia Bialystok\u2019s head coach, Adrian Siemieniec, claimed this trip to Wearside to face Premier League opposition represented one of the biggest highlights of a career in which he has already celebrated a Polish\u2026",
    "date": "2026-11-26T22:27:37+00:00",
    "image": "https://i.guim.co.uk/img/media/2707ddccbc36b55cf5c8f584d664b731ba569647/246_0_2656_2125/master/2656.jpg?width=140&quality=85&auto=format&fit=max&s=8a7485339f7339e77ac47a0706c9c575"
   },
@@ -110,7 +126,7 @@
    "source": "The Guardian",
    "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
    "link": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
-   "summary": "Football seasons can pivot on certain moments and Thomas Frank will hope that Crystal Palace\u2019s came 17 minutes from time here. Deservedly trailing to Mamadou Sarr\u2019s goal having been second best throughout against Real\u2026",
+   "summary": "Football seasons can pivot on certain moments and Thomas Frank will hope that Crystal Palace\u2019s turning point came 17 minutes from full time here. Deservedly trailing to Mamadou Sarr\u2019s goal having been second best\u2026",
    "date": "2026-11-26T22:10:14+00:00",
    "image": "https://i.guim.co.uk/img/media/584eb1f496ef84b308a7ffd146d702e7bec08b44/337_229_2222_1779/master/2222.jpg?width=140&quality=85&auto=format&fit=max&s=f2e40537fed82fbc7e0af619c4a9d46d"
   },
@@ -137,14 +153,6 @@
    "summary": "Turkey\u2019s top diplomat speaks with Georgian counterpartEuropa League match halted after police enter standsTurkey\u2019s top diplomat has spoken with his Georgian counterpart after incidents at Besiktas\u2019s Europa League match\u2026",
    "date": "2026-11-26T20:47:37+00:00",
    "image": "https://i.guim.co.uk/img/media/ecd73176aebcd89b80ff1f812ea3b676027a4f87/1168_1062_5552_4442/master/5552.jpg?width=140&quality=85&auto=format&fit=max&s=6f6acfdf2cee6543056b2e74d8a294c2"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Europa League: Bournemouth make it 10 wins in a row despite early red for Diakit\u00e9",
-   "link": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica",
-   "summary": "Marco Rose\u2019s team close in on qualificationMarseille v Levski Sofia marred by crowd troubleBournemouth moved a step closer to automatic qualification for the Europa League last 16 after coming from behind with 10 men to\u2026",
-   "date": "2026-11-26T20:44:44+00:00",
-   "image": "https://i.guim.co.uk/img/media/c098ddcf6dba3f60becaa97c8a881352d0e8ba3e/429_0_4299_3439/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=ce66757403f9171dfaf472366f14f63e"
   },
   {
    "source": "The Guardian",
@@ -388,35 +396,11 @@
   },
   {
    "source": "BBC Sport",
-   "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss",
-   "summary": "Match of the Day's Stephen Warnock and Nedum Onuoha analyse the recent resurgence of Alexander Isak and Florian Wirtz for as they led Liverpool to victory against Club Brugge.debut seasons last year.",
-   "date": "2026-11-25T23:38:42+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70be/live/120c5330-e927-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "'All coming together' - Isak repaying Liverpool faith",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss",
    "summary": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid \u00a3125m to bring him to the club.",
    "date": "2026-11-25T23:25:30+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ef/live/25c99400-e927-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Fenerbahce squeeze past Shakhtar to seal back-to-back wins",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6ly51452xe7o?at_medium=RSS&at_campaign=rss",
-   "summary": "Turkish side Fenerbahce defeat Shakhtar Donetsk in a close affair at Stamford Bridge to give their hopes of Champions League qualification a huge boost.",
-   "date": "2026-11-25T23:16:18+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0815/live/f4273cf0-e925-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Martinez secures Inter win against Stuttgart",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
-   "summary": "Lautaro Martinez comes off the bench to score as Inter Milan beat Stuttgart and boost their chances of reaching the Champions League knockout stages.",
-   "date": "2026-11-25T23:02:15+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7485/live/5a5ede90-e923-11f1-99a1-253766e7ad8b.jpg"
   },
   {
    "source": "The Guardian",
@@ -427,78 +411,6 @@
    "image": "https://i.guim.co.uk/img/media/c03596aa7a3bdfc36f7e71d5cd4826c5036b0bd0/418_170_4292_3434/master/4292.jpg?width=140&quality=85&auto=format&fit=max&s=355c9e8fe37965c945a317eb51a8102e"
   },
   {
-   "source": "BBC Sport",
-   "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
-   "summary": "Goalkeeper Senne Lammens endures a topsy-turvy night as Manchester United draw with Sporting.controversial decisions.",
-   "date": "2026-11-25T22:32:51+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6340/live/dffcada0-e920-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "PSG held by Roma as in-form Malen scores again",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cwvg2832elr4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Donyell Malen scores for the fourth Champions League game running as Roma ends Paris St-Germain's 100% start to the competition.",
-   "date": "2026-11-25T22:27:14+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174b/live/89b8f780-e91d-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
-   "summary": "Bayern Munich suffer their first defeat of the Champions League campaign as Lille find the net twice in three minutes in the second half, including a comical Aleksander Pavlovic own goal, to inflict a huge upset.",
-   "date": "2026-11-25T22:24:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2605/live/bdc03610-e91d-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Isak scores twice as clinical Liverpool beat Brugge",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
-   "summary": "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last  Champions League match.",
-   "date": "2026-11-25T22:12:19+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7011/live/1961c530-e91c-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Gordon stars in comfortable Barca win over Sabah",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
-   "summary": "Anthony Gordon scores Barcelona's opening two goals as they ease past Sabah with a 4-1 win in the Champions League.",
-   "date": "2026-11-25T22:07:02+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebd6/live/0a4713c0-e903-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Borussia Dortmund fight back to draw with Arsenal",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo?at_medium=RSS&at_campaign=rss",
-   "summary": "Borussia Dortmund fight back from a goal behind to draw with Arsenal in the Champions League.",
-   "date": "2026-11-25T22:05:57+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e240/live/832f36d0-e860-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Blunt Villa beaten by late Galatasaray winner",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6r7g92p5k79o?at_medium=RSS&at_campaign=rss",
-   "summary": "Deniz Gul scores a late winner for Galatasaray as Aston Villa slip to successive Champions League defeats.",
-   "date": "2026-11-25T22:05:53+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/aa1d08d0-e860-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Cherki rescues point for Man City against Napoli",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cjy5xwygqg9do?at_medium=RSS&at_campaign=rss",
-   "summary": "Rayan Cherki's late equaliser rescues a point for Manchester City at home to Napoli in the Champions League, who have now won just one of their past seven games in all competitions.",
-   "date": "2026-11-25T22:05:49+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d0a/live/4cdf0f20-e85f-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Sublime Bellingham strike lights up Real's rout of PSV",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o?at_medium=RSS&at_campaign=rss",
-   "summary": "Jude Bellingham comes off the bench to score a stunning goal as Real Madrid come from behind to beat PSV Eindhoven and maintain their 100% record in the Champions League.",
-   "date": "2026-11-25T22:05:45+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ba5/live/0ccb6090-e8f6-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Isak and Wirtz on target as resurgent Liverpool sweep aside Club Brugge",
    "link": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
@@ -507,28 +419,12 @@
    "image": "https://i.guim.co.uk/img/media/7f5594be0e1a2dc758f3598b04ccc453de05b28b/1617_333_5847_4677/master/5847.jpg?width=140&quality=85&auto=format&fit=max&s=aa464307b89e2007137f55f1bcc88eff"
   },
   {
-   "source": "BBC Sport",
-   "title": "Ferguson's Glentoran reign hits early turbulence",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9v7457nro?at_medium=RSS&at_campaign=rss",
-   "summary": "Duncan Ferguson's short tenure at Glentoran is already proving anything but straightforward with just one win so far and the former Everton striker now suspended for seven games.",
-   "date": "2026-11-25T21:41:00+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c6/live/644041b0-e90f-11f1-8383-53f283141713.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
    "link": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
    "summary": "\u2018Players are here for four years and can\u2019t speak English\u2019Glasner has held talks with owner over January movesNottingham Forest\u2019s manager, Oliver Glasner, believes standards at the club were not good enough before his\u2026",
    "date": "2026-11-25T21:17:34+00:00",
    "image": "https://i.guim.co.uk/img/media/194c1b6d3009e70cf1192360a3d6f2db9f64af5a/344_0_4079_3264/master/4079.jpg?width=140&quality=85&auto=format&fit=max&s=a3eb7790da7e624d2841981f7fbd28bd"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Can Iordanescu make a difference at Watford & how do you become a free-kick specialist?",
-   "link": "https://www.bbc.co.uk/sounds/play/p0ppxp3z?at_medium=RSS&at_campaign=rss",
-   "summary": "Stockport County's Ollie Norwood tells us what has meant he keeps scoring epic free kicks",
-   "date": "2026-11-25T18:35:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
   },
   {
    "source": "BBC Sport",
@@ -561,6 +457,110 @@
    "summary": "The 2035 women's tournament will be co-hosted by UK nations.",
    "date": "2026-11-25T16:00:00+00:00",
    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppvv88.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Saudi Arabia\u2019s PIF looking to sell 25% of Newcastle through share issue",
+   "link": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
+   "summary": "PIF seeking investment to fund infrastructure projectsJP Morgan appointed to handle the saleNewcastle United\u2019s owner, Saudi Arabia\u2019s Public Investment Fund (PIF), is looking to sell up to 25% of the club by issuing new\u2026",
+   "date": "2026-11-25T15:36:32+00:00",
+   "image": "https://i.guim.co.uk/img/media/bd383c7e5be79a925d59ba5e4da8252652885f95/376_0_4400_3520/master/4400.jpg?width=140&quality=85&auto=format&fit=max&s=456d4aac5b98308fb6630bdae1cae6f0"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Football Daily | Manchester City get that empty feeling as they fail to win again",
+   "link": "https://www.theguardian.com/football/2026/nov/25/manchester-city-empty-feeling-football-daily-newsletter",
+   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Early in the second half of Tuesday night\u2019s National League South match between Torquay United and Chesham, play was briefly suspended due to an ear-splitting din\u2026",
+   "date": "2026-11-25T15:13:01+00:00",
+   "image": "https://i.guim.co.uk/img/media/3fc6bfc443e98b86522aa0f8ae8b3529af0c7f26/1160_203_4603_3683/master/4603.jpg?width=140&quality=85&auto=format&fit=max&s=dd76eb4dd3a991cdb94e0f0fa0617364"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Premier League\u2019s burst of early sendings-off may not last \u2013 but red cards are on the rise for a reason",
+   "link": "https://www.theguardian.com/football/2026/nov/25/premier-league-red-cards-costinha-leny-yoro-james-tarkowski-referees",
+   "summary": "While referees tend to reach for red early in the season before easing off, players are under increasing pressure to keep pace in a frenetic environmentOff! Off! Off! The past three Premier League games have featured a\u2026",
+   "date": "2026-11-25T14:46:33+00:00",
+   "image": "https://i.guim.co.uk/img/media/3e2a19fd3ecbcd96050a909700f49268a8beb57e/1377_276_3513_2810/master/3513.jpg?width=140&quality=85&auto=format&fit=max&s=281ab8b3c21be4514185ab1c50876fa1"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Raheem Sterling - from national icon to suspended jail sentence",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+   "summary": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence.",
+   "date": "2026-11-25T12:42:57+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/4b3ef840-e8a2-11f1-869a-f96fd5660210.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Senegal regaining Afcon title is the right end to fiasco but issues do not stop there | Osasu Obayiuwana",
+   "link": "https://www.theguardian.com/football/2026/nov/25/senegal-regaining-afcon-title-right-end-african-football",
+   "summary": "After African football was dragged into needless disrepute the next step is to tackle two key areas of governanceA journey of 310 days and three legal proceedings to confirm two things we know \u2013 that Senegal beat\u2026",
+   "date": "2026-11-25T12:41:11+00:00",
+   "image": "https://i.guim.co.uk/img/media/6c1261b0ad77184331382c12edebc2ec700d3eef/330_0_3297_2637/master/3297.jpg?width=140&quality=85&auto=format&fit=max&s=84e731ae269dec0d90838f4dceebb50b"
+  },
+  {
+   "source": "The Guardian",
+   "title": "\u2018It threw me off my bowling a bit\u2019: Isobel Goodwin living dream after England callup",
+   "link": "https://www.theguardian.com/football/2026/nov/25/isobel-goodwin-england-callup-london-city-lionesses-bowling",
+   "summary": "London City striker, who was playing tenpin bowling when Wiegman called, says her journey has not been easyNot many phone calls are important enough to justify Isobel Goodwin missing her turn in a game of tenpin\u2026",
+   "date": "2026-11-25T12:24:49+00:00",
+   "image": "https://i.guim.co.uk/img/media/eea8068cb17dd4af829234f4889c968aa7011b38/513_0_6658_5328/master/6658.jpg?width=140&quality=85&auto=format&fit=max&s=c405fe0c00ff7f63522fad36b09e0eee"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Murrell flourishing at high-flying Falkirk after 'random' move",
+   "link": "https://www.bbc.co.uk/sport/articles/c6792q7gzeg8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Jacob Murrell took a big step out of his comfort zone leaving the United States for Falkirk and is enjoying a blistering run of form in Scotland, if not the food.",
+   "date": "2026-11-25T12:03:34+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac5c/live/46791780-e8bd-11f1-ac76-db9e97f93d67.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Why are there 2:05pm kick-offs in the Premier League on Sunday?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn8pneklxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Our Ask Me Anything team explain why the Premier League fixtures have some unusual kick-off times this weekend.",
+   "date": "2026-11-25T11:25:51+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93e1/live/1b641f20-e8bf-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Wales and West Ham's Morgan suffers serious injury",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c920xdl6d6kpo?at_medium=RSS&at_campaign=rss",
+   "summary": "Ffion Morgan looks set to miss the rest of the season for club and country following knee surgery.",
+   "date": "2026-11-25T10:38:44+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1bf/live/a9284a50-e407-11f1-ab35-e1af93fa5cce.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Why Man City can't wear their new kit in Premier League",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cvgvezj19yyo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport's Ask Me Anything team explains why Manchester City will not be able to wear their new fourth kit in the Premier League.",
+   "date": "2026-11-25T09:38:16+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0469/live/eb169590-e8b0-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Are Manchester United this season's Tottenham?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+   "summary": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?",
+   "date": "2026-11-25T06:22:36+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6874/live/00c21c60-e8b2-11f1-869a-f96fd5660210.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Football Daily | The game\u2019s gone: has fantasy football been ruined by AI gafferbots?",
+   "link": "https://www.theguardian.com/football/2026/nov/24/fpl-ruined-ai-football-daily-newsletter",
+   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Sometimes, the beautiful game can make Football Daily feel old. Even Monday\u2019s ostensibly old-school fixture between Brentford and Everton felt like the future\u2026",
+   "date": "2026-11-24T16:16:52+00:00",
+   "image": "https://i.guim.co.uk/img/media/3eda96c51e687b89ec23ffed48e6243fa071738e/140_0_2488_1990/master/2488.jpg?width=140&quality=85&auto=format&fit=max&s=42b3992699bc3ac39c561124e8857d90"
+  },
+  {
+   "source": "The Guardian",
+   "title": "The NWSL 2026 goals, players and nutmegs we won\u2019t forget",
+   "link": "https://www.theguardian.com/football/2026/nov/24/nwsl-awards-goals-players-moving-the-goalposts-newsletter",
+   "summary": "An Olimpico tops the list of season highlights, with mention for Croix Bethune\u2019s feats and a four-player nutmegSurely the final strands of gold and silver confetti have been picked out of the well worn surface of Audi\u2026",
+   "date": "2026-11-24T12:00:45+00:00",
+   "image": "https://i.guim.co.uk/img/media/8ab5b94e5250b648f860c69de58c7cc31ac5c5ca/177_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=7315b9eeaea148ca7aeb8a99e9051194"
   }
  ],
  "videos": [
@@ -710,186 +710,6 @@
   }
  ],
  "fixtures": [
-  {
-   "id": "401915378",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-25T17:45Z",
-   "home": "Sabah FK",
-   "away": "Barcelona",
-   "hs": "1",
-   "as": "4",
-   "live": false,
-   "state": "post",
-   "clock": "90'+2'",
-   "venue": "Baku Olympic Stadium",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
-  },
-  {
-   "id": "401915293",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-25T17:45Z",
-   "home": "Slavia Prague",
-   "away": "Villarreal",
-   "hs": "0",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "Fortuna Arena",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
-  },
-  {
-   "id": "401915291",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-25T20:00Z",
-   "home": "Atl\u00e9tico Madrid",
-   "away": "Viking FK",
-   "hs": "2",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Riyadh Air Metropolitano",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
-  },
-  {
-   "id": "401915292",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-25T20:00Z",
-   "home": "Club Brugge",
-   "away": "Liverpool",
-   "hs": "0",
-   "as": "3",
-   "live": false,
-   "state": "post",
-   "clock": "90'+3'",
-   "venue": "Jan Breydel Stadium",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
-  },
-  {
-   "id": "401915376",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-25T20:00Z",
-   "home": "Internazionale",
-   "away": "VfB Stuttgart",
-   "hs": "2",
-   "as": "0",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "San Siro",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png"
-  },
-  {
-   "id": "401915377",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-25T20:00Z",
-   "home": "Lille",
-   "away": "Bayern Munich",
-   "hs": "2",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Decathlon Arena - Stade Pierre-Mauroy",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
-  },
-  {
-   "id": "401915374",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-25T20:00Z",
-   "home": "Paris Saint-Germain",
-   "away": "AS Roma",
-   "hs": "2",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+5'",
-   "venue": "Parc des Princes",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
-  },
-  {
-   "id": "401915375",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-25T20:00Z",
-   "home": "Shakhtar Donetsk",
-   "away": "Fenerbahce",
-   "hs": "0",
-   "as": "1",
-   "live": false,
-   "state": "post",
-   "clock": "90'+4'",
-   "venue": "Stamford Bridge",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
-  },
-  {
-   "id": "401915373",
-   "code": "uefa.champions",
-   "l": "eur",
-   "comp": "UEFA Champions League",
-   "date": "2026-11-25T20:00Z",
-   "home": "Sporting CP",
-   "away": "Manchester United",
-   "hs": "2",
-   "as": "2",
-   "live": false,
-   "state": "post",
-   "clock": "90'+6'",
-   "venue": "Est\u00e1dio Jos\u00e9 Alvalade",
-   "usa": [
-    "Paramount+"
-   ],
-   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
-   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
-  },
   {
    "id": "401915506",
    "code": "uefa.europa",
@@ -2425,6 +2245,24 @@
    ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+  },
+  {
+   "id": "401878749",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-03T20:00Z",
+   "home": "Tottenham Hotspur",
+   "away": "Fulham",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Tottenham Hotspur Stadium",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png"
   }
  ],
  "national": [
@@ -14750,6 +14588,24 @@
    ],
    "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
    "al": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+  },
+  "401878749": {
+   "id": "401878749",
+   "code": "eng.1",
+   "l": "eng",
+   "comp": "English Premier League",
+   "date": "2026-12-03T20:00Z",
+   "home": "Tottenham Hotspur",
+   "away": "Fulham",
+   "hs": "0",
+   "as": "0",
+   "live": false,
+   "state": "pre",
+   "clock": "0'",
+   "venue": "Tottenham Hotspur Stadium",
+   "usa": [],
+   "hl": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+   "al": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png"
   }
  }
 }
