@@ -1,16 +1,64 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Man Utd trigger Fernandes' one-year contract extension",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
+   "date": "2026-11-27T15:08:41+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/40130840-ea6d-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Macron condemns Marseille violence; Fernandes misses Manchester United training \u2013 football live",
+   "title": "Manchester United extend Fernandes\u2019s contract to 2028; Raya back in Arsenal training \u2013 football live",
    "link": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
-   "summary": "\u26bd All the latest football news going into the weekend\u26bd Fixtures | Tables | Ten things to look out for | Mail NiallLet\u2019s stay in quiz mode. Plenty of football questions in our weekly offering. I got the first seven right\u2026",
-   "date": "2026-11-27T13:25:18+00:00",
-   "image": "https://i.guim.co.uk/img/media/806be5f51b1d9788d598b138bb1db94c8d2a78a5/1297_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=38ebc6a5c4b98b606992508fcedd4e90"
+   "summary": "\u26bd All the latest football news going into the weekend\u26bd Fixtures | Tables | Ten things to look out for | Mail BarryLet\u2019s stay in quiz mode. Plenty of football questions in our weekly offering. I got the first seven right\u2026",
+   "date": "2026-11-27T15:06:16+00:00",
+   "image": "https://i.guim.co.uk/img/media/7ecfa1d3c15a2d43515bcc17bf3b578e5fb58be0/253_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=ab7f2df396c0a189bbb08a6eecc1df66"
   },
   {
    "source": "BBC Sport",
-   "title": "The local boy aiming to be at the heart of Cardiff City's derby aims",
+   "title": "What happens now for Bayern Munich and Musiala?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?",
+   "date": "2026-11-27T15:03:12+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f7/live/5d644700-e97e-11f1-acd8-af22a7ebb474.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester City's leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form.",
+   "date": "2026-11-27T14:37:58+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/732f/live/7afd3810-e98a-11f1-9d1c-4dcc8fcde666.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Falkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend.",
+   "date": "2026-11-27T14:37:51+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1894/live/66b4be40-ea3a-11f1-9fc4-ef897a334b75.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Iordanescu ready for Watford 'challenge'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss",
+   "summary": "What we learned from new Watford manager Edward Iordanescu's first press conference.",
+   "date": "2026-11-27T13:58:15+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/108d/live/59076bc0-ea5e-11f1-a094-5fdc692f3e33.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "French and Bulgarian presidents condemn violence at Marseille v Levski Europa League game",
+   "link": "https://www.theguardian.com/football/2026/nov/27/french-bulgarian-presidents-emmanuel-macron-iliana-iotova-condemn-violence-marseille-levski-sofia-europa-league",
+   "summary": "Emmanuel Macron: incidents had \u2018no place in sport\u2019Nazi salutes alleged among Levski Sofia fansThe presidents of France and Bulgaria have condemned violence that broke out at a Europa League fixture between Marseille and\u2026",
+   "date": "2026-11-27T13:58:00+00:00",
+   "image": "https://i.guim.co.uk/img/media/68bcb729ed5baf56fd40632c5c463be61ca1588a/299_0_4142_3314/master/4142.jpg?width=140&quality=85&auto=format&fit=max&s=de4296a72bb6e1da2dfa8df4a131a37d"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "The local boy aiming to be at the heart of Cardiff's derby aims",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq23jpng4gy9o?at_medium=RSS&at_campaign=rss",
    "summary": "The Wales midfielder, central to Cardiff's change in fortunes, grew up in a Swansea-supporting area and has been the focal point of a Wales debate.",
    "date": "2026-11-27T13:16:05+00:00",
@@ -31,68 +79,68 @@
    "summary": "There is cynicism and jealousy but one of County\u2019s top scorers is 39 as club try to climb leagues again after tumblingIt was a vidiprinter moment worthy of a double take. Ross County 1 Cove Rangers 1 (Keir 52). Would\u2026",
    "date": "2026-11-27T12:00:10+00:00",
    "image": "https://i.guim.co.uk/img/media/fbb74b30bfbf7bd303f46df766b45a802724a62a/1274_160_6373_5100/master/6373.jpg?width=140&quality=85&auto=format&fit=max&s=657aa215c3183cf18a2c03c394f85c3a"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "McInnes tempers 'anxiety' as Rangers seek top spot",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Rangers should not experience any anxiety about the prospect of going top of the Premiership as they look to extend their winning run, says Derek McInnes.",
-   "date": "2026-11-27T11:57:24+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e4b/live/27d5d4b0-ea59-11f1-89b9-f318b11567ea.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "McInnes tempers 'anxiety' factor as Rangers seek top spot",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Rangers should not experience any anxiety about the prospect of going top of the Premiership as they look to extend their winning run, says Derek McInnes.",
-   "date": "2026-11-27T11:57:24+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e4b/live/27d5d4b0-ea59-11f1-89b9-f318b11567ea.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "EFL preview: Happy Potters face struggling Hammers",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Sport explores five things to capture your attention this EFL weekend.",
-   "date": "2026-11-27T11:03:43+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb36/live/a42f41d0-e997-11f1-99a1-253766e7ad8b.png"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Botman banned from driving for using phone at wheel",
-   "link": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o?at_medium=RSS&at_campaign=rss",
-   "summary": "The Newcastle United defender was given a six-month ban at Newcastle Magistrates' Court.",
-   "date": "2026-11-27T10:34:09+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb89/live/0ffd2b20-ea4c-11f1-b220-b9f21129b546.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Clashes mar European games as Macron condemns violence",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-   "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-   "date": "2026-11-27T10:24:24+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "'Massive for both' - Saints and Boro revisit Spygate rivalry",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckp809ledgpdo?at_medium=RSS&at_campaign=rss",
-   "summary": "Southampton and Middlesbrough prepare to re-ignite their rivalry as they meet for the first time since the Spygate scandal unfolded.",
-   "date": "2026-11-27T10:11:58+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea46/live/cfe72420-ea49-11f1-b220-b9f21129b546.png"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Man Utd trigger Fernandes' one-year contract extension",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
+   "date": "2026-11-27T15:08:41+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/40130840-ea6d-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Macron condemns Marseille violence; Fernandes misses Manchester United training \u2013 football live",
+   "title": "Manchester United extend Fernandes\u2019s contract to 2028; Raya back in Arsenal training \u2013 football live",
    "link": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
-   "summary": "\u26bd All the latest football news going into the weekend\u26bd Fixtures | Tables | Ten things to look out for | Mail NiallLet\u2019s stay in quiz mode. Plenty of football questions in our weekly offering. I got the first seven right\u2026",
-   "date": "2026-11-27T13:25:18+00:00",
-   "image": "https://i.guim.co.uk/img/media/806be5f51b1d9788d598b138bb1db94c8d2a78a5/1297_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=38ebc6a5c4b98b606992508fcedd4e90"
+   "summary": "\u26bd All the latest football news going into the weekend\u26bd Fixtures | Tables | Ten things to look out for | Mail BarryLet\u2019s stay in quiz mode. Plenty of football questions in our weekly offering. I got the first seven right\u2026",
+   "date": "2026-11-27T15:06:16+00:00",
+   "image": "https://i.guim.co.uk/img/media/7ecfa1d3c15a2d43515bcc17bf3b578e5fb58be0/253_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=ab7f2df396c0a189bbb08a6eecc1df66"
   },
   {
    "source": "BBC Sport",
-   "title": "The local boy aiming to be at the heart of Cardiff City's derby aims",
+   "title": "What happens now for Bayern Munich and Musiala?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?",
+   "date": "2026-11-27T15:03:12+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f7/live/5d644700-e97e-11f1-acd8-af22a7ebb474.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss",
+   "summary": "Manchester City's leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form.",
+   "date": "2026-11-27T14:37:58+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/732f/live/7afd3810-e98a-11f1-9d1c-4dcc8fcde666.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Falkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend.",
+   "date": "2026-11-27T14:37:51+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1894/live/66b4be40-ea3a-11f1-9fc4-ef897a334b75.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "Iordanescu ready for Watford 'challenge'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss",
+   "summary": "What we learned from new Watford manager Edward Iordanescu's first press conference.",
+   "date": "2026-11-27T13:58:15+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/108d/live/59076bc0-ea5e-11f1-a094-5fdc692f3e33.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "French and Bulgarian presidents condemn violence at Marseille v Levski Europa League game",
+   "link": "https://www.theguardian.com/football/2026/nov/27/french-bulgarian-presidents-emmanuel-macron-iliana-iotova-condemn-violence-marseille-levski-sofia-europa-league",
+   "summary": "Emmanuel Macron: incidents had \u2018no place in sport\u2019Nazi salutes alleged among Levski Sofia fansThe presidents of France and Bulgaria have condemned violence that broke out at a Europa League fixture between Marseille and\u2026",
+   "date": "2026-11-27T13:58:00+00:00",
+   "image": "https://i.guim.co.uk/img/media/68bcb729ed5baf56fd40632c5c463be61ca1588a/299_0_4142_3314/master/4142.jpg?width=140&quality=85&auto=format&fit=max&s=de4296a72bb6e1da2dfa8df4a131a37d"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "The local boy aiming to be at the heart of Cardiff's derby aims",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq23jpng4gy9o?at_medium=RSS&at_campaign=rss",
    "summary": "The Wales midfielder, central to Cardiff's change in fortunes, grew up in a Swansea-supporting area and has been the focal point of a Wales debate.",
    "date": "2026-11-27T13:16:05+00:00",
@@ -161,6 +209,14 @@
    "summary": "Southampton and Middlesbrough prepare to re-ignite their rivalry as they meet for the first time since the Spygate scandal unfolded.",
    "date": "2026-11-27T10:11:58+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea46/live/cfe72420-ea49-11f1-b220-b9f21129b546.png"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Can Borussia Dortmund finally end their title wait? Three big questions for Bundesliga leaders",
+   "link": "https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga",
+   "summary": "Niko Kovac\u2019s team lead the way and, with Bayern Munich wounded, have a golden chance to be German champions for the first time in 15 yearsBorussia Dortmund\u2019s dreams have a habit of becoming nightmares, like when they\u2026",
+   "date": "2026-11-27T10:00:01+00:00",
+   "image": "https://i.guim.co.uk/img/media/172d49787f1d6b34a361cfc2b8442dc184d5de93/609_0_3997_3198/master/3997.jpg?width=140&quality=85&auto=format&fit=max&s=ea7c572bfc6cbeb42a1a886a68f41986"
   },
   {
    "source": "The Guardian",
@@ -228,14 +284,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "What happens now for Bayern Munich and Musiala?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
-   "summary": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?",
-   "date": "2026-11-27T06:54:36+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f7/live/5d644700-e97e-11f1-acd8-af22a7ebb474.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Man City owners should be forced to sell, say clubs",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
    "summary": "Manchester City's owners must be forced to sell the club as punishment for breaking financial rules, senior figures at some Premier League clubs tell BBC Sport.",
@@ -283,20 +331,12 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/278c/live/15481e30-e9e0-11f1-9361-cd8ed0157587.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "Euro Leagues",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pq4ydb?at_medium=RSS&at_campaign=rss",
-   "summary": "Is Jude Bellingham the best midfielder in the world, & even better than Zidane once was?!",
-   "date": "2026-11-26T22:13:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
-  },
-  {
    "source": "The Guardian",
-   "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
-   "link": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
-   "summary": "Football seasons can pivot on certain moments and Thomas Frank will hope that Crystal Palace\u2019s turning point came 17 minutes from full time here. Deservedly trailing to Mamadou Sarr\u2019s goal having been second best\u2026",
-   "date": "2026-11-26T22:10:14+00:00",
-   "image": "https://i.guim.co.uk/img/media/584eb1f496ef84b308a7ffd146d702e7bec08b44/337_229_2222_1779/master/2222.jpg?width=140&quality=85&auto=format&fit=max&s=f2e40537fed82fbc7e0af619c4a9d46d"
+   "title": "Reinildo error extends Sunderland woe as Jagiellonia grab Europa League draw",
+   "link": "https://www.theguardian.com/football/2026/nov/26/sunderland-jagiellonia-bialystok-europa-league-match-report",
+   "summary": "Jagiellonia Bialystok\u2019s head coach, Adrian Siemieniec, claimed this trip to Wearside to face Premier League opposition represented one of the biggest highlights of a career in which he has already celebrated a Polish\u2026",
+   "date": "2026-11-26T22:27:37+00:00",
+   "image": "https://i.guim.co.uk/img/media/2707ddccbc36b55cf5c8f584d664b731ba569647/246_0_2656_2125/master/2656.jpg?width=140&quality=85&auto=format&fit=max&s=8a7485339f7339e77ac47a0706c9c575"
   },
   {
    "source": "BBC Sport",
@@ -419,14 +459,6 @@
    "image": "https://i.guim.co.uk/img/media/49e65c3cda37a9f58a2cb9f61888f4fc0aefadb2/282_0_2824_2259/master/2824.jpg?width=140&quality=85&auto=format&fit=max&s=389de59dffda71120f26a398041016ae"
   },
   {
-   "source": "BBC Sport",
-   "title": "How to follow the Premier League on the BBC this weekend",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-   "summary": "Our Ask Me Anything team explains how to follow matches from week 12 of the Premier League season on the BBC this weekend.",
-   "date": "2026-11-26T12:06:15+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f4/live/64ea96a0-e8bb-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
    "source": "The Guardian",
    "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
    "link": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
@@ -508,14 +540,6 @@
   },
   {
    "source": "The Guardian",
-   "title": "Isak and Wirtz on target as resurgent Liverpool sweep aside Club Brugge",
-   "link": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
-   "summary": "Liverpool, from big money individuals to the collective, are building formidable momentum. On a bitterly cold night in Belgium, Andoni Iraola\u2019s team delivered an accomplished away display to bring Club Brugge\u2019s\u2026",
-   "date": "2026-11-25T22:04:10+00:00",
-   "image": "https://i.guim.co.uk/img/media/7f5594be0e1a2dc758f3598b04ccc453de05b28b/1617_333_5847_4677/master/5847.jpg?width=140&quality=85&auto=format&fit=max&s=aa464307b89e2007137f55f1bcc88eff"
-  },
-  {
-   "source": "The Guardian",
    "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
    "link": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
    "summary": "\u2018Players are here for four years and can\u2019t speak English\u2019Glasner has held talks with owner over January movesNottingham Forest\u2019s manager, Oliver Glasner, believes standards at the club were not good enough before his\u2026",
@@ -537,33 +561,21 @@
    "summary": "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?",
    "date": "2026-11-25T16:46:36+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9f/live/a0a1a1c0-e8e8-11f1-8808-1d4222955d7e.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | Manchester City get that empty feeling as they fail to win again",
-   "link": "https://www.theguardian.com/football/2026/nov/25/manchester-city-empty-feeling-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Early in the second half of Tuesday night\u2019s National League South match between Torquay United and Chesham, play was briefly suspended due to an ear-splitting din\u2026",
-   "date": "2026-11-25T15:13:01+00:00",
-   "image": "https://i.guim.co.uk/img/media/3fc6bfc443e98b86522aa0f8ae8b3529af0c7f26/1160_203_4603_3683/master/4603.jpg?width=140&quality=85&auto=format&fit=max&s=dd76eb4dd3a991cdb94e0f0fa0617364"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Premier League\u2019s burst of early sendings-off may not last \u2013 but red cards are on the rise for a reason",
-   "link": "https://www.theguardian.com/football/2026/nov/25/premier-league-red-cards-costinha-leny-yoro-james-tarkowski-referees",
-   "summary": "While referees tend to reach for red early in the season before easing off, players are under increasing pressure to keep pace in a frenetic environmentOff! Off! Off! The past three Premier League games have featured a\u2026",
-   "date": "2026-11-25T14:46:33+00:00",
-   "image": "https://i.guim.co.uk/img/media/3e2a19fd3ecbcd96050a909700f49268a8beb57e/1377_276_3513_2810/master/3513.jpg?width=140&quality=85&auto=format&fit=max&s=281ab8b3c21be4514185ab1c50876fa1"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Senegal regaining Afcon title is the right end to fiasco but issues do not stop there | Osasu Obayiuwana",
-   "link": "https://www.theguardian.com/football/2026/nov/25/senegal-regaining-afcon-title-right-end-african-football",
-   "summary": "After African football was dragged into needless disrepute the next step is to tackle two key areas of governanceA journey of 310 days and three legal proceedings to confirm two things we know \u2013 that Senegal beat\u2026",
-   "date": "2026-11-25T12:41:11+00:00",
-   "image": "https://i.guim.co.uk/img/media/6c1261b0ad77184331382c12edebc2ec700d3eef/330_0_3297_2637/master/3297.jpg?width=140&quality=85&auto=format&fit=max&s=84e731ae269dec0d90838f4dceebb50b"
   }
  ],
  "videos": [
+  {
+   "channel": "UEFA",
+   "id": "moq1seOjQug",
+   "title": "This goal only just crossed the line!",
+   "date": "2026-11-27T15:00:17+00:00"
+  },
+  {
+   "channel": "Premier League",
+   "id": "lUb0uvCJ-9c",
+   "title": "The Brilliance Behind Solanke's Goal \u2728",
+   "date": "2026-11-27T14:01:09+00:00"
+  },
   {
    "channel": "UEFA",
    "id": "kxkWVHXdPvo",
@@ -661,16 +673,22 @@
    "date": "2026-11-26T14:10:25+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "6CR4IJ6SIbo",
-   "title": "Malen \u27a1\ufe0f 12 goals in 11 games \ud83d\ude31",
-   "date": "2026-11-26T10:00:25+00:00"
+   "channel": "UEFA",
+   "id": "p3fCjoA1tYk",
+   "title": "POV: Gy\u00f6keres worldie \ud83e\udd33\ud83c\udf0d",
+   "date": "2026-11-27T14:55:29+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "g7JaDbummIM",
-   "title": "INTER-GENOA 2-0 | CLASSIC HIGHLIGHTS SERIE A 2025/26",
-   "date": "2026-11-26T10:00:20+00:00"
+   "channel": "Ligue 1",
+   "id": "NjUhl0hoMhM",
+   "title": "Le SAV de la Ligue 1 avec Swann Borsellino - J12",
+   "date": "2026-11-27T14:50:58+00:00"
+  },
+  {
+   "channel": "Ligue 1",
+   "id": "4HBZg9_vPvw",
+   "title": "Nico Paz, Kenan Y\u0131ld\u0131z, Nico Williams... Qui pour remplacer D\u00e9sir\u00e9 Dou\u00e9 au PSG \ud83e\udd14 #football #ligue1",
+   "date": "2026-11-27T14:00:17+00:00"
   },
   {
    "channel": "UEFA",
@@ -689,24 +707,6 @@
    "id": "aTIOG7tJtXk",
    "title": "Kobbie Mainoo Was Locked-In \ud83d\udcaa\ud83d\udd12",
    "date": "2026-11-27T11:01:38+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "QfLWWyllh5w",
-   "title": "Jonas Urbig stands tall\u2026 twice \ud83d\uded1\ud83d\udc4f",
-   "date": "2026-11-27T11:00:19+00:00"
-  },
-  {
-   "channel": "Bundesliga",
-   "id": "7NsawTZhYSo",
-   "title": "Mikey Moore makes Jamie Vardy and Emile Heskey proud! \ud83e\udd29\ud83d\ude4c",
-   "date": "2026-11-27T11:00:15+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "HxW3Mv39fHw",
-   "title": "H\u00e9roes de El Plant\u00edo Burgos CF \u2013 42 LEGADOS | Capitulo 6",
-   "date": "2026-11-27T10:05:32+00:00"
   }
  ],
  "fixtures": [
@@ -5842,11 +5842,11 @@
       "rank": "10",
       "team": "Al Khaleej",
       "short": "Al Khaleej",
-      "p": "12",
+      "p": "13",
       "w": "3",
       "d": "6",
-      "l": "3",
-      "gd": "-5",
+      "l": "4",
+      "gd": "-6",
       "pts": "15",
       "zone": "",
       "zone_name": ""
@@ -5856,12 +5856,12 @@
       "rank": "11",
       "team": "Al Kholood",
       "short": "Al Kholood",
-      "p": "11",
-      "w": "3",
+      "p": "12",
+      "w": "4",
       "d": "3",
       "l": "5",
-      "gd": "-9",
-      "pts": "12",
+      "gd": "-8",
+      "pts": "15",
       "zone": "",
       "zone_name": ""
      },
