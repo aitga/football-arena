@@ -2,6 +2,22 @@
  "news": [
   {
    "source": "BBC Sport",
+   "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
+   "summary": "Camilo Duran's 15-goal haul this season has made him an invaluable player for a Celtic side fighting for European progression.",
+   "date": "2026-11-27T00:18:44+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/1ca69ca0-e9f0-11f1-afc6-7da1c727ad8d.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Premier League: 10 things to look out for this weekend",
+   "link": "https://www.theguardian.com/football/2026/nov/27/premier-league-10-things-to-look-out-for-this-weekend",
+   "summary": "Liam Delap can exploit Chelsea\u2019s defensive woes while Senne Lammens is under pressure against BrentfordNottingham Forest\u2019s last couple of seasons have been a story of good runs and bad runs, but it may help to know that\u2026",
+   "date": "2026-11-27T00:00:48+00:00",
+   "image": "https://i.guim.co.uk/img/media/6b17bad4df91456b787fe6c67a779cca98741573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5037a4086e2a909916675c3bde586037"
+  },
+  {
+   "source": "BBC Sport",
    "title": "Hearts' European hopes hang by a thread but Vrancken proud",
    "link": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
    "summary": "Hearts head coach Wouter Vrancken expresses both pride and disappointment after his team came out on the wrong side of a five-goal thriller against Monaco.",
@@ -63,25 +79,25 @@
    "summary": "Democrats to examine Fifa Forward Enterprise scandalInfantino could be subpoenaed to give evidenceA number of past and present Fifa employees have received letters requesting they attend interviews for a congressional\u2026",
    "date": "2026-11-26T21:11:24+00:00",
    "image": "https://i.guim.co.uk/img/media/3af3fd325ff6a3254ced10a33a98b6b57f8cf62b/74_0_3353_2682/master/3353.jpg?width=140&quality=85&auto=format&fit=max&s=1ebd5bf64ee1f4df8b5533cf17a66d16"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Pro-Palestinian banner as Besiktas face Israeli team causes delay and diplomatic incident",
-   "link": "https://www.theguardian.com/football/2026/nov/26/crowd-trouble-besiktas-hapoel-beer-sheva-diplomatic-incident-israel-palestine",
-   "summary": "Turkey\u2019s top diplomat speaks with Georgian counterpartEuropa League match halted after police enter standsTurkey\u2019s top diplomat has spoken with his Georgian counterpart after incidents at Besiktas\u2019s Europa League match\u2026",
-   "date": "2026-11-26T20:47:37+00:00",
-   "image": "https://i.guim.co.uk/img/media/ecd73176aebcd89b80ff1f812ea3b676027a4f87/1168_1062_5552_4442/master/5552.jpg?width=140&quality=85&auto=format&fit=max&s=6f6acfdf2cee6543056b2e74d8a294c2"
-  },
-  {
-   "source": "The Guardian",
-   "title": "\u00c9ric Cantona: \u2018If I regret something about the kung fu kick, it\u2019s that I would love to kick him in another place\u2019",
-   "link": "https://www.theguardian.com/football/2026/nov/26/eric-cantona-interview-new-documentary",
-   "summary": "Before the release of a new documentary, the unrepentant Manchester United icon reflects on his deep bond with English football and his darker instincts\u201cI\u2019m an angel and a demon,\u201d \u00c9ric Cantona says intently during a\u2026",
-   "date": "2026-11-26T20:00:44+00:00",
-   "image": "https://i.guim.co.uk/img/media/02aba3b5b8d7b90caccf2d25723032f3e27d8bf1/3_1404_5298_4238/master/5298.jpg?width=140&quality=85&auto=format&fit=max&s=1413906ca0a5d7bd999447808ce94856"
   }
  ],
  "news_all": [
+  {
+   "source": "BBC Sport",
+   "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
+   "summary": "Camilo Duran's 15-goal haul this season has made him an invaluable player for a Celtic side fighting for European progression.",
+   "date": "2026-11-27T00:18:44+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/1ca69ca0-e9f0-11f1-afc6-7da1c727ad8d.jpg"
+  },
+  {
+   "source": "The Guardian",
+   "title": "Premier League: 10 things to look out for this weekend",
+   "link": "https://www.theguardian.com/football/2026/nov/27/premier-league-10-things-to-look-out-for-this-weekend",
+   "summary": "Liam Delap can exploit Chelsea\u2019s defensive woes while Senne Lammens is under pressure against BrentfordNottingham Forest\u2019s last couple of seasons have been a story of good runs and bad runs, but it may help to know that\u2026",
+   "date": "2026-11-27T00:00:48+00:00",
+   "image": "https://i.guim.co.uk/img/media/6b17bad4df91456b787fe6c67a779cca98741573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5037a4086e2a909916675c3bde586037"
+  },
   {
    "source": "BBC Sport",
    "title": "Hearts' European hopes hang by a thread but Vrancken proud",
@@ -451,22 +467,6 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9f/live/a0a1a1c0-e8e8-11f1-8808-1d4222955d7e.jpg"
   },
   {
-   "source": "BBC Sport",
-   "title": "Scotcast: Is hosting the World Cup a game-changer?",
-   "link": "https://www.bbc.co.uk/sounds/play/m0034nqc?at_medium=RSS&at_campaign=rss",
-   "summary": "The 2035 women's tournament will be co-hosted by UK nations.",
-   "date": "2026-11-25T16:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppvv88.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Saudi Arabia\u2019s PIF looking to sell 25% of Newcastle through share issue",
-   "link": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
-   "summary": "PIF seeking investment to fund infrastructure projectsJP Morgan appointed to handle the saleNewcastle United\u2019s owner, Saudi Arabia\u2019s Public Investment Fund (PIF), is looking to sell up to 25% of the club by issuing new\u2026",
-   "date": "2026-11-25T15:36:32+00:00",
-   "image": "https://i.guim.co.uk/img/media/bd383c7e5be79a925d59ba5e4da8252652885f95/376_0_4400_3520/master/4400.jpg?width=140&quality=85&auto=format&fit=max&s=456d4aac5b98308fb6630bdae1cae6f0"
-  },
-  {
    "source": "The Guardian",
    "title": "Football Daily | Manchester City get that empty feeling as they fail to win again",
    "link": "https://www.theguardian.com/football/2026/nov/25/manchester-city-empty-feeling-football-daily-newsletter",
@@ -515,6 +515,14 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac5c/live/46791780-e8bd-11f1-ac76-db9e97f93d67.jpg"
   },
   {
+   "source": "The Guardian",
+   "title": "Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?",
+   "link": "https://www.theguardian.com/football/2026/nov/25/hajime-moriyasu-leave-japan-world-cup-samurai-blue",
+   "summary": "The coach will leave early after the postponement of the Asian Cup and, while there has been clear progress, some had hoped for better results at World CupsA popular Christmas tradition in Japan is to head to KFC but\u2026",
+   "date": "2026-11-25T12:00:26+00:00",
+   "image": "https://i.guim.co.uk/img/media/44cb93c9a1b2318c9313a452106a1436ad5e30b0/345_0_4804_3843/master/4804.jpg?width=140&quality=85&auto=format&fit=max&s=316c33bb3a17995ea8394106644ba1e6"
+  },
+  {
    "source": "BBC Sport",
    "title": "Why are there 2:05pm kick-offs in the Premier League on Sunday?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn8pneklxo?at_medium=RSS&at_campaign=rss",
@@ -539,28 +547,20 @@
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0469/live/eb169590-e8b0-11f1-a094-5fdc692f3e33.jpg"
   },
   {
+   "source": "The Guardian",
+   "title": "The story of how Pel\u00e9 and Maradona went from friends to bitter rivals",
+   "link": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
+   "summary": "A new book charts the complicated relationship between the two legends, starting on a sunny afternoon in Rio in 1979 Pel\u00e9 and Diego Maradona first met in April 1979, four months before the Argentinian led his country\u2019s\u2026",
+   "date": "2026-11-25T08:00:10+00:00",
+   "image": "https://i.guim.co.uk/img/media/bb9d6d8791969fec67ddd59e5fa7b98b7516adf3/0_110_720_576/master/720.jpg?width=140&quality=85&auto=format&fit=max&s=2d14a341d33fbdf2456a522145fe5d60"
+  },
+  {
    "source": "BBC Sport",
    "title": "Are Manchester United this season's Tottenham?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
    "summary": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?",
    "date": "2026-11-25T06:22:36+00:00",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6874/live/00c21c60-e8b2-11f1-869a-f96fd5660210.jpg"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Football Daily | The game\u2019s gone: has fantasy football been ruined by AI gafferbots?",
-   "link": "https://www.theguardian.com/football/2026/nov/24/fpl-ruined-ai-football-daily-newsletter",
-   "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Sometimes, the beautiful game can make Football Daily feel old. Even Monday\u2019s ostensibly old-school fixture between Brentford and Everton felt like the future\u2026",
-   "date": "2026-11-24T16:16:52+00:00",
-   "image": "https://i.guim.co.uk/img/media/3eda96c51e687b89ec23ffed48e6243fa071738e/140_0_2488_1990/master/2488.jpg?width=140&quality=85&auto=format&fit=max&s=42b3992699bc3ac39c561124e8857d90"
-  },
-  {
-   "source": "The Guardian",
-   "title": "The NWSL 2026 goals, players and nutmegs we won\u2019t forget",
-   "link": "https://www.theguardian.com/football/2026/nov/24/nwsl-awards-goals-players-moving-the-goalposts-newsletter",
-   "summary": "An Olimpico tops the list of season highlights, with mention for Croix Bethune\u2019s feats and a four-player nutmegSurely the final strands of gold and silver confetti have been picked out of the well worn surface of Audi\u2026",
-   "date": "2026-11-24T12:00:45+00:00",
-   "image": "https://i.guim.co.uk/img/media/8ab5b94e5250b648f860c69de58c7cc31ac5c5ca/177_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=7315b9eeaea148ca7aeb8a99e9051194"
   }
  ],
  "videos": [
