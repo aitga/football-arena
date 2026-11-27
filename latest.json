@@ -1,12 +1,44 @@
 {
  "news": [
   {
+   "source": "BBC Sport",
+   "title": "Ipswich Women sign Ademiluyi for record fee",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3x29q4nwe1ko?at_medium=RSS&at_campaign=rss",
+   "summary": "Ipswich Town Women confirm the permanent signing of England youth international Princess Ademiluyi for a club record fee.",
+   "date": "2026-11-27T12:10:39+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6135/live/fbaf2690-ea4c-11f1-b220-b9f21129b546.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "McInnes tempers 'anxiety' as Rangers seek top spot",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
+   "summary": "Rangers should not experience any anxiety about the prospect of going top of the Premiership as they look to extend their winning run, says Derek McInnes.",
+   "date": "2026-11-27T11:57:24+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e4b/live/27d5d4b0-ea59-11f1-89b9-f318b11567ea.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "McInnes tempers 'anxiety' factor as Rangers seek top spot",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
+   "summary": "Rangers should not experience any anxiety about the prospect of going top of the Premiership as they look to extend their winning run, says Derek McInnes.",
+   "date": "2026-11-27T11:57:24+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e4b/live/27d5d4b0-ea59-11f1-89b9-f318b11567ea.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Macron condemns Marseille violence after Levski fans hospitalised; Premier League latest \u2013 football live",
+   "title": "Macron condemns Marseille violence; Olise adds to Bayern woes; Premier League latest \u2013 football live",
    "link": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
-   "summary": "\u26bd All the latest football news going into the weekend\u26bd Fixtures | Tables | Ten things to look out for | Mail DavidLet\u2019s stay in quiz mode. Plenty of football questions in our weekly offering. I got the first seven right\u2026",
-   "date": "2026-11-27T10:46:53+00:00",
+   "summary": "\u26bd All the latest football news going into the weekend\u26bd Fixtures | Tables | Ten things to look out for | Mail NiallLet\u2019s stay in quiz mode. Plenty of football questions in our weekly offering. I got the first seven right\u2026",
+   "date": "2026-11-27T11:46:24+00:00",
    "image": "https://i.guim.co.uk/img/media/806be5f51b1d9788d598b138bb1db94c8d2a78a5/1297_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=38ebc6a5c4b98b606992508fcedd4e90"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "EFL preview: Happy Potters and the deathly Hammers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport explores five things to capture your attention this EFL weekend.",
+   "date": "2026-11-27T11:03:43+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb36/live/a42f41d0-e997-11f1-99a1-253766e7ad8b.png"
   },
   {
    "source": "BBC Sport",
@@ -47,48 +79,48 @@
    "summary": "Bosnia centre-half on learning from Chiellini and Bonucci, his club\u2019s European ambitions and the debt he owes his refugee parentsTarik Muharemovic is proving one of the best signings of this Premier League season and\u2026",
    "date": "2026-11-27T09:57:44+00:00",
    "image": "https://i.guim.co.uk/img/media/ee5d6cfb9e77f66ca605015688ea4741b60595b3/1518_461_6586_5269/master/6586.jpg?width=140&quality=85&auto=format&fit=max&s=d44cf1ebf591562bdfe12ea214ef1807"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Why Cambridgeshire derby could be season-defining",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cxlyl3v8p5e0o?at_medium=RSS&at_campaign=rss",
-   "summary": "Peterborough United and Cambridge United are set for a potentially season-defining local derby at London Road.",
-   "date": "2026-11-27T08:25:44+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1e2/live/f755d740-e98b-11f1-99b6-a35a62fa4264.png"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Liam Delap\u2019s struggles are symbolic of damaging Chelsea churn",
-   "link": "https://www.theguardian.com/football/2026/nov/27/liam-delap-struggles-damaging-chelsea-churn",
-   "summary": "The constant turnover of players and staff has made consistency an elusive quality at Stamford BridgeLiam Delap came and went. He joined Chelsea in the summer of 2025 and was hailed by Enzo Maresca as the next Harry\u2026",
-   "date": "2026-11-27T08:00:57+00:00",
-   "image": "https://i.guim.co.uk/img/media/f8d5916cff4dd07f112769906fc468664518995c/266_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=57855b204978636388ba6c911cdfdbda"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Podcast: Tynecastle showdown & Rangers face flying Falkirk - weekend preview",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pq69mt?at_medium=RSS&at_campaign=rss",
-   "summary": "Another criticial weekend of SPFL action with a huge grudge match at Tynecastle.",
-   "date": "2026-11-27T08:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq69ng.jpg"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Goodwin backs Sapsford for Australia call-up - gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c95y127xxye5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Dundee United manager backs striker for international call-up as Hibs boss offers advice to forward.",
-   "date": "2026-11-27T07:21:15+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3b1/live/677d69a0-ea33-11f1-a094-5fdc692f3e33.png"
   }
  ],
  "news_all": [
   {
+   "source": "BBC Sport",
+   "title": "Ipswich Women sign Ademiluyi for record fee",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3x29q4nwe1ko?at_medium=RSS&at_campaign=rss",
+   "summary": "Ipswich Town Women confirm the permanent signing of England youth international Princess Ademiluyi for a club record fee.",
+   "date": "2026-11-27T12:10:39+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6135/live/fbaf2690-ea4c-11f1-b220-b9f21129b546.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "McInnes tempers 'anxiety' as Rangers seek top spot",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
+   "summary": "Rangers should not experience any anxiety about the prospect of going top of the Premiership as they look to extend their winning run, says Derek McInnes.",
+   "date": "2026-11-27T11:57:24+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e4b/live/27d5d4b0-ea59-11f1-89b9-f318b11567ea.jpg"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "McInnes tempers 'anxiety' factor as Rangers seek top spot",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
+   "summary": "Rangers should not experience any anxiety about the prospect of going top of the Premiership as they look to extend their winning run, says Derek McInnes.",
+   "date": "2026-11-27T11:57:24+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e4b/live/27d5d4b0-ea59-11f1-89b9-f318b11567ea.jpg"
+  },
+  {
    "source": "The Guardian",
-   "title": "Macron condemns Marseille violence after Levski fans hospitalised; Premier League latest \u2013 football live",
+   "title": "Macron condemns Marseille violence; Olise adds to Bayern woes; Premier League latest \u2013 football live",
    "link": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
-   "summary": "\u26bd All the latest football news going into the weekend\u26bd Fixtures | Tables | Ten things to look out for | Mail DavidLet\u2019s stay in quiz mode. Plenty of football questions in our weekly offering. I got the first seven right\u2026",
-   "date": "2026-11-27T10:46:53+00:00",
+   "summary": "\u26bd All the latest football news going into the weekend\u26bd Fixtures | Tables | Ten things to look out for | Mail NiallLet\u2019s stay in quiz mode. Plenty of football questions in our weekly offering. I got the first seven right\u2026",
+   "date": "2026-11-27T11:46:24+00:00",
    "image": "https://i.guim.co.uk/img/media/806be5f51b1d9788d598b138bb1db94c8d2a78a5/1297_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=38ebc6a5c4b98b606992508fcedd4e90"
+  },
+  {
+   "source": "BBC Sport",
+   "title": "EFL preview: Happy Potters and the deathly Hammers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cry49dpy9zdyo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC Sport explores five things to capture your attention this EFL weekend.",
+   "date": "2026-11-27T11:03:43+00:00",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb36/live/a42f41d0-e997-11f1-99a1-253766e7ad8b.png"
   },
   {
    "source": "BBC Sport",
@@ -145,14 +177,6 @@
    "summary": "The constant turnover of players and staff has made consistency an elusive quality at Stamford BridgeLiam Delap came and went. He joined Chelsea in the summer of 2025 and was hailed by Enzo Maresca as the next Harry\u2026",
    "date": "2026-11-27T08:00:57+00:00",
    "image": "https://i.guim.co.uk/img/media/f8d5916cff4dd07f112769906fc468664518995c/266_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=57855b204978636388ba6c911cdfdbda"
-  },
-  {
-   "source": "BBC Sport",
-   "title": "Podcast: Tynecastle showdown & Rangers face flying Falkirk - weekend preview",
-   "link": "https://www.bbc.co.uk/sounds/play/p0pq69mt?at_medium=RSS&at_campaign=rss",
-   "summary": "Another criticial weekend of SPFL action with a huge grudge match at Tynecastle.",
-   "date": "2026-11-27T08:00:00+00:00",
-   "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq69ng.jpg"
   },
   {
    "source": "BBC Sport",
@@ -372,14 +396,6 @@
   },
   {
    "source": "BBC Sport",
-   "title": "The American manager with a maths degree making history in La Liga",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Real Sociedad boss Pellegrino Matarazzo made history as the first American manager in La Liga. His side face Crystal Palace in the Europa League on Thursday.",
-   "date": "2026-11-26T13:49:20+00:00",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c4/live/370bcdd0-e997-11f1-b880-15b494ba858d.jpg"
-  },
-  {
-   "source": "BBC Sport",
    "title": "Not even making a 12-man bench - what next for Garnacho?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
    "summary": "Alejandro Garnacho's brief Aston Villa career already looks over, so what next for the 22-year-old?",
@@ -545,25 +561,21 @@
    "summary": "After African football was dragged into needless disrepute the next step is to tackle two key areas of governanceA journey of 310 days and three legal proceedings to confirm two things we know \u2013 that Senegal beat\u2026",
    "date": "2026-11-25T12:41:11+00:00",
    "image": "https://i.guim.co.uk/img/media/6c1261b0ad77184331382c12edebc2ec700d3eef/330_0_3297_2637/master/3297.jpg?width=140&quality=85&auto=format&fit=max&s=84e731ae269dec0d90838f4dceebb50b"
-  },
-  {
-   "source": "The Guardian",
-   "title": "\u2018It threw me off my bowling a bit\u2019: Isobel Goodwin living dream after England callup",
-   "link": "https://www.theguardian.com/football/2026/nov/25/isobel-goodwin-england-callup-london-city-lionesses-bowling",
-   "summary": "London City striker, who was playing tenpin bowling when Wiegman called, says her journey has not been easyNot many phone calls are important enough to justify Isobel Goodwin missing her turn in a game of tenpin\u2026",
-   "date": "2026-11-25T12:24:49+00:00",
-   "image": "https://i.guim.co.uk/img/media/eea8068cb17dd4af829234f4889c968aa7011b38/513_0_6658_5328/master/6658.jpg?width=140&quality=85&auto=format&fit=max&s=c405fe0c00ff7f63522fad36b09e0eee"
-  },
-  {
-   "source": "The Guardian",
-   "title": "Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?",
-   "link": "https://www.theguardian.com/football/2026/nov/25/hajime-moriyasu-leave-japan-world-cup-samurai-blue",
-   "summary": "The coach will leave early after the postponement of the Asian Cup and, while there has been clear progress, some had hoped for better results at World CupsA popular Christmas tradition in Japan is to head to KFC but\u2026",
-   "date": "2026-11-25T12:00:26+00:00",
-   "image": "https://i.guim.co.uk/img/media/44cb93c9a1b2318c9313a452106a1436ad5e30b0/345_0_4804_3843/master/4804.jpg?width=140&quality=85&auto=format&fit=max&s=316c33bb3a17995ea8394106644ba1e6"
   }
  ],
  "videos": [
+  {
+   "channel": "UEFA",
+   "id": "kxkWVHXdPvo",
+   "title": "Goals in Baku as Barcelona visit? \u26bd\ufe0f Expect plenty of corners in Madrid \u26f3\ufe0f",
+   "date": "2026-11-27T11:36:14+00:00"
+  },
+  {
+   "channel": "LaLiga",
+   "id": "cXhQ8wK7ECE",
+   "title": "RC DEPORTIVO 2-4 FC BARCELONA 2017/18 | Resumen ampliado",
+   "date": "2026-11-27T11:00:09+00:00"
+  },
   {
    "channel": "FIFA",
    "id": "z6JD2dPTwJM",
@@ -661,22 +673,28 @@
    "date": "2026-11-26T10:00:20+00:00"
   },
   {
-   "channel": "Serie A",
-   "id": "i21tuQcunpg",
-   "title": "MONZA FIRE THROUGH \ud83d\udd25 | MONZA-FIORENTINA CINEMATIC HIGHLIGHTS | Serie A 2026/27",
-   "date": "2026-11-25T20:00:23+00:00"
-  },
-  {
-   "channel": "Serie A",
-   "id": "Gl5P70UfNlA",
-   "title": "VARELA\u2019s BACKHEEL!! GOAL OF THE SEASON?! \ud83e\udd2f | Every Angle | Serie A Enilive 2026/27",
-   "date": "2026-11-25T15:00:27+00:00"
+   "channel": "Premier League",
+   "id": "RlL526udGag",
+   "title": "LAST-GASP Equaliser! | Arsenal v Manchester City 2025/26",
+   "date": "2026-11-27T12:00:12+00:00"
   },
   {
    "channel": "Premier League",
    "id": "aTIOG7tJtXk",
    "title": "Kobbie Mainoo Was Locked-In \ud83d\udcaa\ud83d\udd12",
    "date": "2026-11-27T11:01:38+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "QfLWWyllh5w",
+   "title": "Jonas Urbig stands tall\u2026 twice \ud83d\uded1\ud83d\udc4f",
+   "date": "2026-11-27T11:00:19+00:00"
+  },
+  {
+   "channel": "Bundesliga",
+   "id": "7NsawTZhYSo",
+   "title": "Mikey Moore makes Jamie Vardy and Emile Heskey proud! \ud83e\udd29\ud83d\ude4c",
+   "date": "2026-11-27T11:00:15+00:00"
   },
   {
    "channel": "LaLiga",
@@ -689,24 +707,6 @@
    "id": "Oj_uQo-TvW0",
    "title": "CANALES ha vuelto a marcar en EL SARDINERO",
    "date": "2026-11-27T09:00:08+00:00"
-  },
-  {
-   "channel": "FIFA",
-   "id": "MpFAdUx-6_Q",
-   "title": "10-Minute Match | Round of 32 | Netherlands v Morocco | 2026 World Cup",
-   "date": "2026-11-27T04:30:20+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "7JGrml5GxXc",
-   "title": "V\u00e1zquez \u2728",
-   "date": "2026-11-27T03:00:10+00:00"
-  },
-  {
-   "channel": "LaLiga",
-   "id": "vlWKivS7kJw",
-   "title": "\u00a1Vaya dupla la de IKER LUQUE y YASSIR ZABIRI!",
-   "date": "2026-11-26T21:00:16+00:00"
   }
  ],
  "fixtures": [
